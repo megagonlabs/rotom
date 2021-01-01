@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 10/1/03	1
+COL article_jcreated_at VAL 11/1/11	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""Diana Duro"",""Augusto Gouḷo"",""Gon̤alo Santos"",""Nuno Mendon̤a"",""Isabel Santana"",""Eg�_dio Machado""}"	1
+COL article_jcreated_at VAL 1/1/06	1
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 10/1/07	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 9/1/07	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""V Hesselbrock"",""A W Deckel""}"	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL Surgery	0
+COL journal_title VAL LaboratoriumsMedizin	0
+COL jounral_abbreviation VAL Arch.Gen.Psychiatry	0
+COL journal_issn VAL 1744-7623	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Neighbourhood characteristics and mortality in the Atherosclerosis Risk in Communities Study	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL eng	0
+COL article_language VAL pt	0
+COL journal_title VAL Ann Rheum Dis	0
+COL id VAL 247571	0
+COL jounral_abbreviation VAL 	0
+COL author_list VAL {NULL}	0
+COL jounral_abbreviation VAL Actas Esp Psiquiatr	0
+COL article_pagination VAL 13-21 DO  - 10.1016/j.brat.2011.10.009	0
+COL jounral_abbreviation VAL Acta Derm. Venereol.	0
+"COL article_title VAL Employing a youth-led adult-guided framework: ""why drive high?"" social marketing campaign."	0
+COL article_pagination VAL 	0
+"COL author_list VAL {""Mark H Wilson"",""Liza Chacko"",""Susan Hendrickson""}"	0
+COL article_jvolumn VAL 28	0
+COL journal_title VAL Am J Physiol Endocrinol Metab	0
+COL journal_title VAL ProQuest LLC	0
+COL article_title VAL The value of a continuous ambulatory activity monitor to quantify the amount and intensity of daily activity in patients with rheumatoid arthritis.	0

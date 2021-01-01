@@ -1,0 +1,50 @@
+COL Creator VAL David Simkins,Chris Columbus	1
+COL RatingCount VAL 3,186	1
+COL RatingCount VAL 1,465	1
+COL RatingCount VAL 5,740	1
+COL RatingCount VAL 1,302	1
+COL RatingCount VAL 184,305	1
+COL RatingCount VAL 39,324	1
+COL RatingCount VAL 67,800	1
+COL RatingCount VAL 1,203	1
+COL RatingValue VAL 8.5/10,8.3/10	1
+COL RatingCount VAL 97,743	1
+COL RatingCount VAL 21,789	1
+COL RatingCount VAL 1,859	1
+COL RatingValue VAL 2.0	1
+COL RatingValue VAL 7.0	1
+COL Creator VAL Bert I. Gordon	1
+COL RatingCount VAL 288,693	1
+COL RatingCount VAL 64,086	1
+COL Year VAL 2008 2009 2010	1
+COL RatingCount VAL 1,158	1
+COL RatingCount VAL 1,217	1
+COL RatingCount VAL 18,123	1
+COL RatingCount VAL 1,244	1
+COL Release Date VAL Mar 15, 1972 Limited	1
+COL RatingValue VAL 7.0	1
+COL Duration VAL 96 min	0
+COL Filming Locations VAL Mae Hong Son, Thailand	0
+COL Cast VAL John Wayne,Lauren Bacall,Ron Howard,James Stewart,Richard Boone,Hugh O'Brian,Bill McKinney,Harry Morgan,John Carradine,Sheree North,Rick Lenz,Scatman Crothers,Gregg Palmer,Alfred Dennis,Dick Winslow	0
+COL Country VAL USA	0
+COL Genre VAL Comedy,Drama	0
+COL Creator VAL Lawrence Edward Watkin	0
+COL Director VAL Frank Whaley	0
+COL Country VAL USA	0
+COL Release Date VAL 21 September 1984 (USA)	0
+COL Year VAL 1995	0
+COL Actors VAL Jason Statham,Amy Smart,Clifton Collins Jr.	0
+COL Creator VAL 	0
+COL Genre VAL Documentary,Crime	0
+COL RatingValue VAL 5.9	0
+COL Year VAL 2015	0
+COL Cast VAL Adrienne Barbeau,Jamie Lee Curtis,Janet Leigh,John Houseman,Tom Atkins,James Canning,Charles Cyphers,Nancy Kyes,Ty Mitchell,Hal Holbrook,John F. Goff,George 'Buck' Flower,Regina Waldon,Jim Haynie,Darrow Igus	0
+COL Filming Locations VAL Carleton Hotel, New York City, New York, USA	0
+COL Cast VAL Mike Vogel,Eliza Dushku,Ethan Rains,Naike Rivelli,Lindsay Caroline Robba,Gary Piquer,Alex O'Dogherty,Boris Martinez,Ander Pardo,Lilliam Kouri,Paul Zubillaga,Enrique Zaldua,Juan Viadas,Maite Murillo,Martxelo Rubio	0
+COL Name VAL Nintendo Quest	0
+COL Creator VAL Marc Hyman	0
+COL ReviewCount VAL 46 user,22 critic	0
+COL Creator VAL Chris Morgan,Gary Scott Thompson	0
+COL Description VAL A reporter, is drawn into an evil web of conspiracy working for a newspaper in an isolated small town, where she strives to uncover the horrifying secret of a vanished reporter, two dead teenage girls and an attractive cowboy.	0
+COL Cast VAL Shirley MacLaine,Nicolas Cage,Austin Pendleton,Edward Albert,James Rebhorn,Richard Griffiths,John Roselius,David Graf,Don Yesso,James Lally,Brant von Hoffman,Harry Lennix,Susan Blommaert,Dale Dye,James Handy	0
+COL Genre VAL Adventure,Drama,Family	0

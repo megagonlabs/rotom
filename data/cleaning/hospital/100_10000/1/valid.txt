@@ -1,0 +1,100 @@
+COL EmergencyService VAL yxs	1
+COL Address2 VAL empty	0
+COL MeasureName VAL heart attack patients given aspirin at discharge	0
+COL EmergencyService VAL no	0
+COL MeasureName VAL surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor)	1
+COL Condition VAL surgxcal infectxon preventxon	1
+COL State VAL al	0
+COL Sample VAL 43 patients	0
+COL EmergencyService VAL xes	1
+COL Score VAL 100%	0
+COL MeasureName VAL pneumonia patients assessed and given pneumococcal vaccination	0
+COL Address1 VAL 515 mirxndx st	1
+COL Condition VAL surgical infxction prxvxntion	1
+COL Sample VAL 4 patiexts	1
+COL PhoneNumber VAL 2568453150	0
+COL Condition VAL heart attack	0
+COL Stateavg VAL al_ami-5	0
+COL State VAL xl	1
+COL PhoneNumber VAL 20x9216200	1
+COL Score VAL x00%	1
+COL index VAL 415	0
+COL ProviderNumber VAL 1xx15	1
+COL ProviderNumber VAL x0x08	1
+COL State VAL al	0
+COL State VAL al	0
+COL MeasureName VAL surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery	1
+COL CountyName VAL talladega	0
+COL HospitalOwner VAL voluntaryxnon-profitx-xchurch	1
+COL HospitalName VAL cullman regional medical center	0
+COL State VAL ax	1
+COL State VAL al	0
+COL ProviderNumber VAL 10022	0
+COL State VAL xl	1
+COL Address3 VAL empty	0
+COL City VAL xzark	1
+COL PhoneNumber VAL 3347938701	0
+COL MeasureCode VAL hfx1	1
+COL ProviderNumber VAL 1xx39	1
+COL Score VAL 1xx%	1
+COL Condition VAL heart failure	0
+COL HospitalName VAL gadsden regional medical center	0
+COL MeasureCode VAL pn-xb	1
+COL Score VAL 82%	0
+COL ZipCode VAL 3590x	1
+COL Address1 VAL address_1	1
+COL City VAL hartselle	0
+COL HospitalOwner VAL proxrietary	1
+COL Address1 VAL 205 marengo street	0
+COL ZipCode VAL 36078	0
+COL index VAL 324	0
+COL Stateavg VAL al_pn-7	0
+COL index VAL 50	0
+COL CountyName VAL houston	0
+COL PhoneNumber VAL 33x8972257	1
+COL Address1 VAL 515 miranxa st	1
+COL Score VAL 96%	0
+COL Stateavg VAL ax_pn-2	1
+COL State VAL xl	1
+COL State VAL al	0
+COL index VAL 80	0
+COL Address1 VAL 101 sivley rd	0
+COL City VAL winfielx	1
+COL Condition VAL hearx axxack	1
+COL Sample VAL 193 paxienxs	1
+COL Score VAL 100%	0
+COL MeasureCode VAL xax-1	1
+COL Sample VAL sample	1
+COL ZipCode VAL 35901	0
+COL PhoneNumber VAL 3347742601	0
+COL Condition VAL surgical infection prevention	0
+COL HospitalOwner VAL voluntary non-profit - church	0
+COL Condition VAL surgical infection prevention	0
+COL HospitalOwner VAL government - hospxtal dxstrxct or authorxty	1
+COL ZipCode VAL zip	1
+COL Sample VAL 29 xatients	1
+COL MeasureName VAL heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL MeasureCode VAL amx-4	1
+COL MeasureName VAL pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s)	1
+COL PhoneNumber VAL 256235x900	1
+COL MeasureName VAL xeart attack patients given aspirin at arrival	1
+COL EmergencyService VAL yex	1
+COL Condition VAL surgical infection prevention	0
+COL ZipCode VAL 3x1x0	1
+COL Address2 VAL empty	0
+COL Address1 VAL 8000 alabama highway 69	0
+COL CountyName VAL mobile	0
+COL HospitalOwner VAL voluntary non-profit - church	0
+COL MeasureCode VAL hf-4	0
+COL MeasureName VAL hexrt attxck pxtients given aspirin xt arrivxl	1
+COL State VAL ax	1
+COL Score VAL 1xx%	1
+COL Sample VAL 191 patients	0
+COL State VAL xl	1
+COL CountyName VAL etowxh	1
+COL State VAL al	0
+COL HospitalOwner VAL gxvernment - hxspital district xr authxrity	1
+COL MeasureName VAL heart attack patients given aspirin at arrivax	1
+COL EmergencyService VAL xes	1
+COL Address3 VAL empty	0
+COL State VAL al	0

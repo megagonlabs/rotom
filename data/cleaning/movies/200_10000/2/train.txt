@@ -1,0 +1,200 @@
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 44,564	1
+COL RatingCount VAL 36,160	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 143,534	1
+COL RatingCount VAL 5,842	1
+COL RatingCount VAL 228,550	1
+COL RatingCount VAL 241,130	1
+COL Director VAL Nadia Conners,Leila Conners Petersen	1
+COL Duration VAL 1 hr. 28 min.	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 1,557	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 3,514	1
+COL RatingCount VAL 250,134	1
+COL RatingCount VAL 286,229	1
+COL RatingCount VAL 7,346	1
+COL RatingCount VAL 19,957	1
+COL RatingCount VAL 241,069	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 63,597	1
+COL RatingCount VAL 3,488	1
+COL Release Date VAL Oct 13, 2006 Wide	1
+COL RatingCount VAL 19,498	1
+COL Name VAL ABCs of Death 2	1
+COL RatingCount VAL 17,941	1
+COL RatingCount VAL 352,890	1
+COL RatingCount VAL 33,748	1
+COL Duration VAL 2 hr. 8 min.	1
+COL RatingCount VAL 30,991	1
+COL Id VAL rudy	1
+COL RatingCount VAL 411,303	1
+COL Description VAL An ordinary teenager finds out he's not so ordinary after all in this comedy-adventure. Will Stronghold (Michael Angarano) has his share of anxieties about starting high school, but once he arrives on campus, he discovers he's attending Sky High, a special learning facility for the children of superheroes. Will realizes his father is actually super-human crime fighter Captain Stronghold (Kurt Russell), while his mom is fellow champion Josie Jetstream (Kelly Preston). However, in Will's first few,days at school, Coach Boomer (Bruce Campbell) is unable to discover any superior abilities in him, meaning that instead of joining the school's budding heroes, he's been relegated to the ranks of the lowly sidekicks. In time, Will discovers he happens to have super strength after all, but will he learn to hone his new gifts in time to fend off the bullies at school, get the girl of his dreams, and save his folks from a longtime nemesis? Sky High also features Lynda Carter, Dave Foley, and Kevin McDonald.	1
+COL RatingCount VAL 15,115	1
+COL Creator VAL 	1
+COL Release Date VAL Aug 25, 1995 Wide	1
+COL RatingCount VAL 76,175	1
+COL Year VAL 1987 1988 1989	1
+COL RatingCount VAL 39,976	1
+COL RatingCount VAL 119,611	1
+COL RatingCount VAL 9,189	1
+COL RatingValue VAL 7.0	1
+COL Year VAL 2005 2006 2007	1
+COL Duration VAL 	1
+COL Duration VAL 	1
+COL RatingValue VAL 4.0	1
+COL RatingCount VAL 13,185	1
+COL RatingCount VAL 513,107	1
+COL RatingCount VAL 18,677	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 1,455	1
+COL RatingCount VAL 128,484	1
+COL RatingCount VAL 136,808	1
+COL RatingCount VAL 8,352	1
+COL RatingCount VAL 7,322	1
+COL RatingCount VAL 97,008	1
+COL RatingCount VAL 91,273	1
+COL RatingCount VAL 515,940	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 26,438	1
+COL RatingCount VAL 68,154	1
+COL RatingCount VAL 27,575	1
+COL Id VAL love_is_all_there_is	1
+COL RatingCount VAL 1,448	1
+COL RatingCount VAL 25,833	1
+COL RatingCount VAL 5,178	1
+COL RatingCount VAL 2,480	1
+COL RatingValue VAL 6.8/10	1
+COL Creator VAL Dalene Young	1
+COL RatingCount VAL 26,239	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 411,966	1
+COL RatingCount VAL 21,529	1
+COL Duration VAL 	1
+COL RatingCount VAL 292,362	1
+COL Id VAL queen	1
+COL RatingCount VAL 9,152	1
+COL Id VAL cinderella_man	1
+COL Description VAL Lake Bell ('Children's Hospital') stars in In a World..., a hilarious romantic comedy about a struggling vocal coach who strikes it big in the cutthroat world of movie-trailer voiceovers, only to find herself in direct competition with the industry's reigning king-her father. Written and directed by Bell, who won the Sundance 2013 Waldo Salt Screenwriting Award for the script, In a World... also stars Fred Melamed (A Serious Man), Rob Corddry (Hot Tub Time Machine), Demetri Martin ('Important,Things with Demetri Martin'), Michaela Watkins ('Enlightened'), Ken Marino ('Burning Love'), Nick Offerman ('Parks and Recreation'), Alexandra Holden (The Hot Chick) and Tig Notaro ('The Sarah Silverman Program'). (c) Roadside Attractions	1
+COL Release Date VAL Sep 25, 1992 Wide	1
+COL RatingCount VAL 55,797	1
+COL Duration VAL 	1
+COL RatingCount VAL 1,594	1
+COL RatingCount VAL 5,693	1
+COL RatingCount VAL 1,223	1
+COL RatingCount VAL 17,974	1
+COL Release Date VAL Jan 1, 1988 Wide	1
+COL RatingCount VAL 36,983	1
+COL RatingCount VAL 65,001	1
+COL RatingCount VAL 1,029	1
+COL RatingCount VAL 97,623	1
+COL RatingCount VAL 28,791	1
+COL RatingCount VAL 26,060	1
+COL Duration VAL 	1
+COL RatingCount VAL 1,764	1
+COL RatingCount VAL 1,615	1
+COL RatingCount VAL 1,673	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 2,243	1
+COL Duration VAL 	1
+COL Genre VAL Action,Crime,Thriller	0
+COL Id VAL tt0042546	0
+COL Duration VAL 	0
+COL Cast VAL James Franco,Mila Kunis,Rachel Weisz,Michelle Williams,Zach Braff,Bill Cobbs,Joey King,Tony Cox,Stephen R. Hart,Abigail Spencer,Bruce Campbell,Ted Raimi,Tim Holmes,Toni Wynne,Rob Crites	0
+COL Actors VAL Francis Ford Coppola,William Friedkin,Robert Altman	0
+COL Language VAL English	0
+COL Director VAL Pitof	0
+COL RatingValue VAL 7.7	0
+COL Cast VAL Steve Carell,Steve Buscemi,Olivia Wilde,Jim Carrey,James Gandolfini,Alan Arkin,Jay Mohr,Michael Herbig,Mason Cook,Luke Vanek,Zachary Gordon,Richard Wolffe,Erin Burnett,Brad Garrett,David Copperfield	0
+COL Id VAL tt0298814	0
+COL Release Date VAL 3 July 2013 (USA)	0
+COL ReviewCount VAL 	0
+COL RatingValue VAL 3.7	0
+COL Year VAL 1998	0
+COL Language VAL English	0
+COL ReviewCount VAL 538 user,437 critic	0
+COL Genre VAL Adventure,Biography,Drama	0
+COL Creator VAL Kevin Smith	0
+COL Creator VAL Michel Gondry	0
+COL Description VAL Thom and Dusty have tried everything to make it, but when they find a single piece of paper, a treasure map, they travel to Mexico to find the treasure. They find it but lose it and not until they get home do they find the real treasure.	0
+COL RatingValue VAL 6.7	0
+COL Filming Locations VAL Pacific Southwest Railway Museum, Campo, California, USA	0
+COL Year VAL 2008	0
+COL Language VAL English	0
+COL Director VAL Michael Mann	0
+COL Language VAL English	0
+COL Id VAL tt2180411	0
+COL Actors VAL Carey Mulligan,Peter Sarsgaard,Alfred Molina	0
+COL Country VAL USA,Spain,France,Italy	0
+COL Name VAL Multiple Maniacs	0
+COL Actors VAL Rachel Weisz	0
+COL Language VAL English	0
+COL Actors VAL Megan Fox,Stephen Amell,Alan Ritchson	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Director VAL Don Thacker	0
+COL Filming Locations VAL Covington, Georgia, USA	0
+COL Director VAL Samantha Buck	0
+COL Language VAL English,Portuguese	0
+COL Year VAL 2005	0
+COL Id VAL tt4844420	0
+COL Creator VAL Troy Kennedy-Martin	0
+COL Creator VAL Ernest R. Dickerson,Gerard Brown	0
+COL ReviewCount VAL 17 user,4 critic	0
+COL RatingCount VAL 500	0
+COL Director VAL Gore Verbinski	0
+COL Name VAL Blade II	0
+COL ReviewCount VAL 	0
+COL Director VAL Terry Zwigoff	0
+COL Genre VAL Family	0
+COL Language VAL English	0
+COL Country VAL USA	0
+COL Duration VAL 126 min	0
+COL ReviewCount VAL 439 user,444 critic	0
+COL Year VAL 2010	0
+COL Description VAL Based on the legendary true story of the Red Dog who united a disparate local community while roaming the Australian outback in search of his long lost master.	0
+COL Filming Locations VAL Downtown, Los Angeles, California, USA	0
+COL Country VAL USA,UK,Canada	0
+COL Cast VAL Leslie Nielsen,Kelly Lynch,Matt Keeslar,Nick Chinlund,Stephen Tobolowsky,Ernie Hudson,Jennifer Garner,Malcolm McDowell,Miguel Ferrer,L. Harvey Gold,Art Irizawa,John Tierney,Terence Kelly,Rick Burgess,Jerry Wasserman	0
+COL Creator VAL Robert Getchell	0
+COL Id VAL tt0115819	0
+COL Description VAL Brilliant, flamboyant master criminal Michael Lynch is more interested in his image and his posterity than the actual profit from his ill-gotten gains.	0
+COL ReviewCount VAL 60 user,14 critic	0
+COL Year VAL 1985	0
+COL Duration VAL 86 min	0
+COL Genre VAL Comedy,Drama,Music	0
+COL Name VAL My Amityville Horror	0
+COL Id VAL tt0045758	0
+COL Name VAL Drinking Buddies	0
+COL Country VAL USA	0
+COL Release Date VAL September 1997 (Portugal)	0
+COL Creator VAL Sholom Aleichem,Arnold Perl	0
+COL Actors VAL Brendan Fraser,Jenna Elfman,Steve Martin	0
+COL Filming Locations VAL 	0
+COL RatingValue VAL 	0
+COL Id VAL tt0118670	0
+COL Name VAL The Green Pastures	0
+COL Creator VAL Adam Greenman,Adam Greenman	0
+COL Release Date VAL September 1985 (USA)	0
+COL Language VAL English	0
+COL ReviewCount VAL 38 user,16 critic	0
+COL Description VAL Teenage geniuses deal with their abilities while developing a laser.	0
+COL Director VAL Wes Craven	0
+COL Release Date VAL 8 May 2014 (USA)	0
+COL Creator VAL James Lee Barrett,Stanley Hough	0
+COL Id VAL tt3659388	0
+COL Name VAL Tormented	0
+COL Duration VAL 93 min	0
+COL Country VAL USA	0
+COL Director VAL Dylan Greenberg	0
+COL Cast VAL Matt Damon,Gretchen Mol,John Malkovich,Paul Cicero,Ray Iannicelli,John Turturro,Merwin Goldsmith,Sonny Zito,Josh Mostel,Mal Z. Lawrence,Lenny Clarke,Peter Yoshida,Jay Boryea,Lenny Venito,Martin Landau	0
+COL Release Date VAL 2007 (USA)	0
+COL Year VAL 2005	0
+COL RatingValue VAL 7.8	0
+COL Language VAL English	0
+COL Filming Locations VAL Koerner Plaza, University of British Columbia, Robson Square Campus - 800 Robson Street, Vancouver, British Columbia, Canada	0
+COL Release Date VAL 12 December 1986 (USA)	0
+COL ReviewCount VAL 380 user,178 critic	0
+COL Description VAL When a desperate movie producer fails to get a major star for his bargain basement film, he decides to shoot the film secretly around him.	0
+COL Language VAL English	0
+COL Director VAL Joe Carnahan	0

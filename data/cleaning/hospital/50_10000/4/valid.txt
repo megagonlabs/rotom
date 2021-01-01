@@ -1,0 +1,50 @@
+COL EmergencyService VAL yxs	1
+COL Sample VAL 1 patiexts	1
+COL Score VAL x7%	1
+COL Stateavg VAL alxpn-7	1
+COL City VAL florxncx	1
+COL MeasureName VAL heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function	1
+COL CountyName VAL cxllman	1
+COL CountyName VAL jxffxrson	1
+COL MeasureName VAL heart attack patxents gxven aspxrxn at arrxval	1
+COL HospitalType VAL acute care hoxpitalx	1
+COL HospitalName VAL rivxrvixw rxgional mxdical cxntxr	1
+COL CountyName VAL xe kalb	1
+COL State VAL state	1
+COL City VAL birminghxm	1
+COL Stateavg VAL al_pn-5x	1
+COL CountyName VAL xee	1
+COL MeasureCode VAL sxip-vte-1	1
+COL ProviderNumber VAL 1xx29	1
+COL State VAL ax	1
+COL CountyName VAL xefferson	1
+COL HospitalName VAL medixal xenter enterprise	1
+COL State VAL ax	1
+COL MeasureName VAL surgery pxtients whose doctors ordered trextments to prevent blood clots xfter certxin types of surgeries	1
+COL Condition VAL pnexmonia	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL CountyName VAL dale	0
+COL EmergencyService VAL yes	0
+COL City VAL boaz	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL HospitalType VAL acute care hospitals	0
+COL Score VAL 79%	0
+COL Sample VAL empty	0
+COL MeasureCode VAL ami-8a	0
+COL Sample VAL 242 patients	0
+COL HospitalOwner VAL voluntary non-profit - other	0
+COL Stateavg VAL al_ami-3	0
+COL CountyName VAL covington	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalOwner VAL government - federal	0
+COL HospitalType VAL acute care hospitals	0
+COL ZipCode VAL 35957	0
+COL Score VAL 94%	0
+COL EmergencyService VAL yes	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL Sample VAL 187 patients	0
+COL HospitalType VAL acute care hospitals	0
+COL Address3 VAL empty	0

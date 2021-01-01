@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 2/1/15	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_pagination VAL 3191-7	1
+COL article_jcreated_at VAL 8/1/02	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 8/1/10	1
+COL article_jcreated_at VAL 1/1/06	1
+"COL author_list VAL {""Eunice Molinar-Toribio"",""Benjam�_n Pi̱a"",""Livia G�_mez"",""Jara P̩rez-Jim̩nez"",""Marta Casado"",""Sara Ramos-Romero"",""Pere Clap̩s"",""Josep Llu�_s Torres""}"	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""John M O�_Callaghan"",""Robert D Morgan"",""Peter J Morris"",""Simon R Knight""}"	1
+COL article_jissue VAL 3	0
+COL article_language VAL English	0
+"COL author_list VAL {""Steven P. Cohen"",""Giselle McKnight"",""Kayode A. Williams"",""Joshua Stream"",""Zahid H. Bajwa"",""Jan J. Kraemer"",""Robert W. Hurley"",""Anthony Dragovich"",""Anthony Sireci""}"	0
+COL article_language VAL 	0
+COL article_language VAL eng	0
+COL article_jissue VAL 2	0
+COL journal_issn VAL 1099-1166	0
+COL journal_issn VAL 1524-4628	0
+COL article_title VAL The exercise prescription: focus on vascular mechanisms.	0
+COL id VAL 259916	0
+"COL author_list VAL {""D Minors"",""J Waterhouse"",""G Ghirlanda"",""G Costa"",""G Tarondi""}"	0
+COL journal_title VAL Das Mikorklima der Wohnungen und seine hygienische Normierung.	0
+COL id VAL 199407	0
+COL article_title VAL Diagnosis of peripheral lung cancer with three echoic features via endobronchial ultrasound	0
+COL article_jvolumn VAL 0	0
+COL article_jvolumn VAL 0	0
+COL article_title VAL Multiple dural arteriovenous fistulas presenting as rapidly progressive dementia.	0
+COL article_pagination VAL 307-17	0
+COL article_jcreated_at VAL 1/1/76	0
+COL jounral_abbreviation VAL Bull.WHO	0
+COL article_jissue VAL 3	0
+COL author_list VAL {NULL}	0
+COL id VAL 543292	0
+COL article_pagination VAL 110-6	0
+COL article_jissue VAL 2	0

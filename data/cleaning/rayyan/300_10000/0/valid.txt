@@ -1,0 +1,300 @@
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 10/8/15	1
+COL article_jcreated_at VAL 1/1/08	1
+COL journal_title VAL Physical therapy	0
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+"COL author_list VAL {""J. Gschwend"",""S. Schirrmacher-Memmel"",""A. Beeker"",""M. O. Grimm"",""B. Brehmer"",""M. Zaiss"",""U. Von Verschuer"",""S. Pahernik"",""M. Bos"",""M. De Santis"",""M. Retz"",""S. Krause""}"	0
+COL article_jcreated_at VAL 5/1/13	1
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 10/1/15	1
+COL article_jissue VAL 0	0
+COL journal_issn VAL 	0
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/03	1
+"COL author_list VAL {""O Ceki̤"",""C Batman""}"	1
+COL jounral_abbreviation VAL J ECT	0
+COL article_jissue VAL 	1
+COL journal_issn VAL 1017-7833	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 1	0
+COL article_jcreated_at VAL 10/1/13	1
+COL id VAL 439302	0
+COL article_title VAL A controlled trial of anterior spinal fusion and d̩bridement in the surgical management of tuberculosis of the spine in patients on standard chemotherapy: a study in two centres in South Africa. Seventh Report of the Medical Research Council Working Party on tuberculosis of the spine	1
+COL article_jvolumn VAL 33	0
+COL id VAL 628299	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 6/1/09	1
+COL article_jissue VAL 	1
+COL article_pagination VAL 1203-14	0
+COL id VAL 979725	0
+COL journal_title VAL Journal of the National Cancer Institute	0
+COL article_jissue VAL 	1
+COL article_title VAL APPLICATION OF AGING MANAGEMENT STRATEGIES FOR REACTOR VESSEL INTERNALS AND CORE SUPPORT STRUCTURES	0
+COL article_pagination VAL 731-741	0
+COL article_pagination VAL 694-702	0
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""M. Pujol"",""P. Barrag��n"",""J.M. Tiraboschi"",""A. Imaz"",""M.́. Dom�_nguez"",""D. Podzamczer""}"	1
+COL article_jcreated_at VAL 3/1/11	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 3/1/07	1
+"COL author_list VAL {""Valentina A Volchkova"",""Jaroslav Vorac"",""Philip Lawrence"",""Laurie Repiquet-Paire"",""Viktor E Volchkov""}"	0
+"COL author_list VAL {""G̩raldine Martin-Gaujard"",""Floriane Delphin-Combe"",""Isabelle Rouch"",""Solveig Relland"",""Pierre Krolak-Salmon""}"	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_language VAL English; ABSTRACT LANGUAGE:English	0
+COL id VAL 428909	0
+"COL author_list VAL {""T Reinhold"",""F M�_ller-Riemenschneider"",""S N Willich""}"	1
+COL article_jcreated_at VAL 7/1/12	1
+COL article_pagination VAL 477-83	0
+COL article_jcreated_at VAL 11/1/13	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 9/2/14	1
+COL article_language VAL eng	0
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/10	1
+COL id VAL 857402	0
+COL article_jcreated_at VAL 10/1/07	1
+COL article_jcreated_at VAL 10/1/13	1
+COL jounral_abbreviation VAL Pediatrics	0
+COL article_pagination VAL 	0
+"COL author_list VAL {""Philipp Martius"",""Anna Buchheim"",""Peter Buchheim"",""Susanne H���rz"",""Michael Rentrop"",""Cord Benecke"",""Peter Schuster"",""Melitta Fischer-Kern"",""Stephan Doering""}"	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jissue VAL 	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 12/1/14	1
+COL journal_title VAL BR. J. CANCER	0
+COL journal_title VAL The Science of the total environment	0
+COL journal_title VAL 	0
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+COL jounral_abbreviation VAL Public Health Rep	0
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_title VAL Cochrane Database of Systematic Reviews	0
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+"COL author_list VAL {""J Arana"",""E Rezola"",""A Villanueva"",""M I Intxaurrondo"",""M Su̱ol"",""I Eizaguirre"",""J Garay""}"	1
+COL article_jissue VAL 0	0
+COL article_jcreated_at VAL 1/1/13	1
+COL id VAL 460786	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 33	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 11/4/15	1
+COL journal_issn VAL 	0
+COL journal_title VAL Administration and policy in mental health	0
+COL article_jcreated_at VAL 1/1/95	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 11/1/13	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_pagination VAL 2055-9	1
+COL journal_title VAL Klinik Psikofarmakoloji Bulteni	0
+COL article_title VAL Palliative sedation therapy in the last weeks of life: a literature review and recommendations for standards.	0
+COL article_jcreated_at VAL 1/1/04	1
+COL author_list VAL {NULL}	0
+COL article_pagination VAL S50-5	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_language VAL eng	0
+COL journal_title VAL Anaesthesia	0
+COL journal_title VAL AIDS Reviews	0
+COL journal_issn VAL 2005-7563	0
+COL article_jvolumn VAL 0	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_pagination VAL 2063-8	1
+COL journal_title VAL 	0
+COL journal_issn VAL 1520-4804	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 1/1/04	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/07	1
+"COL author_list VAL {""Tina M Blackmore"",""Kirsty Dougal"",""Hilary J Worgan"",""Eric Pinloche"",""Gemma Curtis"",""C Jamie Newbold"",""Neil R McEwan"",""Susan E Girdwood"",""Pat A Harris"",""Caroline McG Argo"",""Alex Dugdale""}"	0
+COL journal_title VAL Journal of clinical epidemiology	0
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 	1
+COL article_jissue VAL 	1
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Outcomes from patients with multi-vessel disease following primary PCI: staged PCI imparts very low mortality.	0
+COL article_jcreated_at VAL 1/1/71	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_title VAL Non-steroidal anti-inflammatory drugs and the risk of cardiovascular diseases: are we going to see the revival of cyclooxygenase-2 selective inhibitors?. [Review] [23 refs]	0
+COL article_jcreated_at VAL 1/1/13	1
+COL journal_title VAL European journal of emergency medicine : official journal of the European Society for Emergency Medicine	0
+COL article_title VAL Are tkis still active in patients treated with tki and everolimus? Experience from 36 patients treated in france in the record 1 trial	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 12/1/03	1
+COL article_pagination VAL 17	0
+COL article_title VAL Sleep, sleep-dependent procedural learning and vigilance in chronic cocaine users: Evidence for occult insomnia	0
+COL article_title VAL [Autologous stem cell therapy with surgical myocardial revascularization].	0
+COL article_jissue VAL 3	0
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jissue VAL 0	0
+COL journal_issn VAL 	0
+COL id VAL 424870	0
+COL article_jcreated_at VAL 1/1/10	1
+COL id VAL 958639	0
+COL article_jcreated_at VAL 1/1/12	1
+COL journal_issn VAL 	0
+COL jounral_abbreviation VAL College Teaching	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 12/1/01	1
+COL article_jissue VAL 2	0
+COL journal_title VAL Plos Neglected Tropical Diseases	0
+COL article_pagination VAL 851-9	0
+"COL author_list VAL {""A Gaitatzis"",""M R Trimble"",""J W Sander""}"	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 18	0
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_pagination VAL 378-84	0
+COL journal_issn VAL 1438-8359	0
+COL journal_issn VAL 0021-8987	0
+COL journal_title VAL Stomatologii��a	1
+COL id VAL 950233	0
+COL journal_title VAL Nutrients	0
+COL article_jcreated_at VAL 2/1/09	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jvolumn VAL 11	0
+COL article_jissue VAL 9453	0
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 3/1/10	1
+COL article_jissue VAL 8	0
+COL article_title VAL Mild endoplasmic reticulum stress augments the proinflammatory effect of IL-1�_ in pancreatic rat �_-cells via the IRE1�/XBP1s pathway.	1
+COL jounral_abbreviation VAL Archives of surgery (Chicago, Ill. : 1960)	0
+COL id VAL 302969	0
+COL article_jcreated_at VAL 4/1/15	1
+COL article_pagination VAL 314-21	0
+COL journal_title VAL Ann Rheum Dis	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 6/1/12	1
+COL jounral_abbreviation VAL International journal of obesity (2005)	0
+COL article_language VAL eng	0
+COL article_jissue VAL 0	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 169865	0
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jvolumn VAL 22	0
+COL article_jvolumn VAL 15	0
+COL jounral_abbreviation VAL Rev Lat Am Enfermagem	0
+COL article_jcreated_at VAL 7/1/12	1
+COL article_language VAL English	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 	1
+COL article_jvolumn VAL 19	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_language VAL 	0
+COL article_pagination VAL 227-33	0
+"COL author_list VAL {""P Czernichow"",""K Albertsson-Wikland"",""R Gunnarsson"",""T Tuvemo""}"	0
+COL journal_title VAL International Journal of Qualitative Studies in Education (QSE)	0
+"COL author_list VAL {""Fenlai Tan"",""Ji Jiang"",""Don Zhang"",""Dongyang Liu"",""Yingxiang Wang"",""Li Zhang"",""Pei Hu""}"	0
+"COL author_list VAL {""H H̦ger"",""W Sieghart"",""T Klausberger"",""I Milenkovic"",""M Vasiljevic"",""D Maurer""}"	1
+COL article_pagination VAL A31	0
+"COL author_list VAL {""Felipe Serṛo de Souza"",""Ney Pecegueiro do Amaral"",""Carlos Henrique Mendes"",""Hilton Augusto Koch"",""Vincenzo Giordano"",""Andr̩ Bergamin""}"	1
+COL journal_title VAL BMC Medical Research Methodology	0
+COL article_title VAL Differential functional connectivity within an emotion regulation neural network among individuals resilient and susceptible to the depressogenic effects of early life stress.	0
+COL article_jvolumn VAL 35	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/13	1
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 	1
+COL article_pagination VAL 987149	0
+COL article_jcreated_at VAL 10/1/10	1
+COL article_jissue VAL 1	0
+COL article_pagination VAL 3191-7	1
+"COL author_list VAL {""N. Jakubik"",""L. Trzpil"",""F. Raciborski"",""U. Samolinska-Zawisza"",""L. Samoli̱ski"",""D. Paczesny"",""Z. Halat"",""J. Marszalkowska"",""B. Samolinski"",""P. Samel-Kowalik"",""A. Lusawa"",""J. Gutowska"",""A. Tomaszewska"",""A. Walkiewicz""}"	1
+COL journal_issn VAL 1679-4508	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 56464	0
+COL jounral_abbreviation VAL Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association	0
+"COL author_list VAL {""Jesper I Reimers"",""Sabrina G Elles��e"",""Henrik �� Andersen""}"	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""D Chochol���"",""R Chaloupka"",""B Kala"",""J Gallo"",""M Netval""}"	1
+"COL author_list VAL {""A Philotheou"",""S R Heller"",""J Jendle"",""M-A Gall"",""K K��lendorf"",""G P Ross"",""G Perriello"",""I Pavlic-Renar""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jissue VAL 	1
+COL journal_issn VAL 1466-4860	0
+COL article_jcreated_at VAL 3/1/09	1
+"COL author_list VAL {""Ju-Seong Kim"",""Dong-Seok Kim"",""Eun-Kyung Park"",""Kyu-Won Shim""}"	0
+COL article_jcreated_at VAL 2/28/14	0
+"COL author_list VAL {""Marcus R Munaf�_"",""Mike W Peacey"",""In-Uck Park""}"	1
+COL id VAL 556116	0
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 1/1/06	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 9/1/15	1
+COL article_jcreated_at VAL 1/1/15	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 1/1/11	1
+"COL author_list VAL {""Cecilia Bj̦rkelund"",""Margaretha Jerlock""}"	1
+COL article_language VAL eng	0
+COL article_title VAL Sex differences in pain.	0
+COL article_jcreated_at VAL 1/1/03	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 3/7/15	1
+COL article_language VAL 	0
+"COL author_list VAL {""Costin M."",""Dumbrav�_ E.L."",""Postolache P."",""Cojocaru D.C.""}"	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 15	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+COL id VAL 351877	0
+COL journal_title VAL Exposicion severa a plomo ambiental en una poblacion infantil de Antofagasta, Chile.	0
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""D. L. Spangler""}"	0
+COL article_jcreated_at VAL 6/1/05	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 5/1/01	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 7/1/00	0
+COL id VAL 24026	0
+COL article_jissue VAL 6	0
+COL article_jcreated_at VAL 7/1/14	1
+COL article_title VAL Galphai generates multiple Pins activation states to link cortical polarity and spindle orientation in Drosophila neuroblasts	0
+COL article_jcreated_at VAL 1/1/10	1
+COL id VAL 258108	0
+COL article_pagination VAL 72-7	1
+COL article_jcreated_at VAL 9/1/02	1
+COL id VAL 851773	0
+"COL author_list VAL {""H. Oshima"",""K. Kobayashi"",""T. Yamamoto"",""M. Kasai"",""C. Fukaya"",""Y. Katayama""}"	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_issn VAL 1699-5198	0
+"COL author_list VAL {""Y.-J. Du"",""X.-M. Zhu"",""B. Sang"",""C.-J. Yang"",""C.-L. Liu""}"	0
+COL id VAL 660574	0

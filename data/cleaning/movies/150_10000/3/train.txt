@@ -1,0 +1,150 @@
+COL RatingCount VAL 4,809	1
+COL RatingCount VAL 527,251	1
+COL RatingValue VAL 8.5/10,8.3/10	1
+COL Release Date VAL Mar 7, 1997 Wide	1
+COL RatingCount VAL 23,448	1
+COL Id VAL cruel_intentions	1
+COL RatingCount VAL 179,279	1
+COL RatingCount VAL 125,580	1
+COL RatingCount VAL 1,244	1
+COL RatingCount VAL 7,320	1
+COL RatingCount VAL 67,226	1
+COL RatingCount VAL 21,789	1
+COL RatingCount VAL 43,057	1
+COL RatingCount VAL 270,224	1
+COL RatingCount VAL 16,520	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 10,650	1
+COL RatingCount VAL 1,314	1
+COL RatingCount VAL 3,933	1
+COL RatingCount VAL 45,209	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 3,332	1
+COL RatingCount VAL 1,302	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 26,307	1
+COL RatingCount VAL 1,051	1
+COL Id VAL 1061809-malicious	1
+COL Id VAL serenity	1
+COL RatingCount VAL 4,849	1
+COL RatingCount VAL 206,822	1
+COL RatingCount VAL 35,169	1
+COL RatingCount VAL 79,846	1
+COL RatingCount VAL 24,443	1
+COL RatingCount VAL 11,976	1
+COL RatingCount VAL 349,182	1
+COL RatingCount VAL 191,242	1
+COL Description VAL Forget everything you know about Little Red Riding Hood; the classic fairy tale gets a new look and a new style in this computer-animated comedy for the whole family. Grizzly (voice of Xzibit) and Stork (voice of Anthony Anderson) are a pair of critter cops who have been called the homey bungalow of Granny (voice of Glenn Close) to investigate a disturbance of the peace. It seems there was an altercation involving Granny, her granddaughter Little Red Riding Hood (voice of Anne Hathaway), a Big,Bad Wolf (voice of Patrick Warburton), and a Woodsman (voice of Jim Belushi). However, as the detectives interview the participants and get each individual's perspective, they learn that Granny isn't so helpless, Red may have been doing more than just visiting relatives, the Wolf isn't the predator he's been cracked up to be, and the Woodman doesn't have much of an intellectual advantage over the trees he chops down. Hoodwinked also features the voice talents of Andy Dick, David Ogden Stiers, and Chazz Palminteri.	1
+COL RatingCount VAL 179,078	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 5.5/10,6.1/10	1
+COL RatingCount VAL 1,181	1
+COL RatingCount VAL 97,743	1
+COL RatingValue VAL 3.3/10,3.9/10	1
+COL RatingValue VAL 5.6/10,5.5/10	1
+COL Creator VAL Theodore Dreiser,Patrick Kearney,Michael Wilson,Harry Brown	1
+COL RatingCount VAL 1,203	1
+COL Director VAL Corinne Marchand,Charles Walters,Edwin Jerome,Eva Gabor,Hermione Gingold,Isabel Jeans,Jacques Bergerac,John Abbott,Leslie Caron,Louis Jourdan,Maurice Chevalier,Vincente Minnelli	1
+COL RatingCount VAL 32,089	1
+COL RatingCount VAL 68,554	1
+COL RatingCount VAL 17,805	1
+COL RatingCount VAL 225,665	1
+COL RatingCount VAL 3,186	1
+COL RatingCount VAL 12,957	1
+COL RatingCount VAL 3,920	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 13,034	1
+COL RatingCount VAL 2,426	1
+COL Director VAL Richard C. Sarafian,Stephen A. Smith,Julia Szucs	1
+COL RatingCount VAL 540,284	1
+COL Creator VAL Rusty Cundieff,Daryl G. Nickens	1
+COL RatingCount VAL 18,692	1
+COL Creator VAL Bert I. Gordon	1
+COL RatingCount VAL 1,139	1
+COL RatingValue VAL 9.0	1
+COL RatingCount VAL 1,150	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 1,158	1
+COL RatingCount VAL 1,116	1
+COL RatingCount VAL 2,406	1
+COL RatingCount VAL 14,626	1
+COL RatingCount VAL 53,973	1
+COL RatingValue VAL 5.7/10,6.1/10	1
+COL RatingCount VAL 5,842	1
+COL RatingCount VAL 10,243	1
+COL RatingCount VAL 69,912	1
+COL Language VAL English,Spanish,Latin,Italian	0
+COL Duration VAL 96 min	0
+COL RatingValue VAL 6.4	0
+COL Id VAL tt0107978	0
+COL Genre VAL Short,Comedy	0
+COL Actors VAL Robert De Niro,Dakota Fanning,Famke Janssen	0
+COL Creator VAL Don Jones	0
+COL Genre VAL Comedy,Drama	0
+COL Genre VAL Crime,Drama,Thriller	0
+COL Cast VAL Sean Astin,Tim Curry,Russell Peters,Cherami Leigh,Elza Irdalynna,Amelia Henderson,Sonny Franks,Christina Orow,Kennie Dowle,Valentine Cawley,Martin Dysart,Dilly Shakir,Ali Astin,Casey Powers,Chuck Powers	0
+COL Name VAL Night Patrol	0
+COL Actors VAL Robert De Niro,Edward Burns,Kelsey Grammer	0
+COL Description VAL Since they met the first time in boarding school as little kids, it was obvious that the orphans Kay and Dave would become a couple. But at sixteen, Dave foolishly attempted to rob a bank ...	0
+COL Actors VAL Humphrey Bogart,Alexis Smith,Sydney Greenstreet	0
+COL RatingCount VAL 902	0
+COL Description VAL Three company workers who hate their jobs decide to rebel against their greedy boss.	0
+COL Cast VAL Shirley MacLaine,Nicolas Cage,Austin Pendleton,Edward Albert,James Rebhorn,Richard Griffiths,John Roselius,David Graf,Don Yesso,James Lally,Brant von Hoffman,Harry Lennix,Susan Blommaert,Dale Dye,James Handy	0
+COL Release Date VAL 13 February 1952 (USA)	0
+COL Genre VAL Crime,Comedy	0
+COL Year VAL 1988	0
+COL Id VAL tt0061715	0
+COL Description VAL A drunken, hard-nosed U.S. Marshal and a Texas Ranger help a stubborn teenager track down her father's murderer in Indian territory.	0
+COL Actors VAL Sylvester Stallone,Richard Crenna,Charles Napier	0
+COL Creator VAL 	0
+COL Year VAL 2005	0
+COL Filming Locations VAL Beaufort, South Carolina, USA	0
+COL Name VAL The Houses October Built	0
+COL Name VAL Li'l Abner	0
+COL Name VAL The Merchant of Venice	0
+COL RatingValue VAL 7.6	0
+COL Year VAL 1998	0
+COL Duration VAL 125 min	0
+COL ReviewCount VAL 16 user,9 critic	0
+COL Creator VAL Marc Hyman	0
+COL Year VAL 2015	0
+COL RatingValue VAL 7.7	0
+COL Year VAL 1986	0
+COL Genre VAL Adventure,Drama,Family	0
+COL Language VAL English,French	0
+COL Language VAL English	0
+COL Release Date VAL 27 April 1951 (USA)	0
+COL Filming Locations VAL Room 1014, Mira Hotel, Kowloon, Hong Kong, China	0
+COL Actors VAL Tanner Cohen,Wendy Robie,Judy McLane	0
+COL ReviewCount VAL 27 user,23 critic	0
+COL Creator VAL James Westby	0
+COL RatingValue VAL 6.8	0
+COL Description VAL Two seemingly unconnected souls from different corners of the United States make a telepathic bond that allows them to see, hear and feel the others experiences, creating a bond that apparently can't be broken.	0
+COL Id VAL tt0100507	0
+COL Name VAL The Signal	0
+COL Filming Locations VAL Idaho, USA	0
+COL Year VAL 2000	0
+COL Creator VAL David Wagner,Brent Goldberg	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Director VAL William Dieterle	0
+COL Id VAL tt0368891	0
+COL Creator VAL Roger Spottiswoode,Walter Hill	0
+COL Director VAL Woody Allen	0
+COL Cast VAL Ice Cube,Nia Long,John C. McGinley,Aleisha Allen,Philip Bolden,Jonathan Katz,Linda Kash,Alexander Kalugin,Dan Joffre,Pedro Miguel Arce,Tahj Mowry,Jacob Vargas,Brenda Prieur,Hayes MacArthur,Colin Strange	0
+COL Creator VAL William Butler,Aaron Strongoni	0
+COL Director VAL Danny DeVito	0
+COL Duration VAL 141 min	0
+COL Cast VAL Benjean,Art Vasil,Allen Fiuzat,Patsy Garrett,Cynthia Smith,Ed Nelson,Catherine McClenry,Anassis Vassilakidis,Dean Goss,Tony Alatis,Kostas Kleftogiannis,Michalis Lambrinos,Peter Bowles,Bridget Armstrong,Valerios Megaloikonomov	0
+COL Language VAL English	0
+COL Filming Locations VAL Hungary	0
+COL Language VAL English,Japanese	0
+COL Creator VAL 	0
+COL Year VAL 1973	0
+COL Name VAL Nintendo Quest	0
+COL ReviewCount VAL 46 user,16 critic	0
+COL Id VAL tt0085210	0
+COL Filming Locations VAL Carleton Hotel, New York City, New York, USA	0
+COL Duration VAL 90 min	0
+COL Director VAL Ronny Yu	0
+COL RatingValue VAL 6.9	0
+COL Genre VAL Action,Crime,Drama	0

@@ -1,0 +1,50 @@
+COL RatingCount VAL 1,900	1
+COL RatingCount VAL 84,594	1
+COL RatingCount VAL 5,901	1
+COL RatingValue VAL 7.5/10	1
+COL RatingCount VAL 96,554	1
+COL RatingCount VAL 55,339	1
+COL RatingCount VAL 37,378	1
+COL RatingCount VAL 15,509	1
+COL RatingCount VAL 46,838	1
+COL Description VAL Mary Norton's children's books about a family of four-inch-tall people who share accommodations with giant 'beans' (as in 'human bein's') are brought to the screen in beautifully scaled detail, but neither the story nor the characters come alive.	1
+COL Id VAL the_last_witch_hunter	1
+COL RatingCount VAL 463,639	1
+COL RatingValue VAL 4.0	1
+COL RatingValue VAL 5.9/10,6/10	1
+COL Creator VAL Jeffrey M. Howard	1
+COL Genre VAL Science Fiction & Fantasy	1
+COL RatingCount VAL 10,486	1
+COL RatingCount VAL 6,092	1
+COL RatingCount VAL 1,108	1
+COL RatingCount VAL 1,412	1
+COL RatingCount VAL 70,194	1
+COL RatingCount VAL 1,567	1
+COL RatingCount VAL 10,832	1
+COL RatingValue VAL 3.1/10,2.9/10	1
+COL RatingCount VAL 18,600	1
+COL Release Date VAL 4 February 1994 (USA)	0
+COL Director VAL John Ford	0
+COL Creator VAL Don Jakoby,Don Jakoby	0
+COL Language VAL English	0
+COL Language VAL English	0
+COL Country VAL USA,China	0
+COL Filming Locations VAL Chicago, Illinois, USA	0
+COL Year VAL 2003	0
+COL Country VAL USA	0
+COL Name VAL On the Doll	0
+COL Id VAL tt0106452	0
+COL Genre VAL Comedy,Drama	0
+COL Filming Locations VAL 	0
+COL Filming Locations VAL Figueroa Hotel - 939 S. Figueroa Street, Downtown, Los Angeles, California, USA	0
+COL Id VAL tt0107554	0
+COL Cast VAL Katherine Heigl,Emily Alyn Lind,Ben Barnes,Clea DuVall,Sheryl Lee,Nathan Stevens,Chelsea Goodwin,Ryan Bingham,Helene Lam,Jacque Gray,Allan Groves,Jeffrey Hanson,Karlee Broschinsky,Ben Hopkin,Adam Dietlein	0
+COL Genre VAL Action,Adventure,Drama	0
+COL Filming Locations VAL Bangkok, Thailand	0
+COL Country VAL USA	0
+COL RatingValue VAL 7.2	0
+COL Cast VAL Bill Hader,Anna Faris,James Caan,Andy Samberg,Bruce Campbell,Mr. T,Bobb'e J. Thompson,Benjamin Bratt,Neil Patrick Harris,Al Roker,Lauren Graham,Will Forte,Max Neuwirth,Peter Siragusa,Angela Shelton	0
+COL Id VAL tt0037248	0
+COL Id VAL tt0110137	0
+COL Cast VAL Michael York,Richard Jordan,Jenny Agutter,Roscoe Lee Browne,Farrah Fawcett,Michael Anderson Jr.,Peter Ustinov,Randolph Roberts,Lara Lindsay,Gary Morgan,Michelle Stacy,Laura Hippe,David Westberg,Camilla Carr,Greg Lewis	0
+COL Description VAL Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took ...	0

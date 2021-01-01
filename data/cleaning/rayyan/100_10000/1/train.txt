@@ -1,0 +1,100 @@
+COL id VAL 98479	0
+COL article_jissue VAL 1042	0
+"COL author_list VAL {""Akin Uz�_mc�_gil"",""Meral Top̤u"",""M Fani Bozkurt"",""Sinem Akg�_l""}"	1
+"COL author_list VAL {""O Ceki̤"",""C Batman""}"	1
+COL journal_issn VAL 1541-0048	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 1309-1318	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 2/12/07	1
+COL article_language VAL 	0
+COL journal_title VAL Indian Journal of Physiology and Pharmacology	0
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""George Vithoulkas"",""Menachem Oberbaum"",""Shepherd Singer"",""Robbert van Haselen""}"	0
+COL article_jcreated_at VAL 	0
+COL jounral_abbreviation VAL Colorectal Dis	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 91-8	1
+COL journal_title VAL Journal of the American Medical Informatics Association : JAMIA	0
+COL article_jcreated_at VAL 1/1/11	1
+COL id VAL 226419	0
+COL article_jissue VAL 9	0
+"COL author_list VAL {""D Chochol���"",""R Chaloupka"",""B Kala"",""J Gallo"",""M Netval""}"	1
+COL journal_title VAL Stomatologii��a	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 2/1/14	1
+COL id VAL 64430	0
+"COL author_list VAL {""Michela Miani"",""Decio L Eizirik"",""Laurence Ladri̬re"",""Maikel L Colli"",""Miriam Cnop""}"	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_pagination VAL S306-S314	0
+"COL author_list VAL {""J.-M. Zhao"",""O. Sjaastad""}"	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jvolumn VAL 36	0
+COL article_jvolumn VAL 	1
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""L. Pretlow"",""A. Ranne"",""B. Kraj"",""E. K. Leibach"",""B. Russell""}"	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_pagination VAL B570-9	0
+COL article_jcreated_at VAL 3/1/71	0
+COL article_jissue VAL 0	0
+COL article_jcreated_at VAL 1/1/11	1
+COL jounral_abbreviation VAL Psychol Assess	0
+COL article_jvolumn VAL 44	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 3/1/09	1
+COL id VAL 945021	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_title VAL Mild endoplasmic reticulum stress augments the proinflammatory effect of IL-1�_ in pancreatic rat �_-cells via the IRE1�/XBP1s pathway.	1
+COL article_jcreated_at VAL 9/1/04	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_title VAL BMC Medical Research Methodology	0
+COL article_jcreated_at VAL 4/1/04	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_pagination VAL 81-3	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 135-144	0
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 7/1/12	1
+COL article_language VAL eng	0
+COL article_title VAL Clinical pharmacokinetics of Icotinib, an anti-cancer drug: evaluation of dose proportionality, food effect, and tolerability in healthy subjects.	0
+COL id VAL 228622	0
+COL article_jcreated_at VAL 1/1/13	1
+COL id VAL 253149	0
+COL article_jcreated_at VAL 1/1/02	1
+COL id VAL 820549	0
+COL article_pagination VAL 3111-9	1
+COL article_jcreated_at VAL 7/10/13	1
+COL article_jvolumn VAL 17	0
+"COL author_list VAL {""D Minors"",""J Waterhouse"",""G Ghirlanda"",""G Costa"",""G Tarondi""}"	0
+COL jounral_abbreviation VAL Phys Ther	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 64-7	1
+COL journal_issn VAL 1879-0593	0
+COL article_language VAL 	0
+COL journal_title VAL Learning & Leading with Technology	0
+COL article_jissue VAL 	1
+COL id VAL 376103	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_title VAL Genetic and phenotypic determinants of blood pressure and other cardiovascular risk factors (GAPP)	0
+COL journal_title VAL Croatian Medical Journal	0
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 27	0
+COL journal_title VAL Actas espa̱olas de psiquiatr�_a	1
+COL article_title VAL Implementing pharmacogenetics: Pharmarray, acodose and pharmacogenetic consultation	0
+COL article_language VAL 	0
+COL article_title VAL A meta-analysis of two genome-wide association studies identifies 3 new loci for alcohol dependence.	0
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 1/1/07	1
+COL id VAL 497593	0
+COL id VAL 335521	0
+COL article_jcreated_at VAL 	0
+COL jounral_abbreviation VAL 	0

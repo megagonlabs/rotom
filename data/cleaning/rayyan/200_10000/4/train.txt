@@ -1,0 +1,200 @@
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 5/1/10	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 10/1/03	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""Anna Nidecker"",""Siamak Ardekani"",""E Mark Mahone"",""Firouzeh Tannazi"",""Jarunee Intrapiromkul"",""Moody Wharam"",""Larry J Brant"",""Alena Horsk��""}"	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_title VAL Constructing differences: A qualitative analysis of teachers�۪ perspectives on linguistic and cultural diversity	1
+COL article_jcreated_at VAL 10/1/10	1
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""Ronaldo Fazzi"",""Ana Estela Haddad"",""Maria Salete Nah��s Pires Corr̻a""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 83-7	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_title VAL The Antiseptic Efficacy and Tolerability of Lavasept� 0.04% on Acute Traumatic Wounds	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 8/1/08	1
+COL article_jcreated_at VAL 8/1/14	1
+COL article_jcreated_at VAL 4/1/09	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""R Carraro"",""M F Rasmussen"",""L Niskanen"",""A Harper"",""N Finer"",""S R̦ssner"",""M Kunesova"",""L Van Gaal"",""M E J Lean"",""A Astrup"",""A Rissanen"",""M J Savolainen"",""[Collective Name] NN8022-1807 Investigators""}"	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_pagination VAL 93-6	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 4/1/11	1
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+"COL author_list VAL {""Przemys��aw P Szyber"",""Artur Pupka"",""Piotr Szyber"",""Jerzy Garcarek""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 7/7/14	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""M Caliskan"",""M Karab̦c�_oglu"",""A Citak"",""N Uzel"",""K Aydin"",""A Nayir"",""D D Soysal""}"	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 11/1/01	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""Michiel A J Kompier"",""Etty G A Wielenga-Meijer"",""Dani��l H J Wigboldus"",""Toon W Taris""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""T Fors̩n"",""J Eriksson"",""C Osmond"",""D Barker""}"	1
+COL article_jcreated_at VAL 9/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 11/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 6/1/04	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 11/1/07	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""R Schwarz"",""J Ernst"",""M Zenger"",""E Br�_hler"",""R Schmidt""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jissue VAL 	1
+COL id VAL 887131	0
+"COL author_list VAL {""J. M. Claise"",""S. Neel"",""P. Catilina"",""L. Fontana"",""S. Ughetto""}"	0
+COL jounral_abbreviation VAL 	0
+COL author_list VAL {NULL}	0
+COL article_title VAL [The use of intravascular nitinol stents in the treatment of subclavian vein compression for thoracic outlet syndrome].	0
+COL article_language VAL ger	0
+COL journal_title VAL 	0
+COL article_jissue VAL 1	0
+COL journal_title VAL Headache	0
+COL article_language VAL eng	0
+COL article_jissue VAL 7	0
+COL article_jvolumn VAL 61	0
+COL article_pagination VAL 1-Jan	0
+COL article_pagination VAL 66-76	0
+COL id VAL 931944	0
+"COL author_list VAL {""Gianluca Rigatelli"",""Paolo Cardaioli"",""Massimo Giordan"",""Ashesh Buch"",""Laura Oliva"",""Dobrin Vassiliev"",""Aravinda Nanjiundappa"",""Fabio Dell'Avvocata"",""Ramesh Daggubati"",""Dario Adami""}"	0
+COL jounral_abbreviation VAL Neurosurg	0
+COL article_pagination VAL 593-610	0
+COL article_jvolumn VAL 56	0
+COL journal_title VAL Ophthalmic surgery and lasers	0
+COL id VAL 887041	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""Nobuhiko Emi"",""Masamitsu Yanada"",""Tomoki Naoe"",""Keitaro Matsuo""}"	0
+COL id VAL 779555	0
+COL journal_title VAL Scandinavian journal of psychology	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 120	0
+COL article_title VAL Pooled analysis of non-union, re-operation, infection, and approach related complications after anterior odontoid screw fixation.	0
+COL article_jissue VAL 0	0
+"COL author_list VAL {""N. Harcourt"",""S. C. Masri"",""M. Colvin"",""G. Raveendran""}"	0
+COL article_language VAL English	0
+COL article_jvolumn VAL 126	0
+COL article_title VAL Balancing Identity, Motivation, and Internal Dialogue in the Making of Solos: Conquering the High Wire	0
+COL article_language VAL English; ABSTRACT LANGUAGE:English	0
+COL article_language VAL eng	0
+COL journal_issn VAL 	0
+COL article_pagination VAL 80-96	0
+COL article_jvolumn VAL 2	0
+COL journal_issn VAL -9262	0
+"COL author_list VAL {""S. Lin"",""S. E. Nissen"",""K. Wolski"",""I. Sipahi"",""E. M. Tuzcu"",""S. J. Nicholls"",""T. Churchill"",""P. Schoenhagen"",""T. Crowe"",""C. Wang"",""A. Loyd"",""C. Apperson-Hansen"",""W. A. Magyar""}"	0
+"COL author_list VAL {""P Michel"",""V Papavasileiou"",""G Ntaios"",""A Bargiota"",""K Makaritsis""}"	0
+COL journal_issn VAL 	0
+COL journal_issn VAL 1715-5258	0
+COL article_language VAL 	0
+COL journal_issn VAL 0301-1623	0
+COL article_title VAL Regulating free speech	0
+COL article_jvolumn VAL 21	0
+COL article_jissue VAL 1	0
+"COL author_list VAL {""D N Levine""}"	0
+"COL author_list VAL {""A. G. Parks"",""J. F. McPartlin""}"	0
+COL article_title VAL APPLICATION OF AGING MANAGEMENT STRATEGIES FOR REACTOR VESSEL INTERNALS AND CORE SUPPORT STRUCTURES	0
+COL journal_issn VAL 	0
+COL article_language VAL tur	0
+COL article_jvolumn VAL 111	0
+COL article_pagination VAL -	0
+COL article_jissue VAL 4	0
+COL jounral_abbreviation VAL J Chem Phys	0
+COL journal_issn VAL 1432-0711	0
+COL article_jvolumn VAL 0	0
+COL article_language VAL English	0
+COL journal_title VAL The Chartered Society of Physiotherapy Annual Congress and Exhibition: Defining Practice, Friday, October 17 to Sunday, October 19 2003, International Convention Centre, Birmingham.	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""Jennifer Payne"",""Rukshanda Ahmad"",""Gregory Doyle"",""Norm Phillips"",""Anna M Chiarelli"",""Christine Wilson"",""Kathleen Decker"",""Andrew Coldman"",""Bin Zhang"",""Jacques Brisson""}"	0
+COL article_jissue VAL 0	0
+"COL author_list VAL {""S. H. Sicherer"",""D. Y. M. Leung""}"	0
+COL journal_title VAL GeneReviews(R)	0
+COL article_jcreated_at VAL 	0
+COL article_jissue VAL 7	0
+COL article_title VAL Normal insulin sensitivity and IMCL content in overweight humans are associated with higher fasting lipid oxidation.	0
+"COL author_list VAL {""J P Ioannidis"",""J Lau"",""C Milch"",""D Salem"",""P W Chew"",""N Terrin"",""E M Balk""}"	0
+COL article_title VAL School Climate and Students' Early Mathematics Learning: Another Search for Contextual Effects.	0
+"COL author_list VAL {""E. Bonthuys""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 223-38	0
+COL article_pagination VAL 110-1	0
+COL journal_issn VAL 	0
+COL journal_title VAL Blood Reviews	0
+COL article_jvolumn VAL 14	0
+COL journal_title VAL 	0
+"COL author_list VAL {""N D Osgood"",""T O Tengs""}"	0
+COL article_jissue VAL 5	0
+COL article_jcreated_at VAL 1/1/93	0
+COL article_jissue VAL 11	0
+COL journal_title VAL Pediatrics	0
+COL article_language VAL fre	0
+COL article_jcreated_at VAL 	0
+"COL author_list VAL {""H. Choi"",""E. S. Kang"",""S. K. Lim"",""S. Y. Jeong"",""H. C. Lee"",""H. J. Kim"",""S. Kim"",""Y. Rhee"",""Y. H. Lee"",""J. H. Moon"",""K. R. Kim"",""C. W. Ahn"",""B. S. Cha"",""E. J. Lee""}"	0
+COL article_jvolumn VAL 44	0
+COL journal_issn VAL 1399-3038	0
+COL article_title VAL A growing lesion on the cheek.	0
+COL article_jvolumn VAL 0	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL [Skeletal maturation in assessing underage asylum seekers].	0
+COL journal_title VAL Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""R. CN  - PubMed DA  - Feb DP  - NLM ET  - 2004/03/05 Boyle""}"	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""A. Erol"",""J. B. Celik"",""I. Kara"",""A. Topal"",""S. Guven""}"	0
+COL journal_issn VAL 0428-8246	0
+COL journal_title VAL Reviews in endocrine & metabolic disorders	0

@@ -1,0 +1,100 @@
+COL ibu VAL N/A	1
+COL id VAL 698	0
+COL id VAL 6	0
+COL beer-name VAL Bitter Bitch Imperial IPA	0
+COL ounces VAL 16.0 OZ.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL 45	0
+COL style VAL American Adjunct Lager	0
+COL ounces VAL 24.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL beer-name VAL Dodgy Knight Imperial IPA	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 ounce	1
+COL state VAL VA	0
+COL id VAL 2100	0
+COL brewery_id VAL 117	0
+COL state VAL CA	0
+COL brewery_id VAL 367	0
+COL abv VAL 0.055999999999999994%	1
+COL ounces VAL 12.0 ounce	1
+COL id VAL 1389	0
+COL ounces VAL 16.0 oz	1
+COL brewery-name VAL Lost Nation Brewing	0
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 OZ.	1
+COL abv VAL 0.065%	1
+COL ibu VAL 55	0
+COL brewery_id VAL 61	0
+COL index VAL 2148	0
+COL ibu VAL N/A	1
+COL beer-name VAL Dead Horse Amber	0
+COL ounces VAL 12.0 ounce	1
+COL style VAL American IPA	0
+COL ounces VAL 12.0 ounce	1
+COL id VAL 1325	0
+COL beer-name VAL Pretzel Stout	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 OZ.	1
+COL beer-name VAL Happy Amber	0
+COL beer-name VAL Wagon Box Wheat Beer	0
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL 75	0
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL brewery-name VAL Lazy Monk Brewing	0
+COL state VAL CO	0
+COL ibu VAL 60	0
+COL beer-name VAL All Aboard! Anniversary Stout	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL beer-name VAL Gwar Beer	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL 16	0
+COL city VAL Longmont CO	1
+COL ounces VAL 16.0 OZ.	1
+COL brewery-name VAL Okoboji Brewing Company	0
+COL abv VAL 0.055	0
+COL brewery_id VAL 383	0
+COL abv VAL 0.053	0
+COL abv VAL 0.057999999999999996%	1
+COL city VAL Morganton	0
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.051%	1
+COL brewery_id VAL 503	0
+COL city VAL Boise ID	1
+COL city VAL Marquette	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL beer-name VAL Watershed IPA (2013)	0
+COL abv VAL 0.05	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL index VAL 2318	0
+COL abv VAL 0.052000000000000005%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL beer-name VAL Barrio Tucson Blonde	0
+COL beer-name VAL Beach Patrol	0
+COL ounces VAL 12.0 oz.	1
+COL brewery_id VAL 410	0
+COL index VAL 164	0
+COL ounces VAL 12.0 oz	1
+COL brewery-name VAL Amnesia Brewing Company	0
+COL ibu VAL N/A	1
+COL beer-name VAL Cack-A-Lacky	0
+COL brewery_id VAL 421	0
+COL beer-name VAL Seventh Son of a Seventh Son	0
+COL ibu VAL N/A	1
+COL brewery_id VAL 131	0
+COL ibu VAL N/A	1
+COL style VAL Belgian Pale Ale	0
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.065%	1
+COL style VAL American Double / Imperial IPA	0

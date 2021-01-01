@@ -1,0 +1,100 @@
+COL Cast VAL Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez,John Hillerman,Darrell Zwerling,Diane Ladd,Roy Jenson,Roman Polanski,Richard Bakalyan,Joe Mantell,Bruce Glover,Nandu Hinds,James O'Rear,James Hong	0
+COL Description VAL Director Alex Proyas (Dark City, The Crow) helmed this sci-fi thriller inspired by the stories in Isaac Asimov's nine-story anthology of the same name. In the future presented in the film, humans have become exceedingly dependent on robots in their everyday lives. Robots have become more and more advanced, but each one is preprogrammed to always obey humans and to, under no circumstances, ever harm a human. So, when a scientist turns up dead and a humanoid robot is the main suspect, the world is,left to wonder if they are as safe around their electronic servants as previously thought. Will Smith stars as Del Spooner, the robot-hating Chicago cop assigned to the murder investigation. Bridget Moynahan, Bruce Greenwood, James Cromwell, and Chi McBride also star. ~ Matthew Tobey, Rovi	1
+COL RatingCount VAL 206,167	1
+COL Name VAL My Darling Clementine	0
+COL Year VAL 2014	0
+COL Id VAL american_splendor	1
+COL Name VAL Corpse Bride	0
+COL RatingCount VAL 3,074	1
+COL RatingCount VAL 4,219	1
+COL ReviewCount VAL 13 user,10 critic	0
+COL Language VAL English	0
+COL Filming Locations VAL Pacific Electric Building, Los Angeles, California, USA	0
+COL RatingCount VAL 126,556	1
+COL Country VAL USA	0
+COL Duration VAL 117 min	0
+COL Year VAL 2017	0
+COL Cast VAL Leonard Maltin,John Bloom,Samuel Z. Arkoff,Jon Bokenkamp,Ewing Miles Brown,Jeanne Carmen,Barry Corbin,Robert Fuller,Beverly Garland,Burton Gilliam,Michael Granberry,George Harrison,Elvis Presley,Ann Robinson,Don Sanders	0
+COL Director VAL Stanley Kubrick	0
+COL Creator VAL Eric Darnell,Noah Baumbach	0
+COL Year VAL 2010 2011 2012	1
+COL RatingCount VAL 2,814	1
+COL RatingCount VAL 300,963	1
+COL Description VAL Having decided to ditch the city in favor of the suburbs, a newly formed family purchases a quaint 'fixer-upper' that proves to be more trouble than they could have ever anticipated in a rollicking family comedy that's half sequel to Are We There Yet?, and half remake of Mr. Blandings Builds His Dream House. Nick (Ice Cube) and Suzanne (Nia Long) have tied the knot, and now the couple is looking for a suitable home in which to raise their family. What better place to bring up adolescents Lindsey,(Aleisha Allen) and Kevin (Philip Daniel Bolden) than a quiet house in the suburbs? Despite their outward excitement at the prospect of moving into their very own home, the family soon discovers that dreams don't come easy as eccentric contractor Chuck Mitchell (John C. McGinley) clashes with the head of the family while forming a frustratingly close bond with his wife and two step-children. As the promising fixer-upper begins to pose a serious threat to the burgeoning family's bank account, Nick gradually begins to realize that the suburban dream doesn't come cheap.	1
+COL Actors VAL John Hurt,Christopher Benjamin,James Bolam	0
+COL Release Date VAL 1 October 2010 (USA)	0
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 16,816	1
+COL Genre VAL Comedy,Fantasy,Horror	0
+COL RatingCount VAL 5,214	1
+COL RatingCount VAL 1,549	1
+COL Country VAL USA	0
+COL Description VAL The life of the greatest karate master of a generation.	0
+COL RatingCount VAL 3,987	1
+COL Genre VAL Comedy	0
+COL RatingCount VAL 114,320	1
+COL Year VAL 1999 2000 2001	1
+COL RatingCount VAL 2,158	1
+COL Description VAL A London woman's love life and career both hinge, unknown to her, on whether or not she catches a train. We see it both ways, in parallel.	0
+COL ReviewCount VAL 53 user,43 critic	0
+COL RatingValue VAL 6.8	0
+COL Genre VAL Television,Comedy	1
+COL RatingCount VAL 133,048	1
+COL RatingCount VAL 5,166	1
+COL RatingCount VAL 1,427	1
+COL Country VAL USA	0
+COL RatingCount VAL 15,293	1
+COL RatingCount VAL 7,102	1
+COL Year VAL 1951	0
+COL Country VAL USA,Canada	0
+COL RatingCount VAL 1,584	1
+COL Creator VAL Carlo Nicoletta,Carlo Nicoletta	0
+COL Release Date VAL Feb 13, 1953 Wide	1
+COL RatingCount VAL 46,449	1
+COL RatingCount VAL 45,363	1
+COL RatingCount VAL 46,077	1
+COL Language VAL English,Spanish	0
+COL Actors VAL Angels & Airwaves,Critter,Thomas DeLonge	0
+COL Filming Locations VAL Barstow, California, USA	0
+COL RatingCount VAL 9,608	1
+COL RatingCount VAL 125,748	1
+COL RatingCount VAL 3,514	1
+COL RatingValue VAL 6.0	1
+COL Id VAL 1941	1
+COL RatingCount VAL 35,168	1
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Name VAL Superbabies: Baby Geniuses 2	0
+COL Duration VAL 86 min	0
+COL RatingCount VAL 1,657	1
+COL RatingCount VAL 81,037	1
+COL RatingCount VAL 79,747	1
+COL Release Date VAL Mar 5, 1999 Wide	1
+COL RatingCount VAL 127,826	1
+COL ReviewCount VAL 34 user,4 critic	0
+COL RatingValue VAL 7.0	1
+COL Language VAL English	0
+COL Year VAL 2015	0
+COL Creator VAL Dyan Cannon,Jill Gordon	1
+COL Cast VAL Goldie Hawn,Chevy Chase,Burgess Meredith,Rachel Roberts,Eugene Roche,Dudley Moore,Marilyn Sokol,Brian Dennehy,Marc Lawrence,Chuck McCann,Billy Barty,Don Calfa,Bruce Solomon,Cooper Huckabee,Pat Ast	0
+COL Cast VAL Ray Wise,Ben Browder,Elle LaMont,Gavin Casalegno,Carrie Lazar,Steffie Grote,Toby Nichols,Han Soto,Natalie Mejer,Lawrence Turner,Evelyn Boyle,Corey Mendell Parker,Luke J. Watson,Joshua Probus,Shawn Sanz	0
+COL Actors VAL John Allen Phillips,Lance Aaron,Aidan Bristow	0
+COL Genre VAL Crime,Drama,Film-Noir	0
+COL RatingCount VAL 10,994	1
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Description VAL Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.	0
+COL Creator VAL John J. McLaughlin,Scott Lobdell	0
+COL Year VAL 2000	0
+COL Release Date VAL 11 September 2015 (USA)	0
+COL RatingValue VAL 2.8	0
+COL Id VAL tt0181536	0
+COL Language VAL English,Spanish	0
+COL RatingCount VAL 41,583	1
+COL RatingCount VAL 59,384	1
+COL RatingCount VAL 2,937	1
+COL RatingCount VAL 10,612	1
+COL Name VAL American Splendor	0
+COL Director VAL Jack Conway	0
+COL RatingCount VAL 8,457	1
+COL RatingCount VAL 249,850	1
+COL Genre VAL Documentary	0
+COL RatingCount VAL 2,480	1

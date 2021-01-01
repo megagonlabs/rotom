@@ -1,0 +1,100 @@
+COL HospitalType VAL acute care hospitaxs	1
+COL CountyName VAL chilton	0
+COL Condition VAL heart attack	0
+COL HospitalName VAL marshall medical cenxer norxh	1
+COL State VAL al	0
+COL HospitalOwner VAL government - hospxtal dxstrxct or authorxty	1
+COL Sample VAL 1x patients	1
+COL ZipCode VAL 36x78	1
+COL HospitalOwner VAL voluntary non-profit - other	0
+COL City VAL valley	0
+COL HospitalType VAL acutexcarexhospitals	1
+COL EmergencyService VAL yes	0
+COL City VAL winfielx	1
+COL Stateavg VAL al_pnx6	1
+COL HospitalOwner VAL volxntary non-profit - chxrch	1
+COL HospitalOwner VAL voluxtary xox-profit - private	1
+COL ZipCode VAL 35640	0
+COL EmergencyService VAL xes	1
+COL Condition VAL heart attaxk	1
+COL Sample VAL sample	1
+COL Score VAL 100%	0
+COL MeasureName VAL all heaxt suxgexy patients whose blood sugax (blood glucose) is kept undex good contxol in the days xight aftex suxgexy	1
+COL HospitalType VAL acute care hospitals	0
+COL Address2 VAL empty	0
+COL Score VAL 100%	0
+COL City VAL geoxgiana	1
+COL Sample VAL 527 patients	0
+COL State VAL xl	1
+COL Condition VAL suxgical infection pxevention	1
+COL State VAL al	0
+COL HospitalType VAL acuxe care hospixals	1
+COL Address1 VAL 619 south 19th street	0
+COL Sample VAL 50 pxtients	1
+COL Condition VAL hexrt attxck	1
+COL HospitalOwner VAL xroprietary	1
+COL Address1 VAL 4370xwestxmainxstreet	1
+COL index VAL 947	0
+COL Score VAL 93x	1
+COL Sample VAL 0 patients	0
+COL ZipCode VAL 36360	0
+COL Sample VAL 121 patiexts	1
+COL CountyName VAL montgomery	0
+COL Condition VAL pneumonia	0
+COL Condition VAL hxart failurx	1
+COL CountyName VAL butxer	1
+COL PhoneNumber VAL 3343762205	0
+COL ZipCode VAL 36617	0
+COL Sample VAL 130 patients	0
+COL Stateavg VAL al_ami-4	0
+COL index VAL 240	0
+COL CountyName VAL elmore	0
+COL ProviderNumber VAL 1004x	1
+COL CountyName VAL houston	0
+COL State VAL ax	1
+COL PhoneNumber VAL 33422284xx	1
+COL PhoneNumber VAL 334x3xx221	1
+COL HospitalName VAL university of alabama hospital	0
+COL HospitalType VAL acute care hosxitals	1
+COL Address1 VAL 1256 military street south	0
+COL HospitalOwner VAL voxuntary non-profit - church	1
+COL HospitalOwner VAL prxprietary	1
+COL Stateavg VAL al_pn-5x	1
+COL EmergencyService VAL yex	1
+COL City VAL vxlley	1
+COL ProviderNumber VAL 10008	0
+COL City VAL anchoraxe	1
+COL CountyName VAL fayexxe	1
+COL EmergencyService VAL yes	0
+COL EmergencyService VAL xes	1
+COL Score VAL empty	0
+COL index VAL 252	0
+COL HospitalType VAL acute care hxspitals	1
+COL index VAL 158	0
+COL ProviderNumber VAL 10032	0
+COL ProviderNumber VAL 1xx16	1
+COL ProviderNumber VAL 10033	0
+COL HospitalOwner VAL proprietary	0
+COL ProviderNumber VAL 10108	0
+COL Address2 VAL empty	0
+COL CountyName VAL monxgomery	1
+COL City VAL boxz	1
+COL HospitalType VAL acutx carx hospitals	1
+COL Stateavg VAL al_scip-inf-3	0
+COL Score VAL 9x%	1
+COL Stateavg VAL al_pn-7	0
+COL CountyName VAL chambers	0
+COL Condition VAL surgical infection prevention	0
+COL HospitalType VAL acuxe care hospixals	1
+COL Condition VAL heart failure	0
+COL Address1 VAL 200 med center drive	0
+COL HospitalName VAL elba general hospital	0
+COL State VAL al	0
+COL Stateavg VAL al_hf-x	1
+COL State VAL xl	1
+COL City VAL boaz	0
+COL Score VAL empty	0
+COL State VAL ax	1
+COL MeasureName VAL hxart attack patixnts givxn ace inhibitor or arb for lxft vxntricular systolic dysfunction (lvsd)	1
+COL Address1 VAL 1720 university blvd	0
+COL Address3 VAL empty	0

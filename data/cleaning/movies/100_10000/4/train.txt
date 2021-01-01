@@ -1,0 +1,100 @@
+COL Director VAL Charles Martin Smith	0
+COL Duration VAL 109 min	0
+COL Year VAL 2008 2009 2010	1
+COL RatingCount VAL 46,249	1
+COL RatingValue VAL 4/10,4.2/10	1
+COL RatingCount VAL 1,496	1
+COL Creator VAL Beth Henley,Beth Henley	0
+COL RatingCount VAL 5,843	1
+COL Name VAL Ramona and Beezus	0
+COL RatingCount VAL 25,868	1
+COL Release Date VAL 1 October 2010 (USA)	0
+COL RatingCount VAL 10,446	1
+COL RatingValue VAL 	1
+COL RatingCount VAL 1,569	1
+COL Country VAL USA,UK	0
+COL Release Date VAL 31 July 2015 (USA)	0
+COL RatingCount VAL 22,352	1
+COL Release Date VAL Jan 30, 1998 Limited	1
+COL Name VAL I Am Not a Rock Star	0
+COL RatingCount VAL 38,748	1
+COL RatingCount VAL 1,885	1
+COL ReviewCount VAL 433 user,181 critic	0
+COL RatingCount VAL 110,463	1
+COL Filming Locations VAL 	0
+COL Language VAL English	0
+COL Country VAL USA	0
+COL Language VAL English,Polish	0
+COL Genre VAL Drama,Thriller	0
+COL RatingCount VAL 15,288	1
+COL Year VAL 2008	0
+COL Filming Locations VAL Flagstaff, Arizona, USA	0
+COL Description VAL Uruguayan rugby team stranded in the snow swept Andes are forced to use desperate measures to survive after a plane crash.	0
+COL RatingCount VAL 69,483	1
+COL Filming Locations VAL Santa Cruz, California, USA	0
+COL Year VAL 2014	0
+COL RatingValue VAL 7.0	1
+COL Director VAL Nadia Conners,Leila Conners Petersen	1
+COL Release Date VAL 2 June 2000 (USA)	0
+COL RatingCount VAL 445,310	1
+COL RatingCount VAL 12,964	1
+COL RatingCount VAL 1,220	1
+COL Id VAL tt0101507	0
+COL RatingCount VAL 66,616	1
+COL RatingCount VAL 28,640	1
+COL Filming Locations VAL Stage 22, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA	0
+COL Description VAL Hector is a star basketball player for the College basketball team he plays for, the Leopards. His girlfriend, Olive, doesn't know whether to stay with him or leave him. And his friend, ...	0
+COL RatingCount VAL 210,746	1
+COL Id VAL baby_boy	1
+COL RatingValue VAL 4.8/10,4.4/10	1
+COL RatingCount VAL 58,892	1
+COL Name VAL A Clockwork Orange	0
+COL RatingCount VAL 147,357	1
+COL Release Date VAL 6 March 2015 (USA)	0
+COL RatingCount VAL 42,419	1
+COL Country VAL USA	0
+COL Duration VAL 85 min	0
+COL Director VAL Mel Brooks	0
+COL RatingCount VAL 5,426	1
+COL ReviewCount VAL 32 user,22 critic	0
+COL Director VAL Richard Williams	0
+COL Name VAL The Star Chamber	0
+COL RatingCount VAL 43,295	1
+COL RatingCount VAL 14,306	1
+COL RatingCount VAL 2,814	1
+COL Id VAL tt0969250	0
+COL Year VAL 1997	0
+COL RatingCount VAL 25,996	1
+COL Actors VAL Johnny Depp,Angelina Jolie,Paul Bettany	0
+COL RatingCount VAL 1,450	1
+COL RatingCount VAL 29,522	1
+COL Creator VAL John Singleton	0
+COL RatingCount VAL 282,396	1
+COL RatingCount VAL 1,284	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 7.1	0
+COL Creator VAL J. Mills Goodloe,Will Fetters	0
+COL RatingCount VAL 2,654	1
+COL Description VAL Romance in the '80s provides the underlying theme of this off-beat comedy-drama about the tangled interrelationships between an emotionally unstable, insecure bar owner who is irresistibly attractive to men, a neurotic Seattle radio psychologist who bills herself as 'Dr. Love' but has little hands on experience with love, and a fast-talking, womanizing genius with a pathological tendency to lie.	1
+COL RatingCount VAL 170,219	1
+COL RatingCount VAL 12,885	1
+COL Id VAL tt0251075	0
+COL Name VAL Earth to Echo	0
+COL RatingCount VAL 14,718	1
+COL RatingValue VAL 4.4/10,4.1/10	1
+COL Duration VAL 111 min	0
+COL Language VAL English	0
+COL Filming Locations VAL Railroad Creek, Washington, USA	0
+COL RatingValue VAL 5.5	0
+COL ReviewCount VAL 35 user,6 critic	0
+COL Id VAL tt1486843	0
+COL RatingCount VAL 17,340	1
+COL RatingCount VAL 347,852	1
+COL RatingCount VAL 	0
+COL Language VAL English	0
+COL RatingCount VAL 21	0
+COL RatingCount VAL 36,768	1
+COL ReviewCount VAL 129 user,153 critic	0
+COL Description VAL Cloudy with a Chance of Meatballs 2 picks up where Sony Pictures Animation's hit comedy left off. Inventor Flint Lockwood's genius is finally being recognized as he's invited by his idol Chester V to join The Live Corp Company, where the best and brightest inventors in the world create technologies for the betterment of mankind. Chester's right-hand-gal - and one of his greatest inventions - is Barb (a highly evolved orangutan with a human brain, who is also devious, manipulative and likes to,wear lipstick). It's always been Flint's dream to be recognized as a great inventor, but everything changes when he discovers that his most infamous machine (which turns water into food) is still operating and is now creating food-animal hybrids - 'foodimals!' With the fate of humanity in his hands, Chester sends Flint and his friends on a dangerously delicious mission, battling hungry tacodiles, shrimpanzees, apple pie-thons, double bacon cheespiders and other food creatures to save the world again!	1
+COL Description VAL A college dropout gets a job as a broker for a suburban investment firm, which puts him on the fast track to success, but the job might not be as legitimate as it sounds.	0
+COL RatingCount VAL 11,207	1

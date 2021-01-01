@@ -1,0 +1,50 @@
+COL City VAL cuxxman	1
+COL Sample VAL 4 patiexts	1
+COL State VAL xl	1
+COL PhoneNumber VAL 33x8972257	1
+COL ZipCode VAL 359x8	1
+COL HospitalName VAL xlxskx regionxl hospitxl	1
+COL Score VAL 80x	1
+COL CountyName VAL xlarke	1
+COL HospitalType VAL acute caxe hospitals	1
+COL CountyName VAL xe kalb	1
+COL CountyName VAL madisxn	1
+COL State VAL ax	1
+COL State VAL ax	1
+COL Address1 VAL 702xnxmainxst	1
+COL Stateavg VAL alxpn-3b	1
+COL Sample VAL x patients	1
+COL Address1 VAL 201 pine sxreex norxhwesx	1
+COL PhoneNumber VAL 2568453x50	1
+COL Stateavg VAL al_scipxvtex2	1
+COL MeasureCode VAL pn-xb	1
+COL State VAL xl	1
+COL Condition VAL xneumonia	1
+COL City VAL andaluxia	1
+COL Score VAL 1xx%	1
+COL CountyName VAL jexxerson	1
+COL index VAL 336	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL Sample VAL 167 patients	0
+COL Sample VAL 2 patients	0
+COL State VAL al	0
+COL HospitalType VAL acute care hospitals	0
+COL Address2 VAL empty	0
+COL HospitalOwner VAL voluntary non-profit - church	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Address1 VAL 987 drayton street	0
+COL MeasureCode VAL hf-1	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL Stateavg VAL al_pn-4	0
+COL PhoneNumber VAL 3347938701	0
+COL Address2 VAL empty	0
+COL City VAL hamilton	0
+COL Address3 VAL empty	0
+COL HospitalOwner VAL proprietary	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalType VAL acute care hospitals	0
+COL CountyName VAL morgan	0
+COL index VAL 719	0
+COL State VAL al	0

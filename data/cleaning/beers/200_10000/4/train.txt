@@ -1,0 +1,200 @@
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL abv VAL 0.067%	1
+COL ounces VAL 12.0 oz	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.054000000000000006%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.067%	1
+COL state VAL 	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL city VAL Chico CA	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055999999999999994%	1
+COL abv VAL 0.07%	1
+COL abv VAL 0.087%	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.055%	1
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.045%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL city VAL Framingham MA	1
+COL abv VAL 0.08%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL abv VAL 0.038%	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.059000000000000004%	1
+COL ibu VAL N/A	1
+COL city VAL Portland OR	1
+COL ibu VAL N/A	1
+COL city VAL Angola IN	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.049%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL id VAL 1097	0
+COL brewery-name VAL Crow Peak Brewing Company	0
+COL city VAL Denver	0
+COL beer-name VAL Dam Lager	0
+COL ibu VAL 35	0
+COL beer-name VAL Brotherhood Steam	0
+COL state VAL MO	0
+COL id VAL 644	0
+COL ibu VAL 27	0
+COL city VAL Astoria	0
+COL brewery_id VAL 453	0
+COL city VAL Brooklyn Center	0
+COL beer-name VAL Harpoon Summer Beer (2010)	0
+COL beer-name VAL Saddle Bronc Brown Ale (2013)	0
+COL brewery_id VAL 155	0
+COL brewery_id VAL 249	0
+COL id VAL 963	0
+COL beer-name VAL Weiss Weiss Baby	0
+COL brewery_id VAL 292	0
+COL state VAL MO	0
+COL style VAL Belgian Pale Ale	0
+COL index VAL 1444	0
+COL beer-name VAL Point Special	0
+COL ibu VAL 47	0
+COL beer-name VAL Black Exodus	0
+COL beer-name VAL Couch Select Lager	0
+COL index VAL 1906	0
+COL style VAL American Porter	0
+COL brewery_id VAL 543	0
+COL style VAL American Dark Wheat Ale	0
+COL state VAL MA	0
+COL index VAL 724	0
+COL beer-name VAL Sunlight Cream Ale	0
+COL style VAL Shandy	0
+COL style VAL Saison / Farmhouse Ale	0
+COL beer-name VAL Zaison (2012)	0
+COL index VAL 202	0
+COL brewery-name VAL Figueroa Mountain Brewing Company	0
+COL brewery-name VAL Barrio Brewing Company	0
+COL style VAL Märzen / Oktoberfest	0
+COL beer-name VAL Centennial IPA	0
+COL style VAL American IPA	0
+COL style VAL American Pilsner	0
+COL abv VAL 0.043	0
+COL style VAL American IPA	0
+COL abv VAL 0.062	0
+COL beer-name VAL Old Soul	0
+COL id VAL 2391	0
+COL style VAL Hefeweizen	0
+COL brewery_id VAL 158	0
+COL brewery-name VAL Brewery Vivant	0
+COL city VAL Santa Cruz	0
+COL ibu VAL 58	0
+COL beer-name VAL The Tradition	0
+COL state VAL CA	0
+COL abv VAL 0.055	0
+COL abv VAL 0.097	0
+COL beer-name VAL Sun King Oktoberfest	0
+COL id VAL 326	0
+COL id VAL 2012	0
+COL id VAL 2460	0
+COL style VAL American Pale Ale (APA)	0
+COL index VAL 2287	0
+COL brewery-name VAL Saint Archer Brewery	0
+COL id VAL 81	0
+COL state VAL IA	0
+COL id VAL 1768	0
+COL id VAL 1976	0
+COL index VAL 842	0
+COL city VAL Eau Claire	0
+COL brewery-name VAL Grand Canyon Brewing Company	0
+COL id VAL 1051	0
+COL id VAL 533	0
+COL brewery-name VAL Mikerphone Brewing	0
+COL beer-name VAL Lost River Blonde Ale	0
+COL beer-name VAL Up River Light	0
+COL abv VAL 0.06	0
+COL beer-name VAL Gangway IPA	0
+COL ibu VAL 45	0
+COL id VAL 1432	0
+COL index VAL 1827	0
+COL city VAL Slippery Rock	0
+COL abv VAL 0.067	0
+COL style VAL American Pale Ale (APA)	0
+COL city VAL Indianapolis	0
+COL id VAL 2534	0
+COL state VAL MD	0
+COL index VAL 924	0
+COL state VAL WI	0
+COL index VAL 1219	0
+COL brewery_id VAL 203	0
+COL brewery-name VAL Lift Bridge Brewing Company	0
+COL brewery-name VAL Hopworks Urban Brewery	0
+COL abv VAL 0.048	0
+COL index VAL 565	0
+COL style VAL American Pale Ale (APA)	0
+COL style VAL Scotch Ale / Wee Heavy	0
+COL brewery-name VAL Hardywood Park Craft Brewery	0
+COL brewery-name VAL Mustang Brewing Company	0
+COL index VAL 573	0

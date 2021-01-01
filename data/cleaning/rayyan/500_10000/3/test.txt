@@ -1,0 +1,220 @@
+COL article_jcreated_at VAL 9/1/14	1
+COL article_jvolumn VAL 7457	0
+COL article_jcreated_at VAL 1/1/05	1
+COL journal_issn VAL 2154-4212	0
+COL id VAL 558738	0
+COL journal_issn VAL 0950-9240 (Print) 0950-9240	0
+COL journal_title VAL Female pelvic medicine & reconstructive surgery	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Preliminary results from a single institutional prospective study of alemtuzumab for the treatment of steroid refractory acute graft versus host disease in pediatrics	0
+COL journal_title VAL CLINICAL TRIALS	0
+COL id VAL 260738	0
+COL jounral_abbreviation VAL International journal of epidemiology	0
+COL journal_issn VAL 1083-8791	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 3	0
+COL jounral_abbreviation VAL Biol.Blood Marrow Transplant.	0
+COL journal_title VAL 	0
+COL article_jvolumn VAL 35	0
+COL article_jcreated_at VAL 8/1/09	1
+COL article_title VAL An evaluation of the effectiveness of recruitment methods: The staying well after depression randomized controlled trial	0
+COL jounral_abbreviation VAL Journal of human hypertension	0
+"COL author_list VAL {""D. W. Branch""}"	0
+COL journal_title VAL Biology of Blood and Marrow Transplantation	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL Tumour Biol.	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 	1
+COL article_jvolumn VAL 26	0
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 1/1/91	0
+COL journal_title VAL Clin Obstet Gynecol	0
+"COL author_list VAL {""Z Hofman"",""L H Nelissen"",""M A Vermeeren"",""A van Lier"",""E F Wouters"",""A M Schols""}"	0
+COL article_jvolumn VAL 39	0
+"COL author_list VAL {""Hawkey C."",""Gorbutt N."",""Guiblin H."",""Kong A."",""Beattie A."",""Curran J."",""Kamath B.""}"	0
+COL article_title VAL Mega-ampere submicrosecond generator GIT-32	0
+COL article_pagination VAL 141-149	0
+COL article_title VAL Antimicrobial susceptibility among Gram-positive organisms collected from pediatric patients globally between 2004 and 2011: results from the Tigecycline Evaluation and Surveillance Trial	0
+COL article_pagination VAL 33501	0
+COL article_jissue VAL 7	0
+COL article_language VAL eng	0
+COL article_pagination VAL 617-23	0
+COL article_pagination VAL 295-301	0
+COL article_jissue VAL 0	0
+COL article_pagination VAL 71-80	0
+"COL author_list VAL {""E. V. Kumpyak"",""V. N. Kiselev"",""A. V. Kharlov"",""V. V. Chupin"",""A. V. Morozov"",""B. M. Kovalchuk"",""V. B. Zorin""}"	0
+COL journal_issn VAL 0300-5771 (Print) 0300-5771	0
+COL journal_title VAL International Journal of Colorectal Disease	0
+COL article_pagination VAL i48-55	0
+"COL article_title VAL Long-term survival after ""liver first"" approach for locally advanced rectal cancer and synchronous liver metastases"	0
+COL journal_title VAL Proceedings of SPIE - The International Society for Optical Engineering	0
+COL journal_title VAL Review of Scientific Instruments	0
+COL article_jissue VAL 4	0
+COL article_jissue VAL 7	0
+COL journal_title VAL Int J Epidemiol	0
+COL id VAL 685456	0
+COL article_title VAL Combined use of caudal bupivacaine and rectal diclofenac is not superior to the use of each analgesic regimen alone	0
+COL article_jvolumn VAL 21	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""C. Gruppi"",""C. Medeiros"",""C. D. Frimm"",""M. Curi"",""E. Krieger"",""B. Trezza""}"	0
+COL id VAL 894794	0
+COL journal_title VAL 	0
+COL article_language VAL 	0
+COL id VAL 752075	0
+"COL author_list VAL {""A. M. Navar"",""N. A. Halsey"",""C. R. Sudfeld""}"	0
+COL article_language VAL English	0
+COL article_pagination VAL 1147-60	0
+COL article_pagination VAL 2371-8	1
+COL article_jcreated_at VAL 2/1/01	1
+COL article_pagination VAL 1343S-1353S	0
+COL article_jissue VAL 2	0
+COL id VAL 226417	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 814758	0
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 10/27/14	0
+COL journal_issn VAL 1423-0380	0
+COL article_title VAL Acute effects of different nutritional supplements on symptoms and functional capacity in patients with chronic obstructive pulmonary disease.	0
+COL id VAL 255382	0
+"COL author_list VAL {""[Collective Name] American Thoracic Society Respiratory Impairment and Disability Evaluation Group"",""Philip Harber"",""Margaret C Haggerty"",""Christopher G Slatore""}"	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""A. Filipovich"",""M. Jordan"",""S. Davies"",""R. Marsh"",""P. Khandelwal"",""M. Grimley"",""S. Chandra"",""A. Kumar"",""S. Jodele"",""P.A. Mehta"",""K. Myers"",""J. Bleesing""}"	0
+COL article_title VAL Polymorphisms of the XPC gene may contribute to the risk of head and neck cancer: a meta-analysis.	0
+COL article_jvolumn VAL 28	0
+COL journal_issn VAL 	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Effectiveness of measles vaccination and vitamin A treatment	0
+COL id VAL 946487	0
+COL article_jissue VAL 6	0
+COL article_jvolumn VAL 72	0
+"COL author_list VAL {""A. Hueni"",""Paul E. Kneubuehler, M.     ED  - Shen, Sylvia S.     ED  - Lewis""}"	0
+COL article_jissue VAL 5	0
+COL article_title VAL Measurement of muscle architecture concurrently with muscle hardness using ultrasound strain elastography.	0
+COL jounral_abbreviation VAL Br.J.Anaesth.	0
+COL article_title VAL Pharmacoeconomic Evaluation of Tiotropium Bromide in the Long-Term Treatment of Chronic Obstructive Pulmonary Disease (COPD) in Italy	0
+COL article_jcreated_at VAL 1/1/00	0
+COL article_jcreated_at VAL 1/1/99	0
+COL journal_title VAL Acta radiologica (Stockholm, Sweden : 1987)	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 0	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""S. Iannazzo"",""M. Miravitlles"",""L. Pradelli"",""O. Zaniolo""}"	0
+COL article_jcreated_at VAL 6/1/02	1
+"COL author_list VAL {""Danielle Duggan"",""J. Mark G. Williams"",""Isabelle Rudolf von Rohr"",""Catherine Crane"",""Adele Krusche"",""Kate Muse""}"	0
+COL journal_issn VAL Feb-65	0
+COL article_jissue VAL 0	0
+COL article_pagination VAL 833-9	0
+COL article_pagination VAL 	0
+COL id VAL 73289	0
+COL journal_issn VAL 0007-0912	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jvolumn VAL 144	0
+COL article_jvolumn VAL 	1
+COL article_language VAL eng	0
+COL article_jvolumn VAL 78	0
+COL article_title VAL An official American Thoracic Society systematic review: Influence of psychosocial characteristics on workplace disability among workers with respiratory impairment.	0
+COL article_pagination VAL 728-730-	0
+COL article_jissue VAL 9	0
+COL id VAL 968815	0
+"COL author_list VAL {""R. P. Troiano"",""M. D. Carroll"",""R. R. Briefel"",""K. Bialostosky""}"	0
+COL jounral_abbreviation VAL Acta Radiol	0
+COL article_jvolumn VAL 0	0
+COL journal_title VAL European Journal of Health Economics	0
+COL journal_title VAL Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine	0
+COL article_pagination VAL 1219-1220	0
+COL journal_title VAL J Hum Hypertens	0
+COL article_language VAL eng	0
+COL journal_issn VAL -4473	0
+COL article_language VAL 	0
+COL journal_title VAL Burns : journal of the International Society for Burn Injuries	0
+COL journal_title VAL Am Rev Respir Dis	0
+COL article_jvolumn VAL 188	0
+COL article_jcreated_at VAL 1/1/86	0
+COL article_jvolumn VAL 73	0
+COL article_jcreated_at VAL 1/1/90	0
+COL jounral_abbreviation VAL Burns	0
+COL journal_issn VAL 1535-4970	0
+"COL author_list VAL {""Katharine O'Dell"",""Padma Kandadai"",""Jyot Saini""}"	0
+COL journal_issn VAL 	0
+COL journal_title VAL Am J Clin Nutr	0
+COL article_pagination VAL 3917-31	0
+COL article_language VAL 	0
+COL article_language VAL 	0
+COL article_title VAL Anaesthesia, movement and emesis	0
+COL jounral_abbreviation VAL Clinical obstetrics and gynecology	0
+COL article_language VAL eng	0
+COL article_language VAL eng	0
+COL article_jissue VAL 9	0
+"COL author_list VAL {""S. L. Lee"",""G. K. Sluis-Cremer"",""P. A. Hessel""}"	0
+COL id VAL 48202	0
+COL jounral_abbreviation VAL The American journal of clinical nutrition	0
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 4/1/14	1
+COL journal_issn VAL 1600-0455	0
+COL article_language VAL eng	0
+COL article_jissue VAL 2	0
+COL id VAL 481173	0
+COL journal_issn VAL Feb-65	0
+COL article_jvolumn VAL 11	0
+"COL author_list VAL {""A. H. Samarkandi""}"	0
+COL article_title VAL Left ventricular hypertrophy predicts outcome of hypertension regardless of the type of ventricular arrhythmia present	0
+COL journal_title VAL Am J Clin Nutr	0
+COL article_language VAL 	0
+COL journal_issn VAL 0009-9201 (Print) 0009-9201	0
+COL article_language VAL eng	0
+"COL author_list VAL {""M. Brandon"",""M. J. Dowzicky""}"	0
+"COL author_list VAL {""Xuejun Chen"",""Yang Zhang"",""Zufei Li"",""Qi Zhong"",""Weiguo Zhou"",""Xiaohong Chen"",""Zhigang Huang"",""Jugao Fang""}"	0
+COL journal_issn VAL 0305-4179	0
+COL article_title VAL Operations for cervical incompetence	0
+COL article_jvolumn VAL 19	0
+COL article_title VAL <title>SPECCHIO: a free spectral data management and processing system</title>	0
+COL article_title VAL Distribution of silicotic collagenization in relation to smoking habits	0
+COL article_jcreated_at VAL 11/1/13	1
+COL article_language VAL 	0
+COL id VAL 6028	0
+COL article_pagination VAL 374-8	0
+COL id VAL 979472	0
+"COL author_list VAL {""Kentaro Chino"",""Hideyuki Takahashi"",""Ryota Akagi"",""Michiko Dohi""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 74570A-74570A-9	0
+COL journal_title VAL American journal of respiratory and critical care medicine	0
+COL id VAL 670823	0
+COL jounral_abbreviation VAL The American review of respiratory disease	0
+COL jounral_abbreviation VAL Am. J. Respir. Crit. Care Med.	0
+COL article_pagination VAL 240-54	0
+COL journal_issn VAL 0003-0805 (Print) 0003-0805	0
+"COL author_list VAL {""M. Heuer"",""S. Radunz"",""A. Paul"",""G. C. Sotiropoulos"",""Z. Mathe"",""T. Trarbach"",""H. A. Baba""}"	0
+COL article_pagination VAL S331-	0
+COL journal_issn VAL 	0
+COL article_title VAL Campfire burns in children: an Australian experience.	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jvolumn VAL 55	0
+COL id VAL 908011	0
+COL article_pagination VAL 297-301	0
+COL article_language VAL eng	0
+COL article_language VAL eng	0
+COL article_language VAL ENG	0
+"COL author_list VAL {""John F Fraser"",""Kelvin L Choo"",""Roy M Kimble""}"	0
+COL jounral_abbreviation VAL Female Pelvic Med Reconstr Surg	0
+COL jounral_abbreviation VAL The American journal of clinical nutrition	0
+COL article_jvolumn VAL 51	0
+COL article_jvolumn VAL 13	0
+COL article_language VAL 	0
+COL id VAL 426134	0
+COL id VAL 979155	0
+COL article_title VAL Correct Performance of Pelvic Muscle Exercises in Women Reporting Prior Knowledge.	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jissue VAL 1	0
+COL id VAL 734259	0
+COL article_jvolumn VAL 13	0
+COL article_title VAL Energy and fat intakes of children and adolescents in the united states: data from the national health and nutrition examination surveys	0
+COL article_jissue VAL 2	0
+COL journal_title VAL British Journal of Anaesthesia	0
+COL article_jissue VAL 9	0
+COL article_jvolumn VAL 29	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jissue VAL 2	0
+COL article_pagination VAL 63-66	0

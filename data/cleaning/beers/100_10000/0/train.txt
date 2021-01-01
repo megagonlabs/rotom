@@ -1,0 +1,100 @@
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL brewery-name VAL Great River Brewery	0
+COL abv VAL 0.048	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL brewery_id VAL 526	0
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL state VAL CA	0
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL 18	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL id VAL 2042	0
+COL ounces VAL 12.0 ounce	1
+COL city VAL Tampa	0
+COL brewery-name VAL Sierra Nevada Brewing Company	0
+COL style VAL Milk / Sweet Stout	0
+COL ounces VAL 12.0 oz	1
+COL state VAL 	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL style VAL Cider	0
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.065	0
+COL ibu VAL N/A	1
+COL ounces VAL 19.2 OZ.	1
+COL ibu VAL N/A	1
+COL index VAL 605	0
+COL brewery-name VAL Bell's Brewery	0
+COL city VAL Anchorage	0
+COL beer-name VAL Sunken Island IPA	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 32.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL id VAL 2462	0
+COL abv VAL 0.049%	1
+COL ounces VAL 12.0 ounce	1
+COL state VAL IN	0
+COL brewery-name VAL Butternuts Beer and Ale	0
+COL brewery_id VAL 30	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL beer-name VAL Clear Creek Ice	0
+COL ounces VAL 12.0 ounce	1
+COL id VAL 1902	0
+COL brewery_id VAL 82	0
+COL ibu VAL N/A	1
+COL city VAL Santa Fe	0
+COL beer-name VAL Deep Ellum Pale Ale	0
+COL style VAL English Dark Mild Ale	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL brewery-name VAL Baxter Brewing Company	0
+COL beer-name VAL Black Me Stout	0
+COL ibu VAL N/A	1
+COL city VAL Houston	0
+COL ibu VAL N/A	1
+COL id VAL 1610	0
+COL id VAL 1588	0
+COL state VAL CO	0
+COL abv VAL 0.055	0
+COL beer-name VAL Wick For Brains	0
+COL style VAL American IPA	0
+COL id VAL 339	0
+COL ibu VAL 99	0
+COL abv VAL 0.052	0
+COL ibu VAL 75	0
+COL brewery_id VAL 544	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL city VAL Brooklyn Center	0
+COL id VAL 2253	0
+COL brewery_id VAL 125	0
+COL brewery-name VAL Berkshire Brewing Company	0
+COL style VAL American IPA	0
+COL index VAL 103	0
+COL brewery-name VAL Widmer Brothers Brewing Company	0
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.06%	1
+COL abv VAL 0.065%	1
+COL ibu VAL N/A	1
+COL city VAL Louisville	0
+COL abv VAL 0.062%	1
+COL ibu VAL 20	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL brewery-name VAL Sun King Brewing Company	0
+COL brewery-name VAL Blue Hills Brewery	0
+COL ibu VAL N/A	1

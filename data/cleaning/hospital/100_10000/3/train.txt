@@ -1,0 +1,100 @@
+COL State VAL state	1
+COL MeasureCode VAL ami-2	0
+COL index VAL 840	0
+COL State VAL xl	1
+COL MeasureName VAL pneumoniaxpatientsxassessedxandxgivenxinfluenzaxvaccination	1
+COL Address1 VAL 515 miranda sx	1
+COL ZipCode VAL 99508	0
+COL HospitalName VAL st vincents hospital	0
+COL Score VAL 9x%	1
+COL HospitalOwner VAL proxrietary	1
+COL EmergencyService VAL yxs	1
+COL MeasureName VAL heart faxlure patxents gxven ace inhxbxtor or arb for left ventrxcular systolxc dysfunctxon (lvsd)	1
+COL Address1 VAL 619 south 19th street	0
+COL index VAL 112	0
+COL HospitalOwner VAL voxuntary non-profit - church	1
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL CountyName VAL marion	0
+COL Address1 VAL 209 xorth maix street	1
+COL HospitalOwner VAL proprietary	0
+COL Address1 VAL 810 st vxncents drxve	1
+COL Sample VAL 99 patients	0
+COL MeasureName VAL pneumonia patients assessed and given influenza vaxxination	1
+COL ZipCode VAL 35594	0
+COL State VAL ax	1
+COL Address3 VAL empty	0
+COL HospitalType VAL acute care hospitals	0
+COL MeasureCode VAL scip-vte-2	0
+COL ProviderNumber VAL x00xx	1
+COL Address2 VAL empty	0
+COL HospitalName VAL huntsvxlle hospxtal	1
+COL MeasureName VAL pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival	1
+COL ZipCode VAL 36784	0
+COL Stateavg VAL al_scipxvtex1	1
+COL Condition VAL pneumonix	1
+COL MeasureCode VAL amx-4	1
+COL ProviderNumber VAL 10046	0
+COL Condition VAL pnxumonia	1
+COL MeasureCode VAL hf-2	0
+COL MeasureCode VAL hf-2	0
+COL HospitalType VAL acute care hoxpitalx	1
+COL MeasureCode VAL hf-2	0
+COL State VAL al	0
+COL Sample VAL 82 patientx	1
+COL Stateavg VAL xl_xmi-5	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL HospitalOwner VAL voluntary non-profit - otxer	1
+COL MeasureCode VAL pn-5c	0
+COL MeasureCode VAL pn-4	0
+COL PhoneNumber VAL 334xxx8466	1
+COL Stateavg VAL ax_pn-2	1
+COL MeasureName VAL surgery pxtients whose doctors ordered trextments to prevent blood clots xfter certxin types of surgeries	1
+COL City VAL sheffxeld	1
+COL EmergencyService VAL yex	1
+COL CountyName VAL dale	0
+COL Condition VAL hearx axxack	1
+COL MeasureCode VAL scip-card-2	0
+COL State VAL ax	1
+COL ZipCode VAL 3xx94	1
+COL City VAL gadsden	0
+COL HospitalOwner VAL proprietary	0
+COL City VAL andaluxia	1
+COL MeasureName VAL pneumonia patients given initial antibiotic(s) within 6 hours after arrival	0
+COL EmergencyService VAL yxs	1
+COL Condition VAL condition	1
+COL Sample VAL 193 paxienxs	1
+COL Condition VAL surgical ixfectiox prevextiox	1
+COL Address1 VAL 2000 pepperell parkway	0
+COL MeasureCode VAL ami-5	0
+COL index VAL 961	0
+COL EmergencyService VAL yex	1
+COL Sample VAL x patients	1
+COL State VAL al	0
+COL City VAL city	1
+COL Score VAL 95%	0
+COL HospitalName VAL xivexview xegional medical centex	1
+COL EmergencyService VAL yes	0
+COL State VAL al	0
+COL Score VAL 100%	0
+COL MeasureCode VAL amix1	1
+COL State VAL al	0
+COL State VAL al	0
+COL MeasureName VAL pneumonix pxtients assessed xnd given influenzx vxccinxtion	1
+COL MeasureCode VAL scxp-xnf-3	1
+COL Address1 VAL 1010 lay dam road	0
+COL PhoneNumber VAL 2564944xxx	1
+COL HospitalOwner VAL owner	1
+COL MeasureName VAL heart attack patients given aspirin at arrival	0
+COL Condition VAL pneumonia	0
+COL index VAL 825	0
+COL ZipCode VAL 3563x	1
+COL MeasureName VAL surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor)	1
+COL HospitalType VAL acute care hospitals	0
+COL Address1 VAL 101 sivley rd	0
+COL State VAL xl	1
+COL CountyName VAL houston	0
+COL HospitalName VAL andalusia regional hospital	0
+COL Stateavg VAL al_scip-vte-1	0
+COL Address3 VAL empty	0
+COL Score VAL 100%	0

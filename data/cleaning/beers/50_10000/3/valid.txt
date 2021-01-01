@@ -1,0 +1,50 @@
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL city VAL Houston TX	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055999999999999994%	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.051%	1
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.047%	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL beer-name VAL White Zombie Ale	0
+COL id VAL 1050	0
+COL abv VAL 0.045	0
+COL brewery-name VAL Cisco Brewers	0
+COL index VAL 1546	0
+COL brewery-name VAL Orlison Brewing Company	0
+COL city VAL Sisters	0
+COL brewery-name VAL Indeed Brewing Company	0
+COL state VAL NJ	0
+COL beer-name VAL Special Amber	0
+COL ibu VAL 60	0
+COL brewery-name VAL Hale's Ales	0
+COL brewery-name VAL 21st Amendment Brewery	0
+COL state VAL IN	0
+COL id VAL 1842	0
+COL ibu VAL 40	0
+COL city VAL Midvale	0
+COL beer-name VAL Hefe Lemon	0
+COL style VAL Light Lager	0
+COL abv VAL 0.065	0
+COL id VAL 2183	0
+COL brewery_id VAL 190	0
+COL beer-name VAL Nonstop Hef Hop	0
+COL index VAL 887	0
+COL id VAL 2606	0

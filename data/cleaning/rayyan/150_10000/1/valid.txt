@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 8/1/14	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 5/1/13	1
+"COL author_list VAL {""R Schwarz"",""J Ernst"",""M Zenger"",""E Br�_hler"",""R Schmidt""}"	1
+"COL author_list VAL {""M. Niewada"",""J. Pawe��ska"",""A. Budaj"",""T. Macioch"",""P. Perkowski""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+COL article_pagination VAL 72-7	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 12/1/03	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 3/1/12	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""J Arana"",""E Rezola"",""A Villanueva"",""M I Intxaurrondo"",""M Su̱ol"",""I Eizaguirre"",""J Garay""}"	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 11/1/13	1
+COL article_jcreated_at VAL 3/1/06	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 2/1/13	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 9/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/6/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""A Philotheou"",""S R Heller"",""J Jendle"",""M-A Gall"",""K K��lendorf"",""G P Ross"",""G Perriello"",""I Pavlic-Renar""}"	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 10/9/15	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 2/1/14	1
+COL article_jcreated_at VAL 7/1/04	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 3/1/07	1
+COL article_jcreated_at VAL 8/1/05	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/03	1
+COL jounral_abbreviation VAL Epilepsy Res.	0
+COL journal_title VAL Circulation Journal	0
+COL article_language VAL 	0
+COL id VAL 610641	0
+COL article_jcreated_at VAL 12/1/00	0
+"COL author_list VAL {""A. J. Ghia"",""V. J. Gonzalez"",""J. D. Tward"",""A. M. Stroup"",""D. K. Gaffney"",""L. Pappas""}"	0
+COL article_jissue VAL 5	0
+COL article_jvolumn VAL 20	0
+COL article_jvolumn VAL 56	0
+COL article_jissue VAL 4	0
+COL article_title VAL Intimate Partner Violence Survivors' Unmet Social Service Needs	0
+COL journal_issn VAL 1347-4820	0
+COL article_title VAL Postamputation pain: epidemiology, mechanisms, and treatment	0
+COL article_pagination VAL 	0
+COL journal_title VAL 	0
+COL journal_issn VAL 	0
+COL article_jvolumn VAL 79	0
+"COL author_list VAL {""S. A. French"",""M. Story"",""P. J. Hannan""}"	0
+COL article_title VAL Diabetes and other comorbidities in breast cancer survival by race/ethnicity: The California breast cancer survivorship consortium (CBCSC)	0
+COL article_jissue VAL 0	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL Archives of surgery (Chicago, Ill. : 1960)	0
+COL id VAL 727134	0
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL The Journal of antimicrobial chemotherapy	0
+COL article_title VAL Abstracts 15	0
+COL article_jcreated_at VAL 1/1/78	0
+COL jounral_abbreviation VAL Best Pract Res Clin Gastroenterol	0
+"COL author_list VAL {""G. Mikus"",""N. Hohmann"",""D. Czock""}"	0
+COL article_language VAL ENG	0
+COL article_jvolumn VAL 78	0
+COL id VAL 915463	0
+COL article_language VAL eng	0
+COL article_pagination VAL 798-805	0
+COL article_title VAL Association between genetic polymorphism of tumor necrosis factor-alpha and risk of oral submucous fibrosis, a pre-cancerous condition of oral cancer.	0
+COL article_jcreated_at VAL 10/24/14	0
+"COL author_list VAL {""Roger S McIntyre"",""Avnish Tripathi"",""Jeanette M Jerrell""}"	0
+COL article_pagination VAL 145-8	0
+COL id VAL 294439	0
+COL article_jissue VAL 0	0
+COL journal_title VAL J. Urol.	0
+COL article_title VAL The exercise prescription: focus on vascular mechanisms.	0
+"COL author_list VAL {""Isabella Soreca"",""Andrea Fagiolini"",""David J Kupfer"",""Bret H Goodpaster"",""Sara B Fleet-Michaliszyn"",""Amy D Otto"",""John M Jakicic""}"	0
+COL article_jvolumn VAL 108	0
+COL id VAL 33728	0
+COL article_pagination VAL 	0
+COL article_jissue VAL 1	0
+COL id VAL 896848	0
+COL article_jvolumn VAL 61	0
+COL journal_title VAL 	0
+COL article_language VAL ENG	0
+COL article_pagination VAL 	0
+COL article_jvolumn VAL 86	0
+COL article_title VAL Internet-delivered exposure and mindfulness based therapy for irritable bowel syndrome--a randomized controlled trial	0
+COL id VAL 77389	0
+COL journal_issn VAL 	0
+COL journal_title VAL Medical Teacher	0
+COL article_language VAL ENG	0
+"COL author_list VAL {""Elefteriades J.A.""}"	0
+COL article_title VAL Differential functional connectivity within an emotion regulation neural network among individuals resilient and susceptible to the depressogenic effects of early life stress.	0
+COL id VAL 627882	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 2331-2337	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 60-61	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 503354	0
+COL article_pagination VAL 413-27	0
+COL jounral_abbreviation VAL Cases journal	0
+COL article_jvolumn VAL 21	0
+COL article_jissue VAL 2	0

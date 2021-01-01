@@ -1,0 +1,100 @@
+COL Director VAL Fritz Lang	0
+COL Duration VAL 	1
+COL Director VAL Patrick Read Johnson	0
+COL RatingCount VAL 7,152	1
+COL Id VAL tt0181739	0
+COL Genre VAL Comedy	1
+COL Language VAL English	0
+COL RatingCount VAL 254,748	1
+COL ReviewCount VAL 520 user,137 critic	0
+COL RatingCount VAL 32,651	1
+COL Director VAL Chuck Workman	0
+COL RatingCount VAL 1,606	1
+COL Description VAL Brutal and batty as a March hare, notorious gangster Bugsy Siegel played a crucial role in making Las Vegas the gambling capitol of the United States. This arresting biopic starring Warren Beatty offers a remarkably cliché-free look at the mobster's life and times.	1
+COL RatingValue VAL 8.0	1
+COL Filming Locations VAL Showline Studios, Toronto, Ontario, Canada	0
+COL Release Date VAL Feb 8, 2013 Wide	1
+COL Creator VAL Dana Stevens	1
+COL RatingValue VAL 6.8/10	1
+COL RatingCount VAL 36,160	1
+COL Creator VAL Joe Camp	0
+COL RatingValue VAL 7.7	0
+COL RatingCount VAL 8,965	1
+COL Year VAL 1990 1991 1992	1
+COL RatingValue VAL 7.0	1
+COL Release Date VAL 8 April 2005 (USA)	0
+COL Description VAL Having decided to ditch the city in favor of the suburbs, a newly formed family purchases a quaint 'fixer-upper' that proves to be more trouble than they could have ever anticipated in a rollicking family comedy that's half sequel to Are We There Yet?, and half remake of Mr. Blandings Builds His Dream House. Nick (Ice Cube) and Suzanne (Nia Long) have tied the knot, and now the couple is looking for a suitable home in which to raise their family. What better place to bring up adolescents Lindsey,(Aleisha Allen) and Kevin (Philip Daniel Bolden) than a quiet house in the suburbs? Despite their outward excitement at the prospect of moving into their very own home, the family soon discovers that dreams don't come easy as eccentric contractor Chuck Mitchell (John C. McGinley) clashes with the head of the family while forming a frustratingly close bond with his wife and two step-children. As the promising fixer-upper begins to pose a serious threat to the burgeoning family's bank account, Nick gradually begins to realize that the suburban dream doesn't come cheap.	1
+COL RatingCount VAL 129,904	1
+COL Description VAL Two seemingly unconnected souls from different corners of the United States make a telepathic bond that allows them to see, hear and feel the others experiences, creating a bond that apparently can't be broken.	0
+COL RatingValue VAL 5.0	1
+COL Genre VAL Drama,Kids & Family	1
+COL Year VAL 2010 2011 2012	1
+COL RatingCount VAL 3,692	1
+COL RatingValue VAL 7.3	0
+COL RatingCount VAL 186,783	1
+COL Actors VAL Cameron Mitchell,Bruce Dern,Diane Ladd	0
+COL Description VAL Michael Apted directed and Lawrence Kasdan wrote the screenplay for this diverting romantic comedy -- a film that attempts to recapture the spirit of an old Spencer Tracy-Katharine Hepburn vehicle. A very subdued John Belushi plays a star columnist for the Chicago Sun-Times named Ernie Souchak (but loosely based on columnist Mike Royko), who uses his column as a direct line to report on the dirty dealings at Chicago City Hall. When his political reports on a local corrupt alderman get too hot,,Ernie is sent to the Rocky Mountains to do a fluff piece on reclusive ornithologist Nell Porter (Blair Brown). Ernie arrives at her mountain hideaway, but Nell is hostile and orders him to leave. Ernie informs her that his guide won't return for a few weeks and she reluctantly permits him to stay. The two first learn to put up with each other and then their aversion slowly turns into love.	1
+COL RatingCount VAL 1,329	1
+COL Release Date VAL 28 February 2007 (Kuwait)	0
+COL Actors VAL Peter Ustinov,Dean Jones,Suzanne Pleshette	0
+COL RatingCount VAL 32,940	1
+COL Genre VAL Thriller	0
+COL Duration VAL 	1
+COL Year VAL 1963	0
+COL Actors VAL Tony Rugnetta,Jacki Vogel,Rudy J. Altenor	0
+COL RatingCount VAL 2,149	1
+COL Genre VAL Mystery & Suspense	1
+COL Duration VAL 1 hr. 38 min.	1
+COL Genre VAL Adventure,Drama,Fantasy	0
+COL Description VAL SIDE EFFECTS is a provocative thriller about Emily and Martin (Rooney Mara and Channing Tatum), a successful New York couple whose world unravels when a new drug prescribed by Emily's psychiatrist (Jude Law) - intended to treat anxiety - has unexpected side effects. (c) Official FB	1
+COL RatingCount VAL 5,323	1
+COL RatingCount VAL 130	0
+COL Country VAL Nepal,USA	0
+COL RatingCount VAL 1,449	1
+COL Year VAL 1933	0
+COL RatingCount VAL 782	0
+COL Name VAL Vendetta	0
+COL ReviewCount VAL 122 user,55 critic	0
+COL RatingCount VAL 1,164	1
+COL Year VAL 1939	0
+COL Year VAL 1977	0
+COL Year VAL 1988	0
+COL RatingCount VAL 31,016	1
+COL Name VAL Screamers	0
+COL RatingValue VAL 	1
+COL Year VAL 2009	0
+COL Description VAL The document tells the story of the social media manhunt that took place in the wake of the Boston marathon bombing.	0
+COL Name VAL The Final Cut	0
+COL RatingCount VAL 1,322	1
+COL Actors VAL Tim Roth,Amanda De Cadenet,David Proval	0
+COL Name VAL Durango Kids	0
+COL RatingCount VAL 2,029	1
+COL RatingCount VAL 1,657	1
+COL RatingCount VAL 75,641	1
+COL Name VAL Carriers	0
+COL RatingCount VAL 85,453	1
+COL Creator VAL Kevin Smith	0
+COL Id VAL tt2538204	0
+COL Creator VAL Jimmy Sangster,Patrick Tilley	0
+COL Duration VAL 77 min	0
+COL RatingValue VAL 6.5	0
+COL RatingCount VAL 1,206	1
+COL Country VAL USA	0
+COL Language VAL English,French,Spanish	0
+COL RatingCount VAL 95,600	1
+COL RatingCount VAL 9,436	1
+COL Genre VAL Drama	1
+COL Description VAL Four young boys find a shipwrecked Japanese sailor during World War II and struggle with the decision to save him.	0
+COL RatingCount VAL 19,226	1
+COL Filming Locations VAL El Casar de Talamanca, Guadalajara, Castilla-La Mancha, Spain	0
+COL Director VAL Robert Zemeckis	0
+COL RatingValue VAL 	0
+COL RatingCount VAL 43,506	1
+COL Creator VAL Dan Sallitt	0
+COL RatingCount VAL 666	0
+COL Duration VAL 	1
+COL RatingCount VAL 84,439	1
+COL RatingValue VAL 6.0	1
+COL Country VAL USA	0
+COL RatingCount VAL 248,128	1
+COL Description VAL PROT is a patient at a mental hospital who claims to be from a far away Planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.	0

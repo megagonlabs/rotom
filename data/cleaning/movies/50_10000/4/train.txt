@@ -1,0 +1,50 @@
+COL RatingCount VAL 4,147	1
+COL RatingCount VAL 47,375	1
+COL RatingValue VAL 5.4/10,4.2/10	1
+COL RatingCount VAL 1,039	1
+COL RatingCount VAL 1,662	1
+COL RatingValue VAL 6.3/10,7.1/10	1
+COL Genre VAL Comedy	1
+COL RatingCount VAL 31,393	1
+COL RatingCount VAL 108,524	1
+COL RatingCount VAL 1,211	1
+COL RatingCount VAL 56,209	1
+COL RatingCount VAL 1,133	1
+COL RatingCount VAL 50,178	1
+COL RatingCount VAL 115,051	1
+COL RatingCount VAL 50,742	1
+COL RatingCount VAL 18,641	1
+COL RatingCount VAL 3,320	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 479,521	1
+COL RatingCount VAL 143,755	1
+COL RatingCount VAL 20,197	1
+COL RatingCount VAL 1,609	1
+COL RatingCount VAL 8,368	1
+COL RatingCount VAL 16,046	1
+COL RatingValue VAL 7.0	1
+COL Duration VAL 91 min	0
+COL Creator VAL Marshall Neilan,Joseph Moncure March	0
+COL Name VAL Two Can Play That Game	0
+COL Actors VAL Ana Claudia Talancón,Colin Hanks,Jordana Spiro	0
+COL Name VAL Ruby Sparks	0
+COL Country VAL USA	0
+COL Name VAL The Merge with Abbie Cornish	0
+COL Name VAL Lady in the Water	0
+COL Duration VAL 93 min	0
+COL Director VAL Joe Lynch	0
+COL Director VAL M. Night Shyamalan	0
+COL Name VAL The Gingerbread Man	0
+COL Name VAL Purple Rain	0
+COL Id VAL tt0277791	0
+COL Language VAL English	0
+COL Country VAL USA	0
+COL Year VAL 1944	0
+COL Creator VAL Michael Cohn	0
+COL Actors VAL Catherine Mary Stewart,George Gilmour,Grace Kennedy	0
+COL Creator VAL Andrew Kevin Walker	0
+COL Director VAL Paul F. Ryan	0
+COL RatingValue VAL 6.2	0
+COL Genre VAL Drama,Romance,War	0
+COL Name VAL Krampus: The Devil Returns	0
+COL Name VAL Chicken Little	0

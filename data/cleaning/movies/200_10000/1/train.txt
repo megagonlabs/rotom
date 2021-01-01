@@ -1,0 +1,200 @@
+COL RatingCount VAL 15,839	1
+COL RatingCount VAL 160,618	1
+COL RatingCount VAL 144,604	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 13,371	1
+COL RatingCount VAL 2,480	1
+COL Creator VAL Darren Lynn Bousman,Leigh Whannell	1
+COL RatingCount VAL 1,367	1
+COL RatingCount VAL 159,781	1
+COL RatingCount VAL 112,083	1
+COL RatingValue VAL 5/10,5.1/10	1
+COL Id VAL rush_hour_2	1
+COL RatingCount VAL 137,163	1
+COL Duration VAL 1 hr. 39 min.	1
+COL Release Date VAL Aug 1, 2014 Limited	1
+COL RatingCount VAL 23,041	1
+COL RatingCount VAL 5,319	1
+COL RatingCount VAL 9,476	1
+COL RatingCount VAL 144,277	1
+COL RatingCount VAL 62,509	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 24,560	1
+COL RatingCount VAL 2,865	1
+COL RatingCount VAL 36,817	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 177,330	1
+COL RatingValue VAL 6.2/10,5.5/10	1
+COL RatingValue VAL 6.5/10,6.6/10	1
+COL RatingCount VAL 36,532	1
+COL RatingCount VAL 1,967	1
+COL RatingCount VAL 5,966	1
+COL RatingCount VAL 56,580	1
+COL RatingCount VAL 91,433	1
+COL RatingValue VAL 6.8/10,7.7/10	1
+COL RatingValue VAL 8.0	1
+COL Year VAL 2009 2010 2011	1
+COL RatingCount VAL 2,233	1
+COL RatingCount VAL 137,568	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 1,001	1
+COL RatingValue VAL 6.0	1
+COL Genre VAL Drama,Action & Adventure,Mystery & Suspense	1
+COL RatingValue VAL 8.0	1
+COL Id VAL 1004151-christmas_story	1
+COL RatingCount VAL 325,004	1
+COL RatingCount VAL 1,884	1
+COL RatingCount VAL 65,443	1
+COL Description VAL Based on the graphic novel by James O'Barr, this fantasy follows Eric Draven (Brandon Lee), a rock musician who is murdered along with his fiancée, Shelly (Sofia Shinas), by a group of marauding thugs who terrorize the decaying city in which they live. One year to the day after his death (which happens to be Devil's Night), a mystical crow appears at Eric's grave; Eric rises from the dead and, with the bird as his guide, goes on a mission to avenge himself against Top Dollar (Michael Wincott),,the leader of the gang who killed him. Star Brandon Lee was killed while filming a scene in which he was shot with a shell from an improperly cleaned gun that was supposed to be loaded with blanks. Like his father, martial arts superstar Bruce Lee, Brandon was fated to enjoy his greatest popular success after his premature death. ~ Mark Deming, Rovi	1
+COL RatingCount VAL 21,230	1
+COL RatingCount VAL 24,101	1
+COL RatingCount VAL 497,756	1
+COL RatingCount VAL 4,197	1
+COL RatingCount VAL 1,374	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 24,542	1
+COL RatingCount VAL 12,462	1
+COL RatingCount VAL 82,741	1
+COL Id VAL 1023461-when_a_stranger_calls	1
+COL Creator VAL James Toback	1
+COL Genre VAL Animation,Kids & Family,Musical & Performing Arts,Classics,Science Fiction & Fantasy	1
+COL RatingValue VAL 4.0	1
+COL RatingCount VAL 46,303	1
+COL RatingCount VAL 5,216	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 5,832	1
+COL RatingCount VAL 1,882	1
+COL RatingCount VAL 89,173	1
+COL RatingValue VAL 5.4/10,5.4/10	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 6,675	1
+COL RatingCount VAL 6,145	1
+COL RatingCount VAL 463,740	1
+COL RatingValue VAL 7.0	1
+COL Creator VAL Harvey Pekar,Shari Springer Berman,Robert Pulcini	1
+COL RatingCount VAL 34,257	1
+COL Id VAL alligator	1
+COL RatingCount VAL 19,020	1
+COL RatingCount VAL 17,205	1
+COL RatingCount VAL 10,393	1
+COL RatingCount VAL 41,730	1
+COL RatingCount VAL 84,422	1
+COL RatingCount VAL 10,143	1
+COL Duration VAL 	1
+COL RatingCount VAL 11,346	1
+COL RatingCount VAL 14,216	1
+COL RatingValue VAL 5.4/10,4.9/10	1
+COL RatingCount VAL 3,404	1
+COL Duration VAL 1 hr. 21 min.	1
+COL RatingCount VAL 171,537	1
+COL Description VAL Opting for light entertainment after the critical satire of Shampoo (1975), producer-director-writer-star Warren Beatty remade the 1941 comic fantasy Here Comes Mr. Jordan. Dimly amiable L.A. Rams quarterback Joe Pendleton (Beatty) is prematurely called to Heaven by an over-eager escort (Buck Henry, who co-directed) after a traffic accident. When archangel Mr. Jordan (James Mason) discovers the error, he offers to return Joe to his body, only to find that it has been cremated. On the verge of,playing in the Super Bowl, Joe demands a fit body rather than the old about-to-be-murdered industrialist Farnsworth he has been offered, but he reconsiders when he sees environmentalist Betty Logan (Julie Christie) in Farnsworth's house. Assuming Farnsworth's body while keeping his sweet self, Joe hires his beloved coach Max Corkle (Jack Warden) to get him in shape (after convincing Max who he really is), sets Farnsworth's business on an eco-friendly path, and romances Betty. Farnsworth's homicidal wife (Dyan Cannon) and secretary (Charles Grodin), however, are still determined to succeed in their plan to kill him. When Mr. Jordan finally finds the Super Bowl body Joe wanted, Joe has to trade his old self for the new life -- but will he remember his love for Betty? Heaven Can Wait offered contemporary yet old-fashioned escapism and tapped into the late-1970s vogue for nostalgic fun, becoming one of 1978's most popular summer movies after Grease. Updating the original while following its blueprint, Beatty and co-writer Elaine May switched Joe's sport and turned Joe into a man of his '70s moment, adoring Betty for her convictions and favoring 'green' policies over corporate greed. Gently breathing life into a classic form, Heaven Can Wait found romantic innocence in a jaded time, and it went on to receive nine Oscar nominations, including Best Picture.	1
+COL Release Date VAL Mar 7, 1997 Wide	1
+COL RatingCount VAL 7,561	1
+COL RatingCount VAL 13,440	1
+COL RatingCount VAL 2,841	1
+COL RatingCount VAL 10,294	1
+COL Year VAL 1978 1979 1980	1
+COL Id VAL phantom_of_the_opera_1943	1
+COL RatingCount VAL 5,568	1
+COL Duration VAL 1 hr. 42 min.	1
+COL Creator VAL Lowell Ganz,Babaloo Mandel,Deborah Blum	1
+COL Actors VAL Chris Pine,Gal Gadot	0
+COL Country VAL USA	0
+COL Cast VAL Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa,Sarah Roemer,Jason Alexander,Erick Avari,Davenia McFadden,Robbie Sublett,Kevin DeCoste,Rob Degnan,Tora Hallstrom,Donna Sorbello,Frank S. Aronson,Troy Doherty,Ian Sherman	0
+COL Release Date VAL 5 February 2015 (Kuwait)	0
+COL Description VAL A man who lost his family in the September 11 attack on New York City runs into his old college roommate. Rekindling the friendship is the one thing that appears able to help the man recover from his grief.	0
+COL Language VAL English	0
+COL Genre VAL Comedy	0
+COL Actors VAL Frederic Forrest,Teri Garr,Raul Julia	0
+COL ReviewCount VAL 47 user,5 critic	0
+COL Filming Locations VAL Arches National Park, Moab, Utah, USA	0
+COL Genre VAL Adventure,Family	0
+COL Genre VAL Action,Comedy,Crime	0
+COL Actors VAL Madonna,Griffin Dunne,Haviland Morris	0
+COL Duration VAL 136 min	0
+COL Duration VAL 104 min	0
+COL Id VAL tt0112508	0
+COL Description VAL A poor and passionate young man falls in love with a rich young woman and gives her a sense of freedom. They soon are separated by their social differences.	0
+COL RatingValue VAL 5.6	0
+COL Genre VAL Drama	0
+COL Release Date VAL 26 January 1940 (USA)	0
+COL Actors VAL Mickey Rooney,Frank Morgan,James Craig	0
+COL Language VAL English,Turkish	0
+COL Duration VAL 75 min	0
+COL Actors VAL Elijah Wood,Courtney B. Vance,Robbie Coltrane	0
+COL Filming Locations VAL 	0
+COL RatingValue VAL 4.6	0
+COL Genre VAL Documentary,History	0
+COL Filming Locations VAL Brewster Building Apartments - 2800 N. Pine Grove Avenue, Lake View, Chicago, Illinois, USA	0
+COL Language VAL English	0
+COL Director VAL John Maybury	0
+COL Director VAL Alfred Hitchcock	0
+COL Filming Locations VAL 	0
+COL Name VAL Road to Utopia	0
+COL Release Date VAL 20 August 1976 (Finland)	0
+COL Release Date VAL 3 September 1936 (USA)	0
+COL Director VAL Christopher Nolan	0
+COL Language VAL English	0
+COL Actors VAL Brian Presley,Kurt Russell,Melanie Lynskey	0
+COL ReviewCount VAL 8 user,6 critic	0
+COL Genre VAL Horror	0
+COL Description VAL A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.	0
+COL Genre VAL Drama	0
+COL ReviewCount VAL 29 user,29 critic	0
+COL Filming Locations VAL 	0
+COL Genre VAL Crime,Drama,Romance	0
+COL Release Date VAL 3 August 2001 (USA)	0
+COL Id VAL tt0430304	0
+COL ReviewCount VAL 330 user,150 critic	0
+COL Cast VAL Chemeeka Walker,Dania Abu-Rmaileh,Amanda Kearsan,Christian Baucher,Amelia Giancarlo,Geoffrey Giancarlo,Alexandria Morgan,Chanelle Clarke,Marisa Danenfield,Katie Danenfield,Megan Foley,Edmand Cardero,Jay Cohen,Jonnae Strong,Audrey Whitfield	0
+COL ReviewCount VAL 25 user,11 critic	0
+COL Director VAL Gore Verbinski	0
+COL Release Date VAL 19 July 2013 (USA)	0
+COL Cast VAL Jessica Lowndes,Ross Kohn,Ross McCall,Ashley Schneider,Arcadiy Golubovich,Gregg Brazzel,Robert LaSardo,Michael Bowen,Jenette Goldstein,Robert Patrick,Elijah Hardy,Kevin M. White,Tatyana Kanavka,Jeff L. Deist,Eric F. Adams	0
+COL RatingValue VAL 7.2	0
+COL Release Date VAL 24 July 2015 (USA)	0
+COL Id VAL tt1228933	0
+COL RatingValue VAL 6.3	0
+COL ReviewCount VAL 	0
+COL Year VAL 2008	0
+COL Filming Locations VAL Irwindale, California, USA	0
+COL Cast VAL Diana Angelson,Jason London,Quinton Aaron,Natalie Burn,Al Sapienza,Tom Sizemore,Meredith Salenger,Sally Kirkland,Jessica Zhou,Maria Julieta Georoiu,Jason Tobias,Vincent Rivera,Les Brandt,Nazo Bravo,Constantin Alecse	0
+COL Country VAL USA	0
+COL Genre VAL Documentary,News	0
+COL Language VAL English	0
+COL Name VAL Star Trek Secret Voyage: Whose Birth These Triumphs Are	0
+COL Actors VAL Buster Keaton,Marion Mack,Glen Cavender	0
+COL Duration VAL 104 min	0
+COL Release Date VAL 11 October 2002 (USA)	0
+COL Name VAL American Reunion	0
+COL Director VAL Zachary Wyman	0
+COL Release Date VAL 10 November 1989 (USA)	0
+COL Id VAL tt2274604	0
+COL Release Date VAL 9 April 2010 (USA)	0
+COL Duration VAL 	0
+COL Duration VAL 112 min	0
+COL Filming Locations VAL Santa Monica, California, USA	0
+COL Filming Locations VAL Prescott, Arizona, USA	0
+COL Director VAL Howard Hawks	0
+COL Description VAL In a future where all flora is extinct on Earth, an astronaut is given orders to destroy the last of Earth's botany, kept in a greenhouse aboard a spacecraft.	0
+COL Release Date VAL 6 October 1933 (USA)	0
+COL Description VAL A young family moves into a historic home in Georgia, only to learn they are not the house's only inhabitants. Soon they find themselves in the presence of a secret rising from underground and threatening to bring down anyone in its path.	0
+COL Country VAL USA	0
+COL Cast VAL Harrison Ford,Sean Connery,Denholm Elliott,Alison Doody,John Rhys-Davies,Julian Glover,River Phoenix,Michael Byrne,Kevork Malikyan,Robert Eddison,Richard Young,Alexei Sayle,Alex Hyde-White,Paul Maxwell,Isla Blair	0
+COL Id VAL tt0102975	0
+COL Actors VAL Arnold Schwarzenegger,Lou Ferrigno,Matty Ferrigno	0
+COL Release Date VAL 6 May 2005 (USA)	0
+COL Release Date VAL 25 September 1998 (USA)	0
+COL Duration VAL 75 min	0
+COL Language VAL English	0
+COL Language VAL English,Vietnamese	0
+COL RatingValue VAL 5.5	0
+COL Description VAL The fabled Spanish hero Rodrigo Diaz (a.k.a. El Cid) overcomes a family vendetta and court intrigue to defend Christian Spain against the Moors.	0
+COL Cast VAL Kevin Kline,Emile Hirsch,Embeth Davidtz,Rob Morrow,Edward Herrmann,Harris Yulin,Paul Dano,Rishi Mehta,Jesse Eisenberg,Gabriel Millman,Chris Morales,Luca Bigini,Michael Coppola,Sean Fredricks,Katherine O'Sullivan	0
+COL RatingCount VAL 	0
+COL Cast VAL James Caan,Kathy Bates,Richard Farnsworth,Frances Sternhagen,Lauren Bacall,Graham Jarvis,Jerry Potter,Thomas Brunelle,June Christopher,Julie Payne,Archie Hahn,Gregory Snegoff,Wendy Bowers,Misery the Pig	0
+COL Director VAL Trisha Gum	0
+COL Director VAL Herman Shumlin,Hal Mohr	0
+COL Country VAL USA	0
+COL Name VAL The Nutcracker	0
+COL ReviewCount VAL 282 user,262 critic	0

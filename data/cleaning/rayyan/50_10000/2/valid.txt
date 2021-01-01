@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 7/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jvolumn VAL 	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 3/1/06	1
+"COL author_list VAL {""M. Tercedor S��nchez"",""J.A. Prieto Velasco""}"	1
+COL article_jcreated_at VAL 6/1/13	1
+COL article_jcreated_at VAL 8/1/14	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""Linsenmaier U"",""Geyer LL"",""K���rner M"",""Meisel CD"",""Wirth S"",""Reiser MF""}"	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 3/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_issn VAL 1879-1026	0
+COL article_jvolumn VAL 42	0
+COL article_pagination VAL 	0
+COL id VAL 424254	0
+COL article_jvolumn VAL 25	0
+COL article_jvolumn VAL 28	0
+COL journal_title VAL Parkinsonism & related disorders	0
+COL journal_title VAL Drugs & aging	0
+COL article_title VAL Impact of hepatitis C on survival in dialysis patients: A link with cardiovascular mortality?.	0
+COL id VAL 265490	0
+COL id VAL 453909	0
+COL jounral_abbreviation VAL Am. J. Med.	0
+COL article_jvolumn VAL 28	0
+COL journal_title VAL Chest	0
+COL article_title VAL A qualitative exploration of the cancer experience among long-term survivors: comparisons by cancer type, ethnicity, gender, and age.	0
+COL id VAL 894596	0
+COL article_jvolumn VAL 55	0
+COL article_title VAL Cost-effectiveness of statins for primary prevention in patients newly diagnosed with type 2 diabetes in the Netherlands	0
+COL journal_issn VAL 0952-8180	0
+COL article_pagination VAL 237-45	0
+COL article_jvolumn VAL 124	0
+COL article_jvolumn VAL 19	0
+COL id VAL 260745	0
+COL article_pagination VAL 774-9	0
+COL article_jvolumn VAL 30	0

@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""Kerstin Landin-Wilhelmsen"",""G̦ran Oler̦d"",""Oskar Ragnarsson"",""Penelope Trimpou""}"	1
+COL article_title VAL The Antiseptic Efficacy and Tolerability of Lavasept� 0.04% on Acute Traumatic Wounds	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 5/1/12	1
+COL article_jcreated_at VAL 7/1/05	1
+COL journal_issn VAL Mar-22	1
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+"COL author_list VAL {""O E Havik"",""P Carlbring"",""L G ��st"",""T Nordgreen"",""G Andersson"",""T Furmark""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Diana Duro"",""Augusto Gouḷo"",""Gon̤alo Santos"",""Nuno Mendon̤a"",""Isabel Santana"",""Eg�_dio Machado""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 4/1/03	1
+COL article_jcreated_at VAL 1/1/11	1
+"COL author_list VAL {""V Cus�_"",""H Galvez"",""M Iriondo"",""J Campistol"",""I M��laga"",""A Garc�_a Cazorla""}"	1
+COL article_jcreated_at VAL 3/1/10	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 5/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Michiel A J Kompier"",""Etty G A Wielenga-Meijer"",""Dani��l H J Wigboldus"",""Toon W Taris""}"	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 3/1/06	1
+COL article_jvolumn VAL 	1
+"COL author_list VAL {""N. M. Pinheiro"",""R. Almeida-Reis"",""L. Oliva"",""M. A. Martins"",""M. L. V. Oliva"",""O. A. Theodoro-Junior"",""E. A. Leick"",""I. F. L. C. Tib̩rio"",""C. M. Prado"",""R. F. Righetti"",""B. T. M. Oliveira""}"	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 9/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_pagination VAL 2055-9	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 12/1/03	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 9/1/15	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 5/1/05	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 6/1/04	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 8/1/14	1
+"COL author_list VAL {""Costin M."",""Dumbrav�_ E.L."",""Postolache P."",""Cojocaru D.C.""}"	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 8/1/12	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_pagination VAL 3541-4	1
+"COL author_list VAL {""R Schwarz"",""J Ernst"",""M Zenger"",""E Br�_hler"",""R Schmidt""}"	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 10/1/03	1
+"COL author_list VAL {""Anna Nidecker"",""Siamak Ardekani"",""E Mark Mahone"",""Firouzeh Tannazi"",""Jarunee Intrapiromkul"",""Moody Wharam"",""Larry J Brant"",""Alena Horsk��""}"	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_title VAL School Climate and Students' Early Mathematics Learning: Another Search for Contextual Effects.	0
+COL article_jvolumn VAL 0	0
+"COL author_list VAL {""A. G. Parks"",""J. F. McPartlin""}"	0
+COL article_jvolumn VAL 35	0
+COL journal_issn VAL 1074-7931	0
+COL article_language VAL English	0
+"COL author_list VAL {""R F Castien"",""J van Wagenberg""}"	0
+COL article_title VAL Thoracic Aortic Aneurysm: Reading the Enemy's Playbook	0
+COL article_language VAL 	0
+"COL author_list VAL {""J P Ioannidis"",""J Lau"",""C Milch"",""D Salem"",""P W Chew"",""N Terrin"",""E M Balk""}"	0
+COL article_jissue VAL 7	0
+COL journal_title VAL 	0
+COL article_language VAL tur	0
+COL article_pagination VAL 1-Jan	0
+COL article_jvolumn VAL 14	0
+COL article_jvolumn VAL 61	0
+COL article_jissue VAL 9	0
+COL article_jvolumn VAL 111	0
+COL article_pagination VAL 459-65	0
+COL jounral_abbreviation VAL Oral Surg. Oral Med. Oral Pathol.	0
+COL article_pagination VAL 447-55	0
+COL article_jissue VAL 7	0
+COL article_language VAL eng	0
+COL journal_title VAL J. Exp. Clin. Cancer Res.	0
+COL article_language VAL English	0
+COL journal_issn VAL -9262	0
+COL article_language VAL eng	0
+COL journal_issn VAL 0301-1623	0
+COL journal_title VAL Headache	0
+COL article_jvolumn VAL 120	0
+COL journal_issn VAL 	0
+COL article_jvolumn VAL 2	0
+COL id VAL 570704	0
+COL journal_title VAL International Journal of Qualitative Studies in Education (QSE)	0
+COL jounral_abbreviation VAL J Chem Phys	0
+"COL author_list VAL {""Hisako Hara"",""Yukio Seki"",""Noriyuki Murai"",""Isao Koshima"",""Takuya Iida"",""Makoto Mihara"",""Takeshi Todokoro""}"	0
+COL article_pagination VAL 123-6	0
+"COL author_list VAL {""Goveia M.G."",""Block S.L."",""Rivers S.B."",""Dallas M.J."",""Bauder J."",""Adeyi B.A."",""Vesikari T."",""Heaton P.M."",""Boslego J.W.""}"	0
+COL journal_issn VAL 1432-0711	0
+COL journal_title VAL Pediatrics	0
+COL article_pagination VAL 609-21	0
+COL jounral_abbreviation VAL Clinical nutrition (Edinburgh, Scotland)	0
+COL journal_title VAL The Chartered Society of Physiotherapy Annual Congress and Exhibition: Defining Practice, Friday, October 17 to Sunday, October 19 2003, International Convention Centre, Birmingham.	0
+COL article_jvolumn VAL 65	0
+COL article_title VAL Challenges in deactivating a total artificial heart for a patient with capacity.	0
+"COL author_list VAL {""A. Erol"",""J. B. Celik"",""I. Kara"",""A. Topal"",""S. Guven""}"	0
+COL article_jissue VAL 2	0
+"COL author_list VAL {""Alicia Heapy"",""Sally G. Haskell"",""M. Carrington Reid"",""Robert D. Kerns"",""Rebecca K. Papas""}"	0
+COL journal_issn VAL 1464-5165	0
+COL article_language VAL ger	0
+COL article_jvolumn VAL 0	0
+COL jounral_abbreviation VAL Hepatogastroenterology	0
+COL article_jvolumn VAL 29	0
+COL article_jcreated_at VAL 7/15/14	0
+"COL author_list VAL {""G. S. McDonald"",""J. W. Bachman"",""P. C. O'Brien""}"	0
+COL journal_issn VAL 1462-0324	0
+COL article_language VAL fre	0
+COL article_jvolumn VAL 56	0
+COL journal_title VAL CNS spectrums	0
+COL journal_title VAL 	0
+COL id VAL 887041	0
+"COL author_list VAL {""Patwardhan S.K."",""Bodas K.S."",""Gundewar S.S.""}"	0
+COL journal_title VAL Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL eng	0
+"COL author_list VAL {""S. Pelofsky"",""P. D. Hunter""}"	0
+COL article_title VAL An exploration of self-reported negative affect by adolescents as a reason for smoking: implications for tobacco prevention and intervention programs	0
+COL journal_issn VAL 1525-1446	0
+COL journal_title VAL Scandinavian journal of psychology	0
+COL article_title VAL Normal insulin sensitivity and IMCL content in overweight humans are associated with higher fasting lipid oxidation.	0
+"COL author_list VAL {""Gianluca Rigatelli"",""Paolo Cardaioli"",""Massimo Giordan"",""Ashesh Buch"",""Laura Oliva"",""Dobrin Vassiliev"",""Aravinda Nanjiundappa"",""Fabio Dell'Avvocata"",""Ramesh Daggubati"",""Dario Adami""}"	0
+COL article_jvolumn VAL 14	0
+COL journal_title VAL 	0
+COL journal_title VAL Arch Surg	0
+COL journal_issn VAL 0885-3282	0

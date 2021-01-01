@@ -1,0 +1,100 @@
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL journal_issn VAL 0033-3174	0
+COL article_jvolumn VAL 347	0
+COL article_jcreated_at VAL 4/2/15	1
+COL journal_title VAL American Journal of Acupuncture	0
+COL journal_title VAL 	0
+COL article_pagination VAL 3111-9	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 6/1/14	1
+COL id VAL 145770	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 12/1/14	1
+COL journal_title VAL Rev Med Chir Soc Med Nat Iasi	0
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jissue VAL 	1
+COL journal_title VAL European Journal Of Anaesthesiology	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 2	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL Neuropsychologia	0
+COL article_jvolumn VAL 0	0
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jissue VAL 5	0
+COL article_jcreated_at VAL 7/1/14	1
+COL journal_title VAL European journal of preventive cardiology	0
+"COL author_list VAL {""G. Peters"",""K. Becker"",""C. Von Eiff""}"	0
+COL article_jissue VAL 1	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_language VAL 	0
+COL article_jvolumn VAL 270	0
+COL article_jvolumn VAL 32	0
+COL article_jcreated_at VAL 8/1/10	1
+COL article_jcreated_at VAL 11/1/98	0
+COL article_pagination VAL 18-24	0
+COL id VAL 774830	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jvolumn VAL 0	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 9/1/14	1
+COL article_jcreated_at VAL 4/1/05	1
+COL journal_title VAL Mycoses	0
+COL article_jvolumn VAL 0	0
+COL article_jvolumn VAL 24	0
+COL article_language VAL eng	0
+COL journal_title VAL Jornal brasileiro de pneumologia : publicacao oficial da Sociedade Brasileira de Pneumologia e Tisilogia	0
+COL article_jcreated_at VAL 1/1/07	1
+COL journal_issn VAL 	0
+COL jounral_abbreviation VAL Rheumatology (Oxford, England)	0
+COL id VAL 589265	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""Felipe Serṛo de Souza"",""Ney Pecegueiro do Amaral"",""Carlos Henrique Mendes"",""Hilton Augusto Koch"",""Vincenzo Giordano"",""Andr̩ Bergamin""}"	1
+COL id VAL 572343	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 2/1/12	1
+COL article_title VAL Diminished A-cell secretion in the early phase of type I diabetes mellitus	0
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_pagination VAL 1257-66	0
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 8/1/15	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 11/1/12	1
+COL jounral_abbreviation VAL 	0
+COL id VAL 756208	0
+"COL author_list VAL {""M C Nevitt"",""L Palermo"",""H K Genant"",""R San Valentin"",""D M Black"",""R Epstein"",""S R Cummings""}"	0
+COL article_jissue VAL 	1
+COL article_pagination VAL 57-64	0
+COL journal_issn VAL 0939-5555	0
+COL article_jissue VAL 9	0
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 3/1/92	0
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""M Caliskan"",""M Karab̦c�_oglu"",""A Citak"",""N Uzel"",""K Aydin"",""A Nayir"",""D D Soysal""}"	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""M. Pujol"",""P. Barrag��n"",""J.M. Tiraboschi"",""A. Imaz"",""M.́. Dom�_nguez"",""D. Podzamczer""}"	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 5/1/02	1
+COL article_title VAL The vascular depression hypothesis: The influence of age on the relationship between cerebrovascular risk factors and depressive symptoms in community dwelling elders	0
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 1/1/09	1
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 336-48	0
+COL journal_title VAL Neurology	0
+COL article_jissue VAL 3	0

@@ -1,0 +1,150 @@
+COL Score VAL x7%	1
+COL HospitalName VAL huntsvxlle hospxtal	1
+COL Condition VAL surgical ixfectiox prevextiox	1
+COL ProviderNumber VAL 1003x	1
+COL HospitalName VAL medixal xenter enterprise	1
+COL ProviderNumber VAL 1xx35	1
+COL Score VAL x5%	1
+COL ProviderNumber VAL x0029	1
+COL Stateavg VAL xl_xmi-2	1
+COL Sample VAL 126 patxents	1
+COL State VAL xl	1
+COL MeasureCode VAL xf-1	1
+COL City VAL anchoraxe	1
+COL PhoneNumber VAL 3342938xxx	1
+COL City VAL fort payxe	1
+COL CountyName VAL madisox	1
+COL Address1 VAL 1256 military street sxuth	1
+COL Address1 VAL 1000 fixst stxeet noxth	1
+COL MeasureName VAL heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function	1
+COL State VAL xl	1
+COL HospitalName VAL communitx hospital inc	1
+COL HospitalOwner VAL prxprietary	1
+COL MeasureName VAL surgery patiexts who were takixg heart drugs called beta blockers before comixg to the hospital who were kept ox the beta blockers durixg the period just before axd after their surgery	1
+COL CountyName VAL chaxbers	1
+COL ProviderNumber VAL 100x5	1
+COL ZipCode VAL x6x05	1
+COL Stateavg VAL al_sxip-inf-2	1
+COL HospitalOwner VAL governxent - federal	1
+COL EmergencyService VAL yex	1
+COL ZipCode VAL 3xx94	1
+COL MeasureName VAL heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival	1
+COL CountyName VAL jeffersxn	1
+COL State VAL xl	1
+COL EmergencyService VAL yxs	1
+COL Stateavg VAL al_scipxvtex1	1
+COL Address1 VAL 124xsxmemorialxdr	1
+COL CountyName VAL caxhoun	1
+COL ZipCode VAL 3563x	1
+COL HospitalType VAL acute care hosxitals	1
+COL CountyName VAL coffxx	1
+COL PhoneNumber VAL 2565x38310	1
+COL Score VAL 89x	1
+COL Condition VAL surgical infxction prxvxntion	1
+COL Sample VAL 1 patiexts	1
+COL City VAL guntxrsvillx	1
+COL MeasureName VAL heart faxlure patxents gxven smokxng cessatxon advxce/counselxng	1
+COL EmergencyService VAL yex	1
+COL ProviderNumber VAL 100x6	1
+COL HospitalType VAL acuxe care hospixals	1
+COL CountyName VAL xlarke	1
+COL State VAL ax	1
+COL Sample VAL 0 patxents	1
+COL EmergencyService VAL yex	1
+COL HospitalOwner VAL pxopxietaxy	1
+COL Sample VAL 618 xatients	1
+COL ZipCode VAL 3563x	1
+COL ZipCode VAL 36x49	1
+COL Address1 VAL 126xhospitalxave	1
+COL Sample VAL 4 xatients	1
+COL Address1 VAL 515 miranda sx	1
+COL PhoneNumber VAL 20x9216200	1
+COL HospitalType VAL acute care hoxpitalx	1
+COL MeasureName VAL pnxumonia patixnts whosx initial emxrgxncy room blood culturx was pxrformxd prior to thx administration of thx first hospital dosx of antibiotics	1
+COL Sample VAL 172 patxents	1
+COL EmergencyService VAL yxs	1
+COL CountyName VAL xee	1
+COL HospitalName VAL crenshaw cxmmunity hxspital	1
+COL Score VAL 1xx%	1
+COL ProviderNumber VAL 1xx39	1
+COL State VAL ax	1
+COL HospitalType VAL acuxe care hospixals	1
+COL HospitalOwner VAL gxvernment - hxspital district xr authxrity	1
+COL CountyName VAL laudxrdalx	1
+COL City VAL florxncx	1
+COL MeasureName VAL surgeryxpatientsxneedingxhairxremovedxfromxthexsurgicalxareaxbeforexsurgery& xwhoxhadxhairxremovedxusingxaxsaferxmethodx(electricxclippersxorxhairxremovalxcreamxï¿½cxnotxaxrazor)	1
+COL State VAL al	0
+COL MeasureName VAL surgery patients who were given the  right kind  of antibiotic to help prevent infection	0
+COL CountyName VAL coffee	0
+COL EmergencyService VAL yes	0
+COL ProviderNumber VAL 10005	0
+COL CountyName VAL jefferson	0
+COL Address2 VAL empty	0
+COL CountyName VAL cherokee	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 2567688400	0
+COL HospitalType VAL acute care hospitals	0
+COL Sample VAL 5 patients	0
+COL EmergencyService VAL yes	0
+COL index VAL 600	0
+COL Sample VAL 89 patients	0
+COL HospitalName VAL marshall medical center south	0
+COL Stateavg VAL al_hf-1	0
+COL HospitalName VAL marshall medical center north	0
+COL HospitalType VAL acute care hospitals	0
+COL Sample VAL 313 patients	0
+COL Stateavg VAL al_ami-1	0
+COL PhoneNumber VAL 3348972257	0
+COL State VAL al	0
+COL HospitalName VAL riverview regional medical center	0
+COL index VAL 257	0
+COL Score VAL 100%	0
+COL EmergencyService VAL no	0
+COL Stateavg VAL al_ami-7a	0
+COL Address1 VAL 805 friendship road	0
+COL Sample VAL 5 patients	0
+COL index VAL 705	0
+COL PhoneNumber VAL 3344933541	0
+COL State VAL al	0
+COL EmergencyService VAL yes	0
+COL Address1 VAL 1720 university blvd	0
+COL Condition VAL surgical infection prevention	0
+COL ZipCode VAL 35660	0
+COL ProviderNumber VAL 10040	0
+COL Score VAL 50%	0
+COL Address2 VAL empty	0
+COL Condition VAL heart attack	0
+COL Condition VAL heart failure	0
+COL HospitalOwner VAL voluntary non-profit - other	0
+COL Stateavg VAL al_ami-3	0
+COL Stateavg VAL al_hf-3	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL Condition VAL heart failure	0
+COL EmergencyService VAL yes	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL CountyName VAL randolph	0
+COL ProviderNumber VAL 10016	0
+COL Address1 VAL 315 w hickory st	0
+COL CountyName VAL jefferson	0
+COL CountyName VAL jefferson	0
+COL PhoneNumber VAL 3347938701	0
+COL Address1 VAL 201 pine street northwest	0
+COL HospitalOwner VAL proprietary	0
+COL CountyName VAL jefferson	0
+COL Address3 VAL empty	0
+COL ProviderNumber VAL 10006	0
+COL HospitalType VAL acute care hospitals	0
+COL CountyName VAL marion	0
+COL State VAL al	0
+COL HospitalName VAL stringfellow memorial hospital	0
+COL Sample VAL 169 patients	0
+COL PhoneNumber VAL 3342836541	0
+COL ZipCode VAL 99508	0
+COL Stateavg VAL al_hf-2	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL Address3 VAL empty	0
+COL Condition VAL heart attack	0
+COL Address3 VAL empty	0
+COL ZipCode VAL 36420	0

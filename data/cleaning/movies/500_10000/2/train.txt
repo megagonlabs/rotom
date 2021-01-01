@@ -1,0 +1,500 @@
+COL Name VAL Blade II	0
+COL Release Date VAL Nov 11, 2011 Wide	1
+COL Director VAL Oren Moverman	0
+COL Release Date VAL 12 December 1986 (USA)	0
+COL Creator VAL Garry Michael White	0
+COL RatingValue VAL 6.8/10	1
+COL RatingCount VAL 872,532	1
+COL ReviewCount VAL 60 user,14 critic	0
+COL Description VAL Epic story of a mysterious stranger with a harmonica who joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.	0
+COL RatingValue VAL 5.0	1
+COL Genre VAL Action	0
+COL Cast VAL James Franco,Mila Kunis,Rachel Weisz,Michelle Williams,Zach Braff,Bill Cobbs,Joey King,Tony Cox,Stephen R. Hart,Abigail Spencer,Bruce Campbell,Ted Raimi,Tim Holmes,Toni Wynne,Rob Crites	0
+COL Actors VAL Richard Carlson,Julie Adams,Richard Denning	0
+COL Id VAL tt4844420	0
+COL Id VAL tt0118670	0
+COL Description VAL Billionaire industrialist and genius inventor Tony Stark is kidnapped and forced to build a devastating weapon. Instead, using his intelligence and ingenuity, Tony builds a high-tech suit of armor and escapes captivity. When he uncovers a nefarious plot with global implications, he dons his powerful armor and vows to protect the world as Iron Man.	1
+COL ReviewCount VAL 6 user,4 critic	0
+COL Creator VAL Woody Allen	0
+COL Country VAL USA,UK,Canada	0
+COL RatingCount VAL 36,016	1
+COL RatingValue VAL 7.0	1
+COL Id VAL tt0298814	0
+COL Duration VAL 86 min	0
+COL ReviewCount VAL 17 user,4 critic	0
+COL RatingValue VAL 7.0	1
+COL Description VAL Entourage,' the much-anticipated big-screen version of the award-winning hit HBO series, reunites the show's original cast, led by Kevin Connolly, Adrian Grenier, Kevin Dillon, Jerry Ferrara and Jeremy Piven. Movie star Vincent Chase (Grenier), together with his boys, Eric (Connolly), Turtle (Ferrara) and Johnny (Dillon), are back...and back in business with super agent-turned-studio head Ari Gold (Piven). Some of their ambitions have changed, but the bond between them remains strong as they,navigate the capricious and often cutthroat world of Hollywood. (C) WB	1
+COL RatingCount VAL 28,791	1
+COL RatingCount VAL 110,491	1
+COL RatingCount VAL 352,890	1
+COL Release Date VAL 1 October 1968 (USA)	0
+COL RatingCount VAL 5,088	1
+COL Director VAL Wes Craven	0
+COL RatingCount VAL 15,115	1
+COL Cast VAL Steve Carell,Steve Buscemi,Olivia Wilde,Jim Carrey,James Gandolfini,Alan Arkin,Jay Mohr,Michael Herbig,Mason Cook,Luke Vanek,Zachary Gordon,Richard Wolffe,Erin Burnett,Brad Garrett,David Copperfield	0
+COL Duration VAL 88 min	0
+COL RatingValue VAL 5.8	0
+COL RatingCount VAL 4,060	1
+COL RatingCount VAL 5,239	1
+COL Cast VAL Elizabeth Banks,Seth Rogen,Craig Robinson,Gerry Bednob,Edward Janda,Nicholas Lombardi,Chris Milan,Jennifer Schwalbach Smith,Kenny Hotz,Brandon Routh,Anne Wade,Justin Long,Tom Savini,Jeff Anderson,Jim Norton	0
+COL Duration VAL 	1
+COL Creator VAL James Lee Barrett,Stanley Hough	0
+COL Language VAL English	0
+COL Description VAL After a strange sexual encounter, a teenager finds herself haunted by nightmarish visions and the inescapable sense that something is after her. (C) Radius-TWC	1
+COL Id VAL tt2180411	0
+COL RatingValue VAL 4.4	0
+COL RatingCount VAL 1,455	1
+COL Description VAL When a desperate movie producer fails to get a major star for his bargain basement film, he decides to shoot the film secretly around him.	0
+COL Release Date VAL September 1997 (Portugal)	0
+COL Genre VAL Documentary	0
+COL RatingValue VAL 6/10,5.8/10	1
+COL Duration VAL 	1
+COL RatingCount VAL 66,680	1
+COL Duration VAL 	1
+COL Description VAL The classic science fiction novel by H.G. Wells becomes this big-budget adventure directed by the author's great-grandson Simon Wells. Guy Pearce stars as Alexander Hartdegen, a scientist, professor, and inventor in 1895 New York City who believes that time travel is possible. The sudden and unexpected death of his fiancée spurs Alexander to build a time machine, which he hopes to use in an effort to change the past. When he is unable to change the past, Alexander hurls himself more than 800,000,years into the future, seeking answers about the nature of time, but instead encountering a dystopian world where humanity has divided up into two races, the peaceful Eloi and the subterranean Morlocks. Befriending the beautiful Eloi woman Mara (pop singer Samantha Mumba), Alexander must set out to save her from the underground world of the Morlocks when she is captured by them. Along the way, he is aided by Vox (Orlando Jones), a bio-mechanical being from the 21st century. Ultimately, Alexander makes a shocking discovery about the true nature of the Eloi and Morlocks and decides that the only way to change the future is to alter the present. Due to exhaustion, director Wells was briefly replaced during the last few weeks of production by Gore Verbinski, director of The Mexican (2001). The Time Machine co-stars Jeremy Irons and Mark Addy. ~ Karl Williams, Rovi	1
+COL Language VAL English	0
+COL Duration VAL 80 min	0
+COL Name VAL Revenge of the Spacemen	0
+COL Duration VAL 	1
+COL RatingCount VAL 1,029	1
+COL Creator VAL Lou Howe,Lou Howe	0
+COL Genre VAL Adventure,Biography,Drama	0
+COL Description VAL Dan McGinty has great success in his chosen field of crooked politics. But endangers it all in one crazy moment of honesty...	0
+COL Country VAL USA	0
+COL RatingCount VAL 10,461	1
+COL Director VAL James Cameron	0
+COL RatingCount VAL 1,397	1
+COL RatingCount VAL 19,957	1
+COL Name VAL The Kid	0
+COL RatingCount VAL 25,833	1
+COL RatingCount VAL 8,072	1
+COL RatingValue VAL 7.0	1
+COL Release Date VAL Aug 25, 1995 Wide	1
+COL Year VAL 2001	0
+COL Creator VAL Guillermo Arriaga	0
+COL Director VAL Don Thacker	0
+COL RatingCount VAL 1,203	1
+COL RatingCount VAL 1,448	1
+COL RatingCount VAL 5,331	1
+COL Year VAL 1997	0
+COL RatingCount VAL 27,548	1
+COL Duration VAL 102 min	0
+COL Duration VAL 	1
+COL RatingCount VAL 128,484	1
+COL RatingCount VAL 5,759	1
+COL Id VAL tt0042546	0
+COL ReviewCount VAL 2 user,11 critic	0
+COL Id VAL tt0054930	0
+COL Genre VAL Documentary	0
+COL Actors VAL Al Pacino,Michelle Pfeiffer,Hector Elizondo	0
+COL Id VAL tt0115819	0
+COL Language VAL English,Portuguese	0
+COL RatingCount VAL 58,479	1
+COL Release Date VAL Sep 25, 1992 Wide	1
+COL Duration VAL 	1
+COL RatingCount VAL 13,254	1
+COL RatingCount VAL 26,438	1
+COL Description VAL Thom and Dusty have tried everything to make it, but when they find a single piece of paper, a treasure map, they travel to Mexico to find the treasure. They find it but lose it and not until they get home do they find the real treasure.	0
+COL Filming Locations VAL Downtown, Los Angeles, California, USA	0
+COL Name VAL The Green Pastures	0
+COL Release Date VAL 28 September 1975 (USA)	0
+COL Description VAL Teenage geniuses deal with their abilities while developing a laser.	0
+COL Description VAL Every October, over 30 million people will visit Halloween Haunted Houses. This film sheds light on the dark world of haunting.	0
+COL Id VAL tt3659388	0
+COL Genre VAL Comedy	0
+COL Actors VAL Denzel Washington,Mark Wahlberg,Paula Patton	0
+COL RatingValue VAL 6.0	1
+COL Creator VAL 	0
+COL Creator VAL Ben Hecht,Charles MacArthur	0
+COL Description VAL A man becomes entangled in a deadly morality game when the circus comes to town and a sadistic clown forces him to examine the things in life he takes for granted in the most horrific ways.	0
+COL RatingCount VAL 228,550	1
+COL RatingCount VAL 14,718	1
+COL RatingCount VAL 143,534	1
+COL Name VAL Tell Me Lies	0
+COL Country VAL USA	0
+COL RatingCount VAL 30,991	1
+COL Language VAL English	0
+COL Director VAL Michael Mann	0
+COL RatingCount VAL 27,575	1
+COL Director VAL Nicole Holofcener	0
+COL Release Date VAL Oct 13, 2006 Wide	1
+COL Director VAL Pitof	0
+COL RatingCount VAL 39,976	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 192,698	1
+COL RatingCount VAL 3,780	1
+COL Duration VAL 1 hr. 28 min.	1
+COL Description VAL Based on the legendary true story of the Red Dog who united a disparate local community while roaming the Australian outback in search of his long lost master.	0
+COL RatingCount VAL 17,406	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 286,229	1
+COL RatingCount VAL 24,192	1
+COL RatingCount VAL 2,243	1
+COL RatingCount VAL 9,974	1
+COL RatingCount VAL 7,947	1
+COL RatingCount VAL 1,019	1
+COL Release Date VAL 15 October 2004 (UK)	0
+COL RatingCount VAL 202,010	1
+COL Director VAL Samantha Buck	0
+COL RatingCount VAL 3,488	1
+COL Year VAL 2005	0
+COL Country VAL USA	0
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 6.7/10,5.9/10	1
+COL Creator VAL Gerald Crum	0
+COL Director VAL Rondell Sheridan	0
+COL RatingCount VAL 90,262	1
+COL RatingCount VAL 5,178	1
+COL RatingCount VAL 515,940	1
+COL RatingCount VAL 95,177	1
+COL RatingValue VAL 7.7	0
+COL Release Date VAL September 1985 (USA)	0
+COL Language VAL English	0
+COL Release Date VAL 8 May 2014 (USA)	0
+COL RatingCount VAL 26,239	1
+COL RatingCount VAL 11,508	1
+COL Cast VAL Ron Jeremy,William Margold,Al Goldstein,Al Lewis,Seymore Butts,Sharon Mitchell,Larry Flynt,Chris Cannon,Tabitha Stevens,Veronica Hart,Anita Cannibal,Phoebe Dollar,Susan Yannetti,Samantha Stylles,Troy Duffy	0
+COL RatingCount VAL 54,531	1
+COL RatingCount VAL 1,673	1
+COL Genre VAL Action,Adventure,Thriller	0
+COL RatingCount VAL 10,636	1
+COL Release Date VAL Jan 1, 1988 Wide	1
+COL RatingCount VAL 63,597	1
+COL Creator VAL Adam Greenman,Adam Greenman	0
+COL Duration VAL 126 min	0
+COL RatingValue VAL 6.0	1
+COL Id VAL tt0094737	0
+COL Filming Locations VAL Superior, Arizona, USA	0
+COL Filming Locations VAL Welwyn Garden City, Hertfordshire, England, UK	0
+COL Description VAL A small-time magician is swept away to an enchanted land and is forced into a power struggle between three witches.	0
+COL RatingCount VAL 8,352	1
+COL Year VAL 2003 2004 2005	1
+COL Language VAL English	0
+COL RatingCount VAL 57,544	1
+COL Director VAL Dick Richards	0
+COL Filming Locations VAL Nebraska, USA	0
+COL Release Date VAL 19 May 1914 (USA)	0
+COL Duration VAL 	1
+COL RatingCount VAL 76,175	1
+COL Language VAL English	0
+COL Id VAL tt0476991	0
+COL RatingCount VAL 295,295	1
+COL RatingValue VAL 7.0	1
+COL Release Date VAL 2007 (USA)	0
+COL Creator VAL Kevin Smith	0
+COL RatingValue VAL 	0
+COL Actors VAL Francis Ford Coppola,William Friedkin,Robert Altman	0
+COL Description VAL Simon West directs this remake of the 1987 Burt Reynold action thriller in this Sierra/Affinity production starring Jason Statham as a paid enforcer who goes after a gang leader when a group of thugs beat up a personal friend. William Goldman provides the script.	1
+COL RatingValue VAL 7.0	1
+COL Director VAL Don Bluth,Gary Goldman	0
+COL RatingCount VAL 99,577	1
+COL Release Date VAL November 1972 (USA)	0
+COL Name VAL Drinking Buddies	0
+COL RatingValue VAL 7.0	1
+COL Id VAL rudy	1
+COL RatingCount VAL 17,941	1
+COL Language VAL English	0
+COL RatingCount VAL 18,692	1
+COL RatingCount VAL 45,245	1
+COL RatingCount VAL 129,025	1
+COL Id VAL league_of_their_own	1
+COL RatingCount VAL 14,503	1
+COL Name VAL Chasing Ice	0
+COL RatingCount VAL 2,367	1
+COL RatingCount VAL 6,229	1
+COL Country VAL USA	0
+COL Duration VAL 89 min	0
+COL RatingCount VAL 97,623	1
+COL RatingCount VAL 13,185	1
+COL RatingCount VAL 4,608	1
+COL Genre VAL Action,Sci-Fi,Thriller	0
+COL Genre VAL Drama,Kids & Family,Romance,Classics	1
+COL RatingCount VAL 26,784	1
+COL RatingCount VAL 17,974	1
+COL Creator VAL 	1
+COL Creator VAL Sholom Aleichem,Arnold Perl	0
+COL ReviewCount VAL 158 user,82 critic	0
+COL Actors VAL Carey Mulligan,Peter Sarsgaard,Alfred Molina	0
+COL Duration VAL 102 min	0
+COL Description VAL The rise and fall of Napoleon Bonaparte, Emperor of France.	0
+COL Description VAL A fake Fabergé egg and a fellow agent's death lead James Bond to uncover an international jewel-smuggling operation, headed by the mysterious Octopussy, being used to disguise a nuclear attack on N.A.T.O. forces.	0
+COL RatingCount VAL 3,781	1
+COL Filming Locations VAL Zia Pueblo, New Mexico, USA	0
+COL Year VAL 1987 1988 1989	1
+COL Duration VAL 112 min	0
+COL RatingCount VAL 4,880	1
+COL RatingCount VAL 44,564	1
+COL Name VAL Kid Galahad	0
+COL RatingCount VAL 95,682	1
+COL Name VAL Twinsters	0
+COL Actors VAL John Wayne,Henry Fonda,Shirley Temple	0
+COL Creator VAL Miles Millar,Alfred Gough	0
+COL RatingCount VAL 250,134	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 136,808	1
+COL RatingCount VAL 21,529	1
+COL RatingCount VAL 241,130	1
+COL Filming Locations VAL Czech Republic	0
+COL Description VAL Two FBI agents attempt to clarify the murders occurring in a desolate region. They approach the witnesses of the latest incident with the help of the local police. All of them hide something and all have wildly different stories to tell.	0
+COL Language VAL English	0
+COL RatingCount VAL 2,480	1
+COL Name VAL Multiple Maniacs	0
+COL RatingCount VAL 21,828	1
+COL RatingValue VAL 7.0	1
+COL ReviewCount VAL 	0
+COL Cast VAL Anna Faris,Chris Evans,Ari Graynor,Blythe Danner,Ed Begley Jr.,Oliver Jackson-Cohen,Heather Burns,Eliza Coupe,Kate Simses,Tika Sumpter,Joel McHale,Jacquelyn Doucette,Chris Pratt,Denise Vasi,Sondra James	0
+COL RatingCount VAL 2,384	1
+COL RatingCount VAL 1,524	1
+COL RatingCount VAL 56,108	1
+COL Creator VAL Michel Gondry	0
+COL RatingCount VAL 4,824	1
+COL RatingCount VAL 6,758	1
+COL ReviewCount VAL 380 user,178 critic	0
+COL RatingCount VAL 138,355	1
+COL RatingCount VAL 14,503	1
+COL RatingCount VAL 1,594	1
+COL Year VAL 1998	0
+COL Name VAL ABCs of Death 2	1
+COL RatingCount VAL 156,447	1
+COL ReviewCount VAL 110 user,160 critic	0
+COL Id VAL cinderella_man	1
+COL RatingCount VAL 1,615	1
+COL Director VAL Joe Carnahan	0
+COL ReviewCount VAL 293 user,108 critic	0
+COL ReviewCount VAL 	0
+COL Director VAL Chris Columbus	0
+COL RatingValue VAL 8.0	1
+COL Duration VAL 	1
+COL Actors VAL Brendan Fraser,Jenna Elfman,Steve Martin	0
+COL RatingValue VAL 7.6/10	1
+COL Language VAL English	0
+COL Id VAL tt0045758	0
+COL RatingCount VAL 33,748	1
+COL RatingCount VAL 36,160	1
+COL Release Date VAL 3 July 2013 (USA)	0
+COL Description VAL From acclaimed director Antoine Fuqua (TRAINING DAY) and screenwriters Kurt Sutter ('Sons of Anarchy) and Richard Wenk (THE MECHANIC), SOUTHPAW tells the riveting story of Billy 'The Great' Hope, reigning Junior Middleweight Boxing Champion of the World (Academy Award (R) nominee Jake Gyllenhaal). Billy Hope seemingly has it all with an impressive career, a beautiful and loving wife (Rachel McAdams), an adorable daughter (Oona Laurence) and a lavish lifestyle. When tragedy strikes and his,lifelong manager and friend (Curtis '50 Cent' Jackson) leaves him behind, Hope hits rock bottom and turns to an unlikely savior at a run-down local gym: Tick Willis (Academy Award (R) winner Forest Whitaker), a retired fighter and trainer to the city's toughest amateur boxers. With his future riding on Tick's guidance and tenacity, Billy enters the hardest battle of his life as he struggles with redemption and to win back the trust of those he loves. (C) Weinstein	1
+COL RatingCount VAL 137,548	1
+COL RatingCount VAL 119,611	1
+COL RatingValue VAL 8.0	1
+COL Creator VAL Ernest R. Dickerson,Gerard Brown	0
+COL RatingCount VAL 65,001	1
+COL Creator VAL Troy Kennedy-Martin	0
+COL RatingValue VAL 7.8	0
+COL Director VAL Terry Zwigoff	0
+COL Filming Locations VAL 	0
+COL RatingCount VAL 27,440	1
+COL RatingCount VAL 106,241	1
+COL Description VAL A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier.	0
+COL RatingCount VAL 13,181	1
+COL RatingCount VAL 36,983	1
+COL Duration VAL 	0
+COL Name VAL My Amityville Horror	0
+COL RatingCount VAL 241,069	1
+COL Actors VAL Dom DeLuise,Burt Reynolds,Judith Barsi	0
+COL RatingCount VAL 500	0
+COL Duration VAL 	1
+COL Creator VAL Charles Beaumont,Ray Russell	0
+COL Duration VAL 1 hr. 57 min.	1
+COL Id VAL tt0059825	0
+COL RatingCount VAL 5,693	1
+COL RatingCount VAL 11,408	1
+COL Creator VAL Steven Wayne Koren,Steve Koren	1
+COL Cast VAL Jodie Foster,Lawrence A. Bonney,Kasi Lemmons,Lawrence T. Wrentz,Scott Glenn,Anthony Heald,Frankie Faison,Don Brockett,Frank Seals Jr.,Stuart Rudin,Anthony Hopkins,Maria Skorobogatov,Jeffrie Lane,Leib Lensky,George 'Red' Schwartz	0
+COL RatingCount VAL 61,965	1
+COL Duration VAL 	0
+COL Actors VAL Rachel Weisz	0
+COL Creator VAL David Twohy	1
+COL Duration VAL 93 min	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Language VAL English	0
+COL Actors VAL Kodi Smit-McPhee,Anna Kendrick,Christopher Mintz-Plasse	0
+COL Actors VAL Megan Fox,Stephen Amell,Alan Ritchson	0
+COL Duration VAL 2 hr. 8 min.	1
+COL RatingCount VAL 19,498	1
+COL Name VAL Strange Behavior	0
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 	1
+COL Country VAL USA,Yugoslavia	0
+COL Name VAL Let's Make Love	0
+COL RatingCount VAL 4,176	1
+COL Release Date VAL 12 December 1997 (USA)	0
+COL Filming Locations VAL Covington, Georgia, USA	0
+COL RatingValue VAL 6.7	0
+COL RatingCount VAL 68,154	1
+COL Year VAL 2005	0
+COL RatingValue VAL 6.0	1
+COL Creator VAL Ehren Kruger	0
+COL Id VAL thoroughly_modern_millie	1
+COL Genre VAL Drama,Romance,Classics	1
+COL Description VAL Detective Jack Grimaldi (Gary Oldman) takes us through his shattered life after encountering the most deadly (and deceptive) criminal he has ever had to deal with. It doesn't help that ...	0
+COL ReviewCount VAL 86 user,73 critic	0
+COL ReviewCount VAL 451 user,167 critic	0
+COL Release Date VAL 22 November 1996 (USA)	0
+COL Id VAL 1153987-nanny_mcphee	1
+COL RatingCount VAL 29,301	1
+COL Actors VAL Dana Andrews,Janette Scott,Kieron Moore	0
+COL Year VAL 1985	0
+COL Director VAL Gore Verbinski	0
+COL RatingCount VAL 5,842	1
+COL RatingValue VAL 5.0	1
+COL Genre VAL Drama,Music,Romance	0
+COL Year VAL 2010	0
+COL Cast VAL Edward Norton,Brad Pitt,Helena Bonham Carter,Meat Loaf,Zach Grenier,Richmond Arquette,David Andrews,George Maguire,Eugenie Bondurant,Christina Cabot,Sydney 'Big Dawg' Colston,Rachel Singer,Christie Cronenweth,Tim DeZam,Ezra Buzzington	0
+COL RatingValue VAL 6.1/10,6/10	1
+COL RatingValue VAL 7.8	0
+COL Filming Locations VAL Bend, Oregon, USA	0
+COL Year VAL 2015	0
+COL Director VAL John Ford	0
+COL RatingCount VAL 9,189	1
+COL Filming Locations VAL 	0
+COL RatingCount VAL 4,345	1
+COL RatingCount VAL 15,485	1
+COL RatingCount VAL 55,797	1
+COL RatingCount VAL 7,322	1
+COL Language VAL English	0
+COL RatingCount VAL 18,677	1
+COL Genre VAL Mystery & Suspense,Action & Adventure	1
+COL Language VAL English	0
+COL Description VAL When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of the victims harbors a secret talent for fighting back.	0
+COL Language VAL English	0
+COL RatingCount VAL 1,423	1
+COL RatingCount VAL 1,367	1
+COL RatingValue VAL 7.0	1
+COL ReviewCount VAL 38 user,16 critic	0
+COL Country VAL USA,Spain,France,Italy	0
+COL RatingCount VAL 7,346	1
+COL RatingValue VAL 6.2	0
+COL Filming Locations VAL Kaslo, British Columbia, Canada	0
+COL ReviewCount VAL 200 user,95 critic	0
+COL Cast VAL Freddie Highmore,Mary-Louise Parker,Nick Nolte,Sarah Bolger,Andrew McCarthy,Joan Plowright,David Strathairn,Seth Rogen,Martin Short,Jordy Benattar,Tod Fennell,Mariah Inger,Jeremy Lavalley,Lise Durocher-Viens,Tyler Patrick Jones	0
+COL Duration VAL 101 min	0
+COL Release Date VAL Nov 13, 2012 Wide	1
+COL Genre VAL Action,Crime,Thriller	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 423,353	1
+COL Creator VAL David S. Goyer,David S. Goyer	0
+COL RatingCount VAL 129,924	1
+COL Id VAL queen	1
+COL Creator VAL Rae Lambert,Mark Young	0
+COL RatingValue VAL 7.8	0
+COL RatingCount VAL 98,264	1
+COL RatingCount VAL 82,500	1
+COL Name VAL The Devil You Know	0
+COL Cast VAL Buster Keaton,Tom McGuire,Ernest Torrence,Tom Lewis,Marion Byron	0
+COL Genre VAL Comedy,Drama,Music	0
+COL RatingCount VAL 1,955	1
+COL Filming Locations VAL Ashley Gardens, Westminster, London, England, UK	0
+COL Filming Locations VAL Mafilm, Budapest, Hungary	0
+COL Cast VAL Josh Hartnett,Bruce Willis,Lucy Liu,Morgan Freeman,Ben Kingsley,Michael Rubenfeld,Peter Outerbridge,Stanley Tucci,Kevin Chamberlin,Dorian Missick,Mykelti Williamson,Scott Gibson,Daniel Kash,Dmitry Chepovetsky,Sam Jaeger	0
+COL Actors VAL Jim Henson,Frank Oz,Jerry Nelson	0
+COL Year VAL 1990	0
+COL RatingCount VAL 1,333	1
+COL Description VAL An ordinary teenager finds out he's not so ordinary after all in this comedy-adventure. Will Stronghold (Michael Angarano) has his share of anxieties about starting high school, but once he arrives on campus, he discovers he's attending Sky High, a special learning facility for the children of superheroes. Will realizes his father is actually super-human crime fighter Captain Stronghold (Kurt Russell), while his mom is fellow champion Josie Jetstream (Kelly Preston). However, in Will's first few,days at school, Coach Boomer (Bruce Campbell) is unable to discover any superior abilities in him, meaning that instead of joining the school's budding heroes, he's been relegated to the ranks of the lowly sidekicks. In time, Will discovers he happens to have super strength after all, but will he learn to hone his new gifts in time to fend off the bullies at school, get the girl of his dreams, and save his folks from a longtime nemesis? Sky High also features Lynda Carter, Dave Foley, and Kevin McDonald.	1
+COL Creator VAL Dalene Young	1
+COL ReviewCount VAL 538 user,437 critic	0
+COL RatingCount VAL 13,313	1
+COL RatingCount VAL 91,273	1
+COL Actors VAL Kathryn Burns,Lizzy Caplan,Michael Coleman	0
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 1,908	1
+COL Cast VAL Matt Damon,Gretchen Mol,John Malkovich,Paul Cicero,Ray Iannicelli,John Turturro,Merwin Goldsmith,Sonny Zito,Josh Mostel,Mal Z. Lawrence,Lenny Clarke,Peter Yoshida,Jay Boryea,Lenny Venito,Martin Landau	0
+COL Cast VAL Wesley Snipes,Kris Kristofferson,Dominic Purcell,Jessica Biel,Ryan Reynolds,Parker Posey,Mark Berry,John Michael Higgins,Callum Keith Rennie,Paul Levesque,Paul Anthony,Françoise Yip,Michael Anthony Rawlins,James Remar,Natasha Lyonne	0
+COL Genre VAL Family	0
+COL ReviewCount VAL 439 user,444 critic	0
+COL RatingCount VAL 302,921	1
+COL Country VAL USA	0
+COL ReviewCount VAL 157 user,35 critic	0
+COL Director VAL Shane Carruth	0
+COL Filming Locations VAL Pennsylvania, USA	0
+COL RatingCount VAL 411,966	1
+COL RatingCount VAL 1,557	1
+COL RatingCount VAL 67,215	1
+COL RatingCount VAL 24,439	1
+COL Language VAL English,Italian	0
+COL Name VAL Tormented	0
+COL Id VAL tt0246989	0
+COL Language VAL English	0
+COL Filming Locations VAL Pacific Southwest Railway Museum, Campo, California, USA	0
+COL RatingCount VAL 67,794	1
+COL RatingCount VAL 8,772	1
+COL RatingValue VAL 3.7	0
+COL Genre VAL Action,Comedy,Crime	0
+COL Release Date VAL Jul 1, 1992 Wide	1
+COL Genre VAL Comedy,Drama,Romance	0
+COL Duration VAL 94 min	0
+COL Id VAL love_is_all_there_is	1
+COL RatingCount VAL 10,690	1
+COL RatingCount VAL 44,968	1
+COL RatingValue VAL 4.0	1
+COL Duration VAL 1 hr. 45 min.	1
+COL RatingCount VAL 4,107	1
+COL Filming Locations VAL Koerner Plaza, University of British Columbia, Robson Square Campus - 800 Robson Street, Vancouver, British Columbia, Canada	0
+COL RatingCount VAL 27,295	1
+COL ReviewCount VAL 245 user,82 critic	0
+COL RatingCount VAL 85,343	1
+COL Description VAL Lake Bell ('Children's Hospital') stars in In a World..., a hilarious romantic comedy about a struggling vocal coach who strikes it big in the cutthroat world of movie-trailer voiceovers, only to find herself in direct competition with the industry's reigning king-her father. Written and directed by Bell, who won the Sundance 2013 Waldo Salt Screenwriting Award for the script, In a World... also stars Fred Melamed (A Serious Man), Rob Corddry (Hot Tub Time Machine), Demetri Martin ('Important,Things with Demetri Martin'), Michaela Watkins ('Enlightened'), Ken Marino ('Burning Love'), Nick Offerman ('Parks and Recreation'), Alexandra Holden (The Hot Chick) and Tig Notaro ('The Sarah Silverman Program'). (c) Roadside Attractions	1
+COL RatingValue VAL 8.0	1
+COL Description VAL Brilliant, flamboyant master criminal Michael Lynch is more interested in his image and his posterity than the actual profit from his ill-gotten gains.	0
+COL RatingCount VAL 1,223	1
+COL Creator VAL Robert Getchell	0
+COL RatingCount VAL 25,963	1
+COL RatingCount VAL 1,469	1
+COL RatingCount VAL 3,842	1
+COL ReviewCount VAL 17 user	0
+COL Genre VAL Crime,Drama,Horror	0
+COL Description VAL More explicit, faster paced and technically self-assured than Night of the Living Dead (1968), this second in a trilogy of horror movies tells the gruesome tale of corpses rising yet again from the grave as cannibalistic zombies, an army of the dead who will eradicate all human life unless they are stopped.	1
+COL Director VAL Roy William Neill	0
+COL Release Date VAL 25 July 2014 (USA)	0
+COL RatingCount VAL 15,037	1
+COL RatingCount VAL 135,403	1
+COL Country VAL USA	0
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 355,811	1
+COL RatingCount VAL 411,303	1
+COL RatingCount VAL 5,509	1
+COL Creator VAL Nina Wilcox Putnam,Richard Schayer	0
+COL Actors VAL Duane Martin,Tupac Shakur,Leon	0
+COL Release Date VAL 10 November 1953 (USA)	0
+COL RatingCount VAL 26,950	1
+COL RatingCount VAL 12,018	1
+COL Release Date VAL Dec 1, 1950 Wide	1
+COL RatingValue VAL 8.0	1
+COL Director VAL Nadia Conners,Leila Conners Petersen	1
+COL Filming Locations VAL Perth, Western Australia, Australia	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 5,068	1
+COL Country VAL USA	0
+COL Year VAL 2001	0
+COL RatingCount VAL 327,547	1
+COL Country VAL USA	0
+COL RatingCount VAL 9,241	1
+COL Cast VAL Leslie Nielsen,Kelly Lynch,Matt Keeslar,Nick Chinlund,Stephen Tobolowsky,Ernie Hudson,Jennifer Garner,Malcolm McDowell,Miguel Ferrer,L. Harvey Gold,Art Irizawa,John Tierney,Terence Kelly,Rick Burgess,Jerry Wasserman	0
+COL RatingValue VAL 6.8	0
+COL RatingCount VAL 1,764	1
+COL RatingCount VAL 40,146	1
+COL RatingCount VAL 4,871	1
+COL Year VAL 2008	0
+COL RatingCount VAL 97,008	1
+COL Language VAL English	0
+COL RatingCount VAL 513,107	1
+COL Release Date VAL 9 May 2008 (UK)	0
+COL Language VAL English	0
+COL RatingCount VAL 44,365	1
+COL RatingCount VAL 109,005	1
+COL RatingCount VAL 9,152	1
+COL Name VAL Collateral	0
+COL RatingCount VAL 6,393	1
+COL Year VAL 2005 2006 2007	1
+COL Director VAL Dylan Greenberg	0
+COL RatingCount VAL 40,853	1
+COL Duration VAL 106 min	0
+COL RatingCount VAL 26,060	1
+COL Year VAL 2008	0
+COL Duration VAL 	1
+COL Actors VAL Josh Stewart,Emma Fitzpatrick,Christopher McDonald	0
+COL Duration VAL 110 min	0
+COL RatingCount VAL 292,362	1
+COL ReviewCount VAL 24 user,13 critic	0
+COL RatingCount VAL 3,514	1
+COL RatingCount VAL 3,103	1
+COL RatingValue VAL 7.0	1

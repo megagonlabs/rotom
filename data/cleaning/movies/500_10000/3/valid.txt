@@ -1,0 +1,500 @@
+COL RatingCount VAL 199,450	1
+COL Language VAL English,French	0
+COL Description VAL An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.	0
+COL Duration VAL 	1
+COL Name VAL Blood Mania	0
+COL Creator VAL Michael Elliot,Michael Elliot	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 95,376	1
+COL Name VAL Observe and Report	0
+COL ReviewCount VAL 14 user,12 critic	0
+COL Release Date VAL 21 November 1931 (USA)	0
+COL Year VAL 2014 2015 2016	1
+COL RatingCount VAL 14,077	1
+COL Duration VAL 90 min	0
+COL Actors VAL Shawnee Smith,Kevin Dillon,Donovan Leitch Jr.	0
+COL Cast VAL Jake Johnson,Damon Wayans Jr.,Rob Riggle,Nina Dobrev,James D'Arcy,Keegan-Michael Key,Andy Garcia,Jonathan Lajoie,Tom Mardirosian,Natasha Leggero,Rebecca Koon,Joshua Ormond,L. Warren Young,Nelson Bonilla,Brian Oerly	0
+COL RatingCount VAL 114,823	1
+COL ReviewCount VAL 	0
+COL Cast VAL Chris Evans,Samuel L. Jackson,Scarlett Johansson,Robert Redford,Sebastian Stan,Anthony Mackie,Cobie Smulders,Frank Grillo,Maximiliano Hernández,Emily VanCamp,Hayley Atwell,Toby Jones,Stan Lee,Callan Mulvey,Jenny Agutter	0
+COL Filming Locations VAL Hanover, Pennsylvania, USA	0
+COL RatingCount VAL 2,908	1
+COL Description VAL A college student on suspension is coaxed into babysitting the kids next door, though he is fully unprepared for the wild night ahead of him.	0
+COL Genre VAL Documentary	0
+COL Filming Locations VAL 409 N Shaffer Street, Orange, California, USA	0
+COL Year VAL 1999 2000 2001	1
+COL RatingCount VAL 5,665	1
+COL Duration VAL 93 min	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 1,389	1
+COL Cast VAL Kristy Swanson,Donald Sutherland,Paul Reubens,Rutger Hauer,Luke Perry,Michele Abrams,Hilary Swank,Paris Vaughan,David Arquette,Randall Batinkoff,Andrew Lowery,Sasha Jenson,Stephen Root,Natasha Gregson Wagner,Candy Clark	0
+COL Duration VAL 130 min	0
+COL Description VAL A decade after the first Halloween film, the killer Michael Myers returns just in time for the series' fourth outing. This time, he's returning to his home town to murder his niece (Danielle Harris).	1
+COL RatingValue VAL 7.8	0
+COL RatingCount VAL 62,003	1
+COL Language VAL English	0
+COL Director VAL Terry Jones	0
+COL RatingCount VAL 29,601	1
+COL Id VAL the_motivation_2013	1
+COL RatingCount VAL 57,984	1
+COL Country VAL USA	0
+COL ReviewCount VAL 1 critic	0
+COL Year VAL 2013	0
+COL RatingCount VAL 25,468	1
+COL Id VAL crow	1
+COL Description VAL Inspired by the beloved segment of the Walt Disney classic Fantasia, The Sorcerer's Apprentice moves the setting of the story to modern-day Manhattan, where decidedly average teen Dave Stutler (Jay Baruchel) hones his magical powers under the tutelage of master sorcerer Balthazar Blake (Nicolas Cage). Malevolent wizard Maxim Horvath (Alfred Molina) is determined to claim New York City as his own. And Horvath isn't alone in his diabolical endeavor, because by joining forces with the sinister,sorcerer, pop illusionist Drake Stone (Toby Kebbell) aspires to gain powers beyond his wildest imagination. Realizing that he can't take on Horvath and Stone alone, Blake recruits Stutler as his reluctant assistant and begins training him the battle that will determine the fate of the Big Apple. Teresa Palmer and Monica Bellucci co-star. ~ Jason Buchanan, Rovi	1
+COL Duration VAL 133 min	0
+COL RatingCount VAL 111,727	1
+COL Year VAL 1989 1990 1991	1
+COL Cast VAL Jim Roof,Shannon Malone,Larissa Lynch,Liz Burghdorf,Andrew Hopper,Jade Bryce,Katie Costick,Kelly Cunningham,Lauren Lakis,Michael O'Grady Moriarty,Max Potesky	0
+COL Creator VAL Hugh Gross	0
+COL RatingCount VAL 83,102	1
+COL RatingCount VAL 36,996	1
+COL RatingCount VAL 35,884	1
+COL Release Date VAL 1 August 2010 (USA)	0
+COL RatingCount VAL 146,178	1
+COL RatingCount VAL 2,636	1
+COL Release Date VAL 12 December 1980 (USA)	0
+COL RatingCount VAL 103,278	1
+COL RatingCount VAL 69,768	1
+COL Id VAL tt0829482	0
+COL Creator VAL Stanley Kubrick	0
+COL Name VAL Breakfast at Tiffany's	0
+COL Director VAL D.J. Caruso	0
+COL RatingCount VAL 9,100	1
+COL Year VAL 1994	0
+COL RatingCount VAL 3,341	1
+COL ReviewCount VAL 394 user,154 critic	0
+COL Filming Locations VAL 	0
+COL RatingCount VAL 27,140	1
+COL RatingValue VAL 8.0	1
+COL Director VAL Ted Nicolaou	0
+COL Language VAL Mandarin,English,Cantonese,Vietnamese,Polish	0
+COL RatingCount VAL 83,440	1
+COL RatingCount VAL 2,119	1
+COL Director VAL Lou Adler,Tommy Chong	0
+COL Year VAL 1979	0
+COL Duration VAL 138 min	0
+COL ReviewCount VAL 118 user,17 critic	0
+COL Year VAL 2011	0
+COL Description VAL A newlywed couple recovers from a car accident that puts the wife in a coma. Waking up with severe memory loss, her husband endeavors to win her heart again. -- (C) Sony Pictures	1
+COL RatingCount VAL 9,921	1
+COL Year VAL 2014	0
+COL Director VAL Crystal Moselle	0
+COL RatingCount VAL 142,836	1
+COL RatingValue VAL 5.5	0
+COL Id VAL tt0117293	0
+COL Country VAL USA,UK,France	0
+COL RatingCount VAL 20,892	1
+COL Director VAL David O. Russell	0
+COL ReviewCount VAL 80 user,93 critic	0
+COL Year VAL 2000 2001 2002	1
+COL RatingCount VAL 27,033	1
+COL RatingValue VAL 6.1	0
+COL Id VAL tt0139462	0
+COL Genre VAL Action,Adventure,Drama	0
+COL RatingCount VAL 177,448	1
+COL Id VAL tt0107007	0
+COL Language VAL English	0
+COL RatingCount VAL 1,049	1
+COL RatingCount VAL 25,150	1
+COL Director VAL John Huston	0
+COL Language VAL English	0
+COL Country VAL USA	0
+COL Country VAL USA	0
+COL RatingCount VAL 307,760	1
+COL Filming Locations VAL Lower Bay Station, Toronto, Ontario, Canada	0
+COL Genre VAL Drama	0
+COL RatingCount VAL 327,547	1
+COL Director VAL Franklin J. Schaffner	0
+COL Creator VAL Leila Conners Petersen,Nadia Conners,Leonardo DiCaprio	1
+COL RatingCount VAL 10,573	1
+COL RatingCount VAL 137,156	1
+COL Name VAL Tales of the Grim Sleeper	0
+COL ReviewCount VAL 252 user,146 critic	0
+COL RatingCount VAL 36,976	1
+COL RatingCount VAL 7,857	1
+COL Release Date VAL Sep 16, 2011 Limited	1
+COL Duration VAL 	1
+COL Cast VAL Kevin Bernhardt,Lawrence Mortorff,Terry Farrell,Ken Carpenter,Sharon Ceccatti,Paula Marshall,Robert C. Treveiler,Christopher Frederick,Lawrence Kuppin,Sharon Percival,Philip Hyland,David Young,Brent Bolthouse,Peter Atkins,Paul Coleman	0
+COL Actors VAL Tom Noonan,Karl Jacob,Vanessa Horneff	0
+COL RatingCount VAL 110,011	1
+COL RatingCount VAL 86,399	1
+COL Description VAL A torch singer becomes a mail-order bride for a farmer.	0
+COL Description VAL Add a Plot	0
+COL RatingCount VAL 4,616	1
+COL Language VAL Russian,English	0
+COL Year VAL 2013 2014 2015	1
+COL ReviewCount VAL 176 user,26 critic	0
+COL RatingValue VAL 7.0	1
+COL Year VAL 2012	0
+COL Name VAL Meet the Deedles	0
+COL Director VAL Cecil B. DeMille	0
+COL Id VAL tt0053272	0
+COL Id VAL tt0481536	0
+COL Creator VAL Steven Paul,Gregory Poppen	0
+COL Actors VAL Christian Bale,Tom Hardy,Anne Hathaway	0
+COL Filming Locations VAL 17110 Bodega Lane, Bodega, California, USA	0
+COL RatingCount VAL 5,017	1
+COL Release Date VAL 9 February 1996 (USA)	0
+COL Language VAL English	0
+COL Id VAL tt0045680	0
+COL RatingCount VAL 7,611	1
+COL Year VAL 2014 2015 2016	1
+COL RatingCount VAL 47,769	1
+COL RatingCount VAL 7,724	1
+COL RatingCount VAL 8,623	1
+COL RatingCount VAL 18,864	1
+COL RatingCount VAL 8,034	1
+COL Filming Locations VAL Clermont, Iowa, USA	0
+COL RatingCount VAL 8,190	1
+COL RatingCount VAL 77,113	1
+COL ReviewCount VAL 279 user,135 critic	0
+COL Actors VAL Ray Wise,Adam Green,Will Barratt	0
+COL RatingValue VAL 6.0	1
+COL Cast VAL Vince Vaughn,Chris Pratt,Cobie Smulders,Andrzej Blumenfeld,Simon Delaney,Bobby Moynihan,Dave Patten,Adam Chanler-Berat,Britt Robertson,Jack Reynor,Amos VanderPoel,Matthew Daddario,Jessica Williams,Leslie Ann Glossner,Derrick Arthur	0
+COL Duration VAL 86 min	0
+COL RatingValue VAL 5.0	1
+COL Release Date VAL 2 August 1956 (USA)	0
+COL RatingValue VAL 7.0	1
+COL Release Date VAL Dec 14, 1979 Wide	1
+COL Id VAL tt0180734	0
+COL Genre VAL Comedy	0
+COL Duration VAL 79 min	0
+COL Genre VAL Action,Comedy,Crime	0
+COL Year VAL 1949	0
+COL RatingCount VAL 1,714	1
+COL Creator VAL Sergey Kaluzhanov,Gor Kirakosian	0
+COL Filming Locations VAL 608 Vallombrosa Dr, Pasadena, California, USA	0
+COL Release Date VAL 22 September 2015 (USA)	0
+COL Id VAL daybreakers	1
+COL RatingCount VAL 6,298	1
+COL Release Date VAL 16 March 2007 (USA)	0
+COL Language VAL English	0
+COL RatingCount VAL 19,732	1
+COL Director VAL Ron Maxwell	0
+COL RatingValue VAL 3.1	0
+COL Language VAL English,French,Albanian,Spanish,Hungarian	0
+COL RatingCount VAL 89,118	1
+COL RatingCount VAL 5,992	1
+COL Name VAL The Mudge Boy	0
+COL Duration VAL 1 hr. 59 min.	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 100,280	1
+COL Director VAL Jason Hull	0
+COL Id VAL tt0141098	0
+COL RatingCount VAL 26	0
+COL RatingCount VAL 1,452	1
+COL RatingCount VAL 4,434	1
+COL RatingCount VAL 1,023	1
+COL Director VAL Mervyn LeRoy	0
+COL Release Date VAL 12 June 1987 (USA)	0
+COL Release Date VAL 27 September 1985 (USA)	0
+COL Country VAL USA	0
+COL Name VAL Jeremiah Johnson	0
+COL Release Date VAL November 1990 (USA)	0
+COL Country VAL USA	0
+COL RatingCount VAL 3,728	1
+COL Name VAL The Human Centipede III (Final Sequence)	0
+COL Filming Locations VAL Glacier National Park, Montana, USA	0
+COL RatingCount VAL 2,310	1
+COL ReviewCount VAL 27 user,27 critic	0
+COL RatingValue VAL 4.4	0
+COL Description VAL Ralph Bakshi directed this rotoscope-animated version of J.R.R. Tolkien's fantasy tales about the mythical creatures who dwell in Middle Earth.	1
+COL RatingCount VAL 92,257	1
+COL RatingCount VAL 20,481	1
+COL Filming Locations VAL Van Nuys, Los Angeles, California, USA	0
+COL Id VAL tt0093137	0
+COL Year VAL 2007	0
+COL Name VAL To Gillian on Her 37th Birthday	0
+COL RatingCount VAL 96,901	1
+COL RatingCount VAL 120,330	1
+COL Description VAL The true story of an athlete who achieved his greatest success against the most daunting odds of his life is brought to the screen in this historical drama. In the 1920s, James Braddock (Russell Crowe) from Bergen, NJ, was a promising contender in professional boxing; he had strength, spirit, and tenacity, but the combination of a serious hand injury and a 1929 defeat in a bout with light heavyweight champ Tommy Loughran sent his career into a serious tailspin. As Braddock's career in the ring,dried up, the Great Depression put a stake through the heart of America's economy, and Braddock found himself working at the New York docks for pitiful wages as he tried to support his wife, Mae (Renée Zellweger), and three children. Desperate for money, Braddock turned to his former trainer and manager Joe Gould (Paul Giamatti), who was unexpectedly able to scare up a bout for him, battling John Griffin at Madison Square Garden. While conventional wisdom had it that Braddock was too old, out of shape, and out of practice to have any chance of winning, he defeated Griffin, and continued beating his opponents with a powerful left hook that had been intensified by years of punishing dock work. In a nation desperate for good news, Braddock's surprising comeback became a tonic to struggling workers and unemployed people, and all eyes were on Braddock when in 1935 he took on powerful heavyweight champion Max Baer (Craig Bierko) in what was both literally and figuratively the fight of his life. ~ Mark Deming, Rovi	1
+COL RatingCount VAL 8,179	1
+COL Filming Locations VAL Amazonas, Brazil	0
+COL Release Date VAL 28 March 1986 (USA)	0
+COL RatingCount VAL 5,302	1
+COL RatingValue VAL 5.0	1
+COL Country VAL USA	0
+COL Genre VAL Action,Adventure,Drama	0
+COL Year VAL 1997	0
+COL RatingCount VAL 1,841	1
+COL Filming Locations VAL Norcross, Georgia, USA	0
+COL RatingValue VAL 4/10,4.2/10	1
+COL RatingCount VAL 1,966	1
+COL RatingCount VAL 6,471	1
+COL Country VAL USA	0
+COL RatingCount VAL 1,084	1
+COL RatingCount VAL 362,375	1
+COL RatingCount VAL 3,846	1
+COL Actors VAL Ryan Phillippe,Abbie Cornish,Joseph Gordon-Levitt	0
+COL RatingCount VAL 12,176	1
+COL RatingCount VAL 54,413	1
+COL RatingCount VAL 35,351	1
+COL RatingCount VAL 	0
+COL RatingCount VAL 47,673	1
+COL RatingCount VAL 96,346	1
+COL RatingCount VAL 1,071	1
+COL ReviewCount VAL 49 user,38 critic	0
+COL RatingValue VAL 5.9	0
+COL Description VAL Add a Plot	0
+COL RatingCount VAL 2,007	1
+COL Cast VAL Mark Kinsey Stephenson,Charles Klausmeyer,Maria Ford,John Rhys-Davies,Julie Strain,Peter Breck,David Warner,Shawn T. Lim,Siobhan McCafferty,Richard Domeier,Brad Blaisdell,Kevin Alber,August James,Kit Fredericks,Bryan Clark	0
+COL RatingValue VAL 7.0	1
+COL Duration VAL 1 hr. 49 min.	1
+COL RatingCount VAL 219,072	1
+COL Creator VAL Gregg Mancuso,Jim Piddock	0
+COL Release Date VAL 24 December 1996 (USA)	0
+COL ReviewCount VAL 18 user,5 critic	0
+COL Year VAL 1997 1998 1999	1
+COL RatingCount VAL 93,447	1
+COL Country VAL USA	0
+COL RatingCount VAL 13,772	1
+COL Duration VAL 88 min	0
+COL Year VAL 1953 1954 1955	1
+COL Description VAL Your friendly neighborhood web-slinger is back, only this time his sunny outlook has become partially overcast in the third chapter of director Sam Raimi's Spider-Man saga. Tobey Maguire, Kirsten Dunst, and James Franco return to reprise their roles from the previous two installments, with Thomas Haden Church, Topher Grace, and Bryce Dallas Howard making their first appearances in the series as Flint Marko (aka Sandman), Eddie Brock (aka Venom), and Gwen Stacy, respectively. Peter Parker,(Maguire) has finally leaned to walk the middle ground between being the superhero that his city needs and the man that Mary Jane (Dunst) loves. All is well in New York City until one night, as Peter and M.J. sit gazing at the stars, a falling comet streams across the sky and crashes into the ground close by. But this isn't any ordinary shooting star, and upon impact the mysterious space rock is split open to reveal a shape-shifting symbiote with the power to overtake anything that it comes into contact with. Later, as Harry Osborn (James Franco) acquires his late father's flying board, engineers a powerful new Goblin outfit, and takes to the sky to avenge dad's death, the mysterious space sludge infects both Peter's Spider-Man suit and ambitious street photographer Eddie Brock (Grace). Peter's strange new suit gives him a newfound sense of power as it gradually overpowers his personality, and he discovers that escaped convict Flint Marko was in fact the man responsible for the death of Uncle Ben (Cliff Robertson). Unfortunately for Peter, Marko has recently acquired the power to morph at will and quickly completes his transformation into the dreaded Sandman. As the Sandman gives in to his darkest criminal instincts and the slithering space symbiote transforms Eddie Brock into the nightmarish fanged villain known as Venom, the citizens of New York City must once again call on Spider-Man to fend off destructive forces that are far too powerful for the likes of mortal man. ~ Jason Buchanan, Rovi	1
+COL Director VAL Robert Schwentke	0
+COL Duration VAL 107 min	0
+COL RatingCount VAL 3,902	1
+COL RatingCount VAL 19,120	1
+COL Genre VAL Family	0
+COL RatingCount VAL 752,420	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 113,941	1
+COL RatingCount VAL 4,377	1
+COL Description VAL Based on writer Susanna Kaysen's account of her 18-month stay at a mental hospital in the 1960s.	0
+COL RatingCount VAL 111,293	1
+COL Language VAL English	0
+COL RatingCount VAL 20,211	1
+COL RatingCount VAL 4,485	1
+COL Cast VAL Sheila Hart,Nina Hartley,Leah Huebner,Alison Korman,Mai Linh,Raymond Morris,Mari Cielo Pajares,Cortney Palm,Elaine Partnow,Mischa Pollack,Eliza Roberts,Eric Roberts,Heather Renee Sims	0
+COL Id VAL 1009427-heaven_can_wait	1
+COL RatingCount VAL 79,896	1
+COL Creator VAL Rex Pickett,Alexander Payne	0
+COL RatingCount VAL 63,586	1
+COL RatingCount VAL 112,327	1
+COL Creator VAL Bobby Roe,Zack Andrews	0
+COL Creator VAL Jeffrey M. Howard	1
+COL Name VAL Pixels	0
+COL Cast VAL James K. Hackett,Beatrice Beckley,David Torrence,Fraser Coalter,William R. Randall,Walter Hale,Frank Shannon,Minna Gale,Charles Green,Tom Callahan,Sidney Barrington,Walter Claton,Henry Hebert,Wilmer Damo,George Neville	0
+COL Genre VAL Horror,Mystery & Suspense,Classics,Science Fiction & Fantasy	1
+COL RatingCount VAL 23,600	1
+COL RatingCount VAL 1,606	1
+COL RatingCount VAL 4,142	1
+COL RatingCount VAL 2,841	1
+COL Year VAL 2001 2002 2003	1
+COL RatingCount VAL 15,083	1
+COL Description VAL Caroline and Lloyd (Judy Davis and Kevin Spacey) are a married couple constantly at each other's throats, masters at crafting acid-tongued barbs at the other's expense. Indeed, they are so obsessed with belittling each other that they never stop -- not even at gunpoint. Such is the premise of the acerbic comedy The Ref, which shows what happens when this quarrelsome duo is taken hostage. The gunman is Gus (Denis Leary), a thief on the run from the police, who kidnaps the couple as an insurance,policy, planning to use their home as a hideout. But their incessant bickering proves more than Gus bargained for, forcing him -- for the sake of his own sanity -- into the unenviable role of peacemaker. To make things even worse for Gus, he discovers that he has taken the couple hostage the night of their big Christmas party, and the guests are already on the way. Not wanting to leave Lloyd and Caroline unattended, Gus opts to attend the party, pretending to be the couple's marriage counselor. This naturally leads to a series of comic confusions, as the hostage crisis and marital tensions head towards their inevitable conclusion. ~ Judd Blaise, Rovi	1
+COL RatingCount VAL 31,202	1
+COL RatingCount VAL 1,108	1
+COL Name VAL Knight of Cups	0
+COL RatingCount VAL 19,899	1
+COL RatingCount VAL 5,744	1
+COL ReviewCount VAL 28 user,12 critic	0
+COL Id VAL tt0112760	0
+COL Genre VAL Documentary,Musical & Performing Arts,Art House & International,Special Interest	1
+COL RatingCount VAL 12,197	1
+COL Name VAL Robin Hood: Men in Tights	0
+COL RatingCount VAL 15,076	1
+COL Creator VAL Ant Timpson,Nacho Vigalondo	0
+COL ReviewCount VAL 1 user,2 critic	0
+COL Actors VAL Mel Blanc,Arthur Q. Bryan,June Foray	0
+COL Id VAL pennies_from_heaven_1936	1
+COL RatingCount VAL 15,051	1
+COL Country VAL USA,Mexico	0
+COL RatingValue VAL 6.0	1
+COL Cast VAL Warren Beatty,Charlie Korsmo,Michael Donovan O'Donnell,Jim Wilkey,Stig Eldred,Neil Summers,Chuck Hicks,Lawrence Steven Meyers,William Forsythe,Ed O'Ross,Glenne Headly,Marvelee Cariaga,Michael Gallup,Seymour Cassel,James Keane	0
+COL Director VAL Larry Clark	0
+COL Cast VAL Jane Wyman,Van Johnson,Peggie Castle,Fred Clark,Eileen Heckart,Josephine Hutchinson,William Gargan,Marcel Dalio,George Givot,Barbara Nichols,Halliwell Hobbes,Paul Picerni,Alan King,Irene Seidner,Arte Johnson	0
+COL ReviewCount VAL 38 user,35 critic	0
+COL Creator VAL M. Night Shyamalan	0
+COL RatingCount VAL 29,367	1
+COL Language VAL English	0
+COL Duration VAL 85 min	0
+COL Year VAL 2012	0
+COL Language VAL English	0
+COL RatingCount VAL 11,077	1
+COL Year VAL 2013	0
+COL Actors VAL Steve Martin,Victoria Tennant,Richard E. Grant	0
+COL Cast VAL John Heard,Daniel Stern,Christopher Curry,Kim Greist,Laure Mattos,Brenda Currin,Justin Hall,Michael O'Hare,Cordis Heard,Vic Polizos,Eddie Jones,Sam McMurray,Frank Adu,Ruth Maleczech,J.C. Quinn	0
+COL Description VAL Allen finds the son he never knew he had living in the jungle in an Indian tribe. Allen takes his son to New York where they get into various fish-of-water disasters. Family comedy is typical of its kind, but well made managing to grind out some humorous moments.	1
+COL RatingCount VAL 3,235	1
+COL Name VAL Little City	0
+COL RatingCount VAL 10,941	1
+COL Release Date VAL 29 July 2011 (USA)	0
+COL RatingValue VAL 7.4/10	1
+COL RatingValue VAL 7.3	0
+COL Director VAL Steven Soderbergh	0
+COL RatingCount VAL 14,490	1
+COL Language VAL English	0
+COL Duration VAL 109 min	0
+COL RatingCount VAL 244,949	1
+COL RatingValue VAL 6.8/10,7.1/10	1
+COL RatingCount VAL 103,785	1
+COL RatingCount VAL 239,590	1
+COL Description VAL Hazel and Gus are two extraordinary teenagers who share an acerbic wit, a disdain for the conventional, and a love that sweeps them - and us - on an unforgettable journey. Their relationship is all the more miraculous, given that they met and fell in love at a cancer support group. THE FAULT IN OUR STARS, based upon the number-one bestselling novel by John Green, explores the funny, thrilling and tragic business of being alive and in love.(C) Fox	1
+COL RatingCount VAL 162,081	1
+COL RatingCount VAL 349,489	1
+COL Creator VAL Mark H. Baker,Michael Burton	0
+COL RatingCount VAL 6,559	1
+COL Language VAL English	0
+COL RatingCount VAL 117,647	1
+COL Duration VAL 131 min	0
+COL ReviewCount VAL 5 user,15 critic	0
+COL Creator VAL Kate DiCamillo,Joan Singleton	0
+COL RatingCount VAL 1,855	1
+COL RatingCount VAL 1,037	1
+COL Id VAL tt0053363	0
+COL Creator VAL Alan R. Cohen,Alan Freedland	0
+COL RatingCount VAL 4,107	1
+COL Creator VAL Phillip Borsos	0
+COL RatingValue VAL 7.0	1
+COL Description VAL One of several 1978 films dealing with the Vietnam War (including Hal Ashby's Oscar-winning Coming Home), Michael Cimino's epic second feature The Deer Hunter was both renowned for its tough portrayal of the war's effect on American working class steel workers and notorious for its ahistorical use of Russian roulette in the Vietnam sequences. Structured in five sections contrasting home and war, the film opens in Clairton, PA, as Mike (Robert De Niro), Nick (Christopher Walken), and Stan (John,Cazale, in his last film) celebrate the wedding of their friend Steve (John Savage) and go on a final deer hunt before the men leave for Vietnam. Mike treats hunting as a test of skill, lecturing Stan about the value of 'one shot' deer slaying and brushing off Nick's urgings to appreciate nature's beauty. As Mike ruminates post-hunt, the film cuts to the horror of Vietnam, where the men are captured by Vietcong soldiers who force Mike and Nick to play Russian roulette for the V.C.'s amusement. Mike turns the game to his advantage so they can escape captivity, but the men are permanently scarred by the episode. Steve loses his legs; Nick vanishes in the Saigon Russian roulette parlors. Mike returns alone to Clairton a changed man, as he rejects the killing of the deer hunt and finds solace with Nick's old girlfriend Linda (Meryl Streep). Disgusted by the antics of his male cohorts at home, Mike decides to bring Steve back from a veterans' hospital, and he returns to Saigon to find Nick. As Saigon falls, Mike discovers how far gone Nick is; the survivors gather in Clairton for a funeral breakfast, singing an impromptu rendition of 'God Bless America.'	1
+COL RatingCount VAL 23,995	1
+COL RatingCount VAL 22,614	1
+COL ReviewCount VAL 89 user,198 critic	0
+COL Actors VAL Richard Carlson,Julie Adams,Richard Denning	0
+COL Name VAL Black Ribbon	0
+COL RatingCount VAL 8,716	1
+COL RatingCount VAL 260,118	1
+COL Director VAL Steven Spielberg	0
+COL Director VAL John Hillcoat	0
+COL RatingCount VAL 1,885	1
+COL RatingCount VAL 103,115	1
+COL RatingCount VAL 1,932	1
+COL Name VAL Eraserhead	0
+COL RatingCount VAL 20,902	1
+COL Cast VAL John C. Reilly,Jonah Hill,Marisa Tomei,Catherine Keener,Matt Walsh,Diane Mizota,Kathy Wittes,Katie Aselton,Jamie Donnelly,Tim Guinee,Charlie Brewer,Steve Zissis,Newell Alexander,Steve Alterman,Mitch Carter	0
+COL RatingCount VAL 40,074	1
+COL Language VAL English	0
+COL RatingCount VAL 39,278	1
+COL RatingCount VAL 1,102	1
+COL Description VAL A young man learns that he has to find a hidden Earth ship before an enemy alien species does in order to secure the survival of humanity.	0
+COL RatingCount VAL 5,824	1
+COL RatingCount VAL 3,014	1
+COL Actors VAL Warner Baxter,Madge Evans,James Dunn	0
+COL Name VAL Forbidden Planet	0
+COL RatingCount VAL 45,988	1
+COL RatingCount VAL 9,626	1
+COL RatingCount VAL 59,128	1
+COL Release Date VAL 15 June 2007 (USA)	0
+COL RatingCount VAL 20,677	1
+COL RatingCount VAL 69,363	1
+COL Cast VAL Joey Lawrence,Billy Joel,Cheech Marin,Richard Mulligan,Roscoe Lee Browne,Sheryl Lee Ralph,Dom DeLuise,Taurean Blacque,Carl Weintraub,Robert Loggia,Natalie Gregory,William Glover,Bette Midler,Deborah Gates,Charles Bartlett	0
+COL Id VAL tt0314331	0
+COL RatingCount VAL 4,172	1
+COL Creator VAL Rob Schneider,Tom Brady	1
+COL Id VAL tt3165236	0
+COL RatingCount VAL 62,056	1
+COL Release Date VAL 5 September 1942 (USA)	0
+COL RatingValue VAL 7.6	0
+COL RatingCount VAL 3,711	1
+COL Description VAL Spun from Daniel DeFoe's tale of the titular character, this sci-fi story involves a spaceship commander, Chris Draper (Paul Mantee) in a similar situation to the original Robinson Crusoe -- but rather than being stranded on an island, our hero is on a hostile planet. Draper, Colonel Dan McReady (Adam West), and a test monkey look as if they are going to collide with a meteor. Draper and the chimp are able to eject themselves from the vessel, but McReady is not so lucky. The two survivors safely,land on Mars and figure out how to breathe, drink, and eat on the inhospitable planet. After some time, Draper crosses paths with a human, Friday, who has recently escaped slavery on an alien planet. As the two find a means of communication, they become friends. They soon work together to survive the incredible odds, including an alien attack and meteorological phenomena. Filmed on location in California's Death Valley, this impressive feature owes much to cinematographer Winton C. Hoch and special effects master Lawrence W. Butler.	1
+COL Director VAL Adam Bhala Lough	0
+COL Genre VAL Drama,Mystery & Suspense,Classics	1
+COL Description VAL Two individuals, Jeff and Kelly, claim to be in love with the 80's pop singer Tiffany.	0
+COL RatingCount VAL 49,866	1
+COL RatingCount VAL 1,301	1
+COL RatingCount VAL 62,869	1
+COL RatingValue VAL 6.0	1
+COL Language VAL English,Scottish Gaelic	0
+COL Filming Locations VAL Burbank, California, USA	0
+COL Language VAL English	0
+COL Year VAL 2005 2006 2007	1
+COL Language VAL English,Japanese	0
+COL Year VAL 1996	0
+COL Actors VAL David Duchovny,Adelaide Kane,Hope Davis	0
+COL Id VAL tt4158624	0
+COL Name VAL Road to Rio	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 3,539	1
+COL ReviewCount VAL 107 user,150 critic	0
+COL RatingCount VAL 2,161	1
+COL RatingCount VAL 19,498	1
+COL RatingCount VAL 102,876	1
+COL RatingCount VAL 88,804	1
+COL Country VAL USA,United Arab Emirates,Poland	0
+COL Release Date VAL Jun 1, 1997 Wide	1
+COL RatingCount VAL 1,123,075	1
+COL RatingValue VAL 7.4	0
+COL RatingCount VAL 1,216	1
+COL RatingCount VAL 55,611	1
+COL Year VAL 2014	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 31,066	1
+COL Genre VAL Biography,Crime,Drama	0
+COL Name VAL Tootsie	0
+COL RatingCount VAL 3,454	1
+COL Actors VAL Rob Lowe,Jodie Foster,Paul McCrane	0
+COL Year VAL 2006	0
+COL Release Date VAL 21 January 2003 (Czech Republic)	0
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 103,371	1
+COL Genre VAL Drama,Action & Adventure,Science Fiction & Fantasy	1
+COL RatingCount VAL 6,959	1
+COL Release Date VAL 8 October 1993 (USA)	0
+COL Name VAL Walking With Dinosaurs	1
+COL Genre VAL Horror,Romance	0
+COL RatingCount VAL 3,000	1
+COL Year VAL 1994	0
+COL Country VAL USA	0
+COL RatingCount VAL 92,153	1
+COL RatingCount VAL 270,767	1
+COL Year VAL 1986	0
+COL Description VAL The protagonists of this film are the teen-aged offspring of the residents of a planned suburban community. This bland little town has been designed with conformity in mind. Consequently, the kids rebel by drinking themselves sick, dealing in drugs, and indulging in deadly violence.	1
+COL RatingCount VAL 5,780	1
+COL Id VAL end_of_innocence	1
+COL RatingCount VAL 5,362	1
+COL Cast VAL Amy Braverman,Miranda Rhyne,Catherine Keener,Anne Heche,Randall Batinkoff,Brenda Denmark,Vincent Pastore,Liev Schreiber,Todd Field,Kevin Corrigan,Joseph Siravo,Rafael Alvarez,Ritamarie Kelly,Steve Cohen,Jordan Levinson	0
+COL RatingCount VAL 32,351	1
+COL Genre VAL Comedy,Crime	0
+COL RatingCount VAL 13,539	1
+COL Country VAL USA	0
+COL Creator VAL Ralph Wright,Ted Berman	0
+COL Creator VAL Ian Danby,Luigi Cozzi	0
+COL Description VAL This film takes a provocative look into the professional and personal passions of Billy Chapel, a legendary baseball pitcher nearing the end of his career who is forced to re-examine his priorities when confronted with unexpected circumstances: Not only is he about to be traded after 20 years with the same team, but the woman he has been with for several years, Jane Aubrey, is leaving him. In the midst of pitching a perfect game against the New York Yankees, Chapel, who has been the heart and,soul of the Detroit Tigers, thinks back upon his long career and his tempestuous relationship with Jane. Aware that the stakes in his life have increased dramatically, the veteran ballplayer knows that he has some serious decisions to make by the bottom of the ninth inning.	1
+COL Duration VAL 1 hr. 43 min.	1
+COL Filming Locations VAL Birchmount Collegiate, Toronto, Ontario, Canada	0
+COL RatingValue VAL 4.0	1
+COL Actors VAL Bud Abbott,Lou Costello,Richard Carlson	0
+COL RatingValue VAL 4.8	0
+COL Filming Locations VAL New Orleans, Louisiana, USA	0
+COL RatingCount VAL 49,711	1
+COL RatingCount VAL 157,433	1
+COL Cast VAL Clifton Collins Jr.,Jessica Cook,Tony de Maeyer,Lance Henriksen,Florentine Lahme,David Masterson,Matt O'Leary,Cecilia Pillado,Kathleen Renish,Daniele Rizzo,Eve Slatner	0
+COL RatingCount VAL 59,950	1
+COL Year VAL 2006 2007 2008	1
+COL Creator VAL Aaron Sorkin,George Crile	0
+COL RatingCount VAL 73,448	1
+COL Year VAL 2005	0
+COL Creator VAL Robert E. Howard,Roy Thomas	0
+COL RatingCount VAL 20,715	1
+COL Actors VAL Reese Witherspoon,Sally Field,Bob Newhart	0
+COL Country VAL USA	0
+COL RatingCount VAL 59,992	1
+COL RatingCount VAL 56,983	1
+COL Genre VAL Drama,War	0
+COL Director VAL Fred Savage	0
+COL RatingValue VAL 7.0	1
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Release Date VAL 12 December 1951 (USA)	0
+COL RatingCount VAL 49,912	1
+COL Id VAL tt0064665	0
+COL Name VAL Striptease	0
+COL RatingCount VAL 5,641	1
+COL RatingCount VAL 10,585	1
+COL RatingValue VAL 5.8	0
+COL RatingCount VAL 1,023	1
+COL Description VAL Based on a novel by H. G. Wells, a group of bloodthirsty, oversized creatures (including rats, chickens, wasps, and worms) have taken over a remote island after ingesting a mysterious growth known as 'Food of the Gods.' It is up to an unusual group of people to put an end to this animal threat.	1
+COL Cast VAL Jude Law,Nicole Kidman,Renée Zellweger,Eileen Atkins,Brendan Gleeson,Philip Seymour Hoffman,Natalie Portman,Giovanni Ribisi,Donald Sutherland,Ray Winstone,Kathy Baker,James Gammon,Charlie Hunnam,Jack White,Ethan Suplee	0
+COL RatingValue VAL 5.2/10,5/10	1
+COL Actors VAL Mike Myers,Cameron Diaz,Eddie Murphy	0
+COL Id VAL tt0088680	0
+COL RatingCount VAL 2,641	1
+COL RatingCount VAL 37,668	1
+COL Country VAL USA,UK	0
+COL RatingValue VAL 6.0	1
+COL Year VAL 2003	0
+COL RatingCount VAL 5,702	1
+COL RatingCount VAL 46,077	1
+COL RatingCount VAL 1,648	1

@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/06	1
+"COL author_list VAL {""H H̦ger"",""W Sieghart"",""T Klausberger"",""I Milenkovic"",""M Vasiljevic"",""D Maurer""}"	1
+COL article_jcreated_at VAL 3/1/02	1
+COL article_jcreated_at VAL 6/10/02	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 10/5/08	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_pagination VAL 51-5	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 9/1/01	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 8/1/07	1
+COL article_jcreated_at VAL 2/10/14	1
+COL article_title VAL The parvalbumin-positive interneurons in the mouse dentate gyrus express GABAA receptor subunits �1, �_2, and � along their extrasynaptic cell membrane.	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 5/11/07	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jcreated_at VAL 7/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_pagination VAL 2700-7	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""Irene G Salado"",""Ana Martinez"",""Daniel I Perez"",""Brian C Kraemer"",""Murilo L Bello"",""Concepci�_n Perez"",""Nicole F Liachko"",""Magalie Lecourtois"",""Miriam Redondo"",""Carmen Gil"",""Laetitia Miguel""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_issn VAL Mar-22	1
+COL article_jcreated_at VAL 12/1/09	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 8/1/09	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 6/1/13	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 8/2/06	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""O E Havik"",""P Carlbring"",""L G ��st"",""T Nordgreen"",""G Andersson"",""T Furmark""}"	1
+COL article_jcreated_at VAL 10/8/15	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_title VAL A controlled trial of anterior spinal fusion and d̩bridement in the surgical management of tuberculosis of the spine in patients on standard chemotherapy: a study in two centres in South Africa. Seventh Report of the Medical Research Council Working Party on tuberculosis of the spine	1
+COL article_jcreated_at VAL 7/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""Costin M."",""Dumbrav�_ E.L."",""Postolache P."",""Cojocaru D.C.""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 6/1/01	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/1/12	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 2/1/13	1
+COL article_jvolumn VAL 49	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 14	0
+COL article_jissue VAL 3	0
+COL article_title VAL Budesonide/formoterol in a single inhaler sustains lung function improvements in COPD [Abstract]	0
+COL id VAL 385940	0
+COL id VAL 788507	0
+COL id VAL 837546	0
+COL journal_title VAL J Anal Toxicol	0
+COL id VAL 564924	0
+COL journal_issn VAL 0952-8180	0
+COL id VAL 316114	0
+COL id VAL 198675	0
+COL article_pagination VAL 19-24	0
+"COL author_list VAL {""A. Ravelli"",""S. Magni-Manzoni"",""A. Pistorio"",""M. Bandeira"",""A. Martini"",""E. Sala"",""A. Falcone"",""A. Buoncompagni"",""N. Ruperto"",""A. Loy""}"	0
+COL article_title VAL The first case of drug-induced immune hemolytic anemia due to hydrocortisone	0
+COL article_pagination VAL 81-90	0
+COL article_jissue VAL 0	0
+COL journal_title VAL Frontiers in human neuroscience	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 49	0
+COL article_pagination VAL 	0
+COL journal_issn VAL 0109-2502	0
+COL journal_issn VAL 1460-2105	0
+COL article_jvolumn VAL 2	0
+COL article_language VAL eng	0
+COL article_language VAL 	0
+COL article_pagination VAL 	0
+COL article_pagination VAL 1035-46	0
+"COL author_list VAL {""George E. Woody"",""Anne Geller"",""Edgar H. Adams"",""Theodore J. Cicero"",""Alvaro Munoz"",""Edward C. Senay"",""James A. Inciardi""}"	0
+"COL author_list VAL {""D J Bruno"",""B S Bloom"",""R Jayadevappa"",""D Y Maman""}"	0
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL Drugs & aging	0
+COL id VAL 768192	0
+COL article_jvolumn VAL 15	0
+COL article_jcreated_at VAL 	0
+COL id VAL 476199	0
+COL article_language VAL eng	0
+COL journal_title VAL BMJ Open	0
+COL article_jcreated_at VAL 1/1/95	0
+COL article_jissue VAL 4	0
+COL journal_title VAL Cancer chemotherapy and pharmacology	0
+COL jounral_abbreviation VAL J Headache Pain	0
+COL journal_issn VAL 1432-2048	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL [Autologous stem cell therapy with surgical myocardial revascularization].	0
+COL article_language VAL 	0
+COL article_language VAL 	0
+COL article_language VAL ita	0
+COL article_language VAL 	0
+COL article_language VAL English	0
+COL journal_issn VAL 1353-3452 (Print)     1353-3452	0
+COL id VAL 453909	0
+COL article_language VAL eng	0
+COL article_pagination VAL 223-38	0
+COL article_jissue VAL 15	0
+COL journal_title VAL Hippokratia	0
+COL article_language VAL 	0
+COL author_list VAL {NULL}	0
+COL journal_issn VAL 	0
+COL journal_issn VAL 	0
+COL id VAL 912884	0
+COL article_title VAL [Effect of a dialysis solution with icodextrin on ultrafiltration and selected metabolic parameters in patients treated with peritoneal dialysis]	0
+COL article_title VAL A qualitative exploration of the cancer experience among long-term survivors: comparisons by cancer type, ethnicity, gender, and age.	0
+COL jounral_abbreviation VAL Case Rep.Med.	0
+COL jounral_abbreviation VAL Shock	0
+COL article_pagination VAL 774-9	0
+COL id VAL 894596	0
+COL journal_title VAL Laboratory Investigation	0
+COL article_jvolumn VAL 42	0
+COL jounral_abbreviation VAL Expert opinion on drug metabolism & toxicology	0
+COL article_jvolumn VAL 43	0
+COL article_jvolumn VAL 25	0

@@ -1,0 +1,50 @@
+COL abv VAL 0.045%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.052000000000000005%	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.049%	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL brewery_id VAL 543	0
+COL state VAL TX	0
+COL state VAL MA	0
+COL beer-name VAL Harpoon Octoberfest	0
+COL ibu VAL 15	0
+COL beer-name VAL Brotherhood Steam	0
+COL brewery-name VAL New Belgium Brewing Company	0
+COL brewery-name VAL 7venth Sun	0
+COL style VAL American IPA	0
+COL brewery-name VAL Against the Grain Brewery	0
+COL brewery-name VAL Mikerphone Brewing	0
+COL index VAL 1085	0
+COL brewery-name VAL Catawba Brewing Company	0
+COL abv VAL 0.062	0
+COL id VAL 1104	0
+COL ibu VAL 47	0
+COL id VAL 1016	0
+COL style VAL American Dark Wheat Ale	0
+COL ibu VAL 26	0
+COL state VAL WA	0
+COL abv VAL 0.058	0
+COL beer-name VAL Sunlight Cream Ale	0
+COL city VAL Eugene	0
+COL state VAL CO	0
+COL ibu VAL 35	0

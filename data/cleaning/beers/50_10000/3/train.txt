@@ -1,0 +1,50 @@
+COL ibu VAL N/A	1
+COL abv VAL 0.047%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.062%	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.07%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.065%	1
+COL abv VAL 0.069%	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL beer-name VAL Boont Amber Ale (2010)	0
+COL brewery-name VAL Modern Times Beer	0
+COL style VAL Pumpkin Ale	0
+COL beer-name VAL Happy Cider	0
+COL city VAL Alpine	0
+COL brewery_id VAL 47	0
+COL index VAL 1850	0
+COL brewery_id VAL 350	0
+COL brewery_id VAL 497	0
+COL city VAL Saint Louis	0
+COL id VAL 2493	0
+COL style VAL American Blonde Ale	0
+COL beer-name VAL Kiss Off IPA	0
+COL state VAL MI	0
+COL id VAL 2688	0
+COL beer-name VAL Double D Blonde (2013)	0
+COL style VAL American Amber / Red Ale	0
+COL beer-name VAL Little Sister India Style Session Ale	0
+COL state VAL VT	0
+COL city VAL Stevens Point	0
+COL brewery_id VAL 177	0
+COL brewery_id VAL 152	0
+COL brewery_id VAL 404	0
+COL style VAL American Blonde Ale	0
+COL id VAL 1285	0

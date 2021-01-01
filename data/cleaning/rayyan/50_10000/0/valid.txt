@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Francitorra ME"",""Sanchez GS"",""Manrique CA"",""Velasco TT"",""Castany A R"",""Escriche XF"",""Fern����ndez CS"",""Fornell LL"",""���lvarez S���"",""Fern����ndez EA"",""Rodriguez MVF"",""Sim���_ MR"",""Mayo EP""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 6/1/01	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/7/15	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 9/1/14	1
+COL article_jvolumn VAL 	1
+"COL author_list VAL {""L Lenhardt"",""S Mozes"",""A Martinkov��""}"	1
+COL article_title VAL Optical turbulence: weak turbulence, condensates and collapsing filaments in the nonlinear Schr̦dinger equation	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 6/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 8/1/12	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_title VAL Optimal Starting Age for School Attendance: FY76 Issue Analysis	0
+"COL author_list VAL {""B. J. Caan"",""E. M. John"",""T. H. M. Keegan"",""A. H. Wu"",""L. Bernstein"",""S. Shariff-Marco"",""R. Sposto"",""C. C. Tseng"",""J. Sullivan-Halley"",""Y. Lu"",""C. Vigen"",""M. L. Kwan"",""S. L. Gomez"",""A. W. Kurian"",""I. Cheng"",""V. S. Lee""}"	0
+COL article_pagination VAL 	0
+COL article_jissue VAL 6	0
+COL article_language VAL eng	0
+COL journal_issn VAL 1471-2407	0
+COL journal_issn VAL 0923-7534	0
+COL journal_issn VAL 0022-0345	0
+COL article_jcreated_at VAL 	0
+COL article_pagination VAL 187-93	0
+COL article_pagination VAL S67-8 1p	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 32	0
+COL article_pagination VAL 	0
+COL article_jissue VAL 4	0
+COL article_language VAL eng	0
+COL article_title VAL A comparison of recovery characteristics of sevoflurane and propofol-remifentanil anesthesia in geriatric patients	0
+"COL author_list VAL {""R. Voss""}"	0
+COL article_jvolumn VAL 360	0
+COL article_pagination VAL 18-30	0
+COL article_language VAL English	0
+COL journal_issn VAL 	0
+COL jounral_abbreviation VAL Acta Cytol.	0
+COL article_language VAL eng	0
+"COL author_list VAL {""Y.-J. Du"",""X.-M. Zhu"",""B. Sang"",""C.-J. Yang"",""C.-L. Liu""}"	0

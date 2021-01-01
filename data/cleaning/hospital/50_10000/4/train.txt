@@ -1,0 +1,50 @@
+COL Stateavg VAL alxami-7a	1
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL MeasureCode VAL scix-inf-2	1
+COL PhoneNumber VAL 3342938xxx	1
+COL Address1 VAL 702xnxmainxst	1
+COL CountyName VAL elxore	1
+COL MeasureCode VAL scip-inx-4	1
+COL HospitalOwner VAL pxopxietaxy	1
+COL HospitalType VAL acute caxe hospitals	1
+COL CountyName VAL elmoxe	1
+COL CountyName VAL butxer	1
+COL EmergencyService VAL yex	1
+COL State VAL xl	1
+COL MeasureCode VAL amix1	1
+COL PhoneNumber VAL 33422284xx	1
+COL HospitalOwner VAL prxprietary	1
+COL ZipCode VAL 3x10x	1
+COL State VAL xl	1
+COL Stateavg VAL ax_ami-1	1
+COL City VAL birmingxam	1
+COL Score VAL score	1
+COL State VAL xl	1
+COL HospitalType VAL acute cxre hospitxls	1
+COL HospitalType VAL acute care hosxitals	1
+COL EmergencyService VAL yex	1
+COL Sample VAL 47 patients	0
+COL HospitalType VAL acute care hospitals	0
+COL City VAL guntersville	0
+COL ProviderNumber VAL 10005	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL index VAL 547	0
+COL MeasureName VAL pneumonia patients given smoking cessation advice/counseling	0
+COL CountyName VAL mobile	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 2059344011	0
+COL HospitalOwner VAL government - state	0
+COL Address1 VAL 33700 highway 43	0
+COL HospitalName VAL marshall medical center south	0
+COL EmergencyService VAL yes	0
+COL Score VAL 97%	0
+COL City VAL montgomery	0
+COL Address3 VAL empty	0
+COL City VAL opp	0
+COL MeasureCode VAL pn-7	0
+COL City VAL hartselle	0
+COL Stateavg VAL al_pn-2	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL HospitalName VAL andalusia regional hospital	0

@@ -1,0 +1,100 @@
+COL ZipCode VAL 36278	0
+COL State VAL al	0
+COL CountyName VAL chambers	0
+COL EmergencyService VAL yex	1
+COL MeasureName VAL pneumonix pxtients assessed xnd given influenzx vxccinxtion	1
+COL State VAL al	0
+COL Address1 VAL 515 miranda sx	1
+COL Address1 VAL 33700 highway x3	1
+COL EmergencyService VAL yxs	1
+COL Sample VAL 29 xatients	1
+COL Condition VAL heart failure	0
+COL HospitalOwner VAL voluntary non-profit - other	0
+COL EmergencyService VAL yes	0
+COL Stateavg VAL ax_pn-2	1
+COL ZipCode VAL 36067	0
+COL MeasureName VAL surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor)	1
+COL ProviderNumber VAL 10008	0
+COL Sample VAL 4 xatients	1
+COL ProviderNumber VAL 10046	0
+COL index VAL 256	0
+COL Sample VAL 0 patixnts	1
+COL City VAL prattville	0
+COL Sample VAL 82 patientx	1
+COL City VAL birmingham	0
+COL HospitalName VAL marion regional medical center	0
+COL Sample VAL 6xpatients	1
+COL MeasureCode VAL ami-4	0
+COL ZipCode VAL 3x10x	1
+COL Score VAL 100%	0
+COL HospitalOwner VAL government - federal	0
+COL Score VAL 100%	0
+COL Condition VAL heart attaxk	1
+COL HospitalType VAL acute care hospitals	0
+COL MeasureName VAL heart attack patients given aspirin at arrivax	1
+COL EmergencyService VAL yes	0
+COL HospitalType VAL acuxe care hospixals	1
+COL HospitalName VAL marshall medical center south	0
+COL EmergencyService VAL yex	1
+COL index VAL 507	0
+COL HospitalName VAL huntsvxlle hospxtal	1
+COL index VAL 418	0
+COL State VAL xl	1
+COL Address2 VAL empty	0
+COL ProviderNumber VAL 10021	0
+COL Stateavg VAL al_hf-3	0
+COL MeasureName VAL pneumonia patients given the most appropriate initial antibiotic(s)	0
+COL HospitalType VAL acute care hosxitals	1
+COL ProviderNumber VAL 10034	0
+COL HospitalOwner VAL proprietary	0
+COL ProviderNumber VAL x0005	1
+COL Address1 VAL 1300 south montgomery avenue	0
+COL Address1 VAL 201 pine street northwest	0
+COL City VAL anchoraxe	1
+COL City VAL valley	0
+COL City VAL florence	0
+COL HospitalType VAL acuxe care hospixals	1
+COL ProviderNumber VAL 10008	0
+COL MeasureCode VAL hf-x	1
+COL CountyName VAL jexxerson	1
+COL HospitalType VAL acute caxe hospitals	1
+COL Address2 VAL empty	0
+COL HospitalOwner VAL gxvernment - hxspital district xr authxrity	1
+COL Address2 VAL empty	0
+COL State VAL xl	1
+COL Address1 VAL 1256 military street sxuth	1
+COL MeasureCode VAL sxip-vte-1	1
+COL Sample VAL 619 paxienxs	1
+COL City VAL enterprxse	1
+COL PhoneNumber VAL 2059216200	0
+COL City VAL fayette	0
+COL State VAL state	1
+COL Sample VAL 21 pxtients	1
+COL City VAL birmixgham	1
+COL PhoneNumber VAL 3347938701	0
+COL MeasureCode VAL pn-2	0
+COL CountyName VAL cullman	0
+COL HospitalName VAL floxers hospital	1
+COL Condition VAL heartxattack	1
+COL EmergencyService VAL xes	1
+COL MeasureName VAL heart attaxk patients given aspirin at disxharge	1
+COL Score VAL x4%	1
+COL MeasureCode VAL scipxinfx1	1
+COL Score VAL x5%	1
+COL City VAL dothan	0
+COL Address1 VAL 702 n main st	0
+COL CountyName VAL cxllman	1
+COL Stateavg VAL xl_xmi-2	1
+COL City VAL enterprise	0
+COL HospitalType VAL acute care hospitals	0
+COL PhoneNumber VAL 2563864556	0
+COL ZipCode VAL 36x01	1
+COL Condition VAL surgical infection prevention	0
+COL State VAL ax	1
+COL HospitalName VAL st vincents hospital	0
+COL index VAL 724	0
+COL PhoneNumber VAL 2x6x938310	1
+COL HospitalOwner VAL voluntaryxnon-profitx-xchurch	1
+COL State VAL al	0
+COL CountyName VAL county	1
+COL HospitalType VAL type	1

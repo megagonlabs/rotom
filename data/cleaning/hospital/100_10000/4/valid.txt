@@ -1,0 +1,100 @@
+COL Stateavg VAL al_scip-inf-1	0
+COL CountyName VAL chxrokxx	1
+COL CountyName VAL monxgomery	1
+COL HospitalType VAL acute care hospitaxs	1
+COL MeasureName VAL heaxt failuxe patients given dischaxge instxuctions	1
+COL City VAL andaluxia	1
+COL Sample VAL 0 patients	0
+COL Address3 VAL empty	0
+COL ZipCode VAL 35594	0
+COL City VAL vxlley	1
+COL HospitalName VAL communitx hospital inc	1
+COL ProviderNumber VAL 1xx32	1
+COL EmergencyService VAL xes	1
+COL Condition VAL pneumonia	0
+COL ZipCode VAL x52xx	1
+COL MeasureCode VAL hfx1	1
+COL HospitalOwner VAL proprietary	0
+COL City VAL hartselle	0
+COL Stateavg VAL al_pn-5x	1
+COL CountyName VAL xe kalb	1
+COL HospitalType VAL acute care hospitals	0
+COL Condition VAL surgical infection prevention	0
+COL EmergencyService VAL xo	1
+COL ProviderNumber VAL 1xx39	1
+COL HospitalType VAL acute care hospitals	0
+COL ZipCode VAL 3x23x	1
+COL Condition VAL heart attack	0
+COL MeasureCode VAL scix-inf-2	1
+COL City VAL hamilxon	1
+COL City VAL gxdsden	1
+COL Address1 VAL 2505xuxsxhighwayx431xnorth	1
+COL HospitalOwner VAL proprietary	0
+COL MeasureName VAL heart attack patients given fibrinolytic medication within 30 minutes of arrival	0
+COL ZipCode VAL 359x8	1
+COL Address3 VAL empty	0
+COL HospitalName VAL medxcal center enterprxse	1
+COL HospitalOwner VAL government - hospital district or authority	0
+COL HospitalOwner VAL goverxmext - hospital district or authority	1
+COL Address2 VAL empty	0
+COL State VAL al	0
+COL ProviderNumber VAL 20017	0
+COL ZipCode VAL 35960	0
+COL CountyName VAL dx kalb	1
+COL Address2 VAL empty	0
+COL ZipCode VAL 36854	0
+COL Address2 VAL empty	0
+COL CountyName VAL jefferson	0
+COL MeasureCode VAL pn-2	0
+COL Address1 VAL 315xwxhickoryxst	1
+COL Condition VAL pneumonix	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL MeasureName VAL heart attack patients given smoking cessation advice/counseling	0
+COL Condition VAL pneumonia	0
+COL MeasureName VAL all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx	1
+COL PhoneNumber VAL 2563864556	0
+COL Address1 VAL 2000 pepperell parkway	0
+COL State VAL al	0
+COL PhoneNumber VAL 3342938xxx	1
+COL MeasureName VAL heart faxlure patxents gxven smokxng cessatxon advxce/counselxng	1
+COL PhoneNumber VAL 25x47x7xx0	1
+COL Stateavg VAL al_axi-1	1
+COL CountyName VAL jefferson	0
+COL ProviderNumber VAL x0027	1
+COL HospitalOwner VAL governxent - federal	1
+COL Condition VAL hexrt attxck	1
+COL City VAL florxncx	1
+COL ProviderNumber VAL 10164	0
+COL State VAL al	0
+COL ZipCode VAL 35555	0
+COL ZipCode VAL 36617	0
+COL Condition VAL hxart failurx	1
+COL ZipCode VAL 35901	0
+COL HospitalName VAL southeast alabama medxcal center	1
+COL City VAL geoxgiana	1
+COL Sample VAL 3 patients	0
+COL HospitalType VAL acuxe care hospixals	1
+COL MeasureCode VAL ami-7a	0
+COL MeasureCode VAL pn-6	0
+COL City VAL dothan	0
+COL Sample VAL 46 patients	0
+COL HospitalOwner VAL government - hospxtal dxstrxct or authorxty	1
+COL Address3 VAL empty	0
+COL Stateavg VAL al_scip-vte-2	0
+COL Address2 VAL empty	0
+COL Condition VAL hexrt attxck	1
+COL Sample VAL 116 patients	0
+COL City VAL wedowee	0
+COL HospitalName VAL dexalb regional medical center	1
+COL Condition VAL pneumonia	0
+COL Score VAL x3%	1
+COL Sample VAL 87 paxienxs	1
+COL CountyName VAL marshall	0
+COL ZipCode VAL 36617	0
+COL Stateavg VAL al_pn-xb	1
+COL PhoneNumber VAL 334793870x	1
+COL MeasureCode VAL axi-2	1
+COL Sample VAL x patients	1
+COL Score VAL 95x	1
+COL Address2 VAL empty	0
+COL index VAL 563	0

@@ -1,0 +1,200 @@
+"COL author_list VAL {""Ge H.-Y."",""Fern��ndez-de-las-Pe̱as C."",""Yue S.-W.""}"	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 6/1/01	1
+COL article_jcreated_at VAL 11/1/01	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jcreated_at VAL 10/5/08	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 6/1/04	1
+COL article_jcreated_at VAL 5/1/09	1
+"COL author_list VAL {""Serkan Durdu"",""Ahmet R���_���han Akar"",""G���_nseli Cubuk���uo����lu Deniz""}"	1
+"COL author_list VAL {""Stuart Calver"",""Julia Nichols"",""Rachel C1  - Fr̴n systematiska ̦versikter -șkningen CN  - Cinahl DB  - c8h DO  - 10.1179/1743288X12Y.0000000021 DP  - EBSCOhost Chester""}"	1
+COL article_jcreated_at VAL 12/1/09	1
+COL article_jcreated_at VAL 3/7/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/12/07	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_pagination VAL 84-8	1
+COL article_jcreated_at VAL 11/4/15	1
+COL article_jissue VAL 	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 10/1/08	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 9/10/15	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/06	1
+"COL author_list VAL {""Margarita Admetlla Falgueras"",""Josep Fust��� Sugra���es""}"	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""D Chochol���"",""R Chaloupka"",""B Kala"",""J Gallo"",""M Netval""}"	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 5/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Venancio Mart�_nez Su��rez""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""N. Jakubik"",""L. Trzpil"",""F. Raciborski"",""U. Samolinska-Zawisza"",""L. Samoli̱ski"",""D. Paczesny"",""Z. Halat"",""J. Marszalkowska"",""B. Samolinski"",""P. Samel-Kowalik"",""A. Lusawa"",""J. Gutowska"",""A. Tomaszewska"",""A. Walkiewicz""}"	1
+COL article_jcreated_at VAL 2/6/14	1
+COL article_jcreated_at VAL 6/1/13	1
+COL article_jcreated_at VAL 3/1/06	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 2/1/13	1
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""J Arana"",""E Rezola"",""A Villanueva"",""M I Intxaurrondo"",""M Su̱ol"",""I Eizaguirre"",""J Garay""}"	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_pagination VAL 41-7	1
+COL article_jcreated_at VAL 1/1/08	1
+COL journal_issn VAL Mar-22	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 9/2/14	1
+COL article_pagination VAL 43-4	1
+COL article_jcreated_at VAL 10/1/05	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 4/1/14	1
+COL journal_title VAL Nowoczesne biomateria��y jako opatrunki hemostatyczne w chirurgii oszczedzajacej miazsz nerki--model zwierzecy. Doniesienie wstepne.	1
+"COL author_list VAL {""Przemys��aw P Szyber"",""Artur Pupka"",""Piotr Szyber"",""Jerzy Garcarek""}"	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 2/1/13	1
+COL article_pagination VAL 43-8	1
+COL id VAL 615903	0
+COL article_jcreated_at VAL 1/1/99	0
+COL article_jvolumn VAL 0	0
+COL id VAL 428363	0
+COL article_language VAL eng	0
+COL article_title VAL Plasma concentration of asymmetric dimethylarginine and the risk of coronary heart disease: rationale and design of the multicenter CARDIAC study.	0
+COL article_jissue VAL 1	0
+COL article_jissue VAL 1	0
+COL article_pagination VAL 24-32	0
+COL article_title VAL Pancytopenia : A rare presentation of legionella pneumonia	0
+COL article_title VAL Symptoms tell it all: a systematic review of the value of symptom assessment to predict survival in advanced cancer patients.	0
+COL article_language VAL 	0
+COL journal_issn VAL 1076-6294 (Print)     1076-6294	0
+COL id VAL 747279	0
+COL article_title VAL Incidence of multi-resistance in gram-negative aerobes from intensive care units of 10 German hospitals.	0
+COL article_jvolumn VAL 91	0
+COL journal_title VAL 	0
+COL article_jvolumn VAL 0	0
+COL journal_title VAL Turkish Online Journal of Educational Technology - TOJET	0
+COL article_jvolumn VAL 71	0
+COL id VAL 161847	0
+COL article_pagination VAL 287-291	0
+COL article_language VAL ENG	0
+COL article_jvolumn VAL 49	0
+COL article_jcreated_at VAL 	0
+COL article_pagination VAL 736-44	0
+COL journal_issn VAL 0017-5749	0
+"COL author_list VAL {""K. Seo"",""L. G. Epstein""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 56-60	0
+COL article_title VAL Phase III randomized sequential open-label study to evaluate the efficacy and safety of sorafenib followed by pazopanib vs pazopanib followed by sorafenib in the treatment of advanced / metastatic renal cell carcinoma-design of the SWITCH-2 Study (NCT01613846)	0
+COL article_pagination VAL 110-1	0
+COL id VAL 56464	0
+COL article_language VAL 	0
+COL article_jissue VAL 6	0
+COL article_jvolumn VAL 347	0
+COL article_title VAL Osteoid osteoma in a 16-year-old boy presenting with atrophy of the left thigh: diagnostic difficulties.	0
+COL journal_title VAL 	0
+COL article_title VAL Effect of e-health on medical expenditures of outpatients with lifestyle-related diseases	0
+COL journal_title VAL Indian Journal of Pathology and Microbiology	0
+"COL author_list VAL {""So Young Lee"",""Jay L. Brand""}"	0
+COL article_jissue VAL 5	0
+COL article_language VAL eng	0
+"COL author_list VAL {""Roger P Goldberg"",""Yoram Abramov"",""Barbara Golden"",""Peter K Sand"",""Megan Sullivan""}"	0
+COL journal_issn VAL 0392-9590	0
+COL journal_title VAL Res Nurs Health	0
+COL id VAL 658981	0
+COL id VAL 315951	0
+COL journal_title VAL 	0
+"COL author_list VAL {""T. Sentell"",""T. Usagawa"",""M. Hagiwara"",""T. Peacock"",""H. Hee Heo"",""M. G. Pearce"",""L. Choy"",""M. R. Dela Cruz""}"	0
+COL article_language VAL 	0
+COL article_language VAL eng	0
+COL journal_title VAL Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus / I.S.D.E	0
+COL journal_issn VAL 1539-3704	0
+COL article_pagination VAL 629-30	0
+COL article_jvolumn VAL 140	0
+"COL author_list VAL {""Michelle Firestone""}"	0
+COL journal_title VAL PLoS One	0
+COL jounral_abbreviation VAL Archives of surgery (Chicago, Ill. : 1960)	0
+COL id VAL 73792	0
+"COL author_list VAL {""L. N. Borrell"",""K. Rose"",""B. L. Clark"",""D. Catellier"",""A. V. D. Roux""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 6	0
+COL id VAL 258486	0
+COL article_jvolumn VAL 64	0
+COL article_title VAL A balancing act of the brain: activations and deactivations driven by cognitive load.	0
+COL id VAL 904168	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""K. F. Joyner""}"	0
+COL article_title VAL Management of hemorrhage complicated by novel oral anticoagulants in the emergency department: Case report from the northwestern emergency medicine residency	0
+COL journal_title VAL Pain Medicine	0
+COL id VAL 166521	0
+COL article_jissue VAL 1	0
+COL article_jissue VAL 117	0
+COL article_jissue VAL 4	0
+COL id VAL 150198	0
+COL journal_title VAL Feminist Legal Studies	0
+COL article_jvolumn VAL 17	0
+COL article_jissue VAL 12	0
+COL article_pagination VAL 10213-10224	0
+COL article_pagination VAL 1681-7	0
+COL article_jvolumn VAL 67	0
+COL article_pagination VAL 	0
+COL journal_title VAL 	0
+COL jounral_abbreviation VAL J Am Acad Child Adolesc Psychiatry	0
+COL article_jissue VAL 0	0
+COL article_language VAL eng	0
+COL journal_issn VAL 0018-9499	0
+COL journal_issn VAL 1460-2105	0
+"COL author_list VAL {""E. M. Quigley"",""J. K. DiBaise""}"	0
+COL jounral_abbreviation VAL CNS Spectr	0
+"COL author_list VAL {""A M Mulekar"",""B J Vakiland""}"	0
+COL article_jcreated_at VAL 	0
+COL article_title VAL Localized deficiencies of folic acid in aerodigestive tissues	0
+"COL author_list VAL {""Gary Chisholm"",""Eduardo Bruera"",""Swati Bansal"",""David Hui"",""Rony Dev"",""Margarita Morgado""}"	0
+COL article_pagination VAL 	0
+COL journal_issn VAL 1753-4666	0
+COL article_jissue VAL 0	0
+COL article_pagination VAL 375-93	0
+COL article_pagination VAL 152-9	0

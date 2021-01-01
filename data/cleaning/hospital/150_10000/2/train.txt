@@ -1,0 +1,150 @@
+COL Condition VAL pnexmonia	1
+COL ZipCode VAL 3563x	1
+COL MeasureCode VAL hx-1	1
+COL PhoneNumber VAL x059x16x00	1
+COL HospitalOwner VAL voluntary nonxprofit x private	1
+COL Stateavg VAL al_amx-1	1
+COL MeasureCode VAL hf-x	1
+COL Sample VAL 87 patientx	1
+COL ProviderNumber VAL 1xx29	1
+COL ZipCode VAL 3xx94	1
+COL State VAL xl	1
+COL City VAL flxrence	1
+COL Address2 VAL address_2	1
+COL CountyName VAL dx kalb	1
+COL City VAL wxdowxx	1
+COL HospitalOwner VAL voluntaryxnon-profitx-xprivate	1
+COL CountyName VAL cxllman	1
+COL MeasureCode VAL hfx1	1
+COL PhoneNumber VAL 2565x38310	1
+COL MeasureCode VAL amx-4	1
+COL MeasureName VAL xeart attack patients given aspirin at arrival	1
+COL HospitalName VAL cullmxn regionxl medicxl center	1
+COL State VAL xl	1
+COL MeasureCode VAL pn-x	1
+COL EmergencyService VAL yxs	1
+COL MeasureCode VAL scipxinfx1	1
+COL PhoneNumber VAL 25x47x7xx0	1
+COL PhoneNumber VAL 334x561400	1
+COL HospitalOwner VAL proxrietary	1
+COL EmergencyService VAL yxs	1
+COL Stateavg VAL alxami-7a	1
+COL HospitalOwner VAL volxntary non-profit - chxrch	1
+COL EmergencyService VAL xes	1
+COL Address1 VAL 8000 alabama xigxway 69	1
+COL City VAL exba	1
+COL HospitalType VAL acxte care hospitals	1
+COL Address1 VAL 1256 military street sxuth	1
+COL ZipCode VAL x6x05	1
+COL EmergencyService VAL yex	1
+COL HospitalName VAL crenshaw cxmmunity hxspital	1
+COL CountyName VAL dx kalb	1
+COL Score VAL x7%	1
+COL MeasureName VAL heaxt failuxe patients given dischaxge instxuctions	1
+COL Stateavg VAL al_amx-7a	1
+COL ZipCode VAL 36x01	1
+COL ProviderNumber VAL provider_number	1
+COL HospitalType VAL acuxe care hospixals	1
+COL Condition VAL heart faxlure	1
+COL City VAL geoxgiana	1
+COL EmergencyService VAL yxs	1
+COL City VAL fxorence	1
+COL CountyName VAL chxrokxx	1
+COL PhoneNumber VAL 20x9216200	1
+COL Stateavg VAL al_axi-1	1
+COL Address1 VAL address_1	1
+COL City VAL xzark	1
+COL PhoneNumber VAL x565435x00	1
+COL Stateavg VAL al_scipxvtex1	1
+COL MeasureCode VAL amix1	1
+COL Condition VAL hearx axxack	1
+COL Condition VAL pneumonxa	1
+COL Score VAL score	1
+COL MeasureCode VAL xax-1	1
+COL CountyName VAL laudxrdalx	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL CountyName VAL coffxx	1
+COL EmergencyService VAL xes	1
+COL Condition VAL heartxattack	1
+COL City VAL guntxrsvillx	1
+COL ZipCode VAL x52xx	1
+COL EmergencyService VAL yxs	1
+COL PhoneNumber VAL xx479x8701	1
+COL Score VAL x00%	1
+COL CountyName VAL caxhoun	1
+COL EmergencyService VAL yxs	1
+COL ProviderNumber VAL 10015	0
+COL Address2 VAL empty	0
+COL ZipCode VAL 36067	0
+COL Condition VAL heart failure	0
+COL MeasureCode VAL pn-6	0
+COL Score VAL 93%	0
+COL Sample VAL 0 patients	0
+COL City VAL centre	0
+COL index VAL 904	0
+COL Condition VAL pneumonia	0
+COL PhoneNumber VAL 2562495000	0
+COL City VAL boaz	0
+COL EmergencyService VAL yes	0
+COL Address2 VAL empty	0
+COL index VAL 817	0
+COL HospitalOwner VAL voluntary non-profit - other	0
+COL ZipCode VAL 35235	0
+COL City VAL birmingham	0
+COL PhoneNumber VAL 2563572111	0
+COL City VAL prattville	0
+COL EmergencyService VAL yes	0
+COL CountyName VAL cullman	0
+COL MeasureCode VAL pn-6	0
+COL MeasureCode VAL scip-inf-3	0
+COL Condition VAL pneumonia	0
+COL State VAL al	0
+COL Address3 VAL empty	0
+COL ZipCode VAL 36323	0
+COL ProviderNumber VAL 10016	0
+COL City VAL hartselle	0
+COL Sample VAL 130 patients	0
+COL index VAL 434	0
+COL Address2 VAL empty	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL MeasureName VAL all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery	0
+COL Sample VAL 28 patients	0
+COL State VAL al	0
+COL Address1 VAL 4370 west main street	0
+COL ZipCode VAL 35968	0
+COL Address1 VAL 315 w hickory st	0
+COL Address1 VAL 1010 lay dam road	0
+COL index VAL 952	0
+COL EmergencyService VAL no	0
+COL ProviderNumber VAL 10038	0
+COL Score VAL 100%	0
+COL HospitalType VAL acute care hospitals	0
+COL Stateavg VAL al_pn-7	0
+COL ProviderNumber VAL 10021	0
+COL index VAL 826	0
+COL Condition VAL heart attack	0
+COL EmergencyService VAL yes	0
+COL Stateavg VAL al_ami-3	0
+COL HospitalType VAL acute care hospitals	0
+COL index VAL 762	0
+COL index VAL 1	0
+COL Condition VAL pneumonia	0
+COL Sample VAL empty	0
+COL CountyName VAL jefferson	0
+COL Condition VAL surgical infection prevention	0
+COL Condition VAL heart attack	0
+COL Score VAL 92%	0
+COL index VAL 476	0
+COL Stateavg VAL al_ami-8a	0
+COL Address2 VAL empty	0
+COL Address2 VAL empty	0
+COL Condition VAL surgical infection prevention	0
+COL HospitalType VAL acute care hospitals	0
+COL Address3 VAL empty	0
+COL ZipCode VAL 36278	0
+COL index VAL 495	0
+COL MeasureName VAL pneumonia patients given the most appropriate initial antibiotic(s)	0
+COL HospitalName VAL coosa valley medical center	0
+COL HospitalName VAL marshall medical center north	0
+COL PhoneNumber VAL 3347742601	0
+COL Condition VAL surgical infection prevention	0

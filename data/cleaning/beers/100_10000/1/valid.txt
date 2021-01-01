@@ -1,0 +1,100 @@
+COL brewery_id VAL 10	0
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.059000000000000004%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL id VAL 1057	0
+COL abv VAL 0.069%	1
+COL beer-name VAL Over the Rail Pale Ale	0
+COL ibu VAL N/A	1
+COL index VAL 1195	0
+COL state VAL IL	0
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL 18	0
+COL ibu VAL N/A	1
+COL brewery-name VAL Red Tank Cider Company	0
+COL ibu VAL N/A	1
+COL brewery_id VAL 8	0
+COL state VAL OK	0
+COL ounces VAL 12.0 ounce	1
+COL beer-name VAL Grateful White	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 19.2 oz	1
+COL brewery_id VAL 192	0
+COL abv VAL 0.06	0
+COL ounces VAL 12.0 oz.	1
+COL brewery_id VAL 201	0
+COL ounces VAL 16.0 oz	1
+COL state VAL 	1
+COL ounces VAL 16.0 oz	1
+COL state VAL CO	0
+COL id VAL 2668	0
+COL city VAL Aurora	0
+COL city VAL San Diego	0
+COL brewery_id VAL 409	0
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL beer-name VAL Slow Hand Stout	0
+COL abv VAL 0.07%	1
+COL abv VAL 0.068%	1
+COL state VAL 	1
+COL brewery-name VAL Beer Works Brewery	0
+COL abv VAL 0.05	0
+COL ibu VAL 5	0
+COL city VAL Pineland ME	1
+COL state VAL CO	0
+COL id VAL 788	0
+COL index VAL 807	0
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.065%	1
+COL abv VAL 0.07	0
+COL state VAL OR	0
+COL brewery-name VAL Tampa Bay Brewing Company	0
+COL state VAL MO	0
+COL index VAL 678	0
+COL brewery-name VAL Tapistry Brewing	0
+COL abv VAL 0.046%	1
+COL style VAL American Amber / Red Ale	0
+COL ibu VAL 39	0
+COL brewery-name VAL Occidental Brewing Company	0
+COL index VAL 885	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.062%	1
+COL style VAL American Brown Ale	0
+COL brewery-name VAL Liquid Hero Brewery	0
+COL style VAL Fruit / Vegetable Beer	0
+COL city VAL Paonia	0
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.068%	1
+COL state VAL 	1
+COL ounces VAL 12.0 ounce	1
+COL index VAL 1290	0
+COL id VAL 677	0
+COL ounces VAL 16.0 oz.	1
+COL id VAL 926	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL state VAL TX	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL 10	0
+COL ibu VAL 65	0
+COL brewery_id VAL 235	0
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL ibu VAL N/A	1
+COL style VAL American IPA	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL brewery-name VAL Narragansett Brewing Company	0
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL 22	0
+COL index VAL 1143	0
+COL ounces VAL 12.0 oz.	1

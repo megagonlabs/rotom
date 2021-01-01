@@ -1,0 +1,200 @@
+COL RatingCount VAL 34,315	1
+COL Release Date VAL Feb 17, 1989 Wide	1
+COL Genre VAL Action & Adventure,Kids & Family	1
+COL RatingCount VAL 2,398	1
+COL RatingCount VAL 23,810	1
+COL Year VAL 1978 1979 1980	1
+COL RatingCount VAL 69,713	1
+COL RatingCount VAL 447,194	1
+COL RatingCount VAL 39,773	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 84,348	1
+COL Genre VAL Drama,Musical & Performing Arts,Classics	1
+COL Release Date VAL Jun 28, 1978 Wide	1
+COL RatingCount VAL 1,043	1
+COL Duration VAL 	1
+COL RatingCount VAL 7,488	1
+COL RatingCount VAL 107,477	1
+COL RatingValue VAL 5.3/10,6/10	1
+COL RatingValue VAL 4.0	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 82,251	1
+COL RatingCount VAL 10,791	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 4,871	1
+COL RatingCount VAL 9,054	1
+COL RatingCount VAL 24,590	1
+COL RatingCount VAL 136,808	1
+COL RatingCount VAL 1,429	1
+COL RatingCount VAL 64,127	1
+COL RatingCount VAL 2,420	1
+COL RatingCount VAL 43,114	1
+COL RatingCount VAL 32,847	1
+COL Id VAL 1016512-pollyanna	1
+COL RatingCount VAL 122,756	1
+COL RatingCount VAL 1,858	1
+COL RatingCount VAL 1,465	1
+COL RatingCount VAL 2,110	1
+COL RatingCount VAL 347,723	1
+COL RatingCount VAL 1,546	1
+COL RatingCount VAL 108,164	1
+COL Genre VAL Drama,Musical & Performing Arts,Classics,Comedy	1
+COL Year VAL 1966 1967 1968	1
+COL Duration VAL 1 hr. 32 min.	1
+COL RatingCount VAL 4,366	1
+COL RatingCount VAL 23,275	1
+COL RatingCount VAL 69,912	1
+COL RatingCount VAL 8,847	1
+COL RatingCount VAL 5,564	1
+COL RatingCount VAL 22,508	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 203,621	1
+COL RatingCount VAL 1,583	1
+COL RatingCount VAL 1,175	1
+COL RatingCount VAL 98,841	1
+COL RatingCount VAL 22,939	1
+COL RatingCount VAL 53,126	1
+COL RatingCount VAL 1,834	1
+COL Release Date VAL May 2, 2014 Limited	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 39,941	1
+COL RatingCount VAL 51,825	1
+COL RatingCount VAL 5,369	1
+COL RatingCount VAL 179,078	1
+COL Creator VAL Charles Gale,John Cherry,Coke Sams,Daniel Butler	1
+COL Release Date VAL Jun 1, 1997 Wide	1
+COL RatingCount VAL 306,072	1
+COL RatingCount VAL 2,165	1
+COL RatingCount VAL 7,064	1
+COL RatingCount VAL 17,805	1
+COL RatingCount VAL 16,041	1
+COL RatingCount VAL 2,100	1
+COL RatingCount VAL 172,952	1
+COL RatingCount VAL 117,980	1
+COL Duration VAL 	1
+COL RatingCount VAL 110,261	1
+COL RatingCount VAL 2,556	1
+COL RatingCount VAL 1,701	1
+COL RatingCount VAL 25,353	1
+COL RatingCount VAL 228,053	1
+COL RatingCount VAL 93,446	1
+COL RatingCount VAL 9,554	1
+COL Genre VAL Documentary,Kids & Family	1
+COL RatingCount VAL 434,969	1
+COL RatingCount VAL 12,227	1
+COL RatingCount VAL 10,650	1
+COL Description VAL American Ultra is a fast-paced action comedy about Mike (Eisenberg), a seemingly hapless and unmotivated stoner whose small-town life with his live-in girlfriend, Phoebe (Stewart), is suddenly turned upside down. Unbeknownst to him, Mike is actually a highly trained, lethal sleeper agent. In the blink of an eye, as his secret past comes back to haunt him, Mike is thrust into the middle of a deadly government operation and is forced to summon his inner action-hero in order to survive. (C),Lionsgate	1
+COL RatingCount VAL 36,996	1
+COL RatingCount VAL 2,593	1
+COL RatingCount VAL 1,820	1
+COL RatingCount VAL 122,922	1
+COL RatingCount VAL 183,365	1
+COL RatingCount VAL 120,948	1
+COL RatingCount VAL 72,925	1
+COL Year VAL 1959 1960 1961	1
+COL RatingCount VAL 57,470	1
+COL RatingCount VAL 28,436	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 19,146	1
+COL RatingCount VAL 1,797	1
+COL RatingValue VAL 3.7	0
+COL RatingValue VAL 6.9	0
+COL Id VAL tt0241527	0
+COL Cast VAL Daniel Radcliffe,Michael Gambon,Dave Legeno,Elarica Gallacher,Jim Broadbent,Geraldine Somerville,Bonnie Wright,Julie Walters,Rupert Grint,Emma Watson,Helena Bonham Carter,Helen McCrory,Timothy Spall,Alan Rickman,Oliver Phelps	0
+COL Year VAL 1995	0
+COL Actors VAL Jack Nicholson,Shelley Duvall,Danny Lloyd	0
+COL Genre VAL Action,Adventure,Drama	0
+COL Name VAL Black Beauty	0
+COL Country VAL USA	0
+COL Cast VAL John Getz,Frances McDormand,Dan Hedaya,M. Emmet Walsh,Samm-Art Williams,Deborah Neumann,Raquel Gavia,Van Brooks,Señor Marco,William Creamer,Loren Bivens,Bob McAdams,Shannon Sedwick,Nancy Finger,William Preston Robertson	0
+COL Creator VAL Max Winkler	0
+COL Duration VAL 101 min	0
+COL Language VAL English	0
+COL Duration VAL 81 min	0
+COL Year VAL 2012	0
+COL Id VAL tt1691920	0
+COL Duration VAL 82 min	0
+COL Language VAL English,Czech	0
+COL Director VAL Tom Holland	0
+COL Actors VAL John Wayne,William Holden,Constance Towers	0
+COL Name VAL Curious George 2: Follow That Monkey!	0
+COL Description VAL Four fighters with different backgrounds come together to train under an ex-MMA rising star and then ultimately have to fight each other.	0
+COL Filming Locations VAL Barstow, California, USA	0
+COL RatingCount VAL 550	0
+COL Creator VAL Sollace Mitchell	0
+COL Country VAL USA	0
+COL Creator VAL Michael Robert Wolf	0
+COL Cast VAL Harrison Ford,Julia Ormond,Greg Kinnear,Nancy Marchand,John Wood,Richard Crenna,Angie Dickinson,Lauren Holly,Dana Ivey,Miriam Colon,Elizabeth Franz,Fanny Ardant,Valérie Lemercier,Patrick Bruel,Becky Ann Baker	0
+COL RatingCount VAL 758	0
+COL Language VAL English	0
+COL RatingValue VAL 7.4	0
+COL Language VAL English	0
+COL Language VAL English	0
+COL RatingValue VAL 6.3	0
+COL Creator VAL Alan Ball,Alicia Erian	0
+COL Language VAL English	0
+COL Year VAL 1991	0
+COL ReviewCount VAL 354 user,407 critic	0
+COL Filming Locations VAL Big Bear City, San Bernardino National Forest, California, USA	0
+COL ReviewCount VAL 	0
+COL Id VAL tt3018070	0
+COL Filming Locations VAL Evolution Printing, Stanhope Road, Camberley, UK	0
+COL ReviewCount VAL 132 user,69 critic	0
+COL Country VAL USA	0
+COL Actors VAL Dakota Fanning,Elizabeth Olsen,Sterling Jones	0
+COL RatingValue VAL 7.1	0
+COL Duration VAL 97 min	0
+COL Filming Locations VAL UK	0
+COL Actors VAL Luke Perry,Brooke Langton,Ariana Bagley	0
+COL Name VAL Vampire	0
+COL Description VAL When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of the victims harbors a secret talent for fighting back.	0
+COL Filming Locations VAL Broadway Theatre - 1681 Broadway, Manhattan, New York City, New York, USA	0
+COL Duration VAL 105 min	0
+COL RatingValue VAL 3.8	0
+COL Director VAL Kimberly Peirce	0
+COL Name VAL Night Warning	0
+COL Name VAL Mishima: A Life in Four Chapters	0
+COL Genre VAL Action,Adventure,Sci-Fi	0
+COL Duration VAL 94 min	0
+COL ReviewCount VAL 7 user,6 critic	0
+COL ReviewCount VAL 4 user,4 critic	0
+COL Creator VAL John Grisham,David Rabe	0
+COL Actors VAL Glenn Ford,Van Heflin,Felicia Farr	0
+COL Director VAL Harald Zwart	0
+COL Filming Locations VAL Claremont, California, USA	0
+COL Genre VAL Comedy,Horror,Mystery	0
+COL Release Date VAL 19 August 2005 (USA)	0
+COL Name VAL Shorts	0
+COL Language VAL English	0
+COL RatingValue VAL 6.8	0
+COL Id VAL tt0081375	0
+COL RatingCount VAL 30	0
+COL Director VAL Jeff Nichols	0
+COL Id VAL tt3598850	0
+COL Release Date VAL 20 April 2013 (USA)	0
+COL Genre VAL Comedy,Family,Fantasy	0
+COL Director VAL Tod Browning	0
+COL Cast VAL Jennifer Love Hewitt,Freddie Prinze Jr.,Brandy Norwood,Mekhi Phifer,Muse Watson,Bill Cobbs,Matthew Settle,Jeffrey Combs,Jennifer Esposito,John Hawkes,Ellerine Harding,Benjamin Brown,Red West,Michael P. Byrne,Michael Bryan French	0
+COL ReviewCount VAL 109 user,65 critic	0
+COL Description VAL Two giggly high school lovebirds playfully throw pieces of bloody human brain at one another, then take a messy shower, in the latest horror flick out of South Carolina, which is fast ...	0
+COL Actors VAL James Cagney,Jean Harlow,Edward Woods	0
+COL Year VAL 2008	0
+COL Cast VAL Sam Spruell,Peter Stebbings,Christian Camargo,Roman Podhora,Sam Redford,Steve Nicolson,Liam Neeson,Ravil Isyanov,Tim Woodward,Lex Shrapnel,Shaun Benson,Kris Holden-Ried,Dmitry Chepovetsky,Christopher Redman,Tygh Runyan	0
+COL ReviewCount VAL 197 user,211 critic	0
+COL Filming Locations VAL Beaufort, South Carolina, USA	0
+COL Duration VAL 112 min	0
+COL Duration VAL 86 min	0
+COL Id VAL tt0106965	0
+COL Duration VAL 92 min	0
+COL Id VAL tt1715802	0
+COL Name VAL The Grifters	0
+COL Language VAL English	0
+COL Cast VAL Cleavon Little,Gene Wilder,Slim Pickens,Harvey Korman,Madeline Kahn,Mel Brooks,Burton Gilliam,Alex Karras,David Huddleston,Liam Dunn,John Hillerman,George Furth,Jack Starrett,Carol Arthur,Richard Collier	0
+COL Year VAL 1981	0
+COL Description VAL Peggy Sue faints at a high school reunion. When she wakes up, she finds herself in her own past, just before she finished school.	0
+COL Name VAL The Den	0
+COL Duration VAL 	0
+COL Language VAL English,Spanish,Chinese	0
+COL RatingCount VAL 	0
+COL Duration VAL 	0

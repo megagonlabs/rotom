@@ -1,0 +1,500 @@
+COL journal_issn VAL 1096-4673	0
+"COL author_list VAL {""Marcus R Munaf�_"",""Mike W Peacey"",""In-Uck Park""}"	1
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 0363-5023	0
+COL article_jcreated_at VAL 5/1/14	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_pagination VAL 1858-63	0
+COL id VAL 90272	0
+"COL author_list VAL {""R Carraro"",""M F Rasmussen"",""L Niskanen"",""A Harper"",""N Finer"",""S R̦ssner"",""M Kunesova"",""L Van Gaal"",""M E J Lean"",""A Astrup"",""A Rissanen"",""M J Savolainen"",""[Collective Name] NN8022-1807 Investigators""}"	1
+"COL author_list VAL {""S. Pelofsky"",""P. D. Hunter""}"	0
+COL article_title VAL Growth hormone treatment and diabetes: survey of the kabi pharmacia international growth study.	0
+COL article_jcreated_at VAL 3/1/02	1
+COL article_jcreated_at VAL 1/1/15	1
+COL jounral_abbreviation VAL Journal of applied physiology	0
+COL jounral_abbreviation VAL BMC Neurol	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 3/1/13	1
+COL article_jcreated_at VAL 9/1/02	1
+"COL author_list VAL {""N. M. Pinheiro"",""R. Almeida-Reis"",""L. Oliva"",""M. A. Martins"",""M. L. V. Oliva"",""O. A. Theodoro-Junior"",""E. A. Leick"",""I. F. L. C. Tib̩rio"",""C. M. Prado"",""R. F. Righetti"",""B. T. M. Oliveira""}"	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jissue VAL 3	0
+COL article_jissue VAL 	1
+COL journal_title VAL Scandinavian journal of rheumatology	0
+COL article_pagination VAL 149-156	0
+COL journal_title VAL Ann N Y Acad Sci	0
+COL journal_issn VAL Mar-22	1
+COL article_pagination VAL e109114	0
+COL journal_title VAL International archives of occupational and environmental health	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_language VAL 	0
+COL article_jvolumn VAL 139	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL eng	0
+COL article_title VAL Shedding health risks with bariatric weight loss surgery	0
+COL journal_title VAL 	0
+COL article_jissue VAL 	1
+COL article_title VAL Review of Handbook for Working with Children and Youth: Pathways to Resilience across Cultures and Contexts	0
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jvolumn VAL 43	0
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""Gerlane ��ngela da Costa Moreira"",""Denyse Dutra Alencar Vasconcelos"",""Amanda Costa de Freitas"",""Carla Cristina Braga Maranh���o"",""Danielle Figueiredo Patricio""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Miquel S����nchez-Marr���"",""Geoff Holmes"",""Joaqu���_n Izquierdo"",""Joaquim Comas"",""Ioannis Athanasiadis"",""Karina Gibert""}"	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 5/1/01	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 9/1/07	1
+COL article_jcreated_at VAL 1/1/08	1
+COL jounral_abbreviation VAL 	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 9/1/09	1
+COL article_jissue VAL 8	0
+COL article_jissue VAL 	1
+COL article_language VAL 	0
+COL id VAL 836847	0
+COL id VAL 743129	0
+"COL author_list VAL {""P G̩rard"",""J Montesanti"",""P Lepage"",""M M Massin""}"	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 7/7/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 945-52	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jvolumn VAL 44	0
+COL article_title VAL Isolated cerebellar involvement in a case of posterior reversible leukoencephalopathy.	0
+COL article_jcreated_at VAL 12/1/06	1
+COL article_jvolumn VAL 64	0
+"COL author_list VAL {""R. Luck"",""P. Mago"",""N. Fumo""}"	0
+COL article_jcreated_at VAL 1/1/02	1
+"COL author_list VAL {""L Ramos"",""S Mathur�_n"",""A Mateo"",""C L�_pez"",""C G�_mez""}"	1
+COL article_title VAL Stereotactic radiosurgery for spinal metastases: a literature review. [Review]	0
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""R Loch Macdonald"",""Farbod Asgarzadie-Gadim"",""Yeon Gyoe Jang"",""Daniel J Curry"",""Rachel N Yanowitch"",""Kim E Schultheiss"",""Jocelyn Tolentino"",""J�_rgen L�_ders""}"	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jvolumn VAL 	1
+COL jounral_abbreviation VAL Occup Environ Med	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 5/1/13	1
+"COL author_list VAL {""S. G. DB  - c8h DO  - 10.1097/01.NURSE.0000343454.35505.5a DP  - EBSCOhost Camden""}"	0
+COL article_jcreated_at VAL 1/1/02	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/76	0
+COL article_pagination VAL 	0
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+COL article_pagination VAL 1337-45	0
+COL article_pagination VAL 283-4	0
+COL id VAL 38197	0
+COL journal_title VAL NeuroRehabilitation	0
+COL article_jcreated_at VAL 7/2/08	1
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 6/1/14	1
+COL article_title VAL Early thoracic sympathetic block improves the treatment effect for upper extremity neuropathic pain	0
+COL journal_issn VAL Sep-22	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 9/1/10	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 6	0
+COL article_jvolumn VAL 23	0
+COL article_pagination VAL 183-9	0
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""Daiki Uchida"",""Yukihiro Saito"",""Hisashi Uchida"",""Atsuhiro Koya"",""Nobuyoshi Azuma""}"	0
+"COL author_list VAL {""M Raderer"",""C Gedlicka"",""A Lenauer"",""D Depisch"",""W Scheithauer"",""B Schneeweiss"",""W Fiebiger"",""F Lang"",""G V Kornek"",""B Sch���_ll""}"	1
+COL article_jissue VAL 7	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""K. Iijima"",""A. Tanimoto"",""Y. Kitagaki"",""M. Hiura"",""H. Fujiwara"",""S. Ikawa""}"	0
+COL id VAL 428363	0
+COL article_language VAL eng	0
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 12/1/12	1
+COL article_jissue VAL 5	0
+COL id VAL 719389	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 10/1/10	1
+COL article_language VAL eng	0
+COL journal_issn VAL 1540-9996	0
+COL article_jcreated_at VAL 7/1/08	1
+COL article_jissue VAL 2	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/00	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 3	0
+COL journal_issn VAL 0021-8987 (Print)     0021-8987	0
+COL article_jcreated_at VAL 	0
+COL article_title VAL Oral dimenhydrinate versus placebo in children with gastroenteritis: A randomized controlled trial	0
+COL article_jcreated_at VAL 6/1/10	1
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 8/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_pagination VAL 26-Jan	0
+COL article_language VAL eng	0
+COL journal_issn VAL 1757-1626	0
+COL article_pagination VAL 373-6	0
+COL jounral_abbreviation VAL Health education & behavior : the official publication of the Society for Public Health Education	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 10/24/14	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_title VAL A controlled trial of anterior spinal fusion and d̩bridement in the surgical management of tuberculosis of the spine in patients on standard chemotherapy: a study in two centres in South Africa. Seventh Report of the Medical Research Council Working Party on tuberculosis of the spine	1
+COL article_jvolumn VAL 68	0
+COL article_jissue VAL 	1
+"COL author_list VAL {""C. Hagen"",""K. Brusgaard"",""M. DA  - Mar DO  - jc.2004-1214 [pii] 10.1210/jc.2004-1214 [doi] DP  - Nlm ET  - 2004/12/16 Andersen"",""A. P. Hermann"",""J. Hangaard"",""D. Glintborg""}"	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jissue VAL 9	0
+COL article_title VAL A comparison of early gastric and post-pyloric feeding in critically ill patients: a meta-analysis.	0
+COL article_title VAL Analysis of the cochrane review: Biomarkers as point-of-care tests to guide prescription of antibiotics in patients with acute respiratory infections in primary care. cochrane database syst rev. 2014,11:Cd10130	0
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 8/1/02	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_pagination VAL 63-71 ST  - Polycystic ovary syndrome (PCOS) and other androgen excess-related conditions: can changes in dietary intake make a difference?-	0
+COL article_jvolumn VAL 26	0
+COL article_jvolumn VAL 113	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jissue VAL 	1
+COL article_jvolumn VAL 9	0
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""G Vaksmann"",""A Vincentelli"",""C Francart"",""M A Cajot"",""G M Brevi̬re"",""F Godart"",""J M Coullet"",""P Devos"",""C Rey""}"	1
+COL article_jcreated_at VAL 10/1/10	1
+COL article_pagination VAL 74-6	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 8/2/06	1
+COL article_language VAL English	0
+"COL author_list VAL {""P Michel"",""V Papavasileiou"",""G Ntaios"",""A Bargiota"",""K Makaritsis""}"	0
+COL article_jvolumn VAL 18	0
+COL id VAL 683304	0
+COL journal_issn VAL 	0
+COL id VAL 56272	0
+COL article_jcreated_at VAL 10/1/12	1
+COL jounral_abbreviation VAL Addict.Behav.	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 1/1/07	1
+"COL author_list VAL {""M Caliskan"",""M Karab̦c�_oglu"",""A Citak"",""N Uzel"",""K Aydin"",""A Nayir"",""D D Soysal""}"	1
+COL id VAL 360693	0
+COL article_jissue VAL 0	0
+COL article_jissue VAL 2	0
+COL article_language VAL eng	0
+COL journal_issn VAL Feb-14	1
+COL article_jcreated_at VAL 7/1/12	1
+COL article_jcreated_at VAL 10/1/08	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Margarita Admetlla Falgueras"",""Josep Fust��� Sugra���es""}"	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_jissue VAL 1	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_language VAL eng	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL Archives of internal medicine	0
+COL article_pagination VAL 170-5	0
+COL article_jcreated_at VAL 10/9/15	1
+COL article_jcreated_at VAL 1/1/05	1
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 8/1/05	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 8/1/08	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 5/1/14	1
+COL journal_title VAL International Journal of Oral and Maxillofacial Surgery	0
+COL article_jcreated_at VAL 1/1/96	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jvolumn VAL 14	0
+COL article_title VAL Fractional flow reserve for guiding PCI.	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Women's sexuality in the South African constitutional court	0
+COL article_jissue VAL 	1
+COL article_language VAL eng	0
+COL journal_issn VAL 1060-0280	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/11	1
+COL journal_issn VAL 1467-1107	0
+COL article_jissue VAL 1	0
+COL jounral_abbreviation VAL The Journal of hospital infection	0
+"COL author_list VAL {""A H Zwinderman"",""M Munneke"",""G J Tijhuis"",""Z de Jong"",""J M Hazes"",""T P Vliet Vlieland""}"	0
+COL article_jcreated_at VAL 1/1/04	1
+COL journal_title VAL Expert opinion on emerging drugs	0
+COL journal_title VAL Current Opinion in Infectious Diseases	0
+COL author_list VAL {NULL}	0
+COL article_pagination VAL 714-9	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 6/10/02	1
+"COL author_list VAL {""Marlies L van Bekkum"",""Barbara C van Munster"",""Marije E Hamaker"",""Carolien H Smorenburg"",""Peter L M Thunnissen""}"	0
+COL article_title VAL Effects on prolongation of Bazett�۪s corrected QT interval of seven second-generation antipsychotics in the treatment of schizophrenia: A meta-analysis	1
+COL article_jcreated_at VAL 7/1/14	1
+COL id VAL 885384	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jissue VAL 5	0
+COL article_pagination VAL 3191-7	1
+COL article_pagination VAL 930-936	0
+"COL author_list VAL {""Michiel A J Kompier"",""Etty G A Wielenga-Meijer"",""Dani��l H J Wigboldus"",""Toon W Taris""}"	1
+COL article_pagination VAL 3541-4	1
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL Eur. Respir. J.	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_pagination VAL 71-7	1
+"COL author_list VAL {""Angel Rosa-Alc����zar"",""Ana I Rosa-Alc����zar"",""Marina Iniesta-Sep���lveda""}"	1
+COL article_jvolumn VAL 22	0
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""J�_rgen Rehm"",""Gerhard Gmel"",""Maurizio Trevisan"",""Christopher T Sempos""}"	1
+"COL author_list VAL {""Cecilia Bj̦rkelund"",""Margaretha Jerlock""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 8/1/12	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/10	1
+COL journal_title VAL J. Chin. Integr. Med.	0
+COL journal_title VAL Gut	0
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""M.M.P. Yang"",""S.H. Kok"",""G.T.C. Lee""}"	0
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jvolumn VAL 28	0
+COL article_jcreated_at VAL 3/1/14	1
+COL journal_title VAL Ugeskr Laeger	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_pagination VAL 495-503	0
+COL article_jcreated_at VAL 1/1/71	0
+COL article_pagination VAL 	0
+COL article_jcreated_at VAL 10/1/03	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 10/1/12	1
+COL journal_title VAL Annals Of Surgery	0
+COL article_jcreated_at VAL 10/1/12	1
+COL article_language VAL eng	0
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 2	0
+COL journal_issn VAL 0019-9567	0
+COL article_jcreated_at VAL 11/1/14	1
+COL article_jcreated_at VAL 2/1/13	1
+COL id VAL 67292	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jvolumn VAL 20	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 4/1/05	1
+COL journal_issn VAL 	0
+COL article_pagination VAL 43-8	1
+COL article_jvolumn VAL 29	0
+COL article_language VAL eng	0
+COL article_language VAL eng	0
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jissue VAL 	1
+COL jounral_abbreviation VAL Pharmacogenomics	0
+COL article_jcreated_at VAL 12/1/13	1
+COL article_pagination VAL 	0
+COL article_jcreated_at VAL 1/1/98	0
+COL article_jcreated_at VAL 6/1/05	1
+COL journal_issn VAL 1440-1584	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_pagination VAL 172-82	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_pagination VAL 159-166	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""Giovanni Teodori"",""Marta Leverone"",""Eraldo Occhetta"",""Miriam Bortnik"",""Paolo Marino"",""Marco Marcolongo""}"	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 11	0
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL journal_issn VAL Mar-09	1
+COL article_pagination VAL 673-692	0
+COL journal_title VAL Proceedings of the 23rd ACM international conference on Multimedia	0
+COL article_jcreated_at VAL 7/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 7/1/12	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 3/1/08	1
+COL jounral_abbreviation VAL Oncol Nurs Forum	0
+COL article_language VAL 	0
+COL article_jissue VAL 2	0
+COL article_pagination VAL 408-427	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 83-7	1
+COL journal_title VAL American Journal of Clinical Nutrition	0
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_title VAL Specific collaborative group intervention for patients with medically unexplained symptoms in general practice: A cluster randomized controlled trial	0
+COL article_title VAL On the role of pre and post-processing in environmental data mining	0
+COL article_jissue VAL 5	0
+COL article_title VAL [Changes in plasma concentrations of human hepatocyte growth factor before and after major intra-abdominal surgery under nitrous oxide-sevoflurane anesthesia].	0
+COL article_jcreated_at VAL 11/1/01	1
+COL article_jvolumn VAL 12	0
+COL article_jcreated_at VAL 1/1/05	1
+COL journal_title VAL Molecular Biology Reports	0
+"COL author_list VAL {""Michela Miani"",""Decio L Eizirik"",""Laurence Ladri̬re"",""Maikel L Colli"",""Miriam Cnop""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""R S Lever"",""S A Holme""}"	0
+"COL author_list VAL {""P. H. Jallo"",""E. C. Otoh"",""A. Mohammed"",""S. O. Ajike"",""N. W. Johnson"",""I. S. Danfillo""}"	0
+COL article_jcreated_at VAL 5/1/12	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/09	1
+COL id VAL 817811	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jissue VAL 	1
+COL journal_title VAL Cochrane Database Syst. Rev.	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 4/3/15	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 6/1/01	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 5	0
+COL id VAL 110072	0
+COL article_jissue VAL 2	0
+COL id VAL 735083	0
+COL article_jcreated_at VAL 11/1/10	1
+COL id VAL 980682	0
+COL article_jcreated_at VAL 8/1/09	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 10/3/14	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""S��ren Brostr��m"",""Gunnar Lose""}"	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_title VAL Pharmacotherapy for inherited colorectal cancer. [Review] [42 refs]	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""D Chochol���"",""R Chaloupka"",""B Kala"",""J Gallo"",""M Netval""}"	1
+COL article_jcreated_at VAL 1/1/87	0
+"COL author_list VAL {""Venancio Mart�_nez Su��rez""}"	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""B. A. Moed"",""S. M. Doyle"",""A. V. Nero"",""K. L. Revzan"",""M. B. Schwehr"",""R. G. Sextro"",""W. W. Nazaroff""}"	0
+COL article_pagination VAL 	0
+"COL author_list VAL {""Aaron P Blaisdell"",""Jared Wong"",""Kenneth J Leising"",""Michael R Waldmann""}"	0
+COL article_jcreated_at VAL 3/1/07	1
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jissue VAL 0	0
+COL id VAL 944558	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 3/1/09	1
+COL id VAL 280418	0
+COL article_title VAL Experiences of African-American Women with Smartphone-Based Ecological Momentary Assessment.	0
+COL journal_issn VAL 0363-6771	0
+COL id VAL 826830	0
+COL article_jvolumn VAL 	1
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 3236-42 ST  - Changes in glucose tolerance over time in women with polycystic ovary syndrome: a controlled study-	0
+COL article_jcreated_at VAL 1/1/02	1
+"COL author_list VAL {""O. Callender"",""J. Craven"",""C. Martin""}"	0
+COL id VAL 26475	0
+COL article_title VAL [Noninvasive prenatal diagnosis of trisomy 21, 18 and 13 using cell-free fetal DNA]	0
+COL article_jvolumn VAL 94	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL id VAL 44484	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 0	0
+COL article_jcreated_at VAL 5/7/09	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_language VAL eng	0
+COL id VAL 474288	0
+COL article_jcreated_at VAL 6/1/15	1
+COL article_jissue VAL 10	0
+COL journal_title VAL World J Pediatr Congenit Heart Surg	0
+COL article_jvolumn VAL 53	0
+"COL author_list VAL {""K. Tamaki"",""A. G. C��lar"",""S. Beyrer"",""H. Aoki""}"	1
+COL article_language VAL 	0
+"COL author_list VAL {""D. L. Uehara"",""C. Nishita"",""T. Tom"",""G. Cardazone""}"	0
+COL article_jissue VAL 0	0
+"COL author_list VAL {""Yi Wang"",""Yu Zhou"",""RongDang Hu"",""XiuYing Wang"",""Gerald Voli̬re""}"	1
+COL journal_issn VAL 	0
+COL article_jvolumn VAL 31	0
+COL article_jissue VAL 0	0
+COL article_jissue VAL 2	0
+COL article_language VAL 	0
+COL article_jissue VAL 11	0
+COL journal_title VAL Swiss Medical Weekly	0
+COL article_jcreated_at VAL 2/1/15	1
+COL article_pagination VAL 	0
+COL article_jvolumn VAL 27	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""Reva Kasman""}"	0
+COL article_jcreated_at VAL 12/1/08	1
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jvolumn VAL 0	0
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL Basic and Clinical Pharmacology and Toxicology	0
+COL article_pagination VAL 91-3	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 3/1/15	1
+COL journal_title VAL Stomatologii��a	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_title VAL Services for children and adolescents with autism spectrum disorders: payment issues.	0
+COL article_jvolumn VAL 110	0
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Somjot S Brar"",""William A Gray""}"	0
+COL article_jcreated_at VAL 12/1/12	1
+COL article_jissue VAL 	1
+COL article_title VAL Are stretches effective in the prevention and treatment of glenohumeral internal rotation deficit?	0
+COL article_jcreated_at VAL 11/1/14	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_title VAL Changes in glucose tolerance over time in women with polycystic ovary syndrome: a controlled study	0
+COL article_pagination VAL 	0
+COL article_jvolumn VAL 56	0
+COL id VAL 248064	0
+COL article_jvolumn VAL 54	0
+COL journal_title VAL Cancer	0
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""N. Jakubik"",""L. Trzpil"",""F. Raciborski"",""U. Samolinska-Zawisza"",""L. Samoli̱ski"",""D. Paczesny"",""Z. Halat"",""J. Marszalkowska"",""B. Samolinski"",""P. Samel-Kowalik"",""A. Lusawa"",""J. Gutowska"",""A. Tomaszewska"",""A. Walkiewicz""}"	1
+COL article_jcreated_at VAL 6/1/15	1
+COL journal_issn VAL 	0
+COL id VAL 683893	0
+COL article_jcreated_at VAL 1/1/10	1
+COL journal_issn VAL 0933-7407	0
+COL id VAL 332032	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jvolumn VAL 159	0

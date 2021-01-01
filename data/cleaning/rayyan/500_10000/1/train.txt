@@ -1,0 +1,500 @@
+COL article_jcreated_at VAL 10/1/07	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_title VAL Alkaline phosphatase activity of duodenal enterocytes after neonatal administration of monosodium glutamate to rats.	0
+COL article_jcreated_at VAL 1/1/07	1
+COL journal_issn VAL Mar-22	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 67	0
+COL article_jcreated_at VAL 2/10/14	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL id VAL 682676	0
+COL article_jcreated_at VAL 6/1/03	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jvolumn VAL 0	0
+COL article_language VAL eng	0
+COL journal_title VAL Focus on Alternative and Complementary Therapies	0
+COL article_jissue VAL 3	0
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_title VAL Corneal collagen cross-linking for nonectatic disorders: A systematic review.	0
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""B N Prichard"",""J W Black""}"	0
+COL id VAL 847600	0
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Meletios A Dimopoulos"",""Nikolaos Anagnostopoulos"",""Markela P Zorzou"",""Athanasios Anagnostopoulos"",""Eleni Efstathiou"",""Christos Poziopoulos"",""George Hamilos"",""Vassiliki Grigoraki"",""Dimitra Gika"",""Athanasios Zomas"",""Irini Xilouri""}"	0
+COL article_jcreated_at VAL 1/1/04	1
+COL id VAL 113363	0
+COL article_language VAL fre	0
+COL article_pagination VAL 667-77	0
+COL article_jcreated_at VAL 1/1/05	1
+COL journal_title VAL 	0
+COL article_pagination VAL 15-22	0
+COL journal_title VAL Muscle & nerve	0
+COL article_jissue VAL 7	0
+"COL author_list VAL {""G. Abraham"",""Jr. Fromm, R. E."",""P. E. Marik"",""J. Varon"",""P. Careau""}"	0
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jvolumn VAL 102	0
+"COL author_list VAL {""L N Meurer""}"	0
+COL journal_title VAL Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine	0
+COL article_jcreated_at VAL 	0
+COL article_jcreated_at VAL 11/1/11	1
+COL article_jcreated_at VAL 6/17/02	0
+COL article_jcreated_at VAL 9/1/08	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 9/1/12	1
+COL article_title VAL Value of intravenous cholangiography prior to laparoscopic cholecystectomy	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 9/1/01	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_pagination VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Angel Rosa-Alc����zar"",""Ana I Rosa-Alc����zar"",""Marina Iniesta-Sep���lveda""}"	1
+"COL author_list VAL {""Peter Schoenknecht"",""Matthias L Schroeter"",""Johann Steiner"",""Karsten Mueller"",""Julia Sacher""}"	0
+COL article_pagination VAL 693-6; discussion 697 ST  - Value of intravenous cholangiography prior to laparoscopic cholecystectomy-	0
+COL article_pagination VAL S156-S157	0
+COL id VAL 719389	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 	1
+COL id VAL 684757	0
+COL article_jcreated_at VAL 9/1/12	1
+COL article_pagination VAL 84-8	1
+COL article_pagination VAL 84301	0
+COL journal_issn VAL 1438-8359	0
+COL article_jcreated_at VAL 9/1/02	1
+COL journal_title VAL Zeitschrift f��r Erkrankungen der Atmungsorgane mit Folia bronchologica	1
+COL article_pagination VAL 81-3	1
+COL article_jcreated_at VAL 6/1/01	1
+COL journal_issn VAL 1540-9996	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_language VAL 	0
+COL article_pagination VAL 2562-9 ST  - Randomized, double-blind, placebo-controlled trial of the 5-HT1A receptor antagonist AZD7371 tartrate monohydrate (robalzotan tartrate monohydrate) in patients with irritable bowel syndrome-	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 12/1/09	1
+COL article_jissue VAL 	1
+COL journal_title VAL Actas espa̱olas de psiquiatr�_a	1
+COL jounral_abbreviation VAL 	0
+COL id VAL 950926	0
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jissue VAL 9	0
+COL journal_title VAL Schlafsțrungen bei kritisch kranken patienten	1
+COL article_pagination VAL S223	0
+COL article_jissue VAL 3	0
+"COL author_list VAL {""Marie-Pierre Chenard"",""Nassim Dali-Youcef"",""Emilie Buache"",""Marie-Christine Rio"",""Jinxiang Tan""}"	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 52	0
+COL jounral_abbreviation VAL EMERG RADIOL	0
+COL journal_issn VAL Sep-22	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 2/1/09	1
+COL journal_title VAL BMC Musculoskelet Disord	0
+COL journal_title VAL Journal of the American Academy of Child and Adolescent Psychiatry	0
+COL article_jvolumn VAL 118	0
+"COL author_list VAL {""Yan-Yan Li"",""Yun Qian"",""Chuan-Wei Zhou""}"	0
+"COL author_list VAL {""Costin M."",""Dumbrav�_ E.L."",""Postolache P."",""Cojocaru D.C.""}"	1
+COL journal_issn VAL 	0
+COL article_jvolumn VAL 88	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 36	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jvolumn VAL 20	0
+COL article_jcreated_at VAL 1/1/02	1
+"COL author_list VAL {""J M Cisler"",""T Mletzko"",""C D Kilts"",""S Tripathi"",""G A James"",""X P Hu"",""C Heim"",""C B Nemeroff"",""H S Mayberg""}"	0
+COL article_jcreated_at VAL 5/1/15	1
+COL article_title VAL CT features of pulmonary arterial hypertension and its major subtypes: a systematic CT evaluation of 292 patients from the ASPIRE Registry.	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jissue VAL 	1
+COL article_title VAL Factors associated with orthodontic patient compliance with intraoral elastic and headgear wear.	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL id VAL 856471	0
+COL article_jcreated_at VAL 5/1/06	1
+COL journal_issn VAL 	0
+COL journal_issn VAL 0961-5423 (Print) 0961-5423	0
+COL article_jvolumn VAL 4	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 3/1/10	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 9/1/94	0
+COL article_pagination VAL 53-58	0
+COL article_title VAL Swabbing Surgical Sites Does Not Improve the Detection of Staphylococcus aureus Carriage in High-Risk Surgical Patients	0
+COL article_jcreated_at VAL 8/1/08	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 11/1/01	1
+COL jounral_abbreviation VAL Public Health Genomics	0
+COL article_pagination VAL 375-93	0
+COL article_jcreated_at VAL 1/1/12	1
+COL journal_issn VAL 1537-6591	0
+COL id VAL 123731	0
+COL article_pagination VAL 135-41	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 4/1/14	1
+COL journal_issn VAL 	0
+COL article_jvolumn VAL 82	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/10	1
+COL journal_title VAL PLoS One	0
+COL article_jvolumn VAL 21	0
+COL article_jcreated_at VAL 1/1/15	1
+COL journal_issn VAL 1040-2446	0
+COL article_jcreated_at VAL 1/1/12	1
+COL journal_issn VAL 0025-7931	0
+COL article_jissue VAL 	1
+COL article_pagination VAL 1943-1946	0
+COL article_jcreated_at VAL 1/1/07	1
+COL id VAL 928952	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_title VAL 	0
+COL journal_issn VAL 0895-6111	0
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Fengjiang Zhang"",""Gang Chen"",""Min Yan"",""Congcong Chen""}"	0
+COL article_pagination VAL 2427-36	0
+COL article_pagination VAL 233-44	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 2/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL id VAL 846319	0
+COL article_title VAL Stereotactic radiosurgery for spinal metastases: a literature review. [Review]	0
+COL article_jcreated_at VAL 2/1/07	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 4/1/01	1
+COL article_jvolumn VAL 45	0
+COL journal_title VAL European Journal of Cancer Care	0
+COL article_jissue VAL 6	0
+COL article_jcreated_at VAL 5/1/05	1
+COL journal_issn VAL 1361-6560	0
+COL article_jcreated_at VAL 8/1/10	1
+COL article_jcreated_at VAL 1/1/00	0
+COL article_language VAL jpn	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL Journal of analytical toxicology	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 7/1/05	1
+COL journal_title VAL Ann Rheum Dis	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 12/1/09	1
+COL article_jvolumn VAL 	1
+COL id VAL 54613	0
+COL article_jvolumn VAL 34	0
+"COL author_list VAL {""Marie-Pierre Gagnon"",""Claude Sicotte"",""��dith-Romy Nsangou"",""Sonya Grenier"",""Julie Payne-Gagnon""}"	1
+COL journal_title VAL 	0
+COL article_jissue VAL 	1
+COL journal_issn VAL 0022-4707	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_title VAL Analysis of responses of radiology personnel to a simulated mass casualty incident after the implementation of an automated alarm system in hospital emergency planning.	0
+COL article_jvolumn VAL 41	0
+COL article_jissue VAL 0	0
+COL article_jcreated_at VAL 1/1/09	1
+COL journal_issn VAL 	0
+COL article_jissue VAL 6	0
+"COL author_list VAL {""Linda M. Burton"",""Altman Bullard Burton Burton Burton Burton Burton Clark Conley Dilworth-Williams Fischer Foucault Franklin Gieryn Gilbert Goering Hooks Howard Kidder Lahiri Lawson Clark Lawson Clark Lawson Clark Low Massey Oliver Perkins Rosenbaum Rosenbaum Sanders Stack Allan"",""Sherri Lawson Clark""}"	0
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_title VAL Phase II study to evaluate the safety and efficacy of the oral neurokinin-1 receptor antagonist casopitant (GW679769) administered with ondansetron for the prevention of postoperative and postdischarge nausea and vomiting in high-risk patients	0
+COL article_jcreated_at VAL 2/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 4/1/14	1
+COL journal_title VAL Oral diseases	0
+COL jounral_abbreviation VAL Can Forces Dent Serv Q	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 9	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 6/1/04	1
+COL article_jcreated_at VAL 9/1/02	1
+COL article_language VAL 	0
+COL id VAL 248064	0
+COL article_jcreated_at VAL 12/1/12	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 11/1/13	1
+COL article_jvolumn VAL 87	0
+COL journal_title VAL Stroke; a journal of cerebral circulation	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_title VAL Preventing injuries through interventions for problem drinking: a systematic review of randomized controlled trials	0
+COL article_pagination VAL 2755-72	0
+COL article_title VAL General public's and physicians' perception of health risk associated with radon exposure in the state of Azad Jammu and Kashmir	0
+COL article_jvolumn VAL 10	0
+COL article_jcreated_at VAL 1/1/08	1
+COL id VAL 461204	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 6/1/05	1
+COL article_pagination VAL 2496-502	0
+"COL author_list VAL {""Irene G Salado"",""Ana Martinez"",""Daniel I Perez"",""Brian C Kraemer"",""Murilo L Bello"",""Concepci�_n Perez"",""Nicole F Liachko"",""Magalie Lecourtois"",""Miriam Redondo"",""Carmen Gil"",""Laetitia Miguel""}"	1
+COL article_title VAL Azathioprine for multiple sclerosis	0
+COL journal_title VAL American Indian and Alaska Native Mental Health Research: The Journal of the National Center	0
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jvolumn VAL 41	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 10/1/06	1
+COL article_jcreated_at VAL 5/1/01	1
+"COL author_list VAL {""Nk Shukla"",""Sn Das"",""P Gaur"",""Ak Singh""}"	0
+COL jounral_abbreviation VAL J. Recept. Signal Transduct. Res.	0
+COL article_title VAL [Assessment of prognostic factors of thoracic synovial sarcoma].	0
+COL article_language VAL Eng	0
+COL article_jvolumn VAL 65	0
+COL article_jcreated_at VAL 10/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jvolumn VAL 126	0
+COL journal_issn VAL -7518	0
+COL journal_issn VAL 0144-6665	0
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jvolumn VAL 	1
+"COL author_list VAL {""Helen M Sorenson""}"	0
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 9/1/10	1
+COL journal_issn VAL 9788480000000	1
+COL article_jvolumn VAL 89	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 4/3/15	1
+COL journal_title VAL Journal of dental research	0
+COL article_jcreated_at VAL 1/1/01	0
+COL article_title VAL Imaging of scar in patients with ventricular arrhythmias of right ventricular origin: Cardiac magnetic resonance versus electroanatomic mapping	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 6/1/12	1
+"COL author_list VAL {""J R Trott"",""D J Morrow"",""D W Buntine""}"	0
+COL article_jcreated_at VAL 1/1/10	1
+COL id VAL 450760	0
+COL article_jcreated_at VAL 6/1/12	1
+COL article_jcreated_at VAL 12/1/06	1
+COL article_title VAL Prevalence, molecular characterization, and phenotypic confirmation of extended-spectrum beta-lactamases in Escherichia coli, Klebsiella pneumoniae, and Klebsiella oxytoca at the Radboud University Nijmegen Medical Centre in The Netherlands	0
+COL article_title VAL Antimicrobial resistance of H. pylori isolates in alaska native persons from 2000-2008: Results from the alaska sentinel surveillance project	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_title VAL Quality of life factors and survival after total or extended maxillectomy for sinonasal malignancies.	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_title VAL Early predicting of blood component quality by Statistical Process Control	0
+COL article_pagination VAL 813-20	0
+COL jounral_abbreviation VAL Physiotherapy	0
+COL article_jcreated_at VAL 10/1/04	1
+COL article_jissue VAL 	1
+COL article_title VAL A literature review on chronic pain: the daily overcoming of a complex problem.	0
+COL id VAL 245200	0
+COL article_jcreated_at VAL 5/1/06	1
+COL jounral_abbreviation VAL American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists	0
+COL article_jcreated_at VAL 1/1/14	1
+COL id VAL 716785	0
+COL id VAL 911271	0
+COL journal_issn VAL Mar-22	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jvolumn VAL 57	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 	1
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 5	0
+"COL author_list VAL {""T Delormier"",""A C Macaulay"",""M Cargo"",""A M McComber"",""L Potvin""}"	0
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Andreas Kruse"",""Manh Hung Nguyen""}"	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jvolumn VAL 11	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_title VAL [Occupational exposure to sevoflurane in pediatric operating rooms: the multi-point sampling method for risk assessment].	0
+COL article_jcreated_at VAL 8/1/13	1
+COL article_pagination VAL 91-8	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 2/1/15	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_title VAL Early prenatal survival in relation to the parental environment in sheep: A review	0
+"COL author_list VAL {""Jennifer L. Edwards"",""Cherie A. Lyons"",""Marcia E. Swords"",""Mary S. Rogers"",""Kathy E. Green""}"	0
+COL article_pagination VAL 2.05427E+015	1
+COL article_title VAL Effet d'une intervention non m̩dicamenteuse, Voix d'Or�, sur les troubles du comportement dans la maladie d'Alzheimer ou une maladie apparent̩e. [Effect of a non-pharmacological intervention, Voix d'Or�, on behavior disturbances in Alzheimer disease and associated disorders.]	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 10/1/09	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 4/2/15	1
+COL article_jvolumn VAL 17	0
+COL journal_title VAL 	0
+COL journal_title VAL British journal of sports medicine	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/08	1
+COL journal_issn VAL 0363-5023	0
+"COL author_list VAL {""A. R. Lomax"",""P. C. CN  - Pubmed DA  - Mar DO  - 10.1017/s0007114508055608 DP  - NLM ET  - 2008/09/26 Calder""}"	0
+COL article_jcreated_at VAL 7/4/14	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 8/1/09	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_pagination VAL 	0
+COL journal_issn VAL 0021-9355 (Print)	0
+COL article_title VAL Lung function efficacy of olodaterol qd delivered via respimat� vs placebo and formoterol bid in patients with COPD: two 48-week studies [Abstract]	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/7/15	1
+COL jounral_abbreviation VAL J Pers Soc Psychol	0
+COL article_jvolumn VAL 360	0
+COL journal_title VAL Aktuelle Traumatologie	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_pagination VAL 1255-1272	0
+COL jounral_abbreviation VAL J Stroke Cerebrovasc Dis	0
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""J. J. Coran"",""T. Koropeckyj-Cox"",""C. L. Arnold""}"	0
+COL article_pagination VAL 3191-7	1
+COL article_title VAL [A case of giant Brunner's gland hyperplasia combined with adenomyomatous hyperplasia].	0
+COL article_jcreated_at VAL 1/1/13	1
+COL id VAL 893664	0
+COL article_jvolumn VAL 21	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_pagination VAL 	0
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 2/1/12	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""J�_rgen Rehm"",""Gerhard Gmel"",""Maurizio Trevisan"",""Christopher T Sempos""}"	1
+COL journal_title VAL Current drug targets	0
+"COL author_list VAL {""J.P. Toombs"",""M.S. Bauer"",""W.R. Widmer"",""A.R. Blight""}"	0
+COL article_pagination VAL 542-549	0
+COL journal_title VAL Cardiology in the young	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 2700-7	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jvolumn VAL 0	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_pagination VAL 94-9	1
+COL article_jcreated_at VAL 4/1/15	1
+COL article_pagination VAL 15-20	0
+COL article_language VAL eng	0
+"COL author_list VAL {""T Fors̩n"",""J Eriksson"",""C Osmond"",""D Barker""}"	1
+COL article_jissue VAL 12	0
+COL article_jvolumn VAL 15	0
+COL article_jcreated_at VAL 3/7/15	1
+COL article_jcreated_at VAL 5/1/14	1
+COL id VAL 730822	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_pagination VAL 435-442	0
+COL article_jcreated_at VAL 10/1/03	1
+COL id VAL 265490	0
+"COL author_list VAL {""Francitorra ME"",""Sanchez GS"",""Manrique CA"",""Velasco TT"",""Castany A R"",""Escriche XF"",""Fern����ndez CS"",""Fornell LL"",""���lvarez S���"",""Fern����ndez EA"",""Rodriguez MVF"",""Sim���_ MR"",""Mayo EP""}"	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 5	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 6/1/11	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_pagination VAL 22-Dec	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_title VAL [New aspects in hernia surgery].	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/91	0
+COL article_jcreated_at VAL 1/1/13	1
+COL journal_issn VAL 	0
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_title VAL Brain BDNF levels elevation induced by physical training is reduced after unilateral common carotid artery occlusion in rats.	0
+COL article_jcreated_at VAL 12/1/03	1
+COL journal_issn VAL 1468-5833 (Electronic)	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 12/1/01	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_pagination VAL 57-61	0
+"COL author_list VAL {""Gerard H Koppelman"",""Johan C de Jongste"",""Liset E M Elstgeest"",""Henri��tte A Smit"",""Ulrike Gehring"",""Annemien Haveman-Nies"",""Marjan Kerkhof"",""Marga B M Bekkers"",""Alet H Wijga"",""Salome Scholtens""}"	1
+COL article_pagination VAL 733	0
+COL article_jcreated_at VAL 7/1/11	1
+COL journal_issn VAL Feb-14	1
+COL journal_issn VAL 	0
+COL article_jissue VAL 4537	0
+COL article_jcreated_at VAL 11/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""Yi Wang"",""Yu Zhou"",""RongDang Hu"",""XiuYing Wang"",""Gerald Voli̬re""}"	1
+COL article_jvolumn VAL 20	0
+COL article_jvolumn VAL 25	0
+COL jounral_abbreviation VAL J Clin Epidemiol	0
+COL author_list VAL {NULL}	0
+COL article_pagination VAL 51-5	1
+COL article_pagination VAL 1577-1588	0
+COL article_pagination VAL 2055-9	1
+COL article_jvolumn VAL 18	0
+COL journal_issn VAL 1467-9450	0
+COL article_title VAL Blood 25-hydroxyvitamin D concentration and hypertension: a meta-analysis.	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jvolumn VAL 34	0
+COL article_jvolumn VAL 24	0
+COL article_jcreated_at VAL 10/1/13	1
+COL id VAL 513829	0
+COL article_language VAL English	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 182-91	0
+COL article_pagination VAL 459-65	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 9/1/06	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 19	0
+COL article_jissue VAL 4	0
+COL id VAL 572425	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_title VAL HRQoL after coronary artery bypass grafting and percutaneous coronary intervention for stable angina.	0
+COL article_jcreated_at VAL 4/1/09	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_language VAL 	0
+COL article_pagination VAL e005077	0
+COL article_jissue VAL 	1
+COL article_jvolumn VAL 120	0
+COL journal_title VAL Eastern Mediterranean Health Journal	0
+COL article_jissue VAL 3	0
+COL article_jcreated_at VAL 9/1/07	1
+COL journal_title VAL The journal of ECT	0
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL  BMJ 2006, 333:939	0
+COL article_title VAL Alcohol-related road traffic injuries in Eldoret, Kenya	0
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""E A BeGole"",""H S Upshaw"",""R J Egolf""}"	0
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL jounral_abbreviation VAL 	0
+COL id VAL 185291	0
+COL article_jcreated_at VAL 6/10/02	1
+"COL author_list VAL {""M Caliskan"",""M Karab̦c�_oglu"",""A Citak"",""N Uzel"",""K Aydin"",""A Nayir"",""D D Soysal""}"	1
+COL article_jissue VAL 4	0
+COL article_jvolumn VAL 135	0
+COL article_jissue VAL 0	0
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""P G̩rard"",""J Montesanti"",""P Lepage"",""M M Massin""}"	1
+COL journal_title VAL 	0
+"COL author_list VAL {""Ana Maria Baptista Menezes"",""David Alejandro Gonz��lez"",""Elaine Cardozo Macedo"",""Pedro Curi Hallal"",""Maria de F��tima Maia"",""Marli Knorst"",""Samuel Carvalho Dumith"",""Jeovany Mart�_nez-Mesa"",""Ricardo Bica Noal"",""Fernando C̩sar Wehrmeister"",""Jos̩ Roberto Jardim""}"	1
+COL journal_issn VAL 	0
+COL journal_issn VAL 	0
+COL article_jvolumn VAL 113	0
+COL article_jcreated_at VAL 1/1/67	0

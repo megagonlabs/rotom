@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 5/7/09	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jcreated_at VAL 1/1/11	1
+"COL author_list VAL {""S��ren Brostr��m"",""Gunnar Lose""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 6/1/05	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/06	1
+COL journal_issn VAL Mar-22	1
+"COL author_list VAL {""Venancio Mart�_nez Su��rez""}"	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 12/1/12	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 3/1/13	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""Miquel S����nchez-Marr���"",""Geoff Holmes"",""Joaqu���_n Izquierdo"",""Joaquim Comas"",""Ioannis Athanasiadis"",""Karina Gibert""}"	1
+COL article_jcreated_at VAL 5/1/14	1
+COL article_jcreated_at VAL 7/1/08	1
+COL article_jcreated_at VAL 7/1/12	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 6/1/14	1
+COL article_title VAL Effects on prolongation of Bazett�۪s corrected QT interval of seven second-generation antipsychotics in the treatment of schizophrenia: A meta-analysis	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 9/1/07	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 9/1/10	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""Marcus R Munaf�_"",""Mike W Peacey"",""In-Uck Park""}"	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jissue VAL 	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jcreated_at VAL 3/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 4/1/05	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 6/1/15	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 5/1/01	1
+COL article_pagination VAL 283-4	0
+COL article_jissue VAL 0	0
+COL article_pagination VAL 945-52	0
+COL article_jcreated_at VAL 1/1/00	0
+COL id VAL 836847	0
+COL article_language VAL eng	0
+COL id VAL 735083	0
+COL article_title VAL Experiences of African-American Women with Smartphone-Based Ecological Momentary Assessment.	0
+COL journal_title VAL International archives of occupational and environmental health	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""Marlies L van Bekkum"",""Barbara C van Munster"",""Marije E Hamaker"",""Carolien H Smorenburg"",""Peter L M Thunnissen""}"	0
+"COL author_list VAL {""P. H. Jallo"",""E. C. Otoh"",""A. Mohammed"",""S. O. Ajike"",""N. W. Johnson"",""I. S. Danfillo""}"	0
+COL article_language VAL 	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""O. Callender"",""J. Craven"",""C. Martin""}"	0
+COL journal_title VAL Proceedings of the 23rd ACM international conference on Multimedia	0
+COL article_language VAL 	0
+COL article_jissue VAL 10	0
+COL journal_title VAL Current Opinion in Infectious Diseases	0
+COL id VAL 980682	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 1	0
+COL article_jvolumn VAL 26	0
+COL journal_issn VAL 	0
+COL id VAL 944558	0
+COL id VAL 67292	0
+COL article_jissue VAL 0	0
+COL article_title VAL Early thoracic sympathetic block improves the treatment effect for upper extremity neuropathic pain	0
+COL journal_title VAL 	0
+COL article_pagination VAL 373-6	0
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 1/1/98	0
+COL article_language VAL eng	0
+COL article_pagination VAL 170-5	0
+"COL author_list VAL {""B. A. Moed"",""S. M. Doyle"",""A. V. Nero"",""K. L. Revzan"",""M. B. Schwehr"",""R. G. Sextro"",""W. W. Nazaroff""}"	0
+COL id VAL 826830	0
+COL article_jvolumn VAL 9	0
+COL article_language VAL 	0
+COL journal_issn VAL 0021-8987 (Print)     0021-8987	0
+COL journal_issn VAL 0363-5023	0
+COL article_title VAL Shedding health risks with bariatric weight loss surgery	0
+COL article_jissue VAL 4	0
+COL journal_title VAL International Journal of Oral and Maxillofacial Surgery	0
+COL article_jcreated_at VAL 1/1/76	0
+COL id VAL 248064	0
+COL journal_issn VAL 1096-4673	0
+COL article_title VAL Fractional flow reserve for guiding PCI.	0
+COL article_jcreated_at VAL 10/24/14	0
+COL article_title VAL Analysis of the cochrane review: Biomarkers as point-of-care tests to guide prescription of antibiotics in patients with acute respiratory infections in primary care. cochrane database syst rev. 2014,11:Cd10130	0
+COL article_jvolumn VAL 12	0
+COL id VAL 683304	0
+COL journal_title VAL Cochrane Database Syst. Rev.	0
+COL article_jissue VAL 8	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 26475	0
+COL article_title VAL Changes in glucose tolerance over time in women with polycystic ovary syndrome: a controlled study	0
+COL article_language VAL 	0
+COL author_list VAL {NULL}	0
+COL article_language VAL English	0
+COL article_jvolumn VAL 43	0
+COL article_title VAL [Noninvasive prenatal diagnosis of trisomy 21, 18 and 13 using cell-free fetal DNA]	0
+COL article_jissue VAL 7	0
+"COL author_list VAL {""Daiki Uchida"",""Yukihiro Saito"",""Hisashi Uchida"",""Atsuhiro Koya"",""Nobuyoshi Azuma""}"	0
+COL article_jcreated_at VAL 	0
+COL jounral_abbreviation VAL Addict.Behav.	0
+"COL author_list VAL {""S. Pelofsky"",""P. D. Hunter""}"	0
+COL article_pagination VAL 	0
+COL article_title VAL [Changes in plasma concentrations of human hepatocyte growth factor before and after major intra-abdominal surgery under nitrous oxide-sevoflurane anesthesia].	0
+COL article_jcreated_at VAL 1/1/96	0
+COL jounral_abbreviation VAL The Journal of hospital infection	0
+COL article_language VAL eng	0
+"COL author_list VAL {""K. Iijima"",""A. Tanimoto"",""Y. Kitagaki"",""M. Hiura"",""H. Fujiwara"",""S. Ikawa""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL eng	0

@@ -1,0 +1,150 @@
+COL City VAL anchoraxe	1
+COL MeasureCode VAL amx-3	1
+COL HospitalOwner VAL governmenx - hospixal disxricx or auxhorixy	1
+COL EmergencyService VAL yxs	1
+COL MeasureName VAL heaxt attack patients given aspixin at dischaxge	1
+COL PhoneNumber VAL 25x47x7xx0	1
+COL HospitalType VAL acute care hosxitals	1
+COL State VAL xl	1
+COL ZipCode VAL 3x1x0	1
+COL PhoneNumber VAL 256235x900	1
+COL HospitalName VAL medixal xenter enterprise	1
+COL Sample VAL 27 paxienxs	1
+COL State VAL xl	1
+COL Condition VAL hexrt fxilure	1
+COL ProviderNumber VAL 1xx32	1
+COL Stateavg VAL ax_ami-1	1
+COL State VAL xl	1
+COL Score VAL xx%	1
+COL MeasureName VAL surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor)	1
+COL HospitalOwner VAL volxntary non-profit - chxrch	1
+COL State VAL xl	1
+COL State VAL xl	1
+COL Score VAL 1xx%	1
+COL MeasureCode VAL hx-2	1
+COL MeasureCode VAL scip-vtx-1	1
+COL ZipCode VAL 3x640	1
+COL HospitalOwner VAL voluntary non-profit - otxer	1
+COL CountyName VAL caxhoun	1
+COL City VAL guntxrsvillx	1
+COL CountyName VAL chxrokxx	1
+COL PhoneNumber VAL 20x9216200	1
+COL City VAL hamilxon	1
+COL Address1 VAL 1912xalabamaxhighwayx157	1
+COL MeasureCode VAL amix1	1
+COL ProviderNumber VAL 1xx24	1
+COL Condition VAL heartxattack	1
+COL HospitalOwner VAL gxvernment - hxspital district xr authxrity	1
+COL CountyName VAL laudexdale	1
+COL City VAL fxorence	1
+COL Address1 VAL 124 s mxmorial dr	1
+COL HospitalName VAL xivexview xegional medical centex	1
+COL ProviderNumber VAL 1xx32	1
+COL Address1 VAL 400xnxedwardsxstreet	1
+COL Stateavg VAL al_axi-1	1
+COL ZipCode VAL x6x60	1
+COL Score VAL x6%	1
+COL ProviderNumber VAL 100x5	1
+COL PhoneNumber VAL xx479x8701	1
+COL City VAL boxz	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL ZipCode VAL 3xx94	1
+COL HospitalType VAL acxte care hospitals	1
+COL HospitalOwner VAL goverxmext - hospital district or authority	1
+COL MeasureName VAL surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery	1
+COL Address1 VAL 515 miranda sx	1
+COL MeasureName VAL pneumonix pxtients assessed xnd given influenzx vxccinxtion	1
+COL Stateavg VAL al_pn-5x	1
+COL State VAL xl	1
+COL MeasureCode VAL axi-4	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL MeasureName VAL childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma	1
+COL Score VAL 93x	1
+COL MeasureName VAL hxart attack patixnts givxn ace inhibitor or arb for lxft vxntricular systolic dysfunction (lvsd)	1
+COL HospitalOwner VAL prxprietary	1
+COL MeasureCode VAL pnx5c	1
+COL State VAL ax	1
+COL Score VAL x7%	1
+COL PhoneNumber VAL 334774x601	1
+COL Condition VAL surgical infxction prxvxntion	1
+COL Condition VAL hearx axxack	1
+COL Condition VAL hexrt attxck	1
+COL MeasureName VAL pneumonxa patxents whose inxtxal emergency room blood culture was performed prxor to the admxnxstratxon of the fxrst hospxtal dose of antxbxotxcs	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL Score VAL x00%	1
+COL MeasureCode VAL hx-1	1
+COL HospitalType VAL acute care hospitals	0
+COL City VAL valley	0
+COL ZipCode VAL 35045	0
+COL PhoneNumber VAL 2563864556	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL EmergencyService VAL yes	0
+COL Address3 VAL empty	0
+COL State VAL al	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL MeasureName VAL surgery patients who were given the  right kind  of antibiotic to help prevent infection	0
+COL index VAL 849	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL PhoneNumber VAL 2565435200	0
+COL EmergencyService VAL yes	0
+COL Condition VAL surgical infection prevention	0
+COL Address3 VAL empty	0
+COL CountyName VAL jefferson	0
+COL ZipCode VAL 36278	0
+COL Address3 VAL empty	0
+COL Sample VAL 69 patients	0
+COL Address2 VAL empty	0
+COL ProviderNumber VAL 10005	0
+COL MeasureCode VAL hf-1	0
+COL HospitalOwner VAL voluntary non-profit - church	0
+COL Score VAL 90%	0
+COL HospitalType VAL acute care hospitals	0
+COL MeasureName VAL surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection	0
+COL HospitalName VAL crenshaw community hospital	0
+COL MeasureCode VAL scip-inf-6	0
+COL PhoneNumber VAL 3344933541	0
+COL HospitalOwner VAL proprietary	0
+COL Address3 VAL empty	0
+COL Condition VAL heart attack	0
+COL index VAL 709	0
+COL EmergencyService VAL yes	0
+COL index VAL 650	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL Address2 VAL empty	0
+COL MeasureCode VAL pn-5c	0
+COL index VAL 732	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 3347938701	0
+COL Address2 VAL empty	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL City VAL tallassee	0
+COL Stateavg VAL al_hf-4	0
+COL Address1 VAL 400 n edwards street	0
+COL ProviderNumber VAL 10033	0
+COL ZipCode VAL 36302	0
+COL City VAL anniston	0
+COL Sample VAL 10 patients	0
+COL PhoneNumber VAL 2562358900	0
+COL index VAL 613	0
+COL HospitalName VAL medical center enterprise	0
+COL PhoneNumber VAL 2569275531	0
+COL State VAL al	0
+COL EmergencyService VAL yes	0
+COL Sample VAL 169 patients	0
+COL MeasureCode VAL scip-inf-4	0
+COL MeasureName VAL heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL Score VAL 100%	0
+COL MeasureName VAL heart failure patients given smoking cessation advice/counseling	0
+COL Address2 VAL empty	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL City VAL fayette	0
+COL index VAL 395	0
+COL MeasureCode VAL hf-4	0
+COL Stateavg VAL ak_scip-inf-6	0
+COL Stateavg VAL al_ami-5	0
+COL Address3 VAL empty	0
+COL MeasureCode VAL hf-3	0
+COL Address2 VAL empty	0
+COL ZipCode VAL 36330	0

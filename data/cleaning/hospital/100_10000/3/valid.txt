@@ -1,0 +1,100 @@
+COL HospitalType VAL acute care hospitals	0
+COL PhoneNumber VAL 20x9216200	1
+COL City VAL birminghxm	1
+COL MeasureCode VAL hfx1	1
+COL MeasureName VAL pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s)	1
+COL HospitalType VAL acute care hospitals	0
+COL City VAL hamilxon	1
+COL Stateavg VAL al_scip-inf-4	0
+COL HospitalName VAL hartselle medical center	0
+COL Sample VAL 0 patxents	1
+COL Address1 VAL 8000 alabama xigxway 69	1
+COL HospitalOwner VAL government - federal	0
+COL MeasureCode VAL scip-inf-1	0
+COL Stateavg VAL al_axi-1	1
+COL Stateavg VAL alxpn-6	1
+COL PhoneNumber VAL 3342938xxx	1
+COL EmergencyService VAL yxs	1
+COL HospitalName VAL shelby baptist medical center	0
+COL City VAL axxistox	1
+COL Stateavg VAL al_pn-6	0
+COL EmergencyService VAL yes	0
+COL MeasureCode VAL pn-5c	0
+COL MeasureCode VAL px-4	1
+COL Address3 VAL empty	0
+COL City VAL ozark	0
+COL ZipCode VAL 35968	0
+COL EmergencyService VAL yxs	1
+COL Address3 VAL empty	0
+COL CountyName VAL dale	0
+COL Address3 VAL empty	0
+COL Stateavg VAL al_scip-inf-6	0
+COL HospitalType VAL acuxe care hospixals	1
+COL MeasureName VAL surgery patiexts who were takixg heart drugs called beta blockers before comixg to the hospital who were kept ox the beta blockers durixg the period just before axd after their surgery	1
+COL CountyName VAL butxer	1
+COL MeasureCode VAL scip-vte-1	0
+COL Address1 VAL 2801 debarr road	0
+COL HospitalOwner VAL gxvernment - hxspital district xr authxrity	1
+COL Address1 VAL 515 miranda st	0
+COL PhoneNumber VAL 3342228466	0
+COL Condition VAL pneumonia	0
+COL Sample VAL 3x patients	1
+COL Address1 VAL 209 north main street	0
+COL MeasureCode VAL px-4	1
+COL ZipCode VAL x6x05	1
+COL HospitalName VAL jaxkson hospital & xlinix inx	1
+COL MeasureName VAL surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)	0
+COL Stateavg VAL al_pn-5c	0
+COL PhoneNumber VAL 334793870x	1
+COL ZipCode VAL 36106	0
+COL State VAL ak	0
+COL ProviderNumber VAL 10033	0
+COL PhoneNumber VAL 25x47x7xx0	1
+COL CountyName VAL autauga	0
+COL CountyName VAL monxgomery	1
+COL Score VAL 84%	0
+COL City VAL geoxgiana	1
+COL Score VAL 100%	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalOwner VAL xroprietary	1
+COL PhoneNumber VAL 3342xx2100	1
+COL HospitalName VAL georgiaxa hospital	1
+COL EmergencyService VAL no	0
+COL City VAL winfield	0
+COL HospitalOwner VAL governxent - federal	1
+COL ProviderNumber VAL 10009	0
+COL MeasureCode VAL pn-7	0
+COL Stateavg VAL ak_scip-vte-2	0
+COL Stateavg VAL al_scipxinfx2	1
+COL Condition VAL suxgical infection pxevention	1
+COL City VAL enterprxse	1
+COL PhoneNumber VAL 3348972257	0
+COL Sample VAL 619 paxienxs	1
+COL Condition VAL surgical infection prevention	0
+COL City VAL boxz	1
+COL EmergencyService VAL yex	1
+COL Condition VAL surgical xnfection prevention	1
+COL MeasureName VAL heart attack patients given smoking cessation advice/counseling	0
+COL CountyName VAL housxon	1
+COL Condition VAL surgical infection prevention	0
+COL Score VAL 92%	0
+COL PhoneNumber VAL 33x8972257	1
+COL HospitalOwner VAL volunxary non-profix - privaxe	1
+COL HospitalName VAL cullman regional medical center	0
+COL Sample VAL 41 patients	0
+COL Address3 VAL empty	0
+COL Condition VAL heart failure	0
+COL Condition VAL pnexmonia	1
+COL HospitalType VAL acute care hosxitals	1
+COL EmergencyService VAL yex	1
+COL ZipCode VAL 35903	0
+COL PhoneNumber VAL phone	1
+COL Stateavg VAL al_hx-2	1
+COL CountyName VAL coxington	1
+COL Address1 VAL 33700 highway 43	0
+COL City VAL birmixgham	1
+COL City VAL flxrence	1
+COL CountyName VAL crxnshaw	1
+COL ZipCode VAL 35233	0
+COL HospitalOwner VAL proprietary	0
+COL CountyName VAL madisox	1

@@ -1,0 +1,200 @@
+COL abv VAL 0.068%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.047%	1
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.04%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.051%	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.054000000000000006%	1
+COL abv VAL 0.045%	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.057%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL city VAL Houston TX	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.057999999999999996%	1
+COL ounces VAL 12.0 oz.	1
+COL city VAL Asheville NC	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL abv VAL 0.05%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 OZ.	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 OZ.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL abv VAL 0.052000000000000005%	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL 30	0
+COL brewery-name VAL Hale's Ales	0
+COL city VAL Stevensville	0
+COL style VAL American IPA	0
+COL beer-name VAL Balt Altbier	0
+COL city VAL Tampa	0
+COL city VAL Missoula	0
+COL abv VAL 0.06	0
+COL brewery-name VAL Straub Brewery	0
+COL brewery-name VAL Indeed Brewing Company	0
+COL abv VAL 0.052	0
+COL city VAL Shreveport	0
+COL index VAL 2020	0
+COL brewery_id VAL 122	0
+COL ibu VAL 65	0
+COL beer-name VAL Atwater's Lager	0
+COL brewery_id VAL 371	0
+COL beer-name VAL Nonstop Hef Hop	0
+COL abv VAL 0.051	0
+COL abv VAL 0.07	0
+COL city VAL Astoria	0
+COL abv VAL 0.051	0
+COL abv VAL 0.04	0
+COL state VAL CA	0
+COL brewery_id VAL 57	0
+COL state VAL CA	0
+COL state VAL CO	0
+COL city VAL Charlotte	0
+COL style VAL Cider	0
+COL abv VAL 0.057	0
+COL beer-name VAL Four Squared (2015)	0
+COL ibu VAL 95	0
+COL brewery-name VAL Sixpoint Craft Ales	0
+COL state VAL MO	0
+COL style VAL Fruit / Vegetable Beer	0
+COL id VAL 464	0
+COL style VAL American Brown Ale	0
+COL abv VAL 0.049	0
+COL brewery-name VAL Black Market Brewing Company	0
+COL ibu VAL 42	0
+COL brewery-name VAL Hilliard's Beer	0
+COL beer-name VAL Eugene Porter	0
+COL beer-name VAL Peck's Porter	0
+COL id VAL 2089	0
+COL index VAL 1125	0
+COL ibu VAL 85	0
+COL index VAL 2345	0
+COL style VAL American Pale Wheat Ale	0
+COL style VAL American IPA	0
+COL abv VAL 0.065	0
+COL state VAL IN	0
+COL id VAL 54	0
+COL index VAL 1584	0
+COL brewery-name VAL New Belgium Brewing Company	0
+COL city VAL Seattle	0
+COL brewery_id VAL 229	0
+COL brewery-name VAL New Belgium Brewing Company	0
+COL style VAL Hefeweizen	0
+COL brewery-name VAL 21st Amendment Brewery	0
+COL brewery_id VAL 141	0
+COL beer-name VAL Atlantic Amber Ale (2004)	0
+COL state VAL OR	0
+COL abv VAL 0.081	0
+COL brewery-name VAL Hopworks Urban Brewery	0
+COL beer-name VAL Hipster Ale (Two Roads Brewing)	0
+COL id VAL 1050	0
+COL ibu VAL 60	0
+COL city VAL Chicago	0
+COL id VAL 2099	0
+COL index VAL 1494	0
+COL index VAL 1546	0
+COL brewery_id VAL 499	0
+COL city VAL Duluth	0
+COL id VAL 1842	0
+COL style VAL Scottish Ale	0
+COL city VAL Midvale	0
+COL brewery-name VAL Boston Beer Company	0
+COL index VAL 534	0
+COL id VAL 2206	0
+COL state VAL MI	0
+COL index VAL 1569	0
+COL brewery_id VAL 437	0
+COL id VAL 2120	0
+COL brewery_id VAL 541	0
+COL id VAL 2580	0
+COL beer-name VAL Floppin' Crappie	0
+COL state VAL IN	0
+COL brewery-name VAL Black Acre Brewing Co.	0
+COL beer-name VAL Better Weather IPA	0
+COL state VAL OR	0
+COL brewery-name VAL Tröegs Brewing Company	0
+COL city VAL Austin	0
+COL brewery-name VAL Schlafly Brewing Company	0
+COL id VAL 627	0
+COL city VAL Mammoth Lakes	0
+COL brewery_id VAL 510	0
+COL id VAL 2183	0
+COL id VAL 2294	0
+COL state VAL WY	0
+COL brewery_id VAL 201	0

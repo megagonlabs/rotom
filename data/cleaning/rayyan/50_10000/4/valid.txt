@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""Gerard H Koppelman"",""Johan C de Jongste"",""Liset E M Elstgeest"",""Henri��tte A Smit"",""Ulrike Gehring"",""Annemien Haveman-Nies"",""Marjan Kerkhof"",""Marga B M Bekkers"",""Alet H Wijga"",""Salome Scholtens""}"	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jcreated_at VAL 5/1/12	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_title VAL Preval̻ncia de bruxismo e dist̼rbio do sono em deficientes visuais Prevalence of bruxism and sleep disorders in the visually impaired individuals	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 64-7	1
+COL article_title VAL Bruxismo em crian̤as Bruxism in children	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jvolumn VAL 4	0
+COL id VAL 710727	0
+COL id VAL 45797	0
+COL journal_issn VAL 0961-5423	0
+COL journal_issn VAL 0301-4215	0
+COL article_jvolumn VAL 13	0
+COL journal_title VAL CANCER	0
+COL journal_issn VAL 1750-497X	0
+COL article_jvolumn VAL 38	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 4	0
+COL journal_issn VAL 1476-4687	0
+COL article_title VAL Teaching medical student geriatrics competencies in 1 week: an efficient model to teach and document selected competencies using clinical and community resources	0
+COL journal_title VAL Psycho-oncology	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""Steven G Little"",""K Angeleque Akin-Little"",""Shari Melman""}"	0
+COL article_pagination VAL 	0
+COL article_title VAL Atomoxetine treatment of children and adolescents with ADHD: Clinical questions and answers. (German)	0
+"COL author_list VAL {""P. Azevedo"",""A. Vaz-Carneiro"",""J. Costa""}"	0
+COL article_jvolumn VAL 119	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Influence of two handwashing frequencies on reduction in colonizing flora with three handwashing products used by health care personnel.	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 565528	0

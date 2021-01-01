@@ -1,0 +1,150 @@
+COL ibu VAL N/A	1
+COL abv VAL 0.045%	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.047%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.04%	1
+COL abv VAL 0.045%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL abv VAL 0.051%	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.065%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.051%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.06%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL abv VAL 0.054000000000000006%	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.051%	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.057999999999999996%	1
+COL abv VAL 0.05%	1
+COL ounces VAL 16.0 oz.	1
+COL style VAL Light Lager	0
+COL abv VAL 0.051	0
+COL style VAL Fruit / Vegetable Beer	0
+COL abv VAL 0.046	0
+COL ibu VAL 85	0
+COL state VAL CO	0
+COL state VAL CO	0
+COL brewery-name VAL Uinta Brewing Company	0
+COL brewery_id VAL 201	0
+COL ibu VAL 65	0
+COL id VAL 2183	0
+COL id VAL 1132	0
+COL index VAL 665	0
+COL city VAL Portland	0
+COL abv VAL 0.059	0
+COL ibu VAL 60	0
+COL id VAL 2580	0
+COL index VAL 2343	0
+COL city VAL Chicago	0
+COL style VAL American Pale Wheat Ale	0
+COL beer-name VAL What the Butler Saw	0
+COL id VAL 2226	0
+COL city VAL Bloomington	0
+COL abv VAL 0.055	0
+COL city VAL Buena Vista	0
+COL style VAL Bière de Garde	0
+COL ibu VAL 40	0
+COL abv VAL 0.052	0
+COL abv VAL 0.065	0
+COL id VAL 767	0
+COL state VAL WY	0
+COL brewery_id VAL 122	0
+COL id VAL 2120	0
+COL style VAL American Double / Imperial IPA	0
+COL brewery-name VAL Orlison Brewing Company	0
+COL id VAL 2099	0
+COL style VAL American IPA	0
+COL id VAL 1525	0
+COL brewery_id VAL 510	0
+COL brewery-name VAL Hilliard's Beer	0
+COL index VAL 2345	0
+COL beer-name VAL Atlantic Amber Ale (2004)	0
+COL state VAL MA	0
+COL brewery-name VAL King Street Brewing Company	0
+COL brewery-name VAL Boston Beer Company	0
+COL beer-name VAL Better Weather IPA	0
+COL ibu VAL 77	0
+COL city VAL Stevensville	0
+COL beer-name VAL Eugene Porter	0
+COL city VAL Shreveport	0
+COL brewery_id VAL 143	0
+COL brewery_id VAL 57	0
+COL state VAL ND	0
+COL abv VAL 0.057	0
+COL brewery-name VAL Sockeye Brewing Company	0
+COL style VAL Cider	0
+COL id VAL 2089	0
+COL index VAL 767	0
+COL abv VAL 0.06	0
+COL brewery-name VAL Black Acre Brewing Co.	0
+COL abv VAL 0.065	0
+COL beer-name VAL Balt Altbier	0
+COL state VAL MO	0
+COL city VAL Saint Louis	0
+COL ibu VAL 30	0
+COL style VAL Fruit / Vegetable Beer	0
+COL abv VAL 0.04	0
+COL brewery-name VAL Straub Brewery	0
+COL brewery-name VAL Amnesia Brewing Company	0
+COL ibu VAL 95	0
+COL state VAL CO	0
+COL id VAL 1842	0
+COL brewery-name VAL Indeed Brewing Company	0
+COL brewery-name VAL Upslope Brewing Company	0
+COL city VAL Mammoth Lakes	0

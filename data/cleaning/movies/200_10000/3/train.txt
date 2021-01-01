@@ -1,0 +1,200 @@
+COL RatingCount VAL 3,812	1
+COL RatingValue VAL 5.0	1
+COL RatingValue VAL 9.0	1
+COL RatingCount VAL 228,550	1
+COL RatingCount VAL 2,867	1
+COL RatingCount VAL 3,920	1
+COL RatingCount VAL 8,909	1
+COL RatingCount VAL 1,465	1
+COL RatingCount VAL 75,030	1
+COL RatingCount VAL 12,957	1
+COL RatingCount VAL 11,976	1
+COL Year VAL 2000 2001 2002	1
+COL RatingCount VAL 270,224	1
+COL RatingCount VAL 64,086	1
+COL RatingCount VAL 28,612	1
+COL RatingCount VAL 1,116	1
+COL RatingCount VAL 4,417	1
+COL RatingCount VAL 21,591	1
+COL RatingCount VAL 68,784	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 10,650	1
+COL RatingCount VAL 1,106,451	1
+COL Release Date VAL Jan 1, 1967 Wide	1
+COL Release Date VAL Mar 11, 2005 Wide	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 107,620	1
+COL RatingCount VAL 68,554	1
+COL RatingCount VAL 53,126	1
+COL RatingCount VAL 5,398	1
+COL RatingCount VAL 135,629	1
+COL RatingCount VAL 1,957	1
+COL Creator VAL Theodore Dreiser,Patrick Kearney,Michael Wilson,Harry Brown	1
+COL RatingCount VAL 9,100	1
+COL RatingCount VAL 32,089	1
+COL RatingCount VAL 57,377	1
+COL RatingCount VAL 10,748	1
+COL RatingCount VAL 21,582	1
+COL RatingCount VAL 3,332	1
+COL RatingCount VAL 69,912	1
+COL RatingCount VAL 10,940	1
+COL Id VAL the-ghost-club	1
+COL RatingCount VAL 3,933	1
+COL RatingCount VAL 454,989	1
+COL Id VAL 1015000-night_and_day	1
+COL RatingCount VAL 125,580	1
+COL RatingCount VAL 19,375	1
+COL RatingCount VAL 2,562	1
+COL RatingCount VAL 21,789	1
+COL RatingCount VAL 2,243	1
+COL RatingCount VAL 65,591	1
+COL RatingCount VAL 89,683	1
+COL RatingCount VAL 1,150	1
+COL Director VAL Anthony D.P. Mann,Arthur Lubin	1
+COL RatingCount VAL 184,305	1
+COL RatingCount VAL 349,182	1
+COL RatingCount VAL 2,522	1
+COL RatingCount VAL 170,673	1
+COL RatingCount VAL 42,359	1
+COL RatingCount VAL 58,734	1
+COL RatingCount VAL 70,194	1
+COL RatingCount VAL 49,267	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 5.0	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 79,846	1
+COL RatingCount VAL 148,381	1
+COL RatingCount VAL 1,203	1
+COL RatingCount VAL 1,139	1
+COL RatingCount VAL 15,509	1
+COL Creator VAL Bert I. Gordon	1
+COL RatingCount VAL 540,284	1
+COL Release Date VAL Mar 7, 1997 Wide	1
+COL RatingCount VAL 10,651	1
+COL RatingCount VAL 86,093	1
+COL RatingCount VAL 4,809	1
+COL RatingCount VAL 17,805	1
+COL RatingCount VAL 1,470	1
+COL RatingCount VAL 3,186	1
+COL RatingCount VAL 1,859	1
+COL RatingCount VAL 13,034	1
+COL RatingCount VAL 18,116	1
+COL RatingCount VAL 35,169	1
+COL RatingCount VAL 8,038	1
+COL RatingCount VAL 99,005	1
+COL RatingCount VAL 179,279	1
+COL RatingCount VAL 24,156	1
+COL RatingCount VAL 19,609	1
+COL RatingCount VAL 4,255	1
+COL RatingValue VAL 8.6/10,8/10	1
+COL RatingCount VAL 191,242	1
+COL RatingCount VAL 23,448	1
+COL RatingCount VAL 166,534	1
+COL Description VAL In this eccentric slapstick comedy, Rowan Atkinson's conniving, spectacularly clumsy and ever ingenious television persona Mr. Bean makes his movie debut as a lazy art gallery employee who is sent to Los Angeles as an art scholar to give a speech welcoming the painting 'Whistler's Mother' back to American soil.	1
+COL Id VAL problem_child	1
+COL RatingCount VAL 1,733	1
+COL Duration VAL 	1
+COL RatingCount VAL 1,517	1
+COL RatingCount VAL 16,520	1
+COL RatingCount VAL 67,226	1
+COL RatingCount VAL 127,004	1
+COL Country VAL USA	0
+COL Filming Locations VAL Idaho, USA	0
+COL Filming Locations VAL Canada	0
+COL Creator VAL Marc Hyman	0
+COL Actors VAL Humphrey Bogart,Alexis Smith,Sydney Greenstreet	0
+COL Language VAL English	0
+COL Genre VAL Action,Drama	0
+COL Genre VAL Drama,Music,Romance	0
+COL Filming Locations VAL Briny Breezes, Florida, USA	0
+COL Cast VAL Shirley MacLaine,Nicolas Cage,Austin Pendleton,Edward Albert,James Rebhorn,Richard Griffiths,John Roselius,David Graf,Don Yesso,James Lally,Brant von Hoffman,Harry Lennix,Susan Blommaert,Dale Dye,James Handy	0
+COL Language VAL English	0
+COL Cast VAL Sarah Roemer,Jake Muxworthy,Mark Rolston,Travis Van Winkle,Ellen Hollman,Carolina Garcia,Cody Kasch,Lin Shaye,Joe Inscoe,Gabe Wood,Randall Sims,Andrea Powell,Pete Burris,Caroline Kent,Brantley Pollock	0
+COL Duration VAL 81 min	0
+COL ReviewCount VAL 27 user,23 critic	0
+COL Director VAL Ronny Yu	0
+COL Language VAL English,Spanish	0
+COL Director VAL Buz Alexander	0
+COL Release Date VAL 26 January 2001 (USA)	0
+COL Year VAL 2015	0
+COL Genre VAL Crime,Drama,Thriller	0
+COL RatingValue VAL 7.5	0
+COL Duration VAL 68 min	0
+COL Description VAL Jackson is back, and now he has a new partner, karate champion Sean, as they must face a deadly terrorist known as 'The Cobra', who has infected Sean with a virus. Sean and Jackson have no ...	0
+COL RatingValue VAL 8.2	0
+COL Creator VAL Lillian Hellman,Sidney Kingsley	0
+COL Cast VAL Jacqueline Kennedy,Robert F. Kennedy,David Amram,Jeff Greenfield,Daven Falconer,Jefferson Morley,Barbara Riddle-Dvorak,Erica Lee Hammond,Dermot McEvoy,Sharon Woolums,Abigail Hastings,Maggie Berkvist,Siobhan Doyle-McKinley,Peter Edelman,Anthony Gronowicz	0
+COL Name VAL Another	0
+COL Cast VAL Rick Moranis,Ed O'Neill,Shawna Waldron,Devon Sawa,Todd Bosley,Michael Zwiener,Danny Pritchett,Troy Simmons,Sam Horrigan,Joey Simmrin,Marcus Toji,Christopher Walberg,Matthew McCurley,Brian Haley,Jon Paul Steuer	0
+COL Id VAL tt0019729	0
+COL Duration VAL 82 min	0
+COL ReviewCount VAL 19 user,3 critic	0
+COL Description VAL A drunken, hard-nosed U.S. Marshal and a Texas Ranger help a stubborn teenager track down her father's murderer in Indian territory.	0
+COL Name VAL Li'l Abner	0
+COL Creator VAL 	0
+COL Cast VAL Kevin Spacey,Camilla Belle,Heather Graham,Johnny Knoxville,Anna Anissimova,John Stamos,Red West,Michael Rosenbaum,Danny Comden,Jack McGee,Craig Robinson,Virginia Madsen,Marc Macaulay,Morgan Saylor,Karen Kaia Livers	0
+COL Cast VAL Benjean,Art Vasil,Allen Fiuzat,Patsy Garrett,Cynthia Smith,Ed Nelson,Catherine McClenry,Anassis Vassilakidis,Dean Goss,Tony Alatis,Kostas Kleftogiannis,Michalis Lambrinos,Peter Bowles,Bridget Armstrong,Valerios Megaloikonomov	0
+COL Cast VAL Nicole Kidman,Cameron Bright,Danny Huston,Lauren Bacall,Alison Elliott,Arliss Howard,Michael Desautels,Anne Heche,Peter Stormare,Ted Levine,Cara Seymour,Joe M. Chalmers,Novella Nelson,Zoe Caldwell,Charles Goff	0
+COL Actors VAL Jason Statham,Amy Smart,Clifton Collins Jr.	0
+COL Creator VAL Don Holley,Tori Tellem	0
+COL Creator VAL John Milius,Fred Rexer	0
+COL RatingValue VAL 6.4	0
+COL Country VAL USA	0
+COL Language VAL English	0
+COL Id VAL tt0103010	0
+COL Id VAL tt0099520	0
+COL Description VAL Three company workers who hate their jobs decide to rebel against their greedy boss.	0
+COL Id VAL tt0107978	0
+COL Name VAL The Naked Gun 2½: The Smell of Fear	0
+COL Filming Locations VAL Stage 19, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA	0
+COL Actors VAL Thomas Jane,Saffron Burrows,Samuel L. Jackson	0
+COL Year VAL 1951	0
+COL Cast VAL Luke Wilson,Will Ferrell,Vince Vaughn,Jeremy Piven,Ellen Pompeo,Juliette Lewis,Leah Remini,Perrey Reeves,Craig Kilborn,Elisha Cuthbert,Seann William Scott,Matt Walsh,Artie Lange,Patrick Fischler,Sara Tanaka	0
+COL Genre VAL Documentary,Crime	0
+COL Language VAL English,Japanese	0
+COL Year VAL 2000	0
+COL Cast VAL John Candy,Eugene Levy,Robert Loggia,Kenneth McMillan,Meg Ryan,Brion James,Jonathan Banks,Don Stroud,Larry Hankin,Steve Railsback,Robert Burgos,Tony Burton,Robert Gray,Larry Flash Jenkins,Stacy Keach Sr.	0
+COL Actors VAL Bud Abbott,Lou Costello,Marjorie Main	0
+COL Cast VAL Ivan Stebunov,Ingrid Olerinskaya,Vladimir Yaglych,Nataliya Nozdrina,Mikhail Galustyan,Danny Trejo,Oleg Taktarov,Vitaliy Khaev,Irina Byakova,Godfrey Danchima,Guillermo Díaz,Kym Whitley,Presley Okobia,Christopher Robin Miller,Tony Adler	0
+COL Director VAL Sam Pillsbury	0
+COL Duration VAL 125 min	0
+COL Year VAL 2015	0
+COL Year VAL 2013	0
+COL Genre VAL Action,Crime,Drama	0
+COL Genre VAL Short,Comedy	0
+COL Creator VAL 	0
+COL Cast VAL Yul Brynner,Maria Schell,Claire Bloom,Lee J. Cobb,Albert Salmi,William Shatner,Richard Basehart,Judith Evelyn,Edgar Stehli,Harry Townes,Miko Oscard,David Opatoshu,Simon Oakland,Frank DeKova,Jay Adler	0
+COL Duration VAL 90 min	0
+COL Actors VAL Jack Scalia,R. Lee Ermey,Ray Wise	0
+COL Country VAL USA	0
+COL RatingValue VAL 8.1	0
+COL Id VAL tt4815862	0
+COL Id VAL tt0061715	0
+COL Genre VAL Action,Sci-Fi	0
+COL Year VAL 2014	0
+COL Id VAL tt0100507	0
+COL Actors VAL Tanner Cohen,Wendy Robie,Judy McLane	0
+COL Duration VAL 95 min	0
+COL Director VAL Danny DeVito	0
+COL Cast VAL Sean Astin,Tim Curry,Russell Peters,Cherami Leigh,Elza Irdalynna,Amelia Henderson,Sonny Franks,Christina Orow,Kennie Dowle,Valentine Cawley,Martin Dysart,Dilly Shakir,Ali Astin,Casey Powers,Chuck Powers	0
+COL Creator VAL Chris Morgan,Gary Scott Thompson	0
+COL Year VAL 2005	0
+COL Filming Locations VAL New York, USA	0
+COL Id VAL tt0040402	0
+COL Cast VAL Thomas McHugh,Fred Newman,Chris Phillips,Constance Shulman,Frank Welker,Doug Preis,Guy Hadley,Alice Playten,Eddie Korbich,David O'Brien,Doris Belack,Becca Lish,Bob Bottone,Greg Lee,Bruce Bayley Johnson	0
+COL RatingValue VAL 6.8	0
+COL Filming Locations VAL Hungary	0
+COL Creator VAL William Butler,Aaron Strongoni	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Year VAL 1939	0
+COL Director VAL Steven Knight	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL RatingValue VAL 5.9	0
+COL Creator VAL Robert Rodriguez	0
+COL Name VAL Adventure Scouts	0
+COL Creator VAL Craig Kovach	0
+COL Id VAL tt1001526	0
+COL Duration VAL 87 min	0
+COL Actors VAL Amy Adams,Christoph Waltz,Danny Huston	0
+COL Description VAL A family adopts a runt of a dachshund from a shelter. Only time will tell if little 'Shelly' and her new family are up for the challenges of entering the nation's greatest wiener dog race, ...	0
+COL Name VAL The Grifters	0

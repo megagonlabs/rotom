@@ -1,0 +1,150 @@
+COL Release Date VAL Sep 16, 2011 Limited	1
+COL RatingCount VAL 45,988	1
+COL RatingCount VAL 6,471	1
+COL RatingCount VAL 13,772	1
+COL RatingCount VAL 14,490	1
+COL RatingCount VAL 92,153	1
+COL Description VAL Your friendly neighborhood web-slinger is back, only this time his sunny outlook has become partially overcast in the third chapter of director Sam Raimi's Spider-Man saga. Tobey Maguire, Kirsten Dunst, and James Franco return to reprise their roles from the previous two installments, with Thomas Haden Church, Topher Grace, and Bryce Dallas Howard making their first appearances in the series as Flint Marko (aka Sandman), Eddie Brock (aka Venom), and Gwen Stacy, respectively. Peter Parker,(Maguire) has finally leaned to walk the middle ground between being the superhero that his city needs and the man that Mary Jane (Dunst) loves. All is well in New York City until one night, as Peter and M.J. sit gazing at the stars, a falling comet streams across the sky and crashes into the ground close by. But this isn't any ordinary shooting star, and upon impact the mysterious space rock is split open to reveal a shape-shifting symbiote with the power to overtake anything that it comes into contact with. Later, as Harry Osborn (James Franco) acquires his late father's flying board, engineers a powerful new Goblin outfit, and takes to the sky to avenge dad's death, the mysterious space sludge infects both Peter's Spider-Man suit and ambitious street photographer Eddie Brock (Grace). Peter's strange new suit gives him a newfound sense of power as it gradually overpowers his personality, and he discovers that escaped convict Flint Marko was in fact the man responsible for the death of Uncle Ben (Cliff Robertson). Unfortunately for Peter, Marko has recently acquired the power to morph at will and quickly completes his transformation into the dreaded Sandman. As the Sandman gives in to his darkest criminal instincts and the slithering space symbiote transforms Eddie Brock into the nightmarish fanged villain known as Venom, the citizens of New York City must once again call on Spider-Man to fend off destructive forces that are far too powerful for the likes of mortal man. ~ Jason Buchanan, Rovi	1
+COL RatingCount VAL 10,941	1
+COL RatingCount VAL 31,066	1
+COL RatingCount VAL 199,450	1
+COL RatingCount VAL 19,120	1
+COL RatingCount VAL 10,585	1
+COL Duration VAL 	1
+COL RatingCount VAL 1,452	1
+COL RatingCount VAL 752,420	1
+COL RatingValue VAL 6.8/10,7.1/10	1
+COL RatingCount VAL 5,992	1
+COL RatingCount VAL 57,984	1
+COL Creator VAL Leila Conners Petersen,Nadia Conners,Leonardo DiCaprio	1
+COL RatingCount VAL 1,108	1
+COL RatingCount VAL 100,280	1
+COL Duration VAL 	1
+COL RatingCount VAL 1,606	1
+COL RatingCount VAL 8,034	1
+COL RatingCount VAL 20,892	1
+COL RatingValue VAL 5.2/10,5/10	1
+COL RatingCount VAL 3,014	1
+COL RatingCount VAL 4,107	1
+COL RatingCount VAL 23,600	1
+COL RatingCount VAL 1,216	1
+COL RatingCount VAL 349,489	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 20,211	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 95,376	1
+COL RatingCount VAL 117,647	1
+COL RatingCount VAL 27,033	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 20,715	1
+COL RatingCount VAL 137,156	1
+COL RatingCount VAL 92,257	1
+COL Description VAL This film takes a provocative look into the professional and personal passions of Billy Chapel, a legendary baseball pitcher nearing the end of his career who is forced to re-examine his priorities when confronted with unexpected circumstances: Not only is he about to be traded after 20 years with the same team, but the woman he has been with for several years, Jane Aubrey, is leaving him. In the midst of pitching a perfect game against the New York Yankees, Chapel, who has been the heart and,soul of the Detroit Tigers, thinks back upon his long career and his tempestuous relationship with Jane. Aware that the stakes in his life have increased dramatically, the veteran ballplayer knows that he has some serious decisions to make by the bottom of the ninth inning.	1
+COL RatingCount VAL 6,298	1
+COL RatingValue VAL 6.0	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 25,468	1
+COL RatingCount VAL 103,115	1
+COL RatingCount VAL 35,351	1
+COL Description VAL Caroline and Lloyd (Judy Davis and Kevin Spacey) are a married couple constantly at each other's throats, masters at crafting acid-tongued barbs at the other's expense. Indeed, they are so obsessed with belittling each other that they never stop -- not even at gunpoint. Such is the premise of the acerbic comedy The Ref, which shows what happens when this quarrelsome duo is taken hostage. The gunman is Gus (Denis Leary), a thief on the run from the police, who kidnaps the couple as an insurance,policy, planning to use their home as a hideout. But their incessant bickering proves more than Gus bargained for, forcing him -- for the sake of his own sanity -- into the unenviable role of peacemaker. To make things even worse for Gus, he discovers that he has taken the couple hostage the night of their big Christmas party, and the guests are already on the way. Not wanting to leave Lloyd and Caroline unattended, Gus opts to attend the party, pretending to be the couple's marriage counselor. This naturally leads to a series of comic confusions, as the hostage crisis and marital tensions head towards their inevitable conclusion. ~ Judd Blaise, Rovi	1
+COL RatingCount VAL 62,869	1
+COL RatingCount VAL 111,727	1
+COL RatingCount VAL 103,371	1
+COL RatingCount VAL 20,677	1
+COL Description VAL Inspired by the beloved segment of the Walt Disney classic Fantasia, The Sorcerer's Apprentice moves the setting of the story to modern-day Manhattan, where decidedly average teen Dave Stutler (Jay Baruchel) hones his magical powers under the tutelage of master sorcerer Balthazar Blake (Nicolas Cage). Malevolent wizard Maxim Horvath (Alfred Molina) is determined to claim New York City as his own. And Horvath isn't alone in his diabolical endeavor, because by joining forces with the sinister,sorcerer, pop illusionist Drake Stone (Toby Kebbell) aspires to gain powers beyond his wildest imagination. Realizing that he can't take on Horvath and Stone alone, Blake recruits Stutler as his reluctant assistant and begins training him the battle that will determine the fate of the Big Apple. Teresa Palmer and Monica Bellucci co-star. ~ Jason Buchanan, Rovi	1
+COL Year VAL 2014 2015 2016	1
+COL RatingCount VAL 3,711	1
+COL RatingValue VAL 5.0	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 1,123,075	1
+COL RatingCount VAL 2,310	1
+COL RatingCount VAL 9,921	1
+COL RatingCount VAL 6,959	1
+COL Id VAL daybreakers	1
+COL RatingCount VAL 93,447	1
+COL RatingCount VAL 6,559	1
+COL RatingCount VAL 5,641	1
+COL Year VAL 2000 2001 2002	1
+COL RatingCount VAL 1,301	1
+COL RatingValue VAL 4/10,4.2/10	1
+COL RatingCount VAL 7,857	1
+COL RatingCount VAL 4,142	1
+COL Year VAL 2001 2002 2003	1
+COL RatingValue VAL 7.4/10	1
+COL RatingCount VAL 3,000	1
+COL RatingCount VAL 12,197	1
+COL ReviewCount VAL 252 user,146 critic	0
+COL Release Date VAL November 1990 (USA)	0
+COL Genre VAL Comedy	0
+COL Description VAL An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.	0
+COL Id VAL tt0053363	0
+COL Cast VAL Joey Lawrence,Billy Joel,Cheech Marin,Richard Mulligan,Roscoe Lee Browne,Sheryl Lee Ralph,Dom DeLuise,Taurean Blacque,Carl Weintraub,Robert Loggia,Natalie Gregory,William Glover,Bette Midler,Deborah Gates,Charles Bartlett	0
+COL Country VAL USA	0
+COL Director VAL Mervyn LeRoy	0
+COL Description VAL A torch singer becomes a mail-order bride for a farmer.	0
+COL RatingValue VAL 7.3	0
+COL Id VAL tt0107007	0
+COL Genre VAL Horror,Romance	0
+COL Id VAL tt0045680	0
+COL Description VAL Two individuals, Jeff and Kelly, claim to be in love with the 80's pop singer Tiffany.	0
+COL Name VAL Tales of the Grim Sleeper	0
+COL Name VAL Black Ribbon	0
+COL Year VAL 2005	0
+COL Director VAL David O. Russell	0
+COL Release Date VAL 22 September 2015 (USA)	0
+COL Director VAL Lou Adler,Tommy Chong	0
+COL Director VAL Steven Spielberg	0
+COL Genre VAL Action,Comedy,Crime	0
+COL Description VAL Add a Plot	0
+COL Language VAL English	0
+COL Creator VAL Robert E. Howard,Roy Thomas	0
+COL Filming Locations VAL 	0
+COL Id VAL tt0053272	0
+COL RatingValue VAL 6.1	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Director VAL Cecil B. DeMille	0
+COL Genre VAL Drama	0
+COL Cast VAL John Heard,Daniel Stern,Christopher Curry,Kim Greist,Laure Mattos,Brenda Currin,Justin Hall,Michael O'Hare,Cordis Heard,Vic Polizos,Eddie Jones,Sam McMurray,Frank Adu,Ruth Maleczech,J.C. Quinn	0
+COL Release Date VAL 12 December 1951 (USA)	0
+COL Actors VAL Reese Witherspoon,Sally Field,Bob Newhart	0
+COL Release Date VAL 24 December 1996 (USA)	0
+COL Release Date VAL 8 October 1993 (USA)	0
+COL Id VAL tt0481536	0
+COL Name VAL The Mudge Boy	0
+COL Id VAL tt0139462	0
+COL Creator VAL Aaron Sorkin,George Crile	0
+COL Id VAL tt0180734	0
+COL Director VAL John Hillcoat	0
+COL Name VAL Pixels	0
+COL Duration VAL 79 min	0
+COL RatingValue VAL 7.6	0
+COL Cast VAL Clifton Collins Jr.,Jessica Cook,Tony de Maeyer,Lance Henriksen,Florentine Lahme,David Masterson,Matt O'Leary,Cecilia Pillado,Kathleen Renish,Daniele Rizzo,Eve Slatner	0
+COL Language VAL English	0
+COL Id VAL tt0829482	0
+COL ReviewCount VAL 80 user,93 critic	0
+COL Creator VAL Bobby Roe,Zack Andrews	0
+COL Release Date VAL 15 June 2007 (USA)	0
+COL Creator VAL Sergey Kaluzhanov,Gor Kirakosian	0
+COL Country VAL USA	0
+COL Name VAL To Gillian on Her 37th Birthday	0
+COL Language VAL English	0
+COL Name VAL Observe and Report	0
+COL Language VAL English	0
+COL Cast VAL Jude Law,Nicole Kidman,Renée Zellweger,Eileen Atkins,Brendan Gleeson,Philip Seymour Hoffman,Natalie Portman,Giovanni Ribisi,Donald Sutherland,Ray Winstone,Kathy Baker,James Gammon,Charlie Hunnam,Jack White,Ethan Suplee	0
+COL Language VAL English	0
+COL Year VAL 1996	0
+COL Id VAL tt0141098	0
+COL Country VAL USA	0
+COL Description VAL A young man learns that he has to find a hidden Earth ship before an enemy alien species does in order to secure the survival of humanity.	0
+COL Cast VAL Vince Vaughn,Chris Pratt,Cobie Smulders,Andrzej Blumenfeld,Simon Delaney,Bobby Moynihan,Dave Patten,Adam Chanler-Berat,Britt Robertson,Jack Reynor,Amos VanderPoel,Matthew Daddario,Jessica Williams,Leslie Ann Glossner,Derrick Arthur	0
+COL Filming Locations VAL 409 N Shaffer Street, Orange, California, USA	0
+COL RatingValue VAL 3.1	0
+COL RatingCount VAL 26	0
+COL Cast VAL Jim Roof,Shannon Malone,Larissa Lynch,Liz Burghdorf,Andrew Hopper,Jade Bryce,Katie Costick,Kelly Cunningham,Lauren Lakis,Michael O'Grady Moriarty,Max Potesky	0
+COL RatingValue VAL 5.8	0
+COL Name VAL Little City	0
+COL Duration VAL 85 min	0
+COL Creator VAL Steven Paul,Gregory Poppen	0
+COL Filming Locations VAL 608 Vallombrosa Dr, Pasadena, California, USA	0
+COL Director VAL D.J. Caruso	0
+COL ReviewCount VAL 14 user,12 critic	0

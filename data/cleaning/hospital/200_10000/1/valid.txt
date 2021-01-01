@@ -1,0 +1,200 @@
+COL Stateavg VAL alxpn-7	1
+COL CountyName VAL cxllman	1
+COL MeasureName VAL measure_name	1
+COL ZipCode VAL 3563x	1
+COL Stateavg VAL al_hx-2	1
+COL Address1 VAL 33700 hxghway 43	1
+COL HospitalOwner VAL voluntaryxnon-profitx-xchurch	1
+COL Stateavg VAL al_pn-5x	1
+COL HospitalName VAL georgiaxa hospital	1
+COL HospitalType VAL acute care hosxitals	1
+COL PhoneNumber VAL 334793870x	1
+COL PhoneNumber VAL xx46x66221	1
+COL HospitalName VAL univ ox south alabama medical center	1
+COL MeasureCode VAL px-4	1
+COL PhoneNumber VAL 2058x8x122	1
+COL Sample VAL 618 xatients	1
+COL Stateavg VAL al_amix8a	1
+COL HospitalType VAL acuxe care hospixals	1
+COL HospitalOwner VAL government - hospital xistrict or authority	1
+COL MeasureName VAL heart attack patxents gxven aspxrxn at arrxval	1
+COL MeasureName VAL pxeumoxia patiexts assessed axd givex ixfluexza vaccixatiox	1
+COL Score VAL xx%	1
+COL Stateavg VAL al_axi-1	1
+COL PhoneNumber VAL 20593xx011	1
+COL Sample VAL 29 xatients	1
+COL State VAL xl	1
+COL ProviderNumber VAL 1xx15	1
+COL Condition VAL heart attaxk	1
+COL MeasureName VAL pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival	1
+COL CountyName VAL montgomexy	1
+COL ProviderNumber VAL x0005	1
+COL Score VAL 1xx%	1
+COL HospitalName VAL xniv of soxth alabama medical center	1
+COL ZipCode VAL 3x640	1
+COL Address1 VAL 515 miranda sx	1
+COL Address1 VAL 124 s mxmorial dr	1
+COL MeasureName VAL hexrt attxck pxtients given aspirin xt arrivxl	1
+COL Sample VAL 62 patientx	1
+COL Condition VAL pneumonxa	1
+COL CountyName VAL jexxerson	1
+COL Condition VAL hearx axxack	1
+COL PhoneNumber VAL 334x836541	1
+COL CountyName VAL madisox	1
+COL Score VAL x4%	1
+COL Stateavg VAL state_average	1
+COL MeasureCode VAL xf-1	1
+COL HospitalType VAL acuxe care hospixals	1
+COL Sample VAL 4 xatients	1
+COL MeasureCode VAL hfx1	1
+COL HospitalName VAL rivxrvixw rxgional mxdical cxntxr	1
+COL MeasureCode VAL scipxinfx1	1
+COL HospitalName VAL cullmxn regionxl medicxl center	1
+COL City VAL city	1
+COL State VAL xl	1
+COL EmergencyService VAL xes	1
+COL ProviderNumber VAL 1xx45	1
+COL State VAL xl	1
+COL City VAL exba	1
+COL MeasureCode VAL pnx5c	1
+COL City VAL wxdowxx	1
+COL Condition VAL surgxcal infectxon preventxon	1
+COL ZipCode VAL 3563x	1
+COL ZipCode VAL 3642x	1
+COL Address1 VAL 702xnxmainxst	1
+COL HospitalName VAL medxcal center enterprxse	1
+COL Stateavg VAL al_scipxvtex2	1
+COL City VAL axxistox	1
+COL HospitalName VAL jaxkson hospital & xlinix inx	1
+COL MeasureCode VAL amix1	1
+COL State VAL xl	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL City VAL winfielx	1
+COL MeasureCode VAL px-5c	1
+COL Stateavg VAL xl_xmi-2	1
+COL Condition VAL surgical ixfectiox prevextiox	1
+COL Condition VAL xneumonia	1
+COL Sample VAL 172 patxents	1
+COL CountyName VAL fayexxe	1
+COL EmergencyService VAL yxs	1
+COL Address1 VAL 1256 military street sxuth	1
+COL Condition VAL heaxt attack	1
+COL Sample VAL 121 patiexts	1
+COL Score VAL 9x%	1
+COL HospitalType VAL acuxe care hospixals	1
+COL State VAL ax	1
+COL MeasureCode VAL sxip-vte-1	1
+COL ZipCode VAL 3x10x	1
+COL State VAL xl	1
+COL ZipCode VAL x52xx	1
+COL CountyName VAL chaxbers	1
+COL EmergencyService VAL yex	1
+COL ProviderNumber VAL 1xx39	1
+COL Condition VAL suxgical infection pxevention	1
+COL State VAL xl	1
+COL City VAL ozarx	1
+COL CountyName VAL xefferson	1
+COL HospitalOwner VAL pxopxietaxy	1
+COL HospitalOwner VAL owner	1
+COL MeasureCode VAL amix1	1
+COL PhoneNumber VAL 3346366221	0
+COL Condition VAL pneumonia	0
+COL ProviderNumber VAL 10045	0
+COL Score VAL empty	0
+COL City VAL birmingham	0
+COL Score VAL 87%	0
+COL Address2 VAL empty	0
+COL Stateavg VAL al_scip-card-2	0
+COL HospitalName VAL fayette medical center	0
+COL MeasureCode VAL pn-3b	0
+COL index VAL 797	0
+COL Address3 VAL empty	0
+COL Address3 VAL empty	0
+COL ProviderNumber VAL 10022	0
+COL State VAL al	0
+COL CountyName VAL morgan	0
+COL CountyName VAL lee	0
+COL Address3 VAL empty	0
+COL PhoneNumber VAL 2059325966	0
+COL ZipCode VAL 35233	0
+COL HospitalType VAL acute care hospitals	0
+COL Score VAL 99%	0
+COL CountyName VAL marion	0
+COL Address2 VAL empty	0
+COL index VAL 166	0
+COL City VAL andalusia	0
+COL Address2 VAL empty	0
+COL ProviderNumber VAL 10021	0
+COL CountyName VAL madison	0
+COL Stateavg VAL al_cac-3	0
+COL Score VAL 100%	0
+COL City VAL fayette	0
+COL Address2 VAL empty	0
+COL Address1 VAL 1000 first street north	0
+COL Score VAL 100%	0
+COL index VAL 914	0
+COL HospitalType VAL acute care hospitals	0
+COL Address1 VAL 126 hospital ave	0
+COL Score VAL 95%	0
+COL ZipCode VAL 35058	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 36305	0
+COL Sample VAL 61 patients	0
+COL Address1 VAL 1300 south montgomery avenue	0
+COL Condition VAL heart attack	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL State VAL al	0
+COL HospitalType VAL acute care hospitals	0
+COL Score VAL 100%	0
+COL City VAL enterprise	0
+COL Stateavg VAL ak_scip-inf-3	0
+COL index VAL 722	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL index VAL 906	0
+COL City VAL andalusia	0
+COL ProviderNumber VAL 10021	0
+COL index VAL 202	0
+COL Stateavg VAL al_ami-2	0
+COL State VAL al	0
+COL Condition VAL heart attack	0
+COL MeasureName VAL all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery	0
+COL Score VAL 91%	0
+COL Stateavg VAL al_hf-2	0
+COL index VAL 407	0
+COL ZipCode VAL 35968	0
+COL HospitalName VAL baptist medical center south	0
+COL CountyName VAL anchorage	0
+COL City VAL ozark	0
+COL HospitalType VAL acute care hospitals	0
+COL City VAL fort payne	0
+COL Stateavg VAL al_pn-3b	0
+COL ProviderNumber VAL 10047	0
+COL Sample VAL 81 patients	0
+COL Address1 VAL 50 medical park east drive	0
+COL Score VAL 96%	0
+COL ZipCode VAL 35901	0
+COL index VAL 159	0
+COL Address2 VAL empty	0
+COL HospitalName VAL hartselle medical center	0
+COL MeasureName VAL heart attack patients given smoking cessation advice/counseling	0
+COL CountyName VAL dale	0
+COL HospitalName VAL fayette medical center	0
+COL MeasureCode VAL ami-1	0
+COL HospitalName VAL northwest medical center	0
+COL ProviderNumber VAL 10045	0
+COL Address2 VAL empty	0
+COL ZipCode VAL 36467	0
+COL HospitalOwner VAL government - state	0
+COL CountyName VAL clarke	0
+COL Sample VAL 34 patients	0
+COL EmergencyService VAL yes	0
+COL Address2 VAL empty	0
+COL index VAL 270	0
+COL Address1 VAL 301 east 18th st	0
+COL HospitalName VAL northwest medical center	0
+COL Address3 VAL empty	0
+COL Address1 VAL 1000 first street north	0
+COL Address2 VAL empty	0
+COL EmergencyService VAL yes	0

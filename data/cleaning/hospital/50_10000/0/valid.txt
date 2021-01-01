@@ -1,0 +1,50 @@
+COL Condition VAL surgical ixfectiox prevextiox	1
+COL ZipCode VAL x590x	1
+COL HospitalName VAL andaluxia regional hoxpital	1
+COL Stateavg VAL xl_xmi-2	1
+COL Score VAL x5%	1
+COL PhoneNumber VAL 33x2938000	1
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL HospitalOwner VAL goverxmext - hospital district or authority	1
+COL City VAL birmingxam	1
+COL City VAL bxrmxngham	1
+COL Score VAL x7%	1
+COL ZipCode VAL 3595x	1
+COL EmergencyService VAL xo	1
+COL Sample VAL 62 patientx	1
+COL EmergencyService VAL yxs	1
+COL HospitalName VAL xivexview xegional medical centex	1
+COL Condition VAL xeart failure	1
+COL HospitalType VAL acute care hospitaxs	1
+COL EmergencyService VAL xes	1
+COL CountyName VAL xe kalb	1
+COL ProviderNumber VAL x00xx	1
+COL Score VAL xx%	1
+COL HospitalType VAL acutx carx hospitals	1
+COL Condition VAL hxart failurx	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL Sample VAL 292 patients	0
+COL EmergencyService VAL yes	0
+COL MeasureCode VAL scip-inf-4	0
+COL Address1 VAL 702 n main st	0
+COL Score VAL 98%	0
+COL Address1 VAL 8000 alabama highway 69	0
+COL index VAL 869	0
+COL Condition VAL pneumonia	0
+COL City VAL luverne	0
+COL PhoneNumber VAL 2563864556	0
+COL ZipCode VAL 36106	0
+COL Score VAL empty	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Sample VAL 527 patients	0
+COL HospitalOwner VAL proprietary	0
+COL Stateavg VAL al_hf-1	0
+COL CountyName VAL calhoun	0
+COL HospitalOwner VAL voluntary non-profit - church	0
+COL HospitalName VAL univ of south alabama medical center	0
+COL MeasureCode VAL hf-2	0
+COL ProviderNumber VAL 10086	0
+COL Condition VAL surgical infection prevention	0
+COL ZipCode VAL 35960	0
+COL Score VAL 88%	0
+COL MeasureCode VAL ami-5	0

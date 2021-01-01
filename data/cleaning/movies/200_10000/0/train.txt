@@ -1,0 +1,200 @@
+COL Description VAL Ten years later, writer and director John Singleton returns to the South Central Los Angeles neighborhoods of his debut film Boyz 'N the Hood (1991). Tyrese Gibson stars as Jody, a jobless 20-year-old African-American man who has fathered two children by two different women, Yvette (Taraji P. Henson) and Peanut (Tamara LaSeon Bass), although he still lives with his 36-year-old mother Juanita (Adrienne-Joi Johnson). As Jody grapples with the increasing pressures of adult responsibility, he also,contends with his troubled best friend Sweetpea (Omar Gooding) and new adversary Rodney (Snoop Doggy Dogg). Then there's his mother's live-in boyfriend Marvin (Ving Rhames), a reformed gangsta who agrees with Juanita that her son should grow up, move out, and move on. ~ Karl Williams, Rovi	1
+COL RatingCount VAL 159,781	1
+COL RatingCount VAL 223,970	1
+COL RatingCount VAL 51,196	1
+COL RatingCount VAL 3,971	1
+COL RatingCount VAL 1,145	1
+COL RatingCount VAL 100,538	1
+COL RatingCount VAL 6,004	1
+COL RatingValue VAL 7.0	1
+COL Id VAL 1009427-heaven_can_wait	1
+COL Year VAL 1979 1980 1981	1
+COL Creator VAL Charles Leavitt	1
+COL RatingValue VAL 6.0	1
+COL Duration VAL 	1
+COL RatingCount VAL 37,264	1
+COL Genre VAL Comedy	1
+COL RatingCount VAL 427,441	1
+COL RatingCount VAL 2,070	1
+COL RatingCount VAL 1,717	1
+COL RatingCount VAL 277,367	1
+COL RatingCount VAL 260,118	1
+COL RatingCount VAL 88,629	1
+COL RatingCount VAL 213,907	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 43,433	1
+COL Director VAL Simon Wells,Gore Verbinski	1
+COL RatingCount VAL 4,505	1
+COL RatingCount VAL 222,561	1
+COL RatingCount VAL 34,933	1
+COL RatingCount VAL 2,918	1
+COL RatingCount VAL 16,830	1
+COL Duration VAL 	1
+COL RatingCount VAL 15,736	1
+COL RatingCount VAL 28,187	1
+COL Director VAL Darren Bousman,Barry Flatman,Beverley Mitchell,Dina Meyer,Donnie Wahlberg,Emmanuelle Vaugier,Erik Knudsen,Franky G,Glenn Plummer,Shawnee Smith,Darren Lynn Bousman,Tim Burd,Tobin Bell	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 15,495	1
+COL RatingCount VAL 87,390	1
+COL Description VAL In this sentimental musical drama, Bing Crosby is in jail on a trumped-up charge. Crosby meets a condemned prisoner and promises the doomed man to look after his little girl. The girl's grandfather is also part of the 'deal,' and soon the footloose Crosby finds himself overwhelmed by his responsibilities.	1
+COL RatingCount VAL 62,495	1
+COL Duration VAL 1 hr. 39 min.	1
+COL RatingValue VAL 4.0	1
+COL RatingCount VAL 1,579	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 137,163	1
+COL RatingCount VAL 313,378	1
+COL RatingCount VAL 10,461	1
+COL Director VAL Mike Mitchell,Mike Mitchell (VI)	1
+COL Name VAL The Fault In Our Stars	1
+COL RatingCount VAL 21,294	1
+COL Release Date VAL Jan 10, 2014 Limited	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 126,092	1
+COL RatingCount VAL 18,211	1
+COL RatingCount VAL 20,280	1
+COL Genre VAL Animation,Romance	1
+COL RatingCount VAL 4,092	1
+COL RatingCount VAL 2,827	1
+COL RatingCount VAL 3,482	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 18,972	1
+COL RatingCount VAL 2,850	1
+COL RatingCount VAL 46,996	1
+COL RatingCount VAL 1,367	1
+COL RatingCount VAL 24,510	1
+COL RatingCount VAL 2,942	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 2,057	1
+COL RatingCount VAL 3,488	1
+COL RatingCount VAL 9,806	1
+COL Duration VAL 	1
+COL Director VAL Kris Pearn,Cody Cameron	1
+COL RatingCount VAL 48,879	1
+COL RatingCount VAL 1,556	1
+COL RatingCount VAL 3,109	1
+COL RatingCount VAL 97,539	1
+COL RatingCount VAL 38,648	1
+COL RatingCount VAL 7,704	1
+COL RatingCount VAL 10,667	1
+COL RatingCount VAL 29,301	1
+COL RatingCount VAL 21,591	1
+COL Cast VAL full_cast	1
+COL RatingCount VAL 4,147	1
+COL RatingCount VAL 40,919	1
+COL RatingCount VAL 356,710	1
+COL RatingCount VAL 18,677	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 57,747	1
+COL RatingCount VAL 14,400	1
+COL RatingCount VAL 14,787	1
+COL RatingCount VAL 25,706	1
+COL RatingCount VAL 7,320	1
+COL RatingCount VAL 2,853	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 24,156	1
+COL RatingCount VAL 1,176	1
+COL RatingCount VAL 234,929	1
+COL RatingCount VAL 156,447	1
+COL RatingValue VAL 8.0	1
+COL RatingValue VAL 7.1/10,5.6/10	1
+COL Actors VAL Andrew Dice Clay,Eddie Griffin,Sylvia Harman	0
+COL Year VAL 1957	0
+COL Description VAL Four fighters with different backgrounds come together to train under an ex-MMA rising star and then ultimately have to fight each other.	0
+COL Release Date VAL 17 June 1947 (Argentina)	0
+COL Country VAL USA	0
+COL Year VAL 2005	0
+COL Year VAL 2000	0
+COL RatingValue VAL 5.8	0
+COL ReviewCount VAL 21 user,21 critic	0
+COL Language VAL English,Spanish	0
+COL Description VAL Comedy about idiotic (the two can't even add 1+1) kidnappers, both played for unknown reasons by Joe Piscopo, who capture two young girls and hold them for ransom. However, in 'Home Alone' ...	0
+COL Language VAL English,French	0
+COL Description VAL J. Edgar Hoover, powerful head of the F.B.I. for nearly 50 years, looks back on his professional and personal life.	0
+COL Language VAL English,Vietnamese	0
+COL Creator VAL William Broyles Jr.	0
+COL Id VAL tt0023825	0
+COL ReviewCount VAL 216 user,86 critic	0
+COL Actors VAL Richard Kiel,Cloris Leachman,Lynne Seus	0
+COL Creator VAL Blake Edwards,Hans Hoemburg	0
+COL ReviewCount VAL 69 user,50 critic	0
+COL Name VAL An American Werewolf in London	0
+COL Country VAL UK,USA,Germany,Czech Republic	0
+COL Filming Locations VAL Novi Sad, Serbia	0
+COL RatingValue VAL 6.5	0
+COL Filming Locations VAL Connecticut, USA	0
+COL Director VAL Ron Underwood	0
+COL RatingValue VAL 3.4	0
+COL RatingValue VAL 6.2	0
+COL Filming Locations VAL 837 Beacon Ave, Los Angeles, California, USA	0
+COL Filming Locations VAL Brewster Building Apartments - 2800 N. Pine Grove Avenue, Lake View, Chicago, Illinois, USA	0
+COL Description VAL Take a roller coaster ride full of high octane adventure as 12 year old Sammy takes to the skies. With the help of a magical flying skateboard, Sammy ends up the hottest skateboarder in ...	0
+COL Language VAL English	0
+COL Cast VAL Mickey Rourke,Jacqueline Bisset,Carré Otis,Assumpta Serna,Bruce Greenwood,Oleg Vidov,Milton Gonçalves,Jens Peter,Antonio Mario Silva Da Silva,Paul Land,Michael Villella,Bernardo Jablonski,Luiz Lobo,Lester Berman,Steven Kaminsky	0
+COL Description VAL A drama about the awakening of the painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s.	0
+COL Cast VAL Jonah Hill,Max Records,Ari Graynor,J.B. Smoove,Sam Rockwell,Landry Bender,Kevin Hernandez,Kylie Bunbury,Erin Daniels,D.W. Moffett,Jessica Hecht,Bruce Altman,Method Man,Sean Patrick Doyle,Alex Wolff	0
+COL Id VAL tt2016940	0
+COL RatingCount VAL 818	0
+COL RatingValue VAL 5.8	0
+COL Country VAL USA	0
+COL Description VAL After Police Captain Dan McLaren becomes police commissioner former detective Johnny Blake knocks him down convincing rackets boss Al Kruger that Blake is sincere in his effort to join the ...	0
+COL ReviewCount VAL 516 user,62 critic	0
+COL Genre VAL Crime,Drama,Mystery	0
+COL Country VAL USA,Germany	0
+COL ReviewCount VAL 431 user,140 critic	0
+COL Duration VAL 87 min	0
+COL Country VAL USA	0
+COL Description VAL A high school janitor has not recovered from his failed career as a tennis pro. He begins coaching his beloved sport to a group of misfits and leads them to the Nebraska State Championships.	0
+COL Language VAL English	0
+COL Creator VAL 	0
+COL Description VAL Clay Spencer is a hard-working man who loves his wife and large family. He is respected by his neighbors and always ready to give them a helping hand. Although not a churchgoer, he even ...	0
+COL Filming Locations VAL 	0
+COL Actors VAL Heather Berman,Emma Therese Biegacki,Eva Carrozza	0
+COL Cast VAL James Olson,Burt Young,Rutanya Alda,Jack Magner,Andrew Prine,Diane Franklin,Moses Gunn,Ted Ross,Erika Katz,Brent Katz,Leonardo Cimino,Danny Aiello III,Gilbert Stafford,Petra Lea,Alan Dellay	0
+COL ReviewCount VAL 233 user,84 critic	0
+COL Description VAL A teenager has to deal with his girlfriend dumping him among family crises, homicidal paper boys, and a rival skier.	0
+COL Actors VAL Thomas Stroppel,Artie Ahr,Amber Marie Bollinger	0
+COL Cast VAL Charlie Hunnam,Nora Dunn,Sam Anderson,Chris O'Dowd,Kate Luyben,Chris Noth,Lizzy Caplan,Whitney Cummings,Oliver Ham Austin,David Marciano,Sarah Rush,Frank Alvarez,Ray Chavez,Leonard Kelly-Young,Jordan Black	0
+COL Genre VAL Drama,Horror,Thriller	0
+COL Country VAL France,USA,UK	0
+COL Year VAL 2001	0
+COL Release Date VAL 2015 (USA)	0
+COL Id VAL tt3565026	0
+COL Actors VAL Alexa PenaVega,Daryl Sabara,Antonio Banderas	0
+COL Description VAL A practical man returns to his homeland, is attacked by a creature of folklore, and infected with a horrific disease his disciplined mind tells him can not possibly exist.	0
+COL RatingCount VAL 	0
+COL Country VAL USA	0
+COL Director VAL Dito Montiel	0
+COL Year VAL 2014	0
+COL Name VAL Hook	0
+COL Id VAL tt1051981	0
+COL Filming Locations VAL Las Vegas, Nevada, USA	0
+COL Name VAL Teenage Mutant Ninja Turtles III	0
+COL Id VAL tt1153543	0
+COL Description VAL The Cortez siblings set out for a mysterious island, where they encounter a genetic scientist and a set of rival spy kids.	0
+COL Cast VAL Matthew Bridges,Adam Bucci,Michael Adam Hamilton,Moronai Kanekoa,Trevor Kuhn,Ben Palacios,Nathan Peterson,Teri Reeves,Christopher S. Reid,Michael Rothhaar,Skyler Seymour,Jack Turner,David John Walsh,Debra Wilson,Josh Wise	0
+COL Language VAL English	0
+COL Cast VAL Robert Redford,Nick Nolte,Emma Thompson,Mary Steenburgen,Nick Offerman,Kristen Schaal,R. Keith Harris,Randall Newsome,Hayley Lovitt,Linds Edwards,Susan McPhail,Andrew Vogel,Derek Krantz,Gaia Wise,Tucker Meek	0
+COL Director VAL Robert Gordon,Morgan Neville	0
+COL Duration VAL 120 min	0
+COL Director VAL Woody Allen	0
+COL Language VAL English,French,Persian	0
+COL ReviewCount VAL 5 user,8 critic	0
+COL Actors VAL Michael Douglas,Gwyneth Paltrow,Viggo Mortensen	0
+COL Name VAL Biohazard: Patient Zero	0
+COL RatingValue VAL 	0
+COL ReviewCount VAL 2 user	0
+COL Cast VAL Liam Hemsworth,Michael Angarano,Dwayne Johnson,Paul Ben-Victor,Jerry Ferrara,Greg Vrotsos,Michael Rispoli,Emma Roberts,Nikki Reed,Wayne Pére,Craig Leydecker,Shenae Grimes-Beech,Sharon Angela,Chris Diamantopoulos,Lucky Johnson	0
+COL Genre VAL Horror,Thriller	0
+COL Country VAL USA	0
+COL Release Date VAL 5 August 1994 (USA)	0
+COL Release Date VAL 21 February 2014 (USA)	0
+COL Name VAL American Pie	0
+COL Id VAL tt1748113	0
+COL Genre VAL Comedy	0
+COL Description VAL Nelson is a man devoted to his advertising career in San Francisco. One day, while taking a driving test at the DMV, he meets Sara. She is very different from the other women in his life. ...	0
+COL Cast VAL Peter Lawford,Donald Crisp,June Lockhart,Nigel Bruce,William Severn,Leon Ames,Donald Curtis,Nils Asther,Robert Lewis,Fay Helm,Peter Helmers,Otto Reichow,Patricia Prest,Terry Moore,Leon Tyler	0
+COL Director VAL Stan Ferguson	0
+COL RatingValue VAL 4.1	0
+COL Description VAL The sole survivor of an interplanetary rescue mission searches for the only survivor of the previous expedition. He discovers a planet ruled by apes and an underground city run by telepathic humans.	0
+COL Name VAL Insidious	0

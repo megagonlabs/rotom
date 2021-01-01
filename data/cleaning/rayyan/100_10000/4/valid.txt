@@ -1,0 +1,100 @@
+COL journal_title VAL Rev Med Chir Soc Med Nat Iasi	0
+COL article_title VAL A controlled trial of anterior spinal fusion and d̩bridement in the surgical management of tuberculosis of the spine in patients on standard chemotherapy: a study in two centres in South Africa. Seventh Report of the Medical Research Council Working Party on tuberculosis of the spine	1
+COL article_jcreated_at VAL 1/1/02	1
+COL journal_title VAL Croatian Medical Journal	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_title VAL A systematic review of the surgical treatment of large incisional hernia.	0
+COL article_jcreated_at VAL 5/1/13	1
+COL article_pagination VAL 2018-2020	0
+COL article_jcreated_at VAL 2/1/13	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/08	1
+COL journal_title VAL Cancer Research	0
+COL article_jcreated_at VAL 6/1/13	1
+COL article_pagination VAL 911-24	0
+COL article_jissue VAL 2	0
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_language VAL 	0
+COL jounral_abbreviation VAL Health Facil Manage	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 4/1/11	1
+COL journal_title VAL G̩riatrie et Psychologie Neuropsychiatrie du Vieillissement	1
+COL journal_title VAL Violencia contra a crianca: revelando o perfil dos atendimentos em servicos de emergencia, Brasil, 2006 e 2007.	0
+COL journal_title VAL Schlafsțrungen bei kritisch kranken patienten	1
+COL article_jcreated_at VAL 9/1/01	1
+"COL author_list VAL {""T. Foltynie"",""R.A. Barker"",""S.J.G. Lewis"",""C.H. Williams-Gray""}"	0
+COL article_jcreated_at VAL 11/1/06	1
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 12/1/13	1
+COL jounral_abbreviation VAL Neurosurgery	0
+"COL author_list VAL {""Valeria Panebianco"",""Flavio Barchetti""}"	0
+COL article_jvolumn VAL 24	0
+COL article_jvolumn VAL 98	0
+COL article_jcreated_at VAL 1/1/98	0
+COL article_title VAL Prediction Study of Complications After Severe Trauma	0
+COL journal_title VAL Aging Ment Health	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 6/1/03	1
+COL article_title VAL Systematic review exploring the effect of exercise in pulmonary rehabilitation on depression levels in patients with chronic obstructive pulmonary disease	0
+COL id VAL 198650	0
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jcreated_at VAL 11/1/10	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 10/1/11	1
+COL article_title VAL [Evaluation of treatment outcomes in tuberculosis of knee and hip joints in 2005-2012].	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_title VAL The safety and immunogenicity of rotavirus vaccination in infants with intestinal failure	0
+COL article_jcreated_at VAL 7/1/12	1
+"COL author_list VAL {""Stuart Calver"",""Julia Nichols"",""Rachel C1  - Fr̴n systematiska ̦versikter -șkningen CN  - Cinahl DB  - c8h DO  - 10.1179/1743288X12Y.0000000021 DP  - EBSCOhost Chester""}"	1
+COL article_jvolumn VAL 40	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_title VAL Mild endoplasmic reticulum stress augments the proinflammatory effect of IL-1�_ in pancreatic rat �_-cells via the IRE1�/XBP1s pathway.	1
+COL jounral_abbreviation VAL J Huazhong Univ Sci Technolog Med Sci	0
+COL article_jvolumn VAL 33	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/04	1
+COL journal_issn VAL Sep-22	1
+COL article_title VAL Reinventing the wheel? Or the emperor's new clothes.	0
+COL id VAL 904168	0
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""T. Welte"",""R. Busse"",""N. Jalilvand"",""C. Krauth""}"	0
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_title VAL Improving end-of-life care for patients with chronic obstructive pulmonary disease.	0
+COL article_title VAL Intra-mandibular adenoid cystic carcinoma.	0
+COL article_title VAL The effect of a cervical lateral glide on the upper limb neurodynamic test: a blinded, placebo-controlled investigation	0
+COL jounral_abbreviation VAL Archives of surgery (Chicago, Ill. : 1960)	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/10	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 2/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_title VAL The association between urinary cortisol excretion and cardiovascular risk factors, bone status and quality of life in the population.	0
+COL article_pagination VAL 2692-9	1
+COL journal_title VAL Journal of hypertension	0
+COL article_jcreated_at VAL 3/1/06	1
+COL article_language VAL English	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 	0
+COL journal_issn VAL 0195-6744	0
+COL article_title VAL Recovery of postoperative cognitive function in elderly patients after a long duration of desflurane anesthesia: a pilot study.	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 11/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL journal_issn VAL 0885-3185	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_language VAL 	0
+COL article_title VAL [Neurological dysfunction induced by bilirrubin].	0
+COL article_jcreated_at VAL 10/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_pagination VAL 577-588	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jissue VAL 	1

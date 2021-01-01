@@ -1,0 +1,100 @@
+COL RatingCount VAL 13,306	1
+COL RatingValue VAL 5.3	0
+COL Language VAL English	0
+COL Country VAL USA	0
+COL Filming Locations VAL Piru, California, USA	0
+COL Director VAL Allen Hughes	0
+COL Director VAL Andrzej Bartkowiak	0
+COL RatingValue VAL 7.5	0
+COL RatingCount VAL 63,066	1
+COL Actors VAL Bing Crosby,Bob Hope,Dorothy Lamour	0
+COL RatingValue VAL 8.0	1
+COL Cast VAL 	0
+COL Country VAL USA	0
+COL RatingCount VAL 187,946	1
+COL Cast VAL Pat Morita,Ralph Macchio,Pat E. Johnson,Bruce Malmuth,Eddie Smith,Martin Kove,Garth Johnson,Brett Johnson,Will Hunt,Evan James,Lee Arnone,Sarah Kendall,Yuji Okumoto,Joey Miyashima,Danny Kamekona	0
+COL RatingValue VAL 5.0	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 89,208	1
+COL Year VAL 2009 2010 2011	1
+COL Language VAL English	0
+COL RatingCount VAL 19,105	1
+COL ReviewCount VAL 105 user,77 critic	0
+COL RatingCount VAL 44,596	1
+COL RatingCount VAL 7,003	1
+COL Filming Locations VAL Agnes Scott College - 141 E. College Avenue, Decatur, Georgia, USA	0
+COL Country VAL USA	0
+COL RatingCount VAL 8,739	1
+COL Filming Locations VAL Afghanistan	0
+COL RatingCount VAL 79,218	1
+COL Release Date VAL 15 March 1940 (USA)	0
+COL Year VAL 2014 2015 2016	1
+COL Description VAL The comic 'Bluntman and Chronic' is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation they set out to wreck the movie.	0
+COL Country VAL USA	0
+COL RatingCount VAL 60,068	1
+COL Year VAL 1984	0
+COL RatingValue VAL 	1
+COL Creator VAL Mike Judge,Mike Judge	0
+COL ReviewCount VAL 38 user,94 critic	0
+COL RatingCount VAL 18,726	1
+COL RatingCount VAL 16,110	1
+COL Creator VAL Rob Weiss,Doug Ellin	1
+COL Year VAL 1986	0
+COL RatingCount VAL 73,283	1
+COL Filming Locations VAL Manhattan, New York City, New York, USA	0
+COL RatingCount VAL 36,817	1
+COL Id VAL tt1034331	0
+COL RatingValue VAL 8.0	1
+COL Name VAL Deep Run	0
+COL RatingValue VAL 7.0	1
+COL Duration VAL 2 hr. 6 min.	1
+COL RatingCount VAL 77,922	1
+COL RatingValue VAL 7.0	1
+COL Genre VAL Action,Crime,Drama	0
+COL RatingCount VAL 1,084	1
+COL RatingCount VAL 77,606	1
+COL Duration VAL 112 min	0
+COL Actors VAL Vincent Price,Joseph Cotten,Hugh Griffith	0
+COL Genre VAL Family,Sci-Fi	0
+COL Duration VAL 161 min	0
+COL RatingCount VAL 2,831	1
+COL RatingCount VAL 4,197	1
+COL Cast VAL Kiernan Shipka,Kara Hayward,Meg Ryan,Joshua Boone,Pico Alexander,Danny Flaherty,Annie Q.,Catherine Curtin,Nicole Coulon,Tess Frazer,Beanie Feldstein,Frederick Buford,Nadia Alexander,Susan Blommaert,Roy Jackson	0
+COL Filming Locations VAL Chin Tiki Club - 2121 Cass Avenue, Detroit, Michigan, USA	0
+COL Description VAL A hobo accidentally stumbles onto a water spring, and creates a profitable way station in the middle of the desert.	0
+COL Description VAL Jo March and her sisters Meg, Beth, and Amy live in a happy family in Concord, Massachusetts. Jo yearns to be a writer, and through the course of the years, finds much within her own family...	0
+COL Year VAL 1998	0
+COL Name VAL Broken Arrow	0
+COL RatingValue VAL 7.7	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 3,935	1
+COL RatingCount VAL 3,126	1
+COL RatingValue VAL 6.0	1
+COL Cast VAL Tom Hanks,Denzel Washington,Roberta Maxwell,Buzz Kilman,Karen Finley,Daniel Chapman,Mark Sorensen Jr.,Jeffrey Williamson,Charles Glenn,Ron Vawter,Anna Deavere Smith,Stephanie Roth Haberle,Lisa Talerico,Joanne Woodward,Jason Robards	0
+COL RatingValue VAL 4.0	1
+COL RatingValue VAL 4.9/10,4.4/10	1
+COL RatingCount VAL 25,468	1
+COL RatingCount VAL 28,174	1
+COL RatingValue VAL 6.6	0
+COL Release Date VAL 1 January 2012 (USA)	0
+COL Release Date VAL Jan 1, 1984 Wide	1
+COL Filming Locations VAL Leo Carrillo State Beach - 35000 W. Pacific Coast Highway, Malibu, California, USA	0
+COL RatingCount VAL 624,108	1
+COL Cast VAL Sharron Corley,Gabriel Casseus,Saul Stein,Gwen McGee,Andre Moore,Donald Faison,Conrad Meertins Jr.,Devin Eggleston,Koran C. Thomas,Michele Morgan,Samantha Brown,Christine Baranski,Robert Jason Jackson,Roscoe Orman,Heavy D	0
+COL Year VAL 2013	0
+COL Id VAL ref	1
+COL Id VAL 1153987-nanny_mcphee	1
+COL RatingCount VAL 1,541	1
+COL RatingCount VAL 30,821	1
+COL Country VAL USA	0
+COL Language VAL English	0
+COL Actors VAL Dwayne Johnson,Carla Gugino,AnnaSophia Robb	0
+COL RatingCount VAL 15,773	1
+COL Language VAL English,Spanish	0
+COL Actors VAL Don Fanelli,Charlie Fersko,DJ Hazard	0
+COL Genre VAL Comedy	0
+COL RatingCount VAL 50,707	1
+COL Release Date VAL Jan 1, 2002 Wide	1
+COL RatingValue VAL 8.1/10,6.9/10	1
+COL RatingCount VAL 5,125	1

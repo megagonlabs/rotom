@@ -1,0 +1,100 @@
+COL Genre VAL Musical,Romance	0
+COL Id VAL tt1046173	0
+COL RatingCount VAL 314	0
+COL Description VAL In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.	0
+COL Director VAL Jacques Tourneur	0
+COL RatingCount VAL 45,245	1
+COL RatingValue VAL 8.2	0
+COL Language VAL English	0
+COL RatingCount VAL 50,612	1
+COL RatingCount VAL 2,665	1
+COL RatingCount VAL 13,819	1
+COL RatingCount VAL 1,949	1
+COL RatingCount VAL 57,595	1
+COL RatingCount VAL 1,139	1
+COL Creator VAL Chris Hauty	0
+COL Genre VAL Drama,Mystery & Suspense,Comedy	1
+COL RatingCount VAL 1,945	1
+COL RatingCount VAL 161,797	1
+COL Name VAL Bend of the River	0
+COL ReviewCount VAL 4 user,1 critic	0
+COL Director VAL Rob Reiner	0
+COL RatingCount VAL 19,560	1
+COL Release Date VAL 18 February 1994 (USA)	0
+COL Release Date VAL 25 October 2002 (USA)	0
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 91,273	1
+COL Cast VAL Will Ferrell,Chris Kattan,Raquel Gardner,Viveca Paulin,Paulette Braxton,Michael M. Horton,Richard Francese,Jennifer Coolidge,Michael Clarke Duncan,Richard Grieco,Trish Ramish,Loni Anderson,Dan Hedaya,Gina Mari,Roy Jenkins	0
+COL Duration VAL 119 min	0
+COL RatingCount VAL 3,339	1
+COL Director VAL Michael O. Sajbel	0
+COL Id VAL tt0243155	0
+COL Director VAL Larry Cohen	0
+COL RatingCount VAL 4,608	1
+COL Year VAL 1988 1989 1990	1
+COL Name VAL The Perfect Guy	0
+COL RatingCount VAL 7,482	1
+COL RatingCount VAL 47,389	1
+COL Creator VAL Christianna Brand,Emma Thompson	1
+COL RatingCount VAL 1,833	1
+COL Year VAL 1972	0
+COL RatingCount VAL 82,097	1
+COL Release Date VAL Oct 30, 2009 Wide	1
+COL Director VAL Blake Edwards	0
+COL Genre VAL Drama	1
+COL Director VAL Felix E. Feist	0
+COL Language VAL English	0
+COL Actors VAL Kevin Costner,Chadwick Boseman,Jennifer Garner	0
+COL Name VAL The Neverending Story III	0
+COL ReviewCount VAL 117 user,64 critic	0
+COL Country VAL USA	0
+COL RatingCount VAL 1,415	1
+COL Description VAL When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.	0
+COL Creator VAL Stephen King,Don Carlos Dunaway	0
+COL RatingCount VAL 1,358	1
+COL RatingCount VAL 182,703	1
+COL RatingCount VAL 690,350	1
+COL Language VAL English	0
+COL RatingCount VAL 15,329	1
+COL RatingCount VAL 10,310	1
+COL RatingCount VAL 49,866	1
+COL RatingCount VAL 25,636	1
+COL Description VAL Greed, deception, money, power, and murder occur between two mobster best friends and a trophy wife over a gambling empire.	0
+COL RatingCount VAL 24,351	1
+COL Release Date VAL 13 July 2012 (USA)	0
+COL Creator VAL Michael Moore	0
+COL Year VAL 1995	0
+COL RatingCount VAL 108,038	1
+COL Duration VAL 95 min	0
+COL ReviewCount VAL 1,149 user,238 critic	0
+COL Filming Locations VAL Ireland	0
+COL Description VAL After their plane crashes in Alaska, six oil workers are led by a skilled huntsman to survival, but a pack of merciless wolves haunts their every step.	0
+COL RatingCount VAL 24,413	1
+COL RatingValue VAL 7.4	0
+COL Director VAL Nancy Meyers	0
+COL RatingCount VAL 143,527	1
+COL RatingCount VAL 143,534	1
+COL RatingCount VAL 4,107	1
+COL Actors VAL Jane Wyman,Rock Hudson,Agnes Moorehead	0
+COL Filming Locations VAL California, USA	0
+COL Filming Locations VAL Central Park, Manhattan, New York City, New York, USA	0
+COL RatingCount VAL 52,789	1
+COL Id VAL tt0048696	0
+COL Cast VAL Viggo Mortensen,Maria Bello,Ed Harris,William Hurt,Ashton Holmes,Peter MacNeill,Stephen McHattie,Greg Bryk,Kyle Schmid,Sumela Kay,Gerry Quigley,Deborah Drakeford,Heidi Hayes,Aidan Devine,Bill MacDonald	0
+COL Filming Locations VAL 	0
+COL RatingCount VAL 26,704	1
+COL RatingCount VAL 41,149	1
+COL Cast VAL Sterling Hayden,Louis Calhern,Jean Hagen,James Whitmore,Sam Jaffe,John McIntire,Marc Lawrence,Barry Kelley,Anthony Caruso,Teresa Celli,Marilyn Monroe,William 'Wee Willie' Davis,Dorothy Tree,Brad Dexter,John Maxwell	0
+COL RatingCount VAL 230,301	1
+COL Duration VAL 167 min	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 31,844	1
+COL Year VAL 2012	0
+COL Language VAL English	0
+COL RatingCount VAL 43,976	1
+COL RatingCount VAL 53,948	1
+COL RatingCount VAL 4,157	1
+COL RatingCount VAL 392,616	1
+COL RatingCount VAL 11,336	1
+COL RatingCount VAL 2,638	1
+COL RatingValue VAL 6.0	1

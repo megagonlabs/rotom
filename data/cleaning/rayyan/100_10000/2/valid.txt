@@ -1,0 +1,100 @@
+COL journal_issn VAL 09593985 (ISSN)	0
+COL article_jcreated_at VAL 1/1/11	1
+COL journal_issn VAL Sep-22	1
+"COL author_list VAL {""A. Sengupta"",""D. DA  - Feb DO  - 23/1/63 [pii] DP  - Nlm ET  - 2008/01/22 Karsies"",""G. U. Liepa""}"	0
+COL article_jcreated_at VAL 1/1/14	1
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL Science (New York, N.Y.)	0
+COL id VAL 891370	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 289	0
+COL article_jvolumn VAL 2	0
+COL article_jvolumn VAL 12	0
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Paolo Dell'Oglio"",""Alessandro Larcher"",""Nicola Fossati"",""Nicol�_ Maria Buffi"",""Alberto Abrate"",""Giuliana Lista"",""Francesco Montorsi"",""Francesco Mistretta"",""Massimo Lazzeri"",""Giorgio Guazzoni"",""Giovanni Lughezzani""}"	1
+COL journal_issn VAL 0090-3493	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_language VAL jpn	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jissue VAL 2	0
+"COL author_list VAL {""L Lenhardt"",""S Mozes"",""A Martinkov��""}"	1
+"COL author_list VAL {""Kerstin Landin-Wilhelmsen"",""G̦ran Oler̦d"",""Oskar Ragnarsson"",""Penelope Trimpou""}"	1
+COL article_language VAL English	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""Scott O Lilienfeld"",""Keli Holloway Allen"",""Howard N Garb"",""Jessica L Wildermuth"",""M Teresa Nezworski"",""James M Wood""}"	0
+"COL author_list VAL {""R. Arabyat"",""D. W. Raisch""}"	0
+COL article_jvolumn VAL 28	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_pagination VAL 112-120	0
+COL article_jcreated_at VAL 12/1/03	1
+COL article_jcreated_at VAL 1/1/09	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 2/1/15	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 3/1/15	1
+COL article_jcreated_at VAL 1/1/04	1
+COL journal_title VAL Nowoczesne biomateria��y jako opatrunki hemostatyczne w chirurgii oszczedzajacej miazsz nerki--model zwierzecy. Doniesienie wstepne.	1
+COL journal_issn VAL 	0
+COL article_pagination VAL 291-297	0
+COL article_jcreated_at VAL 5/1/98	0
+COL id VAL 217725	0
+COL article_pagination VAL 3541-4	1
+COL article_jcreated_at VAL 6/1/15	1
+COL journal_issn VAL 1940-6215	0
+COL article_jvolumn VAL 0	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_title VAL A multinational study of thromboprophylaxis practice in critically ill children.	0
+COL article_jissue VAL 12	0
+COL journal_issn VAL Sep-22	1
+COL article_jcreated_at VAL 12/1/08	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 7/1/06	1
+COL article_language VAL English	0
+COL article_jissue VAL 17	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 	0
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_pagination VAL S46-S61	0
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""Gerlane ��ngela da Costa Moreira"",""Denyse Dutra Alencar Vasconcelos"",""Amanda Costa de Freitas"",""Carla Cristina Braga Maranh���o"",""Danielle Figueiredo Patricio""}"	1
+COL article_title VAL Inhibition of cisplatin-induced lipid catabolism and weight loss by ghrelin in male mice.	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 7/1/12	1
+COL id VAL 922795	0
+COL article_jissue VAL 5	0
+COL article_jissue VAL 7	0
+"COL author_list VAL {""Robert S Hoffman"",""Brian W Cotter"",""Barbara M Kirrane"",""Fermin Barrueto"",""Lewis S Nelson""}"	0
+COL article_jcreated_at VAL 1/1/13	1
+COL journal_title VAL 	0
+COL journal_issn VAL 0190-535X	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_pagination VAL 1295-1305	0
+COL article_jcreated_at VAL 5/1/01	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_language VAL English	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_title VAL Effect of antibiotic prescribing in primary care on meticillin-resistant Staphylococcus aureus carriage in community-resident adults: a controlled observational study	0
+COL article_title VAL Asymmetric inheritance of mitochondrial content in aging budding yeast cells	0
+COL journal_title VAL International journal of medical informatics	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_pagination VAL 45-53; quiz 54	0
+COL article_jcreated_at VAL 11/1/13	1
+COL journal_issn VAL 	0
+COL article_pagination VAL 1241; author reply 1241	0
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Francitorra ME"",""Sanchez GS"",""Manrique CA"",""Velasco TT"",""Castany A R"",""Escriche XF"",""Fern����ndez CS"",""Fornell LL"",""���lvarez S���"",""Fern����ndez EA"",""Rodriguez MVF"",""Sim���_ MR"",""Mayo EP""}"	1
+COL article_jcreated_at VAL 10/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jvolumn VAL 	1
+COL author_list VAL {NULL}	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/12	1

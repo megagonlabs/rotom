@@ -1,0 +1,150 @@
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.052000000000000005%	1
+COL ounces VAL 19.2 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.048%	1
+COL abv VAL 0.057999999999999996%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.049%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL city VAL Mill Valley CA	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.045%	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.9 OZ.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.099%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL city VAL San Diego CA	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.055%	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL city VAL Portland ME	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL state VAL 	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 OZ.	1
+COL id VAL 1965	0
+COL index VAL 121	0
+COL brewery_id VAL 46	0
+COL style VAL American Blonde Ale	0
+COL state VAL CO	0
+COL state VAL AZ	0
+COL beer-name VAL Hop Slayer Double IPA (2011)	0
+COL city VAL Baton Rouge	0
+COL index VAL 2345	0
+COL brewery_id VAL 185	0
+COL style VAL American Pale Ale (APA)	0
+COL id VAL 1590	0
+COL id VAL 2215	0
+COL brewery_id VAL 13	0
+COL city VAL Columbus	0
+COL index VAL 1923	0
+COL abv VAL 0.05	0
+COL id VAL 1140	0
+COL id VAL 104	0
+COL city VAL Minnetonka	0
+COL id VAL 2206	0
+COL brewery_id VAL 139	0
+COL city VAL Indianapolis	0
+COL beer-name VAL Norm's Gateway IPA	0
+COL brewery-name VAL Warped Wing Brewing Company	0
+COL brewery-name VAL Ruhstaller Beer Company	0
+COL style VAL American Black Ale	0
+COL state VAL IL	0
+COL id VAL 2684	0
+COL id VAL 316	0
+COL style VAL Kölsch	0
+COL brewery_id VAL 48	0
+COL state VAL KY	0
+COL id VAL 509	0
+COL index VAL 509	0
+COL brewery_id VAL 533	0
+COL beer-name VAL Fat Tire Amber Ale (2008)	0
+COL city VAL Salt Lake City	0
+COL abv VAL 0.048	0
+COL index VAL 875	0
+COL brewery-name VAL Pyramid Breweries	0
+COL brewery-name VAL Atwater Brewery	0
+COL state VAL OR	0
+COL id VAL 43	0
+COL style VAL Irish Red Ale	0
+COL state VAL GA	0
+COL brewery-name VAL Capital Brewery	0
+COL style VAL American IPA	0
+COL brewery_id VAL 498	0
+COL city VAL Hilo	0
+COL style VAL American IPA	0
+COL brewery_id VAL 133	0
+COL brewery_id VAL 553	0
+COL index VAL 2154	0
+COL brewery_id VAL 244	0
+COL abv VAL 0.097	0
+COL city VAL Longmont	0
+COL id VAL 602	0
+COL beer-name VAL Tree Bucket	0
+COL city VAL Seattle	0
+COL state VAL IN	0
+COL ibu VAL 40	0
+COL city VAL San Diego	0
+COL city VAL Salt Lake City	0
+COL city VAL St. John's	0
+COL city VAL Gary	0
+COL id VAL 2427	0
+COL state VAL MI	0
+COL brewery_id VAL 227	0
+COL index VAL 534	0
+COL brewery_id VAL 108	0
+COL id VAL 2473	0
+COL state VAL NC	0
+COL brewery_id VAL 272	0
+COL state VAL AZ	0

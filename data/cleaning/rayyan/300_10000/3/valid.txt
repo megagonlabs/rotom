@@ -1,0 +1,300 @@
+"COL author_list VAL {""J. Skees"",""T. K. Race""}"	0
+"COL author_list VAL {""A Philotheou"",""S R Heller"",""J Jendle"",""M-A Gall"",""K K��lendorf"",""G P Ross"",""G Perriello"",""I Pavlic-Renar""}"	1
+COL article_title VAL Fractional flow reserve for guiding PCI.	0
+COL journal_issn VAL 1573-2606	0
+COL jounral_abbreviation VAL Mycoses	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_title VAL Sorafenib and pegylated interferon-alpha-2b in advanced metastatic melanoma: A multicenter phase II DeCOG trial	0
+COL article_jissue VAL 1	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jissue VAL 3	0
+COL id VAL 624354	0
+COL article_jcreated_at VAL 1/1/01	0
+COL article_jissue VAL 	1
+COL id VAL 12554	0
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_title VAL Bile acid metabolism by fresh human colonic contents: a comparison of caecal versus faecal samples.	0
+COL article_jvolumn VAL 56	0
+"COL author_list VAL {""Costin M."",""Dumbrav�_ E.L."",""Postolache P."",""Cojocaru D.C.""}"	1
+COL article_pagination VAL ZC70-5	0
+COL article_pagination VAL 3111-9	1
+COL article_pagination VAL 	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""Gilles Montalescot"",""Gordon FitzGerald"",""Kurt G Barringhaus"",""[Collective Name] GRACE Investigators"",""Frans Van de Werf"",""Joel M Gore"",""David D McManus"",""Jos̩ L�_pez-Send�_n"",""Philippe Gabriel Steg"",""Kay Lee Park""}"	1
+COL journal_issn VAL Feb-62	0
+COL article_pagination VAL 427-35	0
+COL article_pagination VAL 484-7	0
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jcreated_at VAL 2/1/15	1
+COL journal_issn VAL 1872-7727	0
+COL article_jcreated_at VAL 1/1/08	1
+COL journal_issn VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/06	1
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 10/1/11	1
+"COL author_list VAL {""Valentina A Volchkova"",""Jaroslav Vorac"",""Philip Lawrence"",""Laurie Repiquet-Paire"",""Viktor E Volchkov""}"	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jissue VAL 0	0
+COL article_jcreated_at VAL 1/1/15	1
+COL journal_issn VAL 0004-0010 (Print) 0004-0010	0
+COL article_jcreated_at VAL 8/1/12	1
+COL article_jcreated_at VAL 3/1/07	1
+COL article_jcreated_at VAL 6/1/12	1
+"COL author_list VAL {""David Dyzenhaus""}"	0
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""Anna Nidecker"",""Siamak Ardekani"",""E Mark Mahone"",""Firouzeh Tannazi"",""Jarunee Intrapiromkul"",""Moody Wharam"",""Larry J Brant"",""Alena Horsk��""}"	1
+COL article_language VAL eng	0
+"COL author_list VAL {""E A M Janssen"",""C Brodin"",""P Ogreid"",""K Kjellevold"",""L G G��ransson"",""L Vatten"",""P R Romundstad"",""R Omdal"",""K Wildhagen""}"	1
+COL article_jvolumn VAL 34	0
+COL jounral_abbreviation VAL J ECT	0
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL journal_issn VAL 	0
+COL journal_title VAL Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA	0
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jvolumn VAL 	1
+COL article_jvolumn VAL 0	0
+COL article_jcreated_at VAL 6/1/10	1
+COL article_jcreated_at VAL 10/1/15	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_title VAL [A case of giant Brunner's gland hyperplasia combined with adenomyomatous hyperplasia].	0
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_language VAL 	0
+"COL author_list VAL {""O. H. Simonsen"",""S. T. Skou"",""H. Thomsen""}"	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_title VAL 18F-flumazenil: a �_-aminobutyric acid A-specific PET radiotracer for the localization of drug-resistant temporal lobe epilepsy.	1
+COL article_title VAL Mold contamination in a controlled hospital environment: a 3-year surveillance in southern Italy	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 27	0
+COL article_jcreated_at VAL 10/1/12	1
+COL article_pagination VAL 	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 7/7/14	1
+"COL author_list VAL {""M. Rossignol"",""F. A. Allaert"",""B. Bannwarth"",""J. P. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Jun DP  - NLM ET  - 2005/06/09 Valat"",""S. Rozenberg"",""B. Avouac""}"	1
+COL article_pagination VAL 889-94	0
+COL id VAL 945021	0
+"COL author_list VAL {""S Murat"",""H Avsever"",""S Y�_ksel"",""C S Paksoy"",""B Onder"",""K Kamburoglu""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+COL id VAL 756208	0
+"COL author_list VAL {""E.-B. Malmgren-Olsson"",""K. Armelius"",""B.-��. Armelius""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 2/1/09	1
+"COL author_list VAL {""Business/Technology Editors""}"	0
+COL article_title VAL Application of a model based on fuzzy logic for evaluating nursing diagnostic accuracy of students	0
+COL article_title VAL Association of diet, exercise, and smoking modification with risk of early cardiovascular events after acute coronary syndromes.	0
+"COL author_list VAL {""V Cus�_"",""H Galvez"",""M Iriondo"",""J Campistol"",""I M��laga"",""A Garc�_a Cazorla""}"	1
+COL article_jcreated_at VAL 1/1/04	1
+COL journal_title VAL J Orthop Sci	0
+COL journal_title VAL Sci Eng Ethics	0
+COL article_pagination VAL 2063-8	1
+COL article_jcreated_at VAL 10/9/15	1
+COL article_jissue VAL 7	0
+COL article_jcreated_at VAL 9/1/14	1
+"COL author_list VAL {""Sergio Raposeiras-Roub�_n"",""Jos̩ Maria Garc�_a-Acu̱a"",""Jos̩ Ram�_n Gonz��lez-Juanatey""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+COL journal_title VAL Chinese Journal of New Drugs	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL J Chem Phys	0
+COL article_jcreated_at VAL 8/1/08	1
+"COL author_list VAL {""Ana Paula de Lima Ferreira"",""Marcelo de Souza Figueiroa"",""B��rbara Bernardo Rinaldo da Silva"",""K��tia Roberta Rap̫so Sales Lacerda""}"	1
+COL article_language VAL eng	0
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_title VAL Lack of association between the connexin 37 C1019T gene polymorphism and coronary artery disease in a Chinese population: Meta-analysis of 2,206 subjects.	0
+COL article_jissue VAL 6	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_language VAL eng	0
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_title VAL The Journal Of Rheumatology	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 7/10/13	1
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_title VAL A performance improvement process to tackle tachysystole	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""H H Fiebig"",""K Mross"",""R Velagapudi"",""W E Berdel"",""C Unger"",""I M von Broen""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jcreated_at VAL 4/1/09	1
+COL article_pagination VAL 1255-1272	0
+COL article_jcreated_at VAL 11/1/13	1
+COL id VAL 259916	0
+COL article_language VAL English	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 4	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jissue VAL 4	0
+COL article_pagination VAL 204-16	0
+COL article_title VAL Preval̻ncia de bruxismo e dist̼rbio do sono em deficientes visuais Prevalence of bruxism and sleep disorders in the visually impaired individuals	1
+COL article_title VAL Phase III randomized sequential open-label study to evaluate the efficacy and safety of sorafenib followed by pazopanib vs pazopanib followed by sorafenib in the treatment of advanced / metastatic renal cell carcinoma-design of the SWITCH-2 Study (NCT01613846)	0
+COL article_jissue VAL 0	0
+COL journal_title VAL 	0
+COL journal_title VAL Respiratory medicine	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 490750	0
+COL article_jissue VAL 	1
+COL article_jvolumn VAL 	1
+COL article_pagination VAL 57-61	0
+COL article_pagination VAL 43-4	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jvolumn VAL 	1
+COL article_pagination VAL 159-86	0
+COL article_jcreated_at VAL 6/1/01	1
+COL article_title VAL Antimicrobial resistance of H. pylori isolates in alaska native persons from 2000-2008: Results from the alaska sentinel surveillance project	0
+COL article_jcreated_at VAL 1/1/10	1
+COL journal_title VAL Journal of clinical epidemiology	0
+COL article_pagination VAL 72	0
+COL article_jcreated_at VAL 1/1/09	1
+"COL author_list VAL {""Patwardhan S.K."",""Bodas K.S."",""Gundewar S.S.""}"	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/04	1
+COL journal_issn VAL 	0
+COL article_language VAL 	0
+"COL author_list VAL {""W. Rottbauer"",""V. Hombach"",""S. Stiller"",""P. Bernhardt"",""D. Walcher""}"	0
+COL article_jcreated_at VAL 1/1/10	1
+COL journal_issn VAL 1539-6304	0
+COL journal_issn VAL Sep-22	1
+COL journal_title VAL Public health nutrition	0
+COL journal_issn VAL Jan-15	1
+COL journal_issn VAL 2005-7563	0
+COL article_jcreated_at VAL 1/1/14	1
+COL id VAL 896410	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 3	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_title VAL Meta-analysis of the influence of I148M variant of patatin-like phospholipase domain containing 3 gene (PNPLA3) on the susceptibility and histological severity of nonalcoholic fatty liver disease.	0
+COL journal_title VAL Photomedicine and laser surgery	0
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_issn VAL 0042-9007	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_language VAL pol	0
+COL article_jvolumn VAL 23	0
+COL article_jcreated_at VAL 2/16/10	0
+COL journal_issn VAL 0214-1221	0
+COL id VAL 252118	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_title VAL Desflurane and isoflurane increase lumbar cerebrospinal fluid pressure in normocapnic patients undergoing transsphenoidal hypophysectomy.	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_title VAL Bound for success: a systematic review of constraint-induced movement therapy in children with cerebral palsy supports improved arm and hand use (Structured abstract)	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 4	0
+COL id VAL 917231	0
+COL journal_title VAL Res Nurs Health	0
+COL id VAL 385163	0
+COL article_jissue VAL 1	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/03	1
+COL journal_issn VAL 0144-6665	0
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 9/1/09	1
+"COL author_list VAL {""John M O�_Callaghan"",""Robert D Morgan"",""Peter J Morris"",""Simon R Knight""}"	1
+COL article_jcreated_at VAL 4/1/15	1
+COL id VAL 931323	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jissue VAL 	1
+COL article_language VAL 	0
+"COL author_list VAL {""Lee W."",""Kirk J.S."",""Shaheen K.W."",""Romero R."",""Hodges A.N."",""Comstock C.H.""}"	0
+COL article_jvolumn VAL 3	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/15	1
+COL journal_issn VAL 	0
+COL article_language VAL English	0
+COL article_jissue VAL 	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 9/2/14	1
+COL article_title VAL Food allergy in children	0
+COL article_jissue VAL 17	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_pagination VAL 3582-9	1
+COL article_jcreated_at VAL 1/22/15	0
+COL jounral_abbreviation VAL Photomed Laser Surg	0
+COL author_list VAL {NULL}	0
+COL article_language VAL 	0
+COL article_jissue VAL 6	0
+COL article_pagination VAL 1972-4	1
+COL article_title VAL The value of transurethral bladder biopsy after intravesical bacillus Calmette-Guerin instillation therapy for nonmuscle invasive bladder cancer: A retrospective, single center study and cumulative analysis of the literature.	0
+COL journal_title VAL 	0
+COL article_jissue VAL 5	0
+COL journal_title VAL Schlafsțrungen bei kritisch kranken patienten	1
+COL article_jcreated_at VAL 9/1/12	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_language VAL 	0
+COL article_title VAL Dispersal of methicillin-resistant Staphylococcus epidermidis by staff in an operating suite for thoracic and cardiovascular surgery: relation to skin carriage and clothing	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 6/1/01	1
+"COL author_list VAL {""M. D. Barton"",""J. Simon"",""J. E. Axon"",""S. Moss"",""S. G. Morris"",""D. J. Trott"",""S. Fury"",""M. Maiwald"",""P. Giffard"",""D. Jordan"",""P. Southwell""}"	0
+COL jounral_abbreviation VAL Tumour Biol.	0
+"COL author_list VAL {""G. Rahav"",""G. Regev-Yochay"",""I. Abullaish"",""A. Elhamdany"",""R. Malley"",""M. Raz"",""A. Goral"",""Y. Roytman"",""B. Shainberg"",""M. Varon"",""A. Ziv""}"	0
+COL article_jcreated_at VAL 9/1/13	1
+COL id VAL 641972	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/12	1
+COL id VAL 321660	0
+COL article_jcreated_at VAL 1/1/14	1
+COL id VAL 752305	0
+COL article_jcreated_at VAL 1/1/09	1
+COL jounral_abbreviation VAL Rheumatology (Oxford, England)	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 227-33	0
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_pagination VAL 93-7	1
+COL jounral_abbreviation VAL Disabil Rehabil	0
+COL article_jcreated_at VAL 4/1/15	1
+COL article_language VAL ENG	0
+COL article_title VAL Adaptive convex combination approach for the identification of improper quaternion processes	0
+COL journal_title VAL Kekkaku : [Tuberculosis]	0
+COL article_jcreated_at VAL 8/2/06	1
+COL article_jcreated_at VAL 1/1/05	1
+COL id VAL 946006	0
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jvolumn VAL 8	0
+COL article_jcreated_at VAL 7/2/08	1
+COL article_jcreated_at VAL 4/1/14	1
+COL journal_issn VAL Sep-22	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL id VAL 641251	0
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Angel Rosa-Alc����zar"",""Ana I Rosa-Alc����zar"",""Marina Iniesta-Sep���lveda""}"	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_pagination VAL 791-9	0
+COL article_language VAL 	0
+COL article_jvolumn VAL 104	0
+COL article_title VAL The novel applications of the quantitative analysis of neutrophil cell surface FcgammaRI (CD64) to the diagnosis of infectious and inflammatory diseases.	0

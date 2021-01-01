@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 3/1/08	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""S��ren Brostr��m"",""Gunnar Lose""}"	1
+"COL author_list VAL {""Michela Miani"",""Decio L Eizirik"",""Laurence Ladri̬re"",""Maikel L Colli"",""Miriam Cnop""}"	1
+COL article_jcreated_at VAL 9/2/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""J Arana"",""E Rezola"",""A Villanueva"",""M I Intxaurrondo"",""M Su̱ol"",""I Eizaguirre"",""J Garay""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""Chu Chen"",""Brian L Strom"",""Susan E McCann"",""Harvey A Risch"",""Lingeng Lu"",""Fulvio Ricceri"",""Immaculata De Vivo"",""Amanda B Spurdle"",""Susan E Hankinson"",""Pamela J Thompson"",""Catherine Schairer"",""Herbert Yu"",""Radhai Rastogi"",""Jennifer Doherty"",""Carlotta Sacerdote"",""Laurence N Kolonel"",""Mia M Gaudet"",""Kim Robien"",""Marc T Goodman"",""Piet A van den Brandt"",""Robert A Soslow"",""Jolanta Lissowska"",""Anthony B Miller"",""Kirsten B Moysich"",""Montserrat Garcia-Closas"",""Silvia Polidoro"",""Linda S Cook"",""Kristin E Anderson"",""Rayna K Matsuno"",""Xiao-ou Shu"",""Penelope M Webb"",""Kerry S Courneya"",""Christine M Friedenreich"",""Jo L Freudenheim"",""Yong-Bing Xiang"",""Brian E Henderson"",""Galina Lurie"",""Leo J Schouten"",""Timothy R Rebbeck"",""Anthony M Magliocco"",""Malcolm C Pike"",""Leslie Bernstein"",""Hannah P Yang"",""[Collective Name] Australian National Endometrial Cancer Study Group"",""Sara H Olson"",""Pamela L Horn-Ross"",""Marjorie L McCullough"",""Hoda Anton-Culver"",""Noel S Weiss"",""James R Cerhan"",""Louise A Brinton"",""Alicja Wolk"",""Jennifer Prescott"",""Xiaolin Liang"",""Thomas E Rohan"",""Yikyung Park"",""Niclas H̴kansson"",""Veronica Wendy Setiawan"",""James V Lacey"",""Hui Cai"",""Nicolas Wentzensen"",""Koen van de Vijver""}"	1
+COL article_jcreated_at VAL 7/1/01	1
+COL journal_title VAL Nowoczesne biomateria��y jako opatrunki hemostatyczne w chirurgii oszczedzajacej miazsz nerki--model zwierzecy. Doniesienie wstepne.	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""St��_ber F"",""Mutz N"",""Wrigge H"",""Putensen C"",""Zinserling J"",""Zech S"",""Von Spiegel T""}"	1
+COL article_jcreated_at VAL 6/1/09	1
+COL article_jcreated_at VAL 9/1/08	1
+COL article_jcreated_at VAL 7/1/13	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_pagination VAL 91-8	1
+COL article_jcreated_at VAL 6/10/02	1
+COL article_jcreated_at VAL 7/1/04	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 3/1/11	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Gilles Montalescot"",""Gordon FitzGerald"",""Kurt G Barringhaus"",""[Collective Name] GRACE Investigators"",""Frans Van de Werf"",""Joel M Gore"",""David D McManus"",""Jos̩ L�_pez-Send�_n"",""Philippe Gabriel Steg"",""Kay Lee Park""}"	1
+"COL author_list VAL {""John M O�_Callaghan"",""Robert D Morgan"",""Peter J Morris"",""Simon R Knight""}"	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 11/1/14	1
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_title VAL Lung function efficacy of olodaterol qd delivered via respimat� vs placebo and formoterol bid in patients with COPD: two 48-week studies [Abstract]	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 6/1/12	1
+COL article_jcreated_at VAL 12/4/14	1
+COL article_pagination VAL 2692-9	1
+COL article_pagination VAL 84-8	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""E.-B. Malmgren-Olsson"",""K. Armelius"",""B.-��. Armelius""}"	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 5/1/12	1
+COL article_title VAL Bruxismo em crian̤as Bruxism in children	1
+COL article_jcreated_at VAL 4/2/15	1
+COL article_jcreated_at VAL 8/1/05	1
+COL article_jcreated_at VAL 1/1/09	1
+COL journal_issn VAL Sep-22	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 9/1/09	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 3/1/02	1
+COL article_jcreated_at VAL 1/1/03	1
+"COL author_list VAL {""L N Meurer""}"	0
+COL journal_title VAL Vaccine	0
+COL article_pagination VAL 1005-7	0
+COL jounral_abbreviation VAL Eur. J. Pediatr.	0
+COL article_pagination VAL 	0
+COL jounral_abbreviation VAL Phytother Res	0
+COL journal_title VAL 	0
+COL article_jvolumn VAL 13	0
+COL article_jvolumn VAL 90	0
+COL id VAL 723057	0
+COL journal_title VAL Radiologic Clinics of North America	0
+COL article_jissue VAL 5	0
+"COL author_list VAL {""Silvia Sookoian"",""Carlos J Pirola""}"	0
+COL article_pagination VAL 1858-63	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""Romero M"",""Mercer R"",""Ramos S"",""Karolinski A""}"	0
+COL article_jissue VAL 0	0
+COL id VAL 970712	0
+COL id VAL 823730	0
+COL journal_issn VAL 0961-5423	0
+COL article_jvolumn VAL 14	0
+COL article_language VAL eng	0
+COL journal_issn VAL 1466-187X, Electronic 0142-159X, Print	0
+"COL article_title VAL Employing a youth-led adult-guided framework: ""why drive high?"" social marketing campaign."	0
+COL article_jissue VAL 3	0
+COL journal_issn VAL 1750-497X	0
+COL id VAL 392246	0
+"COL author_list VAL {""D J Bruno"",""B S Bloom"",""R Jayadevappa"",""D Y Maman""}"	0
+COL article_jcreated_at VAL 1/1/92	0
+COL article_jissue VAL 3	0
+COL id VAL 868618	0
+COL author_list VAL {NULL}	0
+COL jounral_abbreviation VAL Gen Dent	0
+"COL author_list VAL {""L. N. Borrell"",""K. Rose"",""B. L. Clark"",""D. Catellier"",""A. V. D. Roux""}"	0
+COL article_jvolumn VAL 0	0
+COL article_title VAL Prehospital hypertonic saline resuscitation attenuates the activation and promotes apoptosis of neutrophils in patients with severe traumatic brain injury.	0
+COL id VAL 918698	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL 	0
+COL article_title VAL Reinventing the wheel? Or the emperor's new clothes.	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""E. Hsu"",""S. P. Cohen""}"	0
+COL jounral_abbreviation VAL The Journal of bone and joint surgery. British volume	0
+"COL author_list VAL {""Milagros M. Sessions"",""Kevin J. Miller""}"	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 172966	0
+COL article_jvolumn VAL 4	0
+COL article_language VAL 	0
+COL article_jvolumn VAL 71	0
+COL article_pagination VAL 323-330	0
+COL article_jvolumn VAL 6	0
+COL journal_issn VAL 1095-9203	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 85	0
+COL journal_title VAL J Toxicol Environ Health	0
+COL journal_issn VAL 0301-4215	0
+COL article_jissue VAL 4	0
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 0895-2841	0
+COL article_title VAL Consumption of fried foods and risk of metabolic syndrome: the SUN cohort study	0
+COL journal_title VAL 	0
+COL article_jissue VAL 4	0
+COL article_jissue VAL 5	0
+COL article_pagination VAL 249-50	0
+COL article_language VAL eng	0
+COL article_language VAL engspa	0
+COL article_title VAL Teaching medical student geriatrics competencies in 1 week: an efficient model to teach and document selected competencies using clinical and community resources	0
+COL article_language VAL English	0
+COL article_pagination VAL 435-441	0
+COL article_title VAL FACTORS ASSOCIATED WITH SELF-WORTH IN YOUNG PEOPLE WITH PHYSICAL DISABILITIES	0
+COL journal_issn VAL 1569-8041	0
+COL article_jcreated_at VAL 	0
+COL article_title VAL Atomoxetine treatment of children and adolescents with ADHD: Clinical questions and answers. (German)	0

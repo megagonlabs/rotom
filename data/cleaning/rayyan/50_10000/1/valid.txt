@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 8/1/05	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 7/1/06	1
+COL article_jcreated_at VAL 10/1/07	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 7/1/12	1
+COL journal_issn VAL Jan-14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 8/1/02	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 4/1/09	1
+COL article_pagination VAL 3541-4	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_pagination VAL 60-61	0
+COL article_jvolumn VAL 14	0
+COL journal_issn VAL 1753-4666	0
+COL author_list VAL {NULL}	0
+COL id VAL 674623	0
+COL jounral_abbreviation VAL Epilepsy Res.	0
+"COL author_list VAL {""W Odero""}"	0
+COL id VAL 332926	0
+COL article_pagination VAL 664-669	0
+COL journal_title VAL Respiration; international review of thoracic diseases	0
+COL journal_title VAL The Journal of antimicrobial chemotherapy	0
+COL journal_title VAL 	0
+COL journal_issn VAL 0041-5782 (Print) 0041-5782	0
+COL article_title VAL Intimate Partner Violence Survivors' Unmet Social Service Needs	0
+COL journal_issn VAL 1460-2091	0
+COL article_language VAL 	0
+COL article_title VAL Internet-delivered exposure and mindfulness based therapy for irritable bowel syndrome--a randomized controlled trial	0
+COL id VAL 396821	0
+COL jounral_abbreviation VAL J. Clin. Oncol.	0
+COL article_title VAL Analysis of the cochrane review: Biomarkers as point-of-care tests to guide prescription of antibiotics in patients with acute respiratory infections in primary care. cochrane database syst rev. 2014,11:Cd10130	0
+COL article_jvolumn VAL 20	0
+COL article_language VAL English	0
+COL article_language VAL 	0
+COL journal_issn VAL 1531-5053	0
+COL article_title VAL Differential functional connectivity within an emotion regulation neural network among individuals resilient and susceptible to the depressogenic effects of early life stress.	0

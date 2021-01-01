@@ -1,0 +1,400 @@
+COL Condition VAL heart attack	0
+COL EmergencyService VAL yes	0
+COL HospitalName VAL st vincents blount	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL State VAL al	0
+COL HospitalType VAL acute care hospitals	0
+COL Address3 VAL empty	0
+COL City VAL oneonta	0
+COL Condition VAL heart attack	0
+COL ProviderNumber VAL 10050	0
+COL Address1 VAL 150 gilbreath drive	0
+COL MeasureName VAL pneumonia patients given smoking cessation advice/counseling	0
+COL Address2 VAL empty	0
+COL index VAL 994	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL CountyName VAL blount	0
+COL Condition VAL heart attack	0
+COL City VAL oneonta	0
+COL Score VAL 100%	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalType VAL acute care hospitals	0
+COL Sample VAL 0 patients	0
+COL Sample VAL 2 patients	0
+COL EmergencyService VAL yes	0
+COL MeasureCode VAL scip-inf-2	0
+COL ProviderNumber VAL 10050	0
+COL MeasureName VAL surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection	0
+COL Condition VAL pneumonia	0
+COL Address3 VAL empty	0
+COL MeasureCode VAL ami-1	0
+COL CountyName VAL blount	0
+COL ProviderNumber VAL 10050	0
+COL HospitalType VAL acute care hospitals	0
+COL Stateavg VAL al_ami-1	0
+COL PhoneNumber VAL 2052743000	0
+COL Score VAL 64%	0
+COL HospitalName VAL st vincents blount	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Address2 VAL empty	0
+COL index VAL 996	0
+COL ProviderNumber VAL 10050	0
+COL HospitalType VAL acute care hospitals	0
+COL PhoneNumber VAL 2052743000	0
+COL City VAL oneonta	0
+COL City VAL oneonta	0
+COL MeasureCode VAL pn-7	0
+COL EmergencyService VAL yes	0
+COL Sample VAL 29 patients	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Stateavg VAL al_hf-1	0
+COL Address1 VAL 150 gilbreath drive	0
+COL Address2 VAL empty	0
+COL MeasureCode VAL pn-6	0
+COL MeasureName VAL pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics	0
+COL Address1 VAL 150 gilbreath drive	0
+COL ProviderNumber VAL 10050	0
+COL Sample VAL 92 patients	0
+COL MeasureCode VAL pn-4	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL City VAL oneonta	0
+COL State VAL al	0
+COL HospitalName VAL st vincents blount	0
+COL MeasureCode VAL ami-5	0
+COL MeasureCode VAL hf-4	0
+COL Condition VAL surgical infection prevention	0
+COL Sample VAL 103 patients	0
+COL ProviderNumber VAL 10050	0
+COL Address3 VAL empty	0
+COL ProviderNumber VAL 10050	0
+COL CountyName VAL blount	0
+COL MeasureCode VAL pn-5c	0
+COL HospitalType VAL acute care hospitals	0
+COL CountyName VAL blount	0
+COL CountyName VAL blount	0
+COL City VAL oneonta	0
+COL Sample VAL 34 patients	0
+COL PhoneNumber VAL 2052743000	0
+COL Address1 VAL 150 gilbreath drive	0
+COL HospitalName VAL st vincents blount	0
+COL EmergencyService VAL yes	0
+COL CountyName VAL blount	0
+COL Address1 VAL 150 gilbreath drive	0
+COL index VAL 993	0
+COL ZipCode VAL 35121	0
+COL Address1 VAL 150 gilbreath drive	0
+COL index VAL 987	0
+COL HospitalName VAL st vincents blount	0
+COL Stateavg VAL al_pn-2	0
+COL PhoneNumber VAL 2052743000	0
+COL HospitalName VAL st vincents blount	0
+COL HospitalType VAL acute care hospitals	0
+COL State VAL al	0
+COL Condition VAL surgical infection prevention	0
+COL Address1 VAL 150 gilxreath drive	1
+COL State VAL al	0
+COL State VAL al	0
+COL PhoneNumber VAL 2052743000	0
+COL MeasureName VAL heart failure patients given smoking cessation advice/counseling	0
+COL ProviderNumber VAL 10050	0
+COL HospitalName VAL st vincents blount	0
+COL State VAL al	0
+COL MeasureName VAL heart attack patients given aspirin at discharge	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalName VAL st vincents blount	0
+COL PhoneNumber VAL 2052743000	0
+COL Address1 VAL 150 gilbreath drive	0
+COL ProviderNumber VAL 10050	0
+COL Stateavg VAL al_ami-2	0
+COL CountyName VAL blount	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Address2 VAL empty	0
+COL Address1 VAL 150 gilbreath drive	0
+COL City VAL oneonta	0
+COL MeasureName VAL pneumonia patients given the most appropriate initial antibiotic(s)	0
+COL Address3 VAL empty	0
+COL City VAL oneonta	0
+COL Sample VAL 105 patients	0
+COL MeasureName VAL pneumonia patients assessed and given pneumococcal vaccination	0
+COL City VAL oneonta	0
+COL index VAL 1000	0
+COL Score VAL 100%	0
+COL Stateavg VAL al_ami-5	0
+COL Address3 VAL empty	0
+COL Score VAL empty	0
+COL HospitalName VAL st vincents blount	0
+COL ProviderNumber VAL 10050	0
+COL Score VAL 43%	0
+COL City VAL oneonta	0
+COL HospitalName VAL st vincents blount	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL ProviderNumber VAL 10050	0
+COL State VAL al	0
+COL Sample VAL 7 patients	0
+COL MeasureCode VAL pn-2	0
+COL HospitalType VAL acute care hospitals	0
+COL Condition VAL heart failure	0
+COL State VAL al	0
+COL ProviderNumber VAL 10050	0
+COL ProviderNumber VAL 10050	0
+COL index VAL 983	0
+COL EmergencyService VAL yes	0
+COL CountyName VAL blount	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Address1 VAL 150 gilbreath drive	0
+COL ZipCode VAL 35121	0
+COL EmergencyService VAL yes	0
+COL City VAL oneonta	0
+COL Address1 VAL 150 gilbreath drive	0
+COL Address2 VAL empty	0
+COL Score VAL 74%	0
+COL index VAL 982	0
+COL Score VAL 77%	0
+COL City VAL oneonta	0
+COL MeasureCode VAL scip-inf-1	0
+COL Sample VAL 3 patients	0
+COL State VAL al	0
+COL Address3 VAL empty	0
+COL index VAL 988	0
+COL ZipCode VAL 35121	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 2052743000	0
+COL Address2 VAL empty	0
+COL MeasureName VAL pneumonia patients assessed and given influenza vaccination	0
+COL EmergencyService VAL yes	0
+COL EmergencyService VAL yes	0
+COL Stateavg VAL al_pn-7	0
+COL Address3 VAL empty	0
+COL State VAL al	0
+COL HospitalName VAL st vincents blount	0
+COL PhoneNumber VAL 2052743000	0
+COL ZipCode VAL 35121	0
+COL HospitalType VAL acute care hospitals	0
+COL EmergencyService VAL yes	0
+COL MeasureCode VAL hf-1	0
+COL index VAL 990	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL ProviderNumber VAL 10050	0
+COL Score VAL 100%	0
+COL State VAL al	0
+COL ZipCode VAL 35121	0
+COL Score VAL 88%	0
+COL Sample VAL 7 patients	0
+COL ZipCode VAL 35121	0
+COL PhoneNumber VAL 2052743000	0
+COL HospitalName VAL st vincents blount	0
+COL EmergencyService VAL yes	0
+COL HospitalType VAL acute care hospitals	0
+COL Address1 VAL 150 gilbreath drive	0
+COL Condition VAL heart attack	0
+COL index VAL 981	0
+COL MeasureName VAL heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL State VAL al	0
+COL Score VAL 100%	0
+COL CountyName VAL blount	0
+COL Address2 VAL empty	0
+COL CountyName VAL blount	0
+COL MeasureCode VAL ami-4	0
+COL PhoneNumber VAL 2052743000	0
+COL Address1 VAL 150 gilbreath drive	0
+COL Score VAL 64%	0
+COL ProviderNumber VAL 10050	0
+COL ProviderNumber VAL 10050	0
+COL Sample VAL 74 patients	0
+COL Stateavg VAL al_pn-5c	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalType VAL acute care hospitals	0
+COL CountyName VAL blount	0
+COL Address1 VAL 150 gilbreath drive	0
+COL PhoneNumber VAL 2052743000	0
+COL Score VAL 83%	0
+COL index VAL 998	0
+COL Address3 VAL empty	0
+COL Address1 VAL 150 gilbreath drive	0
+COL PhoneNumber VAL 2052743000	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL CountyName VAL blount	0
+COL index VAL 985	0
+COL index VAL 995	0
+COL HospitalType VAL acute care hospitals	0
+COL Sample VAL 2 patients	0
+COL HospitalType VAL acute care hospitals	0
+COL PhoneNumber VAL 2052743000	0
+COL EmergencyService VAL yes	0
+COL Score VAL empty	0
+COL MeasureCode VAL hf-2	0
+COL index VAL 992	0
+COL PhoneNumber VAL 2052743000	0
+COL Score VAL 100%	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 35121	0
+COL Score VAL empty	0
+COL Address3 VAL empty	0
+COL MeasureName VAL surgery pxtients who were txking hexrt drugs cxlled betx blockers before coming to the hospitxl who were kept on the betx blockers during the period just before xnd xfter their surgery	1
+COL Score VAL 85%	0
+COL MeasureCode VAL ami-2	0
+COL ProviderNumber VAL 10050	0
+COL ZipCode VAL 35121	0
+COL MeasureName VAL heart failure patients given an evaluation of left ventricular systolic (lvs) function	0
+COL EmergencyService VAL yes	0
+COL Condition VAL pneumonia	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL index VAL 999	0
+COL Address1 VAL 150 gilbreath drive	0
+COL MeasureName VAL heart attack patients given beta blocker at discharge	0
+COL HospitalType VAL acute care hospitals	0
+COL Condition VAL pneumonia	0
+COL Address3 VAL empty	0
+COL Sample VAL 8 patients	0
+COL Address2 VAL empty	0
+COL State VAL al	0
+COL Condition VAL heart attack	0
+COL EmergencyService VAL yes	0
+COL State VAL al	0
+COL Condition VAL heart failure	0
+COL index VAL 984	0
+COL MeasureCode VAL hf-3	0
+COL MeasureCode VAL scip-card-2	0
+COL MeasureName VAL pneumonia patients given initial antibiotic(s) within 6 hours after arrival	0
+COL Stateavg VAL al_ami-3	0
+COL HospitalName VAL st vincents blount	0
+COL MeasureName VAL surgery patients who were given the  right kind  of antibiotic to help prevent infection	0
+COL Sample VAL 24 patients	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL HospitalName VAL st vincents blount	0
+COL Stateavg VAL al_pn-6	0
+COL State VAL al	0
+COL Sample VAL 0 patients	0
+COL Address2 VAL empty	0
+COL City VAL oneonta	0
+COL HospitalType VAL acute care hospitals	0
+COL Address3 VAL empty	0
+COL Stateavg VAL al_scip-inf-1	0
+COL Stateavg VAL al_ami-4	0
+COL HospitalType VAL acute care hospitals	0
+COL Stateavg VAL al_pn-4	0
+COL Sample VAL 55 patients	0
+COL State VAL al	0
+COL State VAL al	0
+COL Address2 VAL empty	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL EmergencyService VAL yes	0
+COL State VAL al	0
+COL PhoneNumber VAL 2052743000	0
+COL ZipCode VAL 35121	0
+COL HospitalName VAL st vincents blount	0
+COL Condition VAL heart attack	0
+COL MeasureCode VAL pn-3b	0
+COL PhoneNumber VAL 2052743000	0
+COL ZipCode VAL 35121	0
+COL Stateavg VAL al_ami-7a	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 2052743000	0
+COL ZipCode VAL 35121	0
+COL Address3 VAL empty	0
+COL City VAL oneonta	0
+COL Score VAL 98%	0
+COL Stateavg VAL al_pn-3b	0
+COL MeasureName VAL heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL PhoneNumber VAL 2052743000	0
+COL ZipCode VAL 35121	0
+COL Sample VAL 28 patients	0
+COL PhoneNumber VAL 2052743000	0
+COL Sample VAL 7 patients	0
+COL City VAL oneonta	0
+COL ZipCode VAL 35121	0
+COL Address1 VAL 150 gilbreath drive	0
+COL Address3 VAL empty	0
+COL index VAL 989	0
+COL Address3 VAL empty	0
+COL HospitalName VAL st vincents bxount	1
+COL ProviderNumber VAL 10050	0
+COL Address2 VAL empty	0
+COL MeasureName VAL heart failure patients given discharge instructions	0
+COL ProviderNumber VAL 10050	0
+COL City VAL onxonta	1
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Stateavg VAL al_hf-4	0
+COL Score VAL 50%	0
+COL Address2 VAL empty	0
+COL index VAL 991	0
+COL Condition VAL heart attack	0
+COL CountyName VAL blount	0
+COL City VAL oneonta	0
+COL ZipCode VAL 35121	0
+COL Address3 VAL empty	0
+COL MeasureName VAL heart attack patients given smoking cessation advice/counseling	0
+COL CountyName VAL blount	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalName VAL st vincents blount	0
+COL Condition VAL pneumonia	0
+COL ZipCode VAL 35121	0
+COL CountyName VAL blount	0
+COL CountyName VAL blount	0
+COL Condition VAL heart failure	0
+COL Address3 VAL empty	0
+COL MeasureCode VAL ami-8a	0
+COL MeasureCode VAL ami-7a	0
+COL Condition VAL pneumonia	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL MeasureName VAL heart attack patients given fibrinolytic medication within 30 minutes of arrival	0
+COL Address2 VAL empty	0
+COL Condition VAL heart failure	0
+COL Stateavg VAL al_scip-inf-2	0
+COL Address2 VAL empty	0
+COL Score VAL 83%	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 35121	0
+COL MeasureCode VAL ami-3	0
+COL ProviderNumber VAL 10050	0
+COL CountyName VAL blount	0
+COL HospitalType VAL acute care hospitals	0
+COL Condition VAL surgical infection prevention	0
+COL Stateavg VAL al_hf-2	0
+COL Sample VAL 25 patients	0
+COL Stateavg VAL al_ami-8a	0
+COL HospitalName VAL st vincents blount	0
+COL EmergencyService VAL yes	0
+COL CountyName VAL blount	0
+COL index VAL 997	0
+COL MeasureName VAL heart attack patients given aspirin at arrival	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Stateavg VAL al_hf-3	0
+COL HospitalName VAL st vincents blount	0
+COL State VAL al	0
+COL HospitalType VAL acute care hospitals	0
+COL PhoneNumber VAL 2052743000	0
+COL State VAL al	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 35121	0
+COL Address3 VAL empty	0
+COL Score VAL 25%	0
+COL ZipCode VAL 35121	0
+COL Stateavg VAL al_scip-card-2	0
+COL Address1 VAL 150 gilbreath drive	0
+COL EmergencyService VAL yes	0
+COL Address1 VAL 150 gilbreath drive	0
+COL CountyName VAL blount	0
+COL Address1 VAL 150 gilbreath drive	0
+COL City VAL oneonta	0
+COL Condition VAL pneumonia	0
+COL EmergencyService VAL yes	0
+COL index VAL 986	0
+COL ZipCode VAL 35121	0
+COL HospitalName VAL st vincents blount	0
+COL CountyName VAL blount	0
+COL ZipCode VAL 35121	0
+COL Sample VAL 0 patients	0
+COL City VAL oneonta	0
+COL City VAL oneonta	0
+COL MeasureName VAL heart attack patients given pci within 90 minutes of arrival	0

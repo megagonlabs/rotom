@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_jcreated_at VAL 10/1/10	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_pagination VAL 43-4	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 5/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 6/1/04	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_title VAL The Antiseptic Efficacy and Tolerability of Lavasept� 0.04% on Acute Traumatic Wounds	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 9/1/04	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 5/1/07	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_jcreated_at VAL 10/1/05	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 10/1/11	1
+"COL author_list VAL {""Chu Chen"",""Brian L Strom"",""Susan E McCann"",""Harvey A Risch"",""Lingeng Lu"",""Fulvio Ricceri"",""Immaculata De Vivo"",""Amanda B Spurdle"",""Susan E Hankinson"",""Pamela J Thompson"",""Catherine Schairer"",""Herbert Yu"",""Radhai Rastogi"",""Jennifer Doherty"",""Carlotta Sacerdote"",""Laurence N Kolonel"",""Mia M Gaudet"",""Kim Robien"",""Marc T Goodman"",""Piet A van den Brandt"",""Robert A Soslow"",""Jolanta Lissowska"",""Anthony B Miller"",""Kirsten B Moysich"",""Montserrat Garcia-Closas"",""Silvia Polidoro"",""Linda S Cook"",""Kristin E Anderson"",""Rayna K Matsuno"",""Xiao-ou Shu"",""Penelope M Webb"",""Kerry S Courneya"",""Christine M Friedenreich"",""Jo L Freudenheim"",""Yong-Bing Xiang"",""Brian E Henderson"",""Galina Lurie"",""Leo J Schouten"",""Timothy R Rebbeck"",""Anthony M Magliocco"",""Malcolm C Pike"",""Leslie Bernstein"",""Hannah P Yang"",""[Collective Name] Australian National Endometrial Cancer Study Group"",""Sara H Olson"",""Pamela L Horn-Ross"",""Marjorie L McCullough"",""Hoda Anton-Culver"",""Noel S Weiss"",""James R Cerhan"",""Louise A Brinton"",""Alicja Wolk"",""Jennifer Prescott"",""Xiaolin Liang"",""Thomas E Rohan"",""Yikyung Park"",""Niclas H̴kansson"",""Veronica Wendy Setiawan"",""James V Lacey"",""Hui Cai"",""Nicolas Wentzensen"",""Koen van de Vijver""}"	1
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""C Pithan"",""M Mazariegos"",""N W Solomons"",""P F�_rst""}"	1
+COL article_jcreated_at VAL 9/1/12	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 5/1/10	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 11/1/14	1
+COL article_jcreated_at VAL 2/10/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 2603-8	1
+COL article_jcreated_at VAL 3/1/15	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""G Vaksmann"",""A Vincentelli"",""C Francart"",""M A Cajot"",""G M Brevi̬re"",""F Godart"",""J M Coullet"",""P Devos"",""C Rey""}"	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 4/3/15	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 11/1/11	1
+COL article_jcreated_at VAL 7/1/06	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_title VAL Optical turbulence: weak turbulence, condensates and collapsing filaments in the nonlinear Schr̦dinger equation	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_pagination VAL 	0
+"COL author_list VAL {""Susanna C Larsson"",""Ann Burgaz"",""Alicja Wolk"",""Nicola Orsini""}"	0
+COL article_jvolumn VAL 91	0
+COL journal_issn VAL 0033-8419	0
+COL jounral_abbreviation VAL Pain	0
+"COL author_list VAL {""A. R. Lomax"",""P. C. CN  - Pubmed DA  - Mar DO  - 10.1017/s0007114508055608 DP  - NLM ET  - 2008/09/26 Calder""}"	0
+COL journal_issn VAL 	0
+COL journal_title VAL Indian Journal of Pathology and Microbiology	0
+COL article_title VAL A balancing act of the brain: activations and deactivations driven by cognitive load.	0
+COL journal_title VAL Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus / I.S.D.E	0
+COL article_pagination VAL 446-53	0
+COL jounral_abbreviation VAL American journal of physiology. Endocrinology and metabolism	0
+COL article_language VAL fre	0
+COL article_pagination VAL 287-291	0
+COL journal_issn VAL 	0
+COL article_pagination VAL 361-368	0
+COL article_jissue VAL 5	0
+COL journal_issn VAL 0017-5749	0
+COL article_pagination VAL 110-1	0
+COL journal_title VAL J Hand Surg Br	0
+COL article_title VAL Duane retraction syndrome associated with oculocutaneous albinism: an ocular miswiring.	0
+COL article_pagination VAL 56-60	0
+"COL author_list VAL {""J van der Meulen"",""J Kluck"",""E van Dijk"",""J H M Straatman""}"	0
+COL journal_title VAL 	0
+"COL author_list VAL {""Gary Chisholm"",""Eduardo Bruera"",""Swati Bansal"",""David Hui"",""Rony Dev"",""Margarita Morgado""}"	0
+COL id VAL 804762	0
+COL article_pagination VAL 10213-10224	0
+COL article_language VAL eng	0
+COL id VAL 146560	0
+COL article_jissue VAL 1	0
+COL article_pagination VAL 290-5	0
+COL jounral_abbreviation VAL Archives of surgery (Chicago, Ill. : 1960)	0
+COL journal_issn VAL 1520-4804	0
+"COL author_list VAL {""Yasunori Ota"",""Masaaki Noguchi"",""Kei-Ji Sugimoto"",""Hiroshi Izumi"",""Norio Komatsu"",""Nanae Yamaguchi"",""Hidenori Imai"",""Asami Shimada"",""Yasunobu Sekiguchi"",""Mutsumi Wakabayashi""}"	0
+"COL author_list VAL {""So Young Lee"",""Jay L. Brand""}"	0
+COL journal_issn VAL 0923-7534	0
+COL article_jissue VAL 8	0
+COL journal_title VAL International Journal of Qualitative Studies in Education (QSE)	0
+COL article_title VAL Pharmacotherapy for inherited colorectal cancer. [Review] [42 refs]	0
+COL id VAL 615903	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 67	0
+COL article_language VAL 	0
+"COL author_list VAL {""L. N. Borrell"",""K. Rose"",""B. L. Clark"",""D. Catellier"",""A. V. D. Roux""}"	0
+COL article_title VAL [Effect of a dialysis solution with icodextrin on ultrafiltration and selected metabolic parameters in patients treated with peritoneal dialysis]	0
+COL article_jvolumn VAL 20	0
+COL article_jissue VAL 5	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 669596	0
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 	0
+COL journal_issn VAL 1062-3264 (Print)     1062-3264	0
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 	0
+COL article_language VAL 	0
+COL journal_title VAL BMC Medical Research Methodology	0
+COL article_jvolumn VAL 65	0
+COL article_title VAL Usefulness of a Survey on Underage Drinking in a Rural American Indian Community Health Clinic	0
+COL article_jissue VAL 2	0
+COL article_title VAL The effectiveness of N-acetylcysteine in preventing contrast-induced nephropathy in patients undergoing contrast-enhanced computed tomography: a meta-analysis of randomized controlled trials (Provisional abstract)	0
+COL article_jcreated_at VAL 1/1/00	0
+COL article_language VAL eng	0
+COL article_title VAL Localized deficiencies of folic acid in aerodigestive tissues	0
+COL article_jissue VAL 1	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL English	0
+COL article_jissue VAL 0	0
+"COL author_list VAL {""O. Callender"",""J. Craven"",""C. Martin""}"	0
+"COL author_list VAL {""Kwok M Ho"",""Geoffrey J Dobb"",""Steven A R Webb""}"	0
+COL jounral_abbreviation VAL Hepatogastroenterology	0
+COL article_title VAL Symptoms tell it all: a systematic review of the value of symptom assessment to predict survival in advanced cancer patients.	0
+COL id VAL 846537	0
+COL article_jissue VAL 6	0
+COL id VAL 56464	0

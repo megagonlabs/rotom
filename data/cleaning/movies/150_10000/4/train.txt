@@ -1,0 +1,150 @@
+COL Duration VAL 1 hr. 47 min.	1
+COL RatingValue VAL 8.0	1
+COL Release Date VAL Feb 13, 1998 Wide	1
+COL RatingCount VAL 69,193	1
+COL RatingCount VAL 82,179	1
+COL RatingCount VAL 194,989	1
+COL Creator VAL Dyan Cannon,Jill Gordon	1
+COL RatingCount VAL 21,744	1
+COL RatingCount VAL 9,568	1
+COL RatingCount VAL 2,841	1
+COL RatingCount VAL 21,532	1
+COL RatingCount VAL 1,475	1
+COL RatingCount VAL 4,147	1
+COL Year VAL 2005 2006 2007	1
+COL RatingCount VAL 108,524	1
+COL RatingCount VAL 97,976	1
+COL RatingCount VAL 15,971	1
+COL RatingCount VAL 2,412	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 8,245	1
+COL RatingCount VAL 30,391	1
+COL RatingCount VAL 1,744	1
+COL RatingCount VAL 127,931	1
+COL Release Date VAL Mar 15, 2001 Wide	1
+COL RatingCount VAL 3,208	1
+COL Genre VAL Comedy	1
+COL Id VAL the_fault_in_our_stars	1
+COL RatingCount VAL 1,609	1
+COL RatingCount VAL 50,742	1
+COL RatingCount VAL 9,179	1
+COL RatingCount VAL 1,662	1
+COL RatingValue VAL 5.7/10	1
+COL RatingCount VAL 54,327	1
+COL RatingCount VAL 12,964	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 18,991	1
+COL RatingCount VAL 170,316	1
+COL RatingCount VAL 124,337	1
+COL RatingCount VAL 66,784	1
+COL RatingCount VAL 4,824	1
+COL RatingValue VAL 	1
+COL RatingCount VAL 28,110	1
+COL RatingCount VAL 1,993	1
+COL RatingCount VAL 132,319	1
+COL RatingCount VAL 2,043	1
+COL RatingCount VAL 3,846	1
+COL RatingCount VAL 1,650	1
+COL RatingCount VAL 2,942	1
+COL RatingCount VAL 30,657	1
+COL Description VAL Wealthy Helene Delambre (Patricia Owens) is discovered late at night in the factory owned by her husband Andre (David Hedison). Helene stands beside a huge metal press, which has crushed the head and arm of her husband. Held for murder, the near-catatonic Helene refuses to tell anyone--not even Andre's brother Francois (Vincent Price)--why she did it. Francois cannot help but notice that Helene reacts in mortal terror when a tiny flies zips through the room. Nor can he disregard the statement,made by Helene's son Philippe (Charles Herbert) that the fly has a curious white head and leg. When Francois pretends that he's captured the fly, Helene relaxes enough to tell her story. It seems that Andre, a scientist, had been working on a matter transmitter, which he claimed could disintegrate matter, then reintegrate it elsewhere. After a few experiments, Andre tried the transmitter himself. Just as he stepped into the disintegration chamber, a fly also flew into the chamber. We aren't immediately shown the results of this, save for the fact that Andre afterward insists upon keeping his head and arm covered. Alone with her husband, Helene abruptly removes the covering, revealing that Andre now bears the head of a fly! His atoms have become mixed up with the fly, and now he is unable to reverse the procedure. Deciding that his transmitter will be a bogy rather than a blessing to mankind, Andre smashes the apparatus and burns his notes. He then instructs Helene, via body language, to crush his fly-like head and arm in the press. Neither Francois nor inspector Charas (Herbert Marshall) believe the story...until, while staring intently at a spider's web in the garden, they see a tiny entrapped fly with Andre's head and arm, tinnily screaming 'Help me! Help me!' as the slavering spider approaches (If you're wondering why Vincent Price and Herbert Marshall do not look one another in the eye during this scene, it is because they couldn't deliver their dialogue without dissolving into laughter). ~ Hal Erickson, Rovi	1
+COL Id VAL 1073316-emma	1
+COL RatingCount VAL 143,755	1
+COL RatingValue VAL 7.0	1
+COL Year VAL 2014 2015 2016	1
+COL RatingCount VAL 8,423	1
+COL RatingCount VAL 22,508	1
+COL RatingCount VAL 110,994	1
+COL RatingCount VAL 3,005	1
+COL RatingValue VAL 5.1/10,5/10	1
+COL Description VAL In the 1940's, in the town of Hammond, 9-year-old Ralphie wants one thing for Christmas -- an official Red Ryder BB rifle. When he asks his mother for the BB gun for Christmas, she says, 'No, you'll shoot your eye out'. When he writes an essay about it at school his teacher gives him a C+ with a note saying 'You'll shoot your eye out.' Next he asks Santa for the gun, Santa's response is familiar, he says, 'You'll shoot your eye out, kid.' Ralph fears that he'll never get the BB gun for,Christmas. But there may be a surprise in store for him.	1
+COL RatingCount VAL 40,267	1
+COL RatingValue VAL 6.3/10,7.1/10	1
+COL Duration VAL 1 hr. 45 min.	1
+COL RatingCount VAL 779,282	1
+COL RatingCount VAL 115,803	1
+COL RatingCount VAL 3,320	1
+COL RatingValue VAL 5.0	1
+COL Year VAL 1989 1990 1991	1
+COL RatingCount VAL 3,882	1
+COL RatingCount VAL 1,133	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 4,186	1
+COL RatingCount VAL 163,798	1
+COL RatingCount VAL 479,521	1
+COL Duration VAL duration	1
+COL Country VAL USA	0
+COL Language VAL English	0
+COL Actors VAL Paul Walker,Steve Van Wormer,A.J. Langer	0
+COL RatingValue VAL 6.9	0
+COL Duration VAL 83 min	0
+COL Director VAL Todd Tucker	0
+COL ReviewCount VAL 41 user,32 critic	0
+COL Name VAL Hearts of Darkness: A Filmmaker's Apocalypse	0
+COL Id VAL tt0116213	0
+COL Country VAL USA,Australia	0
+COL Director VAL Ryan Polito	0
+COL Language VAL English	0
+COL Language VAL English	0
+COL RatingValue VAL 7.2	0
+COL ReviewCount VAL 142 user,129 critic	0
+COL Cast VAL Joel Edgerton,Tom Hardy,Nick Nolte,Jennifer Morrison,Frank Grillo,Kevin Dunn,Maximiliano Hernández,Bryan Callen,Sam Sheridan,Fernando Chien,Jake McLaughlin,Vanessa Martinez,Denzel Whitaker,Carlos Miranda,Manuel Espinosa	0
+COL Id VAL tt0109520	0
+COL Creator VAL Steve Martin	0
+COL ReviewCount VAL 10 user,2 critic	0
+COL RatingValue VAL 7.1	0
+COL Director VAL Friz Freleng,Chuck Jones	0
+COL Cast VAL Daniel Day-Lewis,Michelle Pfeiffer,Winona Ryder,Linda Faye Farkas,Michael Rees Davis,Terry Cook,Jon Garrison,Richard E. Grant,Alec McCowen,Geraldine Chaplin,Mary Beth Hurt,Stuart Wilson,Howard Erskine,John McLoughlin,Christopher Nilsson	0
+COL Release Date VAL 17 December 2003 (USA)	0
+COL ReviewCount VAL 4 user,5 critic	0
+COL Language VAL English	0
+COL Creator VAL Adam Green,Adam Green	0
+COL Duration VAL 161 min	0
+COL Duration VAL 92 min	0
+COL Filming Locations VAL Illinois, USA	0
+COL RatingValue VAL 6.1	0
+COL Release Date VAL April 2010 (USA)	0
+COL Name VAL Purple Rain	0
+COL Country VAL Canada,USA	0
+COL Cast VAL Jenna Fischer,Chris Messina,Malin Akerman,Rich Sommer,Lucy Punch,Topher Grace,Bob Odenkirk,Travis Schuldt,Valentine Miele,Sean Gunn,Greg Trzaskoma,Eddie Ebell,Chase Kim,Sarab Kamoo,John Cabrera	0
+COL Director VAL Marcus Koch	0
+COL Year VAL 2014	0
+COL Language VAL English	0
+COL Name VAL Poetic Justice	0
+COL Id VAL tt0099685	0
+COL RatingValue VAL 6.2	0
+COL Creator VAL Harry Grey,Leonardo Benvenuti	0
+COL Genre VAL Action,Thriller	0
+COL ReviewCount VAL 162 user,64 critic	0
+COL Country VAL Japan,USA	0
+COL Director VAL Kevin Tenney	0
+COL Year VAL 2012	0
+COL Description VAL Over the course of a midsummer night in Fermanagh in 1890, an unsettled daughter of the Anglo-Irish aristocracy encourages her father's valet to seduce her.	0
+COL Country VAL USA	0
+COL RatingValue VAL 7.8	0
+COL Release Date VAL 30 June 1995 (USA)	0
+COL Duration VAL 98 min	0
+COL Name VAL Halloween	0
+COL Id VAL tt0277791	0
+COL RatingValue VAL 3.7	0
+COL RatingValue VAL 6.2	0
+COL Country VAL USA	0
+COL Id VAL tt0078490	0
+COL Duration VAL 80 min	0
+COL Director VAL Harold French	0
+COL Director VAL Richard Martin	0
+COL Year VAL 1942	0
+COL RatingCount VAL 85	0
+COL Creator VAL Marshall Neilan,Joseph Moncure March	0
+COL Release Date VAL 23 March 2007 (USA)	0
+COL Genre VAL Family,Western,Action	0
+COL Creator VAL Josh Haber	0
+COL Filming Locations VAL American Museum of Natural History - Central Park West at 79th Street, Manhattan, New York City, New York, USA	0
+COL Filming Locations VAL Universal Studios - 100 Universal City Plaza, Universal City, California, USA	0
+COL Language VAL English,French,Cantonese,Gujarati,Yiddish	0
+COL Genre VAL Documentary	0
+COL ReviewCount VAL 330 user,181 critic	0
+COL Duration VAL 	0
+COL Year VAL 1986	0
+COL Director VAL Derek Lee,Clif Prowse	0
+COL Duration VAL 104 min	0

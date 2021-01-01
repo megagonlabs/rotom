@@ -1,0 +1,150 @@
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL city VAL Afton VA	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.065%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.055999999999999994%	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL abv VAL 0.09%	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055%	1
+COL abv VAL 0.042%	1
+COL abv VAL 0.057%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055999999999999994%	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 32.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.042%	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 OZ.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 12.0 oz	1
+COL index VAL 407	0
+COL beer-name VAL Steel Rail Extra Pale Ale	0
+COL index VAL 2258	0
+COL brewery_id VAL 66	0
+COL style VAL American Pale Ale (APA)	0
+COL brewery_id VAL 25	0
+COL brewery-name VAL Evil Czech Brewery	0
+COL index VAL 1076	0
+COL id VAL 934	0
+COL brewery-name VAL The Right Brain Brewery	0
+COL brewery_id VAL 230	0
+COL beer-name VAL Fat Tire Amber Ale	0
+COL city VAL Fuquay-Varina	0
+COL id VAL 1728	0
+COL abv VAL 0.063	0
+COL beer-name VAL Cavatica Stout	0
+COL ibu VAL 20	0
+COL city VAL Grand Rapids	0
+COL brewery-name VAL Crystal Springs Brewing Company	0
+COL brewery-name VAL Aviator Brewing Company	0
+COL style VAL Saison / Farmhouse Ale	0
+COL style VAL American Amber / Red Ale	0
+COL brewery-name VAL Blue Point Brewing Company	0
+COL index VAL 1190	0
+COL index VAL 1881	0
+COL beer-name VAL Old Chub NITRO	0
+COL brewery-name VAL COAST Brewing Company	0
+COL style VAL American Brown Ale	0
+COL state VAL PA	0
+COL brewery_id VAL 246	0
+COL abv VAL 0.061	0
+COL style VAL Tripel	0
+COL beer-name VAL Moo Thunder Stout	0
+COL brewery-name VAL Matt Brewing Company	0
+COL ibu VAL 37	0
+COL style VAL American Porter	0
+COL brewery-name VAL Hopworks Urban Brewery	0
+COL state VAL WI	0
+COL city VAL Comstock Park	0
+COL style VAL Fruit / Vegetable Beer	0
+COL id VAL 1529	0
+COL style VAL American Pale Ale (APA)	0
+COL abv VAL 0.047	0
+COL abv VAL 0.05	0
+COL beer-name VAL Oktoberfest	0
+COL id VAL 564	0
+COL state VAL CT	0
+COL id VAL 1429	0
+COL city VAL Columbus	0
+COL abv VAL 0.053	0
+COL abv VAL 0.088	0
+COL id VAL 2392	0
+COL id VAL 1373	0
+COL brewery-name VAL Firestone Walker Brewing Company	0
+COL brewery-name VAL Back East Brewing Company	0
+COL beer-name VAL Heyoka IPA	0
+COL id VAL 2159	0
+COL city VAL Brooklyn	0
+COL beer-name VAL Hopkick Dropkick	0
+COL brewery-name VAL Blue Owl Brewing	0
+COL beer-name VAL Towhead	0
+COL brewery_id VAL 69	0
+COL abv VAL 0.071	0
+COL city VAL Bridgman	0
+COL beer-name VAL Longboard Island Lager	0
+COL ibu VAL 30	0
+COL abv VAL 	0
+COL index VAL 867	0
+COL style VAL American IPA	0
+COL state VAL VA	0
+COL brewery-name VAL Wachusett Brewing Company	0
+COL beer-name VAL Deadeye Jack	0
+COL brewery-name VAL Brewery Vivant	0
+COL abv VAL 0.065	0
+COL style VAL American Blonde Ale	0

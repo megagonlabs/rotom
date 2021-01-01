@@ -1,0 +1,150 @@
+COL RatingCount VAL 59,313	1
+COL RatingCount VAL 9,321	1
+COL Genre VAL Action & Adventure,Science Fiction & Fantasy	1
+COL RatingCount VAL 24,122	1
+COL RatingCount VAL 230,805	1
+COL Description VAL Based on the Stephen King novel, Misery casts James Caan as romance writer Paul Sheldon. After a car accident, Sheldon is trapped in his vehicle in the middle of a blizzard; on the brink of death, he is rescued by Annie Wilkes (Kathy Bates), a former nurse who carries the writer to her home to recover. It turns out that Annie is a huge fan of Sheldon's work, which consists of a series of romance novels about a character named Misery Chastain; Paul, wanting to explore more serious work, has,decided to kill Misery in order to write a raw, autobiographical book about life on the streets. Annie, who has lived almost vicariously through the Misery Chastain books for years, is livid over the harsh language of Paul's book, but becomes almost crazed upon discovering Misery's fate. To teach the bedridden man a lesson, she forces him to burn the autobiographical manuscript and resurrect Misery; after learning of Annie's murderous past, he knows that Misery's return to life will mark the end of his own.	1
+COL RatingCount VAL 5,747	1
+COL RatingCount VAL 24,443	1
+COL RatingCount VAL 187,946	1
+COL RatingCount VAL 18,653	1
+COL RatingCount VAL 9,100	1
+COL RatingCount VAL 24,044	1
+COL RatingCount VAL 153,870	1
+COL RatingCount VAL 12,280	1
+COL RatingCount VAL 24,817	1
+COL RatingCount VAL 35,169	1
+COL Year VAL 1994 1995 1996	1
+COL Description VAL See Girl Run is what happens when a 30-something woman allows life's 'what ifs' to overwhelm her appreciation for what life actually is. Disregarding her current obligations, she digs into her romantic past in hopes of invigorating her present.	1
+COL RatingCount VAL 40,608	1
+COL Id VAL the_fault_in_our_stars	1
+COL RatingCount VAL 21,184	1
+COL RatingCount VAL 2,367	1
+COL RatingCount VAL 5,748	1
+COL RatingCount VAL 38,654	1
+COL RatingCount VAL 33,623	1
+COL RatingCount VAL 13,371	1
+COL Release Date VAL Sep 18, 2009 Wide	1
+COL RatingCount VAL 2,032	1
+COL RatingCount VAL 218,328	1
+COL RatingCount VAL 326,763	1
+COL RatingCount VAL 9,403	1
+COL RatingCount VAL 20,299	1
+COL RatingCount VAL 7,857	1
+COL RatingCount VAL 83,659	1
+COL RatingCount VAL 1,045	1
+COL RatingCount VAL 75,214	1
+COL RatingCount VAL 3,160	1
+COL RatingCount VAL 105,244	1
+COL RatingCount VAL 2,484	1
+COL RatingCount VAL 6,025	1
+COL RatingCount VAL 8,768	1
+COL RatingCount VAL 3,824	1
+COL RatingCount VAL 68,929	1
+COL RatingCount VAL 8,646	1
+COL RatingCount VAL 214,071	1
+COL RatingCount VAL 1,421	1
+COL RatingCount VAL 82,026	1
+COL RatingCount VAL 106,076	1
+COL RatingCount VAL 12,117	1
+COL RatingCount VAL 91,577	1
+COL RatingCount VAL 109,005	1
+COL Creator VAL Tania Rose,William Rose	1
+COL RatingCount VAL 3,349	1
+COL RatingCount VAL 92,029	1
+COL RatingValue VAL 7.0	1
+COL Genre VAL Animation,Kids & Family,Comedy	1
+COL RatingCount VAL 37,556	1
+COL RatingCount VAL 178,054	1
+COL RatingCount VAL 394,673	1
+COL RatingCount VAL 1,137	1
+COL Release Date VAL Jan 1, 1971 Wide	1
+COL RatingCount VAL 1,297	1
+COL Creator VAL Christopher Crosby,Mel Friedman,Sheldon Lettich	1
+COL RatingCount VAL 1,428	1
+COL RatingCount VAL 177,645	1
+COL RatingCount VAL 25,890	1
+COL RatingCount VAL 5,096	1
+COL RatingCount VAL 204,128	1
+COL Description VAL This New York-made independent film, the auspicious debut of talented filmmaker Abel Ferrara, who also starred in the film and wrote most of its songs under the moniker 'Jimmy Laine,' offers many genuinely disturbing, graphic shocks as it tells the story of a Big Apple artist living on the edge of the city's fringe. Motivated by his abiding terror of ending up a homeless, drunken vagrant like his father, and suffering from terrifying hallucinations, he is driven to begin murdering homeless,hoboes with a power drill. Eventually his compulsion takes a paranoid twist and he begins murdering anyone who wronged him in the past.	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 1,071	1
+COL Director VAL Bob Clark (III),Bob Clark	1
+COL RatingCount VAL 2,665	1
+COL Year VAL 1960 1961 1962	1
+COL RatingCount VAL 27,057	1
+COL Id VAL tt3060492	0
+COL RatingValue VAL 7.4	0
+COL Filming Locations VAL Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA	0
+COL ReviewCount VAL 268 user,123 critic	0
+COL Actors VAL Joaquim de Almeida,Aunjanue Ellis,Bill Cobbs	0
+COL Description VAL A 400-foot (122-meter) dinosaur-like beast, awoken from undersea hibernation off the Japanese coast by atomic-bomb testing, attacks Tokyo.	0
+COL Duration VAL 95 min	0
+COL Actors VAL Nicole Kidman,Christopher Eccleston,Fionnula Flanagan	0
+COL Filming Locations VAL Ait Benhaddou, Morocco	0
+COL Id VAL tt0369735	0
+COL Language VAL English	0
+COL Director VAL Robert Towne	0
+COL Cast VAL Burt Young,Adam Sandler,Scott LaRose,Lisa Collins,Tom Hodges,Adam Rifkin,Peter Berg,Valerie Breiman,Joe Gieb,Ricky Paull Goldin,Warren Selko,Steven Brill,Billy Zane,Terry Moore,Kim Ferrill	0
+COL Cast VAL Univ. Miami Indian Students Assoc.,Karl Bakke,John Barrett,Jon Bon Jovi,Brent Briscoe,Andreas Carlsson,Elena Casals,Desmond Child,Nyro Shaw Child,Roman Shaw Child,Deepak Chopra,Mrs. Nevan Fisher,Diana Grasselli,Stefanie M. Hall,Amy Hunt Mayer	0
+COL Actors VAL Charlie Bewley,Lielle Tova Blinkoff,Alan Cumming	0
+COL Genre VAL Action,Adventure,Fantasy	0
+COL Duration VAL 114 min	0
+COL Id VAL tt1971325	0
+COL Director VAL Rodney McDonald	0
+COL Id VAL tt4935372	0
+COL ReviewCount VAL 378 user,330 critic	0
+COL RatingValue VAL 7.1	0
+COL RatingCount VAL 168	0
+COL Id VAL tt2316509	0
+COL Description VAL An aging, booze-addled father makes the trip from Montana to Nebraska with his estranged son in order to claim a million-dollar Mega Sweepstakes Marketing prize.	0
+COL Country VAL USA	0
+COL Cast VAL James Gagnon,Benjamin Leighton	0
+COL RatingValue VAL 5.8	0
+COL Country VAL USA	0
+COL Id VAL tt0373051	0
+COL Language VAL English	0
+COL Director VAL James Fargo	0
+COL Duration VAL 117 min	0
+COL Year VAL 2003	0
+COL Name VAL Ziegfeld Follies	0
+COL Release Date VAL 22 April 1935 (USA)	0
+COL Country VAL USA	0
+COL Creator VAL Nick Pettit,Michael Poley	0
+COL Duration VAL 141 min	0
+COL Country VAL USA	0
+COL Id VAL tt3172532	0
+COL RatingValue VAL 5.5	0
+COL Release Date VAL 21 December 1979 (USA)	0
+COL RatingValue VAL 5.5	0
+COL RatingCount VAL 952	0
+COL Genre VAL Drama	0
+COL ReviewCount VAL 48 user,18 critic	0
+COL Name VAL George of the Jungle	0
+COL Language VAL French,English	0
+COL Release Date VAL 4 May 2001 (USA)	0
+COL Duration VAL 96 min	0
+COL Filming Locations VAL Sofia, Bulgaria	0
+COL Actors VAL Michael Douglas,Hal Holbrook,Yaphet Kotto	0
+COL Cast VAL Sylvia Sidney,Joel McCrea,Humphrey Bogart,Wendy Barrie,Claire Trevor,Allen Jenkins,Marjorie Main,Billy Halop,Huntz Hall,Bobby Jordan,Leo Gorcey,Gabriel Dell,Bernard Punsly,Charles Peck,Minor Watson	0
+COL Director VAL Kevin Tenney	0
+COL ReviewCount VAL 160 user,70 critic	0
+COL Cast VAL Paul Watson,Robert Hunter,Patrick Moore,Farley Mowat,Ronald Colby,Martin Sheen,Sharyn Van Der Gulik	0
+COL Filming Locations VAL D C Stages & Sets - 1360 E 6th St, Los Angeles, California, USA	0
+COL Language VAL English,Spanish	0
+COL Language VAL English	0
+COL Genre VAL Drama	0
+COL Year VAL 1976	0
+COL Duration VAL 90 min	0
+COL RatingCount VAL 27	0
+COL Filming Locations VAL Kigali, Rwanda	0
+COL Country VAL USA	0
+COL ReviewCount VAL 30 user,17 critic	0
+COL Description VAL A recently released former convict becomes involved with a married woman with an abusive husband.	0
+COL Director VAL Roger Spottiswoode	0
+COL Filming Locations VAL 1700 E. Ocean Blvd, Long Beach, California, USA	0
+COL Actors VAL Greta Gerwig,Olly Alexander,Eleonore Hendricks	0
+COL Country VAL USA,Germany	0
+COL Director VAL Dan Rush	0
+COL ReviewCount VAL 27 user,8 critic	0
+COL RatingCount VAL 226	0

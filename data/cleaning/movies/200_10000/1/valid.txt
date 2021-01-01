@@ -1,0 +1,200 @@
+COL RatingValue VAL 7.2/10,7.3/10	1
+COL RatingCount VAL 55,650	1
+COL RatingCount VAL 7,704	1
+COL Description VAL This is story of a love triangle involving an American soldier, a congresswoman from Iowa and a German singer who meet in postwar Berlin.	1
+COL RatingValue VAL 6.0	1
+COL RatingValue VAL 7.0	1
+COL Year VAL 2001 2002 2003	1
+COL RatingCount VAL 26,011	1
+COL RatingCount VAL 56,102	1
+COL RatingCount VAL 1,171	1
+COL RatingCount VAL 20,971	1
+COL Director VAL Florent Emilio Siri	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 11,699	1
+COL RatingCount VAL 94,966	1
+COL RatingCount VAL 76,830	1
+COL Genre VAL Drama,Action & Adventure,Kids & Family,Science Fiction & Fantasy,Comedy	1
+COL RatingCount VAL 2,507	1
+COL RatingCount VAL 2,613	1
+COL RatingCount VAL 364,613	1
+COL RatingCount VAL 130,670	1
+COL RatingCount VAL 3,205	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 1,218	1
+COL RatingCount VAL 105,245	1
+COL RatingCount VAL 4,853	1
+COL RatingCount VAL 103,608	1
+COL Genre VAL Drama,Romance	1
+COL Description VAL This New York-made independent film, the auspicious debut of talented filmmaker Abel Ferrara, who also starred in the film and wrote most of its songs under the moniker 'Jimmy Laine,' offers many genuinely disturbing, graphic shocks as it tells the story of a Big Apple artist living on the edge of the city's fringe. Motivated by his abiding terror of ending up a homeless, drunken vagrant like his father, and suffering from terrifying hallucinations, he is driven to begin murdering homeless,hoboes with a power drill. Eventually his compulsion takes a paranoid twist and he begins murdering anyone who wronged him in the past.	1
+COL Description VAL Ernest (Jim Varney) gets into deep trouble when he decides to build a treehouse for the neighborhood kid and accidentally digs up an ugly, evil-tempered troll who hates all children and shows it by promptly turning the five kids helping Ernest into wooden sculptures. This is the fourth entry in the Ernest series and is filled with the goofy humor that has made the films popular with preadolescent kids.	1
+COL RatingCount VAL 151,733	1
+COL RatingCount VAL 12,474	1
+COL RatingCount VAL 15,293	1
+COL RatingCount VAL 5,185	1
+COL RatingCount VAL 1,181	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 159,364	1
+COL Genre VAL Action & Adventure,Comedy	1
+COL RatingCount VAL 1,265	1
+COL RatingCount VAL 42,484	1
+COL RatingCount VAL 20,257	1
+COL RatingCount VAL 1,204	1
+COL Genre VAL Drama,Horror,Mystery & Suspense	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 9,255	1
+COL RatingCount VAL 13,099	1
+COL Id VAL it_follows	1
+COL RatingCount VAL 1,116	1
+COL RatingCount VAL 31,137	1
+COL RatingCount VAL 3,664	1
+COL RatingCount VAL 25,150	1
+COL RatingCount VAL 1,464	1
+COL RatingCount VAL 40,379	1
+COL RatingCount VAL 457,317	1
+COL RatingCount VAL 8,739	1
+COL RatingCount VAL 4,074	1
+COL RatingCount VAL 2,612	1
+COL RatingCount VAL 41,742	1
+COL Id VAL fort_apache	1
+COL RatingCount VAL 6,067	1
+COL RatingCount VAL 8,038	1
+COL Genre VAL Drama,Horror,Mystery & Suspense	1
+COL Creator VAL Paul Hernandez,Bob Schooley,Mark McCorkle,Robert Schooley	1
+COL RatingCount VAL 3,454	1
+COL RatingCount VAL 62,591	1
+COL RatingCount VAL 3,134	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 59,668	1
+COL RatingCount VAL 119,968	1
+COL RatingCount VAL 44,596	1
+COL Release Date VAL Apr 26, 2013 Limited	1
+COL RatingCount VAL 65,266	1
+COL RatingCount VAL 98,235	1
+COL RatingCount VAL 57,984	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 35,825	1
+COL Release Date VAL Jul 31, 1992 Wide	1
+COL RatingCount VAL 147,391	1
+COL RatingCount VAL 193,154	1
+COL RatingCount VAL 23,855	1
+COL RatingCount VAL 23,938	1
+COL RatingCount VAL 1,717	1
+COL RatingCount VAL 84,420	1
+COL RatingCount VAL 78,125	1
+COL RatingCount VAL 4,303	1
+COL RatingCount VAL 16,575	1
+COL RatingCount VAL 190,911	1
+COL RatingCount VAL 68,036	1
+COL Duration VAL 1 hr. 34 min.	1
+COL RatingCount VAL 32,903	1
+COL RatingCount VAL 64,661	1
+COL RatingCount VAL 18,540	1
+COL RatingCount VAL 41,457	1
+COL RatingCount VAL 217,257	1
+COL RatingCount VAL 2,372	1
+COL RatingCount VAL 14,042	1
+COL RatingCount VAL 4,062	1
+COL RatingCount VAL 1,126	1
+COL RatingCount VAL 266,531	1
+COL Year VAL 2010	0
+COL Name VAL Day of the Dead	0
+COL Actors VAL Alice Englert,Viola Davis,Emma Thompson	0
+COL Id VAL tt0402057	0
+COL RatingValue VAL 6.7	0
+COL Id VAL tt0342275	0
+COL Language VAL English,Danish,German	0
+COL Year VAL 1970	0
+COL Actors VAL Chris Elliott,Marielle Heller,Bridey Elliott	0
+COL Director VAL William A. Wellman,John Wayne	0
+COL Creator VAL Tom McCarthy,Josh Singer	0
+COL Release Date VAL 3 November 1995 (USA)	0
+COL Genre VAL Comedy,Music,Romance	0
+COL RatingValue VAL 8.1	0
+COL RatingValue VAL 	0
+COL Description VAL To keep the loyalty of a village during the Vietnam war, a U.S. Army officer and his unit struggle to deliver it a live elephant.	0
+COL Description VAL A toon hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.	0
+COL Genre VAL Romance,Western	0
+COL Release Date VAL 	0
+COL Name VAL Massacre at Central High	0
+COL Director VAL Dick Powell	0
+COL Id VAL tt0325805	0
+COL Genre VAL Drama	0
+COL Description VAL A stripper and single mother gets dragged into a dangerous situation after a congressman takes a fancy to her.	0
+COL Filming Locations VAL Atascadero, California, USA	0
+COL Country VAL USA,United Arab Emirates	0
+COL Country VAL USA	0
+COL Year VAL 1946	0
+COL Release Date VAL March 2008 (France)	0
+COL Creator VAL Gregory Nava,Anna Thomas	0
+COL Description VAL In the future, an alien race uses androids as bombs to attack Earth. A government weapons specialist is accused of being one such android and sets out to prove his innocence.	0
+COL Cast VAL Kevin Kline,Kenneth Branagh,Rosie Perez,Armand Assante,Edward James Olmos,Jim Cummings,Frank Welker,Tobin Bell,Duncan Marjoribanks,Elijah Chiang,Cyrus Shaki-Khan,Elton John	0
+COL Genre VAL Drama	0
+COL Genre VAL Crime,Thriller	0
+COL ReviewCount VAL 11 user,16 critic	0
+COL Id VAL tt2287695	0
+COL Year VAL 1923	0
+COL Name VAL Three Days of the Condor	0
+COL Id VAL tt4392454	0
+COL Year VAL 2002	0
+COL Director VAL George Tillman Jr.	0
+COL Name VAL Seed of Chucky	0
+COL Language VAL English	0
+COL Director VAL Dustin Rikert	0
+COL Director VAL Henry Hathaway	0
+COL Cast VAL Nicholas Ryan Gibbs,Wayne E. Brown,Austin Farnsworth,Katelyn Grace Farnsworth,Allison Marie Farnsworth,Dawn Storey,Kristina Kaylen,Ryan-Iver Klann,Jared Withrow,Heather Fairbanks,Michael Brennan,Haley Klann,Gwen Gornicki,Tim Kaiser,Joseph Cloutier Jr.	0
+COL Cast VAL Mona Marshall,Wasabi Mizuta,Johnny Yong Bosch,Megumi Oohara,Cassandra Morris,Satoshi Tsumabuki,Brian Beacock,Yumi Kakazu,Subaru Kimura,Kaiji Tang,Tomokazu Seki,Alaska,Minae Noji,Mario Vaquerizo	0
+COL ReviewCount VAL 25 user,24 critic	0
+COL Duration VAL 91 min	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Cast VAL Jack Lemmon,Ted Danson,Olympia Dukakis,Kathy Baker,Kevin Spacey,Ethan Hawke,Zakes Mokae,J.T. Walsh,Peter Michael Goetz,John Apicella,Richard McGonagle,Bill Morey,Mary Fogarty,Art Frankel,Ray Girardin	0
+COL Cast VAL Mel Gibson,Danny Glover,Joe Pesci,Joss Ackland,Derrick O'Connor,Patsy Kensit,Darlene Love,Traci Wolfe,Steve Kahan,Mark Rolston,Jenette Goldstein,Dean Norris,Juney Smith,Nestor Serrano,Philip Suriano	0
+COL Name VAL A Most Violent Year	0
+COL Filming Locations VAL Latrobe, Pennsylvania, USA	0
+COL Year VAL 2000	0
+COL Country VAL USA	0
+COL RatingValue VAL 6.6	0
+COL Language VAL English,Swedish	0
+COL Director VAL Brad Anderson	0
+COL Actors VAL Sara Paxton,Dustin Milligan,Chris Carmack	0
+COL Duration VAL 106 min	0
+COL Language VAL English	0
+COL Filming Locations VAL 4411 Noeline Avenue, Encino, Los Angeles, California, USA	0
+COL Duration VAL 97 min	0
+COL Creator VAL George Bricker,Dwight V. Babcock	0
+COL Description VAL At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.	0
+COL Director VAL Jan de Bont	0
+COL Filming Locations VAL Blackstone Bay, Alaska, USA	0
+COL Duration VAL 109 min	0
+COL Filming Locations VAL Botswana	0
+COL Duration VAL 103 min	0
+COL Duration VAL 	0
+COL Release Date VAL 20 June 2013 (Netherlands)	0
+COL Cast VAL Vincent Gallo,Chloë Sevigny,Cheryl Tiegs,Elizabeth Blake,Anna Vareschi,Mary Morasky,Jeffrey Wood,Eric Wood,Michael Martire,Rick Doucette,Jim Lester,Michael Niksa	0
+COL Genre VAL Action,Adventure,Sci-Fi	0
+COL Year VAL 2014	0
+COL Year VAL 1999	0
+COL Description VAL An exploration of technologically developing nations and the effect the transition to Western-style modernization has had on them.	0
+COL Country VAL USA	0
+COL RatingValue VAL 8.1	0
+COL Creator VAL Erin Cressida Wilson,Anne Fontaine	0
+COL Language VAL English,Cantonese	0
+COL Language VAL English	0
+COL RatingValue VAL 8.7	0
+COL Year VAL 2011	0
+COL Release Date VAL 18 September 1998 (USA)	0
+COL ReviewCount VAL 23 user,8 critic	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Genre VAL Horror	0
+COL Duration VAL 90 min	0
+COL RatingCount VAL 769	0
+COL Creator VAL Blake Edwards,Evelyn Anthony	0
+COL Year VAL 2013	0
+COL Filming Locations VAL 	0
+COL RatingValue VAL 6.2	0
+COL Description VAL A suburban family moves to a new neighborhood with their large yet lovable Great Dane, who has a tendency to wreak havoc in his own oblivious way.	0
+COL Genre VAL Horror,Mystery,Thriller	0
+COL Id VAL tt0475394	0
+COL RatingValue VAL 7.6	0
+COL Description VAL Where the Red Fern Grows is the heartwarming and adventurous tale for all ages about a young boy and his quest for his own red-bone hound hunting dogs.	0

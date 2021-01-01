@@ -1,0 +1,200 @@
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.063%	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.042%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.042%	1
+COL ounces VAL 16.0 oz.	1
+COL city VAL Mill Valley CA	1
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.059000000000000004%	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.059000000000000004%	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.069%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 OZ.	1
+COL abv VAL 0.065%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 32.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.069%	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.05%	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.051%	1
+COL abv VAL 0.057%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL id VAL 2231	0
+COL brewery_id VAL 229	0
+COL state VAL MI	0
+COL city VAL Alpine	0
+COL index VAL 1190	0
+COL brewery_id VAL 74	0
+COL brewery-name VAL Brewery Vivant	0
+COL brewery_id VAL 490	0
+COL ibu VAL 68	0
+COL index VAL 2074	0
+COL abv VAL 0.052	0
+COL ibu VAL 45	0
+COL index VAL 764	0
+COL brewery_id VAL 177	0
+COL id VAL 840	0
+COL id VAL 1180	0
+COL brewery_id VAL 300	0
+COL brewery-name VAL Manayunk Brewing Company	0
+COL ibu VAL 20	0
+COL id VAL 2017	0
+COL city VAL Fuquay-Varina	0
+COL city VAL Brooklyn	0
+COL style VAL Milk / Sweet Stout	0
+COL beer-name VAL Brontide	0
+COL id VAL 2392	0
+COL id VAL 793	0
+COL abv VAL 0.05	0
+COL city VAL Comstock Park	0
+COL index VAL 2021	0
+COL beer-name VAL Fat Tire Amber Ale	0
+COL abv VAL 0.065	0
+COL brewery_id VAL 74	0
+COL style VAL Tripel	0
+COL brewery_id VAL 515	0
+COL id VAL 512	0
+COL style VAL American Amber / Red Ale	0
+COL city VAL Chandler	0
+COL index VAL 460	0
+COL id VAL 1192	0
+COL style VAL American Blonde Ale	0
+COL style VAL Fruit / Vegetable Beer	0
+COL index VAL 1244	0
+COL brewery_id VAL 97	0
+COL style VAL American Porter	0
+COL abv VAL 0.05	0
+COL style VAL Kölsch	0
+COL brewery_id VAL 149	0
+COL city VAL Brooklyn	0
+COL city VAL Longmont	0
+COL city VAL Grand Rapids	0
+COL city VAL O'Fallon	0
+COL brewery-name VAL Pateros Creek Brewing Company	0
+COL state VAL MA	0
+COL brewery-name VAL Back East Brewing Company	0
+COL index VAL 2139	0
+COL city VAL San Antonio	0
+COL id VAL 1132	0
+COL brewery-name VAL The Right Brain Brewery	0
+COL index VAL 101	0
+COL brewery_id VAL 521	0
+COL state VAL AZ	0
+COL index VAL 910	0
+COL abv VAL 	0
+COL brewery-name VAL Ruhstaller Beer Company	0
+COL state VAL CT	0
+COL index VAL 417	0
+COL state VAL AZ	0
+COL id VAL 2645	0
+COL brewery_id VAL 471	0
+COL index VAL 1044	0
+COL id VAL 87	0
+COL brewery_id VAL 66	0
+COL index VAL 407	0
+COL ibu VAL 35	0
+COL style VAL American Pale Ale (APA)	0
+COL beer-name VAL Moo Thunder Stout	0
+COL state VAL MN	0
+COL beer-name VAL Towhead	0
+COL abv VAL abv	0
+COL style VAL Saison / Farmhouse Ale	0
+COL city VAL Aurora	0
+COL city VAL Pottstown	0
+COL state VAL FL	0
+COL beer-name VAL Sous Chef	0
+COL brewery-name VAL Two Henrys Brewing Company	0
+COL brewery_id VAL 51	0
+COL beer-name VAL Halcyon Unfiltered Wheat	0
+COL beer-name VAL Flesh Gourd'n	0
+COL state VAL OK	0
+COL style VAL American Pale Ale (APA)	0
+COL beer-name VAL Wasatch Apricot Hefeweizen	0
+COL style VAL American Wild Ale	0
+COL beer-name VAL Beltian White	0
+COL style VAL American IPA	0
+COL style VAL Vienna Lager	0
+COL id VAL 1728	0
+COL style VAL American Pale Wheat Ale	0
+COL style VAL American IPA	0
+COL city VAL Lahaina	0
+COL state VAL IN	0

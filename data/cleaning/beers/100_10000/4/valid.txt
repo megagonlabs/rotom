@@ -1,0 +1,100 @@
+COL brewery_id VAL 41	0
+COL index VAL 1126	0
+COL brewery_id VAL 82	0
+COL index VAL 2314	0
+COL index VAL 599	0
+COL ounces VAL 12.0 ounce	1
+COL brewery-name VAL Terrapin Brewing Company	0
+COL ounces VAL 12.0 oz.	1
+COL index VAL 409	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL style VAL Gose	0
+COL abv VAL 0.099	0
+COL ibu VAL N/A	1
+COL brewery-name VAL Independence Brewing Company	0
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055%	1
+COL style VAL American Amber / Red Lager	0
+COL style VAL American Amber / Red Lager	0
+COL abv VAL 0.055%	1
+COL city VAL Gainesville	0
+COL beer-name VAL Cold Smoke Scotch Ale	0
+COL ibu VAL N/A	1
+COL style VAL American Amber / Red Ale	0
+COL ounces VAL 12.0 oz.	1
+COL state VAL NC	0
+COL style VAL Czech Pilsener	0
+COL id VAL 708	0
+COL ibu VAL N/A	1
+COL ibu VAL 20	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL state VAL NC	0
+COL brewery-name VAL Bent Paddle Brewing Company	0
+COL ibu VAL N/A	1
+COL beer-name VAL Resurrected	0
+COL state VAL 	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Silo Can	1
+COL abv VAL 0.072	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL index VAL 1087	0
+COL id VAL 125	0
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL beer-name VAL Bitter Brewer	0
+COL beer-name VAL Hopadillo India Pale Ale	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.062%	1
+COL ounces VAL 12.0 oz.	1
+COL style VAL American Blonde Ale	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL brewery-name VAL Matt Brewing Company	0
+COL city VAL Idaho Springs CO	1
+COL city VAL Valparaiso	0
+COL ounces VAL 16.0 OZ.	1
+COL index VAL 2383	0
+COL state VAL MT	0
+COL brewery-name VAL Kona Brewing Company	0
+COL abv VAL 0.069	0
+COL abv VAL 0.055	0
+COL ounces VAL 16.0 oz.	1
+COL city VAL Tampa	0
+COL state VAL state	0
+COL style VAL American Pale Ale (APA)	0
+COL ibu VAL 35	0
+COL state VAL 	1
+COL brewery_id VAL 83	0
+COL abv VAL 0.055	0
+COL ibu VAL 29	0
+COL ounces VAL 12.0 ounce	1
+COL brewery-name VAL Minhas Craft Brewery	0
+COL beer-name VAL Grateful White	0
+COL id VAL 2413	0
+COL id VAL 2629	0
+COL ounces VAL 12.0 oz.	1
+COL brewery-name VAL SanTan Brewing Company	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.05%	1
+COL state VAL 	1
+COL brewery_id VAL 371	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL index VAL 2128	0
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL index VAL 345	0

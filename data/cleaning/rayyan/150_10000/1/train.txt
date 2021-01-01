@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Marie-Pierre Gagnon"",""Claude Sicotte"",""��dith-Romy Nsangou"",""Sonya Grenier"",""Julie Payne-Gagnon""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 4/2/15	1
+COL article_jcreated_at VAL 1/7/15	1
+COL journal_title VAL Actas espa̱olas de psiquiatr�_a	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 2/1/15	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 11/1/13	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 10/1/13	1
+"COL author_list VAL {""Francitorra ME"",""Sanchez GS"",""Manrique CA"",""Velasco TT"",""Castany A R"",""Escriche XF"",""Fern����ndez CS"",""Fornell LL"",""���lvarez S���"",""Fern����ndez EA"",""Rodriguez MVF"",""Sim���_ MR"",""Mayo EP""}"	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_title VAL Lung function efficacy of olodaterol qd delivered via respimat� vs placebo and formoterol bid in patients with COPD: two 48-week studies [Abstract]	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 12/1/12	1
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 2/10/14	1
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 10/1/03	1
+COL article_pagination VAL 81-3	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 8/1/09	1
+COL article_jcreated_at VAL 9/1/06	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 5/1/05	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 4/1/01	1
+"COL author_list VAL {""T Fors̩n"",""J Eriksson"",""C Osmond"",""D Barker""}"	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 12/1/09	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/14	1
+COL id VAL 847600	0
+COL article_language VAL eng	0
+COL journal_title VAL BMC Musculoskelet Disord	0
+COL article_jissue VAL 3	0
+COL article_pagination VAL 	0
+COL journal_title VAL PLoS One	0
+COL article_pagination VAL S156-S157	0
+COL journal_title VAL 	0
+COL article_title VAL Analysis of responses of radiology personnel to a simulated mass casualty incident after the implementation of an automated alarm system in hospital emergency planning.	0
+COL article_title VAL General public's and physicians' perception of health risk associated with radon exposure in the state of Azad Jammu and Kashmir	0
+COL article_pagination VAL 1577-1588	0
+COL journal_issn VAL 0961-5423 (Print) 0961-5423	0
+COL article_jissue VAL 3	0
+COL article_title VAL Value of intravenous cholangiography prior to laparoscopic cholecystectomy	0
+COL article_jvolumn VAL 87	0
+COL article_language VAL English	0
+COL article_jvolumn VAL 67	0
+COL journal_issn VAL 1361-6560	0
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL Ann Rheum Dis	0
+COL jounral_abbreviation VAL J Pers Soc Psychol	0
+COL article_pagination VAL 435-442	0
+COL article_jissue VAL 12	0
+COL jounral_abbreviation VAL J. Recept. Signal Transduct. Res.	0
+"COL author_list VAL {""J R Trott"",""D J Morrow"",""D W Buntine""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 118	0
+COL article_title VAL [New aspects in hernia surgery].	0
+COL id VAL 248064	0
+COL id VAL 185291	0
+COL article_pagination VAL 693-6; discussion 697 ST  - Value of intravenous cholangiography prior to laparoscopic cholecystectomy-	0
+COL article_jvolumn VAL 18	0
+COL jounral_abbreviation VAL J Stroke Cerebrovasc Dis	0
+COL journal_title VAL Cardiology in the young	0
+COL article_title VAL HRQoL after coronary artery bypass grafting and percutaneous coronary intervention for stable angina.	0
+COL journal_title VAL Journal of dental research	0
+COL article_title VAL Blood 25-hydroxyvitamin D concentration and hypertension: a meta-analysis.	0
+COL journal_title VAL Focus on Alternative and Complementary Therapies	0
+COL article_jissue VAL 9	0
+COL article_pagination VAL 813-20	0
+COL article_jvolumn VAL 21	0
+COL article_language VAL 	0
+COL article_jvolumn VAL 126	0
+COL article_title VAL Corneal collagen cross-linking for nonectatic disorders: A systematic review.	0
+COL journal_issn VAL 0021-9355 (Print)	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 846319	0
+COL article_title VAL Alkaline phosphatase activity of duodenal enterocytes after neonatal administration of monosodium glutamate to rats.	0
+COL id VAL 682676	0
+COL article_pagination VAL 	0
+COL article_jvolumn VAL 57	0
+COL article_language VAL eng	0
+COL journal_title VAL 	0
+COL article_jvolumn VAL 24	0
+COL jounral_abbreviation VAL American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists	0
+COL id VAL 572425	0
+COL article_jissue VAL 4	0
+COL article_jvolumn VAL 41	0
+COL article_pagination VAL 2755-72	0
+COL id VAL 911271	0
+"COL author_list VAL {""G. Abraham"",""Jr. Fromm, R. E."",""P. E. Marik"",""J. Varon"",""P. Careau""}"	0
+COL journal_title VAL American Indian and Alaska Native Mental Health Research: The Journal of the National Center	0
+COL journal_title VAL Aktuelle Traumatologie	0
+COL article_title VAL Prevalence, molecular characterization, and phenotypic confirmation of extended-spectrum beta-lactamases in Escherichia coli, Klebsiella pneumoniae, and Klebsiella oxytoca at the Radboud University Nijmegen Medical Centre in The Netherlands	0
+COL article_title VAL CT features of pulmonary arterial hypertension and its major subtypes: a systematic CT evaluation of 292 patients from the ASPIRE Registry.	0
+COL article_language VAL eng	0
+"COL author_list VAL {""J.P. Toombs"",""M.S. Bauer"",""W.R. Widmer"",""A.R. Blight""}"	0
+COL article_jvolumn VAL 113	0
+COL article_jcreated_at VAL 6/17/02	0
+COL journal_issn VAL 0144-6665	0
+COL journal_issn VAL 0363-5023	0
+COL article_jvolumn VAL 52	0
+COL article_jcreated_at VAL 1/1/91	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 4537	0

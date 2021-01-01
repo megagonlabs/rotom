@@ -1,0 +1,100 @@
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jvolumn VAL 42	0
+COL article_title VAL Autonomic activity, pain, and perceived health in patients on sick leave due to stress-related illnesses	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 159-166	0
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 1/1/04	1
+"COL author_list VAL {""Irene G Salado"",""Ana Martinez"",""Daniel I Perez"",""Brian C Kraemer"",""Murilo L Bello"",""Concepci�_n Perez"",""Nicole F Liachko"",""Magalie Lecourtois"",""Miriam Redondo"",""Carmen Gil"",""Laetitia Miguel""}"	1
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jissue VAL 0	0
+COL article_pagination VAL 217-26	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_pagination VAL 84-8	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 9/2/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL journal_title VAL 	0
+COL journal_issn VAL 	0
+COL article_title VAL The lung cancer management guidelines 2012.	0
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+COL article_jvolumn VAL 39	0
+COL article_jvolumn VAL 	1
+COL article_jvolumn VAL 22	0
+COL article_title VAL Barriers and facilitators to implementing electronic prescription: a systematic review of user groups' perceptions.	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 	1
+COL journal_title VAL Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus / I.S.D.E	0
+"COL author_list VAL {""Hotzel K"",""R "",""von Brachel"",""Kosfelder J"",""Hechler T"",""Vocks S"",""Rieger E"",""Schulte D"",""Schmidt U""}"	0
+"COL author_list VAL {""St��_ber F"",""Mutz N"",""Wrigge H"",""Putensen C"",""Zinserling J"",""Zech S"",""Von Spiegel T""}"	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 5/1/12	1
+COL jounral_abbreviation VAL Ann. Intern. Med.	0
+COL article_jcreated_at VAL 4/1/11	1
+COL article_title VAL Effet d'une intervention non m̩dicamenteuse, Voix d'Or�, sur les troubles du comportement dans la maladie d'Alzheimer ou une maladie apparent̩e. [Effect of a non-pharmacological intervention, Voix d'Or�, on behavior disturbances in Alzheimer disease and associated disorders.]	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jcreated_at VAL 3/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_title VAL Preferences and practices of Americans and their physicians in antihypertensive therapy	0
+COL article_jcreated_at VAL 9/1/97	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/08	1
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 113	0
+COL journal_issn VAL 1049-2089	0
+COL article_jcreated_at VAL 7/1/07	1
+COL article_pagination VAL 	0
+COL article_jcreated_at VAL 1/1/11	1
+COL id VAL 720526	0
+COL journal_title VAL British journal of sports medicine	0
+"COL author_list VAL {""S. Regina-Ribeiro"",""C. Tortoza"",""R. P. S. Lima"",""S. T. T. de Freitas"",""P. R. Lucareli"",""M. O. Lima"",""M. T. Pacheco"",""J. Gomes-Lucareli"",""R. A. Lopes-Martins""}"	0
+COL article_title VAL The Impact of Culture on Learning: Exploring Student Perceptions	0
+COL article_title VAL The changing patterns of systemic fluoride intake	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 0	0
+COL article_jcreated_at VAL 10/1/96	0
+COL article_title VAL Body and Illness: Considering Visayan Filipino Children's Perspectives Within Local and Global Relationships of Inequality	0
+COL article_pagination VAL 17-8	1
+COL article_jcreated_at VAL 6/1/12	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 5/1/10	1
+COL article_jcreated_at VAL 5/11/07	1
+COL article_language VAL 	0
+COL journal_issn VAL 1757-1626	0
+COL article_jcreated_at VAL 	0
+"COL author_list VAL {""Carolyn H McCabe"",""Shaun G Goodman"",""Frans Van de Werf"",""David A Morrow"",""Elliott M Antman"",""Eugene Braunwald"",""Kenneth W Mahaffey"",""Marc Cohen"",""Ian B Menown"",""Sabina A Murphy"",""Charles Michael Gibson""}"	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 4	0
+COL journal_issn VAL 0160-6689	0
+COL article_language VAL eng	0
+COL article_jcreated_at VAL 1/1/10	1
+COL jounral_abbreviation VAL Proc.Natl.Acad.Sci.U.S.A.	0
+COL article_jissue VAL 1	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 5/1/14	1
+COL article_title VAL Intra-operative change of gastric ph during laparotomic cholecystectomy under general anaesthesia: A prospective case-control study	0
+COL article_jcreated_at VAL 6/1/14	1
+COL article_pagination VAL 360-374	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jissue VAL 	1
+COL article_pagination VAL 655-663	0
+COL article_jissue VAL 5	0
+COL article_jissue VAL 11	0
+COL id VAL 892609	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL Physiotherapy	0
+COL article_jcreated_at VAL 1/1/03	1
+COL id VAL 893227	0
+COL article_jcreated_at VAL 1/1/13	1
+COL article_title VAL Relationship between water hardness and coronary mortality in Taiwan	0

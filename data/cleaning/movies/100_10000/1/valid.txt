@@ -1,0 +1,100 @@
+COL Filming Locations VAL Broadway & 20th Street, Chelsea, Manhattan, New York City, New York, USA	0
+COL RatingCount VAL 34,651	1
+COL Filming Locations VAL 5th Avenue, Manhattan, New York City, New York, USA	0
+COL Duration VAL 1 hr. 52 min.	1
+COL Filming Locations VAL 444 S. Flower Street, Downtown, Los Angeles, California, USA	0
+COL Id VAL tt0089927	0
+COL Director VAL Jonathan Levine	0
+COL RatingCount VAL 1,691	1
+COL Actors VAL Scott Strader,Perry Lang,Mariska Hargitay	0
+COL RatingValue VAL 6.0	1
+COL Duration VAL 133 min	0
+COL Duration VAL 93 min	0
+COL RatingCount VAL 1,124	1
+COL RatingCount VAL 140,828	1
+COL RatingCount VAL 3,903	1
+COL Id VAL tt0053925	0
+COL RatingCount VAL 43,489	1
+COL ReviewCount VAL 868 user,465 critic	0
+COL RatingCount VAL 58,938	1
+COL Actors VAL Lucius Hoyos,Zoe Fraser,Marty Adams	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 32,026	1
+COL Filming Locations VAL Columbia University - Broadway & 116th Street, Manhattan, New York City, New York, USA	0
+COL Language VAL English	0
+COL Filming Locations VAL Eagan, Minnesota, USA	0
+COL Description VAL This epic film focuses on the life of famed American communist John Reed. The film begins in 1915, when Reed makes the acquaintance of married Portland journalist Louise Bryant. So persuasive is Reed's point of view that Louise kicks over the traces and joins Reed and his fellow radicals.	1
+COL Language VAL English	0
+COL RatingCount VAL 7,435	1
+COL RatingCount VAL 2,291	1
+COL Description VAL An Englishman on a Ruritarian holiday must impersonate the king when the rightful monarch, a distant cousin, is drugged and kidnapped.	0
+COL Director VAL Matt Walsh	0
+COL Filming Locations VAL 	0
+COL RatingCount VAL 4,952	1
+COL RatingCount VAL 16,046	1
+COL RatingCount VAL 110,181	1
+COL RatingCount VAL 1,645	1
+COL RatingValue VAL 3.0	1
+COL RatingCount VAL 44,195	1
+COL Description VAL Rose, is taken in by the Hillyer family to serve as a 1930s housemaid so that she can avoid falling into a life of prostitution. Rose's appearence and personality is such that all men fall ...	0
+COL RatingCount VAL 3,482	1
+COL RatingCount VAL 37,371	1
+COL Name VAL Blonde Crazy	0
+COL Duration VAL 124 min	0
+COL Creator VAL Pearry Reginald Teo,Chad Michael Ward	0
+COL RatingValue VAL 	1
+COL RatingCount VAL 3,868	1
+COL Id VAL tt0061747	0
+COL Genre VAL Drama,Family,Music	0
+COL RatingValue VAL 4.4/10,5.1/10	1
+COL Name VAL Fatal Beauty	0
+COL RatingCount VAL 1,044	1
+COL RatingCount VAL 3,467	1
+COL Language VAL English,Italian	0
+COL RatingCount VAL 39,278	1
+COL RatingCount VAL 62,672	1
+COL Cast VAL Logan Lerman,Dylan McDermott,Kate Walsh,Patrick de Ledebur,Johnny Simmons,Brian Balzerini,Tom Kruszewski,Nina Dobrev,Nicholas Braun,Julia Garner,Ezra Miller,Tom Savini,Emily Marie Callaway,Paul Rudd,Chelsea Zhang	0
+COL RatingCount VAL 82,064	1
+COL Filming Locations VAL USA	0
+COL RatingCount VAL 8,717	1
+COL Duration VAL 141 min	0
+COL RatingCount VAL 6,934	1
+COL ReviewCount VAL 130 user,52 critic	0
+COL RatingCount VAL 73,886	1
+COL Country VAL USA	0
+COL RatingCount VAL 11,202	1
+COL RatingCount VAL 87,067	1
+COL Duration VAL 90 min	0
+COL Description VAL A widowed Coast Guard Admiral and a widow handbag designer fall in love and marry, much to the dismay of her 10 and his 8 children.	0
+COL Cast VAL George C. Scott,Stacy Keach,Jane Alexander,Scott Wilson,Rosalind Cash,Erik Estrada,Clifton James,Richard E. Kalk,James Sikking,Beverly Hope Atkinson,Mittie Lawrence,Isabel Sanford,Carol Speed,Tracee Lyles,Burke Byrnes	0
+COL Director VAL Tony Randel	0
+COL RatingCount VAL 5,178	1
+COL RatingCount VAL 41,116	1
+COL Year VAL 2014	0
+COL RatingCount VAL 110,011	1
+COL ReviewCount VAL 414 user,142 critic	0
+COL Genre VAL Comedy,Drama,Fantasy	0
+COL Actors VAL Richard Nixon,Henry Kissinger,Stuart Herrington	0
+COL RatingCount VAL 7,744	1
+COL Country VAL USA	0
+COL Id VAL choose_me	1
+COL ReviewCount VAL 757 user,208 critic	0
+COL Actors VAL Kristen Stewart,Robert Pattinson,Taylor Lautner	0
+COL RatingValue VAL 6.0	1
+COL Cast VAL Maggie Fernald,Jenna Kramer,Paul Shaia,Kinsley Funari,Phillip Dennis,Jason Kilbane,Breanna Pertee,Jesse DiFranco,Caroline Abbey,Buddy Candela,Kirsten Charlton,Airiz Coleman,Maren Dickey,Mark Falvo,Joe Fishel	0
+COL RatingCount VAL 37,035	1
+COL RatingCount VAL 16,041	1
+COL Release Date VAL 1 January 1982 (USA)	0
+COL RatingValue VAL 5.8	0
+COL Name VAL City of Angels	0
+COL Language VAL English,French	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 345,017	1
+COL Release Date VAL 12 February 2009 (Singapore)	0
+COL RatingValue VAL 3.0	1
+COL RatingCount VAL 80,028	1
+COL RatingCount VAL 26,143	1
+COL Creator VAL Curt Siodmak,Joe May	0
+COL RatingCount VAL 71,918	1
+COL RatingCount VAL 1,098,637	1
+COL Genre VAL Horror	0

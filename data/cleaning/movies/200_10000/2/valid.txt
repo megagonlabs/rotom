@@ -1,0 +1,200 @@
+COL RatingCount VAL 11,812	1
+COL RatingValue VAL 6.5/10,3.1/10	1
+COL Director VAL Jorge R. Gutierrez	1
+COL RatingCount VAL 57,637	1
+COL Genre VAL Comedy,Kids & Family	1
+COL RatingCount VAL 57,184	1
+COL Year VAL 1986 1987 1988	1
+COL RatingCount VAL 4,936	1
+COL RatingCount VAL 61,037	1
+COL RatingCount VAL 4,510	1
+COL RatingCount VAL 5,843	1
+COL RatingCount VAL 2,947	1
+COL RatingCount VAL 4,201	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 10,171	1
+COL RatingCount VAL 15,758	1
+COL RatingCount VAL 37,378	1
+COL RatingCount VAL 2,146	1
+COL RatingCount VAL 29,833	1
+COL Year VAL 1993 1994 1995	1
+COL Description VAL Mary Norton's children's books about a family of four-inch-tall people who share accommodations with giant 'beans' (as in 'human bein's') are brought to the screen in beautifully scaled detail, but neither the story nor the characters come alive.	1
+COL RatingCount VAL 32,519	1
+COL RatingCount VAL 30,618	1
+COL RatingValue VAL 7.5/10	1
+COL Id VAL halloween_4_the_return_of_michael_myers	1
+COL RatingCount VAL 2,436	1
+COL Filming Locations VAL filming_locations	1
+COL RatingCount VAL 107,026	1
+COL RatingCount VAL 3,005	1
+COL RatingCount VAL 46,838	1
+COL RatingCount VAL 36,770	1
+COL RatingCount VAL 240,239	1
+COL Genre VAL Drama,Kids & Family	1
+COL RatingCount VAL 10,486	1
+COL RatingCount VAL 2,922	1
+COL RatingCount VAL 54,342	1
+COL RatingCount VAL 221,113	1
+COL RatingCount VAL 300,661	1
+COL RatingCount VAL 1,937	1
+COL RatingCount VAL 29,837	1
+COL RatingCount VAL 98,841	1
+COL Release Date VAL May 24, 1961 Wide	1
+COL RatingValue VAL 3.1/10,2.9/10	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 5,901	1
+COL Description VAL American Ultra is a fast-paced action comedy about Mike (Eisenberg), a seemingly hapless and unmotivated stoner whose small-town life with his live-in girlfriend, Phoebe (Stewart), is suddenly turned upside down. Unbeknownst to him, Mike is actually a highly trained, lethal sleeper agent. In the blink of an eye, as his secret past comes back to haunt him, Mike is thrust into the middle of a deadly government operation and is forced to summon his inner action-hero in order to survive. (C),Lionsgate	1
+COL RatingCount VAL 70,194	1
+COL RatingCount VAL 2,510	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 19,952	1
+COL RatingCount VAL 94,813	1
+COL RatingCount VAL 267,878	1
+COL Release Date VAL Sep 18, 2015 Limited	1
+COL RatingCount VAL 1,702	1
+COL RatingCount VAL 19,681	1
+COL Release Date VAL Aug 9, 2013 Limited	1
+COL Description VAL On February 18, 1952, a massive nor'easter strikes New England, wreaking havoc on the ships caught in its deadly path. The SS Pendleton, an oil tanker bound for Boston, is ripped in half, trapping more than 30 sailors inside its rapidly-sinking stern. As the senior officer on board, first assistant engineer Ray Sybert soon realizes it is up to him to take charge of the frightened crew and inspire the men to set aside their differences and work together to ride out one of the worst storms to ever,hit the East Coast. Meanwhile, as word of the disaster reaches the U.S. Coast Guard station in Chatham, Massachusetts, Warrant Officer Daniel Cluff orders a daring operation to rescue the stranded men. Despite overwhelming odds, four men, led by Coast Guard Captain Bernie Webber, set out in a wooden lifeboat with an ill-equipped engine and little, if any, means of navigation, facing frigid temperatures, 60-foot high waves and hurricane-force winds.	1
+COL RatingCount VAL 3,052	1
+COL RatingValue VAL 6.0	1
+COL Id VAL immortals_2011	1
+COL RatingCount VAL 129,553	1
+COL RatingCount VAL 1,463	1
+COL RatingCount VAL 84,877	1
+COL RatingCount VAL 121,457	1
+COL RatingCount VAL 43,731	1
+COL Duration VAL 	1
+COL Year VAL 1989 1990 1991	1
+COL RatingCount VAL 25,479	1
+COL RatingCount VAL 2,945	1
+COL Description VAL Small town teenager Luli (Chloe Grace Moretz) escapes to Las Vegas, leaving behind her alcoholic and abusive parents. Armed with her smarts, a pistol and pocket money, she hitchhikes her way west. Along the way, Luli crosses paths with Eddie (Eddie Redmayne), an unstable rebel with questionable motives and Glenda (Blake Lively), a cocaine-snorting drifter on the run. Adapted from the critically acclaimed novel by Andrea Portes, this powerful story pulls you into a provocative world of drugs,,seduction and murder. -- (C) Phase 4 Films	1
+COL Year VAL 2004 2005 2006	1
+COL RatingCount VAL 11,520	1
+COL RatingCount VAL 2,765	1
+COL RatingCount VAL 592,830	1
+COL RatingCount VAL 12,966	1
+COL RatingCount VAL 40,629	1
+COL RatingCount VAL 18,118	1
+COL RatingCount VAL 39,324	1
+COL RatingCount VAL 10,446	1
+COL RatingCount VAL 1,931	1
+COL RatingCount VAL 18,600	1
+COL RatingCount VAL 266,322	1
+COL RatingCount VAL 245,302	1
+COL RatingCount VAL 2,998	1
+COL RatingCount VAL 102,876	1
+COL RatingCount VAL 31,169	1
+COL RatingCount VAL 34,079	1
+COL RatingCount VAL 1,707	1
+COL RatingCount VAL 10,882	1
+COL RatingCount VAL 1,522	1
+COL RatingCount VAL 9,470	1
+COL RatingCount VAL 51,182	1
+COL RatingCount VAL 749,700	1
+COL RatingCount VAL 29,886	1
+COL RatingCount VAL 3,672	1
+COL RatingCount VAL 1,514	1
+COL RatingCount VAL 7,545	1
+COL Id VAL cruel_intentions	1
+COL RatingCount VAL 3,482	1
+COL RatingCount VAL 1,412	1
+COL Filming Locations VAL New York City, New York, USA	0
+COL Release Date VAL 14 December 1988 (USA)	0
+COL Actors VAL Tom Laughlin,Delores Taylor,Clark Howat	0
+COL Id VAL tt0110137	0
+COL Filming Locations VAL Vincent Thomas Bridge, San Pedro, Los Angeles, California, USA	0
+COL Creator VAL Robert Pirosh,George Seaton	0
+COL Language VAL English	0
+COL Actors VAL Mel Blanc,Arthur Q. Bryan,June Foray	0
+COL Language VAL English	0
+COL Cast VAL Brian Douglas Barker,Katherine Bennett,Catherine Borland,Karen Cole-Martion,Hannah Crawford,Ben Fabish,Nils Hamilton,Craig Nolan Highley,Kristina Johanning,Ashley Raymer-Brown,Candy Thomas,Caitlyn Waltermire,Greg Waltermire	0
+COL Language VAL English	0
+COL Director VAL John Badham	0
+COL Filming Locations VAL Chicago, Illinois, USA	0
+COL Language VAL English	0
+COL Duration VAL 114 min	0
+COL RatingValue VAL 5.7	0
+COL Creator VAL Karin Kearns	0
+COL Duration VAL 115 min	0
+COL Name VAL A Little Game	0
+COL Description VAL When phony stage mentalist Triton mysteriously acquires supernatural powers of precognition, he becomes frightened and abandons his act to live of anonymity.	0
+COL Name VAL The Wild Stallion	0
+COL Release Date VAL 27 April 2012 (USA)	0
+COL Actors VAL John Carradine,Paula Raymond,Alexander D'Arcy	0
+COL Country VAL USA	0
+COL Country VAL USA	0
+COL Year VAL 2009	0
+COL Year VAL 2014	0
+COL Duration VAL 87 min	0
+COL Filming Locations VAL ThiaMedia Studios, Glendale, California, USA	0
+COL Country VAL UK,USA	0
+COL Actors VAL Ben Affleck,Morgan Freeman,Ian Mongrain	0
+COL Id VAL tt0103855	0
+COL Year VAL 2012	0
+COL Name VAL Dead End	0
+COL RatingValue VAL 6.4	0
+COL Director VAL Penny Marshall	0
+COL Name VAL Ace in the Hole	0
+COL Year VAL 1990	0
+COL Genre VAL Action,Thriller	0
+COL Filming Locations VAL Dinan, Côtes-d'Armor, France	0
+COL Name VAL How to Deal	0
+COL Release Date VAL 8 February 1936 (USA)	0
+COL Id VAL tt1201607	0
+COL Id VAL tt0106452	0
+COL RatingValue VAL 7.2	0
+COL Creator VAL Tom Six	0
+COL Genre VAL Drama,Romance	0
+COL Language VAL English	0
+COL Name VAL The Breakfast Club	0
+COL Genre VAL Horror,Thriller	0
+COL Cast VAL Chungliang Al Huang,Rebecca Armstrong,Deepak Chopra,Alan Cohen,Mick Fleetwood,Akiva Goldsman,Laird John Hamilton,Catherine Hardwicke,Tony Hawk,Gay Hendricks,Brian Johnson,Rashida Jones,Lynne Kaufman,David Loy,Joseph Marshall	0
+COL Year VAL 2003	0
+COL Filming Locations VAL Huasca de Ocampo, Hidalgo, Mexico	0
+COL Year VAL 2014	0
+COL Country VAL USA	0
+COL Genre VAL Biography,Crime,Drama	0
+COL Actors VAL Sean Morelli,Ryan Allen,Alex Alzona	0
+COL Creator VAL Wes Craven,Wes Craven	0
+COL Name VAL In the Name of God	0
+COL Country VAL USA	0
+COL Description VAL Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.	0
+COL Country VAL USA	0
+COL ReviewCount VAL 478 user,442 critic	0
+COL Description VAL Dave Buznik is a businessman who is wrongly sentenced to an anger-management program, where he meets an aggressive instructor.	0
+COL Id VAL tt0107554	0
+COL RatingCount VAL 512	0
+COL Filming Locations VAL Crofton, North Cowichan, British Columbia, Canada	0
+COL Description VAL Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took ...	0
+COL Release Date VAL 4 April 1997 (USA)	0
+COL Cast VAL Fred Astaire,Petula Clark,Tommy Steele,Don Francks,Keenan Wynn,Barbara Hancock,Al Freeman Jr.,Ronald Colby,Dolph Sweet,Wright King,Louil Silas	0
+COL Country VAL USA,China	0
+COL Genre VAL Documentary	0
+COL Cast VAL Helen Rogers,Alexandra Turshen,Lauren Molina,Larry Fessenden,Adam Cornelius,Dan Brennan,Kimberly Flynn,Ian Robinson,Jack Brenner,Mike Keller	0
+COL Creator VAL Neal Purvis,Robert Wade	0
+COL Creator VAL Boaz Davidson,James Townsend	0
+COL RatingValue VAL 4.9	0
+COL Release Date VAL 4 February 1994 (USA)	0
+COL Release Date VAL 22 September 2000 (USA)	0
+COL Genre VAL Crime,Drama,Thriller	0
+COL Cast VAL Bill Hader,Anna Faris,James Caan,Andy Samberg,Bruce Campbell,Mr. T,Bobb'e J. Thompson,Benjamin Bratt,Neil Patrick Harris,Al Roker,Lauren Graham,Will Forte,Max Neuwirth,Peter Siragusa,Angela Shelton	0
+COL ReviewCount VAL 3 user,8 critic	0
+COL Duration VAL 110 min	0
+COL Id VAL tt3112556	0
+COL Name VAL Restless	0
+COL Language VAL English	0
+COL Country VAL USA	0
+COL Cast VAL John Wayne,Jeffrey Hunter,Vera Miles,Ward Bond,Natalie Wood,John Qualen,Olive Carey,Henry Brandon,Ken Curtis,Harry Carey Jr.,Antonio Moreno,Hank Worden,Beulah Archuletta,Walter Coy,Dorothy Jordan	0
+COL Duration VAL 99 min	0
+COL Actors VAL Christian Bale,Casey Affleck,Zoe Saldana	0
+COL Country VAL USA	0
+COL RatingValue VAL 8.2	0
+COL Genre VAL Comedy,Romance	0
+COL ReviewCount VAL 18 user,8 critic	0
+COL Release Date VAL 29 July 1994 (USA)	0
+COL Actors VAL Fidel Castro	0
+COL Actors VAL John Travolta,Kirstie Alley,Olympia Dukakis	0
+COL Genre VAL Action,Adventure,Drama	0
+COL Cast VAL Jessica Alba,Chris Messina,Sonia Braga,John Shea,J.K. Simmons,Sophie Nyweide,Bailee Madison,Marylouise Burke,Ashlie Atkinson,Crystal Bock,Mackenzie Milone,Ian Colletti,Jake Siciliano,Stephanie DeBolt,Joanna Adler	0
+COL Genre VAL Family,Drama	0
+COL Cast VAL Katherine Heigl,Emily Alyn Lind,Ben Barnes,Clea DuVall,Sheryl Lee,Nathan Stevens,Chelsea Goodwin,Ryan Bingham,Helene Lam,Jacque Gray,Allan Groves,Jeffrey Hanson,Karlee Broschinsky,Ben Hopkin,Adam Dietlein	0

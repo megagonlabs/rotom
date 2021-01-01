@@ -1,0 +1,100 @@
+COL Address1 VAL 1256 military street south	0
+COL HospitalType VAL acute care hosxitals	1
+COL MeasureCode VAL hfx4	1
+COL Address1 VAL 101 sivley rd	0
+COL PhoneNumber VAL phone	1
+COL index VAL 105	0
+COL HospitalName VAL cullman regional medical center	0
+COL EmergencyService VAL yxs	1
+COL EmergencyService VAL xo	1
+COL State VAL xl	1
+COL City VAL cuxxman	1
+COL City VAL hamilxon	1
+COL State VAL al	0
+COL Stateavg VAL xl_scip-inf-2	1
+COL Address2 VAL empty	0
+COL HospitalName VAL communixy hospixal inc	1
+COL EmergencyService VAL yes	0
+COL PhoneNumber VAL 2563572111	0
+COL Stateavg VAL al_scipxvtex2	1
+COL MeasureCode VAL scix-inf-2	1
+COL HospitalName VAL northwest medical center	0
+COL Score VAL 93%	0
+COL Sample VAL 619 paxienxs	1
+COL Condition VAL pneumonia	0
+COL index VAL 78	0
+COL MeasureName VAL heart attaxk patients given aspirin at disxharge	1
+COL MeasureCode VAL scip-vtx-1	1
+COL Address1 VAL 315xwxhickoryxst	1
+COL Address3 VAL empty	0
+COL HospitalOwner VAL voluntary non-profit - other	0
+COL HospitalName VAL andaxusia regionax hospitax	1
+COL Condition VAL surgical infection prevention	0
+COL CountyName VAL dx kalb	1
+COL Stateavg VAL al_axi-1	1
+COL Condition VAL condition	1
+COL City VAL gxdsden	1
+COL Address2 VAL empty	0
+COL Address2 VAL empty	0
+COL MeasureCode VAL ami-x	1
+COL HospitalOwner VAL proxrietary	1
+COL Sample VAL 82 patientx	1
+COL ZipCode VAL 3563x	1
+COL ZipCode VAL 35801	0
+COL HospitalName VAL elba general hospital	0
+COL EmergencyService VAL xes	1
+COL MeasureName VAL heart failure patients given discharge instructions	0
+COL Score VAL x7%	1
+COL HospitalName VAL rivxrvixw rxgional mxdical cxntxr	1
+COL MeasureCode VAL pn-3b	0
+COL MeasureName VAL heart failure patients given discharge instructions	0
+COL index VAL 503	0
+COL HospitalOwner VAL gxvernment - hxspital district xr authxrity	1
+COL HospitalType VAL acute care hospitals	0
+COL Condition VAL heart faixure	1
+COL ProviderNumber VAL 10021	0
+COL EmergencyService VAL yes	0
+COL MeasureName VAL heart attack patients given aspirin at arrivax	1
+COL MeasureName VAL heart attack patients given beta blocker at discharge	0
+COL ProviderNumber VAL x00xx	1
+COL ProviderNumber VAL 10046	0
+COL MeasureCode VAL scip-inf-3	0
+COL Stateavg VAL al_hx-2	1
+COL MeasureCode VAL pn-3b	0
+COL Condition VAL heart failure	0
+COL HospitalName VAL baptist medical center south	0
+COL Stateavg VAL al_scip-card-2	0
+COL HospitalName VAL xlxskx regionxl hospitxl	1
+COL ProviderNumber VAL 10019	0
+COL HospitalOwner VAL proprietary	0
+COL EmergencyService VAL yxs	1
+COL CountyName VAL dx kalb	1
+COL Condition VAL surgical infection prevention	0
+COL Stateavg VAL xl_xmi-2	1
+COL ProviderNumber VAL 10009	0
+COL ProviderNumber VAL x0x08	1
+COL Address2 VAL empty	0
+COL Score VAL 50%	0
+COL Address1 VAL 50 medical park east drive	0
+COL PhoneNumber VAL 3347935000	0
+COL HospitalType VAL acuxe care hospixals	1
+COL index VAL 492	0
+COL MeasureName VAL pnxumonia patixnts whosx initial emxrgxncy room blood culturx was pxrformxd prior to thx administration of thx first hospital dosx of antibiotics	1
+COL HospitalName VAL huntsville hospital	0
+COL MeasureCode VAL px-4	1
+COL PhoneNumber VAL 2568453x50	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL MeasureCode VAL hfx1	1
+COL Score VAL 89%	0
+COL MeasureCode VAL pn-7	0
+COL Condition VAL surgical infection prevention	0
+COL HospitalName VAL crenshaw cxmmunity hxspital	1
+COL MeasureCode VAL scip-inx-4	1
+COL ZipCode VAL x590x	1
+COL State VAL xl	1
+COL MeasureName VAL pneumonia patients given smoking cessation advice/counseling	0
+COL ProviderNumber VAL 10044	0
+COL ZipCode VAL 35058	0
+COL ZipCode VAL 36078	0
+COL State VAL xl	1
+COL MeasureCode VAL hx-2	1

@@ -1,0 +1,100 @@
+COL article_jissue VAL 7462	0
+COL article_jcreated_at VAL 5/1/11	1
+"COL author_list VAL {""P. Kruszewski"",""Dept of Neurology Trondheim University Hospital L.J. Stovner"",""Norway Trondheim"",""J. M. Shen"",""Trondheim Norway University Hospital"",""L. J. Stovner"",""Trondheim Dept. of Neurology"",""Address Correspondence"",""Addresses Author""}"	0
+COL article_jcreated_at VAL 1/1/07	1
+COL id VAL 60309	0
+"COL author_list VAL {""M. Tercedor S��nchez"",""J.A. Prieto Velasco""}"	1
+COL article_pagination VAL E556-64	0
+COL article_jvolumn VAL 79	0
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_issn VAL 0361-7734	0
+COL article_pagination VAL 83-7	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 4	0
+COL article_jissue VAL 	1
+COL article_pagination VAL 2.05427E+015	1
+COL article_pagination VAL 204-9	0
+COL article_jvolumn VAL 36	0
+COL id VAL 83012	0
+COL article_jcreated_at VAL 1/1/15	1
+COL article_title VAL Tobacco-related scenes in television dramas for young Japanese audiences	0
+COL article_title VAL Early predicting of blood component quality by Statistical Process Control	0
+COL article_title VAL Intimate Partner Violence Survivors' Unmet Social Service Needs	0
+COL article_jcreated_at VAL 9/1/14	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/03	1
+COL journal_issn VAL 0022-0345	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jissue VAL 0	0
+COL article_jcreated_at VAL 5/7/09	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 	1
+COL jounral_abbreviation VAL Cancer	0
+COL journal_title VAL Journal of Social Service Research	0
+"COL author_list VAL {""Luiz Rog̩rio de Carvalho Oliveira"",""Nilza Aparecida Almeida de Carvalho"",""Fl��vio C L Cavalcanti Ara̼jo"",""Izabela Menezes Pagotto"",""Paulo Chiavone""}"	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Abdul Basit Baba"",""J Kowshik"",""G Deepak Reddy"",""Hemant Giri"",""Madhulika Dixit"",""Siddavaram Nagini""}"	0
+COL article_jcreated_at VAL 1/1/02	1
+COL id VAL 305933	0
+COL article_jcreated_at VAL 4/1/02	1
+COL article_jcreated_at VAL 1/1/10	1
+COL journal_title VAL Journal of Women & Aging	0
+COL article_pagination VAL 711-5	0
+COL article_jcreated_at VAL 7/10/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_title VAL Constructing differences: A qualitative analysis of teachers�۪ perspectives on linguistic and cultural diversity	1
+COL article_jvolumn VAL 34	0
+COL article_jcreated_at VAL 7/1/14	1
+COL article_pagination VAL 2063-8	1
+COL article_jcreated_at VAL 8/1/07	1
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL Cancer Epidemiology Biomarkers and Prevention	0
+COL article_jcreated_at VAL 1/1/14	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jissue VAL 12	0
+COL article_jcreated_at VAL 2/1/13	1
+COL article_language VAL eng	0
+COL article_pagination VAL 72-7	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 6/1/08	1
+COL article_jcreated_at VAL 2/1/12	1
+COL author_list VAL {NULL}	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 9/1/12	1
+COL article_title VAL Optical turbulence: weak turbulence, condensates and collapsing filaments in the nonlinear Schr̦dinger equation	1
+COL id VAL 795170	0
+COL journal_title VAL Chin. Med	0
+COL article_jcreated_at VAL 7/1/14	1
+COL id VAL 589265	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 8	0
+COL id VAL 569841	0
+COL article_title VAL Say yes? Say no?	0
+COL article_jcreated_at VAL 1/1/10	1
+COL id VAL 259367	0
+COL article_title VAL Intensive glucose control in the management of diabetes mellitus and inpatient hyperglycemia	0
+COL article_pagination VAL 694-702	0
+COL article_jvolumn VAL 20	0
+"COL author_list VAL {""Ana Maria Baptista Menezes"",""David Alejandro Gonz��lez"",""Elaine Cardozo Macedo"",""Pedro Curi Hallal"",""Maria de F��tima Maia"",""Marli Knorst"",""Samuel Carvalho Dumith"",""Jeovany Mart�_nez-Mesa"",""Ricardo Bica Noal"",""Fernando C̩sar Wehrmeister"",""Jos̩ Roberto Jardim""}"	1
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""E. Idrizovic"",""A. Odobasic"",""L. Dedic"",""A. Pasic"",""M. Dervisefendic"",""E. Iljazovic-Latifagic"",""A. Odobasic"",""L. Arnautalic""}"	0
+COL article_jvolumn VAL 113	0
+COL article_pagination VAL 46-55	0
+"COL author_list VAL {""Kenichi Kokubo"",""Taro Kamisasanuki"",""Kengo Hayashi"",""Kenichiro Kasai"",""Nobutada Katori""}"	0
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""David B Hoyt"",""Sandro B Rizoli"",""Andrew J Baker"",""Eileen M Bulger"",""Wolfgang G Junger"",""Joseph Cuschieri"",""Shawn G Rhind"",""Pang N Shek""}"	0
+COL article_jcreated_at VAL 1/1/12	1
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 4	0
+COL id VAL 465756	0
+COL article_jcreated_at VAL 9/1/14	1
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 5/1/11	1

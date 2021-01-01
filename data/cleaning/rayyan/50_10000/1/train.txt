@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/7/15	1
+COL article_jcreated_at VAL 4/1/01	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 8/1/08	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 9/1/13	1
+"COL author_list VAL {""T Fors̩n"",""J Eriksson"",""C Osmond"",""D Barker""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/1/12	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/03	1
+COL journal_title VAL BMC Musculoskelet Disord	0
+COL journal_title VAL The journal of ECT	0
+"COL author_list VAL {""J. J. Coran"",""T. Koropeckyj-Cox"",""C. L. Arnold""}"	0
+COL id VAL 682676	0
+"COL author_list VAL {""J.P. Toombs"",""M.S. Bauer"",""W.R. Widmer"",""A.R. Blight""}"	0
+COL journal_title VAL  BMJ 2006, 333:939	0
+COL id VAL 856471	0
+COL article_pagination VAL 57-61	0
+COL article_language VAL eng	0
+COL article_language VAL fre	0
+COL article_title VAL A literature review on chronic pain: the daily overcoming of a complex problem.	0
+COL journal_issn VAL 1040-2446	0
+"COL author_list VAL {""Linda M. Burton"",""Altman Bullard Burton Burton Burton Burton Burton Clark Conley Dilworth-Williams Fischer Foucault Franklin Gieryn Gilbert Goering Hooks Howard Kidder Lahiri Lawson Clark Lawson Clark Lawson Clark Low Massey Oliver Perkins Rosenbaum Rosenbaum Sanders Stack Allan"",""Sherri Lawson Clark""}"	0
+COL jounral_abbreviation VAL J Pers Soc Psychol	0
+COL article_jvolumn VAL 113	0
+COL article_jvolumn VAL 45	0
+COL journal_title VAL British journal of sports medicine	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Alkaline phosphatase activity of duodenal enterocytes after neonatal administration of monosodium glutamate to rats.	0
+COL article_pagination VAL 1943-1946	0
+"COL author_list VAL {""Fengjiang Zhang"",""Gang Chen"",""Min Yan"",""Congcong Chen""}"	0
+COL article_jcreated_at VAL 1/1/01	0
+COL article_pagination VAL 84301	0
+"COL author_list VAL {""T Delormier"",""A C Macaulay"",""M Cargo"",""A M McComber"",""L Potvin""}"	0
+COL id VAL 450760	0

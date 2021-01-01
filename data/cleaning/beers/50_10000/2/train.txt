@@ -1,0 +1,50 @@
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.057%	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL state VAL 	1
+COL abv VAL 0.049%	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.07200000000000001%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 OZ.	1
+COL state VAL CO	0
+COL brewery_id VAL 177	0
+COL city VAL San Antonio	0
+COL style VAL American Amber / Red Ale	0
+COL brewery-name VAL Brewery Vivant	0
+COL brewery_id VAL 82	0
+COL city VAL Boston	0
+COL beer-name VAL Bender	0
+COL id VAL 5	0
+COL abv VAL 0.052	0
+COL beer-name VAL Overrated! West Coast Style IPA	0
+COL abv VAL 0.065	0
+COL ibu VAL 52	0
+COL brewery_id VAL 25	0
+COL ibu VAL 75	0
+COL state VAL OK	0
+COL city VAL Albuquerque	0
+COL abv VAL 0.057	0
+COL ibu VAL 48	0
+COL abv VAL 0.065	0
+COL beer-name VAL Humbucker Helles	0
+COL city VAL Hamilton	0
+COL id VAL 2445	0
+COL city VAL Chicago	0
+COL style VAL American Brown Ale	0

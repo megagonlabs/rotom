@@ -1,0 +1,100 @@
+COL ibu VAL N/A	1
+COL abv VAL 0.048%	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL abv VAL 0.09%	1
+COL abv VAL 0.065	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 19.2 oz	1
+COL index VAL 1518	0
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 12.0 ounce	1
+COL id VAL 352	0
+COL city VAL Salt Lake City	0
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.054000000000000006%	1
+COL state VAL MA	0
+COL ounces VAL 12.0 ounce	1
+COL city VAL Charlottesville	0
+COL brewery-name VAL Spiteful Brewing Company	0
+COL id VAL 1072	0
+COL ibu VAL N/A	1
+COL ibu VAL 35	0
+COL style VAL American Double / Imperial IPA	0
+COL city VAL Providence	0
+COL style VAL Fruit / Vegetable Beer	0
+COL abv VAL 0.042%	1
+COL beer-name VAL Old Grogham Imperial India Pale Ale (2012)	0
+COL ounces VAL 12.0 OZ.	1
+COL index VAL 1813	0
+COL ibu VAL N/A	1
+COL state VAL MA	0
+COL ibu VAL N/A	1
+COL city VAL Helena	0
+COL style VAL American Amber / Red Ale	0
+COL brewery_id VAL 51	0
+COL brewery_id VAL 89	0
+COL ounces VAL 12.0 OZ.	1
+COL id VAL 318	0
+COL id VAL 824	0
+COL city VAL Edwards	0
+COL city VAL Woodbridge	0
+COL ibu VAL N/A	1
+COL state VAL 	1
+COL brewery-name VAL Center of the Universe Brewing C...	0
+COL abv VAL 0.05%	1
+COL state VAL 	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.071%	1
+COL index VAL 1069	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL city VAL Cleveland	0
+COL ibu VAL N/A	1
+COL id VAL 463	0
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.059	0
+COL brewery_id VAL 96	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 OZ.	1
+COL abv VAL 0.075%	1
+COL abv VAL 0.085	0
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL brewery_id VAL 6	0
+COL ounces VAL 16.0 ounce	1
+COL brewery-name VAL Amnesia Brewing Company	0
+COL ounces VAL 12.0 oz.	1
+COL style VAL Kölsch	0
+COL abv VAL 0.058	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL style VAL 	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL index VAL 121	0
+COL state VAL 	1
+COL abv VAL 0.055	0
+COL ounces VAL 12.0 oz.	1
+COL city VAL Grand Rapids	0
+COL brewery_id VAL 198	0
+COL state VAL NC	0
+COL beer-name VAL Halcyon Unfiltered Wheat	0
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055%	1
+COL beer-name VAL Pamola Xtra Pale Ale	0
+COL abv VAL 0.05%	1
+COL beer-name VAL Hop in the ‘Pool Helles	0
+COL brewery_id VAL 30	0
+COL ibu VAL N/A	1
+COL abv VAL 0.075	0
+COL brewery-name VAL Jack's Abby Craft Lagers	0
+COL id VAL 2308	0
+COL ounces VAL 12.0 oz.	1
+COL state VAL MI	0
+COL ounces VAL 12.0 oz.	1
+COL city VAL Avon	0
+COL index VAL 1018	0

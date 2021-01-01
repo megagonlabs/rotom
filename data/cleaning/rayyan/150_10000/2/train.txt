@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_jcreated_at VAL 5/1/01	1
+COL article_pagination VAL 81-3	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Cecilia Bj̦rkelund"",""Margaretha Jerlock""}"	1
+COL article_jcreated_at VAL 9/1/02	1
+COL article_title VAL Association of transforming growth factor-�_1���T869C, G915C, and C509T gene polymorphisms with rheumatoid arthritis risk.	1
+COL article_jcreated_at VAL 3/1/10	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 5/1/13	1
+COL article_jcreated_at VAL 11/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_pagination VAL 2.05427E+015	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 8/1/13	1
+"COL author_list VAL {""Delia Aguado"",""Javier Benito"",""Ignacio A G���_mez de Segura"",""Mariana Abreu"",""Javier Garc���_a-Fern����ndez""}"	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 4/2/15	1
+"COL author_list VAL {""Diana Duro"",""Augusto Gouḷo"",""Gon̤alo Santos"",""Nuno Mendon̤a"",""Isabel Santana"",""Eg�_dio Machado""}"	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 2/1/12	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""Eunice Molinar-Toribio"",""Benjam�_n Pi̱a"",""Livia G�_mez"",""Jara P̩rez-Jim̩nez"",""Marta Casado"",""Sara Ramos-Romero"",""Pere Clap̩s"",""Josep Llu�_s Torres""}"	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 11/1/14	1
+COL article_title VAL The Antiseptic Efficacy and Tolerability of Lavasept� 0.04% on Acute Traumatic Wounds	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 4/1/03	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""Marie-Pierre Gagnon"",""Claude Sicotte"",""��dith-Romy Nsangou"",""Sonya Grenier"",""Julie Payne-Gagnon""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 10/1/07	1
+"COL author_list VAL {""Akin Uz�_mc�_gil"",""Meral Top̤u"",""M Fani Bozkurt"",""Sinem Akg�_l""}"	1
+"COL author_list VAL {""R Carraro"",""M F Rasmussen"",""L Niskanen"",""A Harper"",""N Finer"",""S R̦ssner"",""M Kunesova"",""L Van Gaal"",""M E J Lean"",""A Astrup"",""A Rissanen"",""M J Savolainen"",""[Collective Name] NN8022-1807 Investigators""}"	1
+COL article_jcreated_at VAL 6/1/15	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 8/1/08	1
+COL article_jcreated_at VAL 6/1/15	1
+COL article_jcreated_at VAL 9/1/06	1
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jcreated_at VAL 9/1/07	1
+COL article_pagination VAL 64-7	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""D Chochol���"",""R Chaloupka"",""B Kala"",""J Gallo"",""M Netval""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 43-8	1
+COL article_jcreated_at VAL 12/1/13	1
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+"COL author_list VAL {""L Lenhardt"",""S Mozes"",""A Martinkov��""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 12/1/13	1
+COL id VAL 773090	0
+COL id VAL 553088	0
+COL journal_issn VAL 	0
+COL id VAL 233544	0
+COL id VAL 121133	0
+COL article_title VAL Multiple dural arteriovenous fistulas presenting as rapidly progressive dementia.	0
+COL id VAL 904889	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 55	0
+"COL author_list VAL {""K Ishikawa-Takata"",""T Ohta"",""K Moritaki"",""T Gotou"",""S Inoue""}"	0
+COL id VAL 1266	0
+"COL author_list VAL {""H. A. P. Pols"",""C. M. van Duijin"",""S. W. J. Lamberts"",""I. Rietveld"",""A. Hofman"",""J. A. M. J. L. Janssen""}"	0
+COL article_title VAL Molecular detection of hepatitis B virus: Recent developments	0
+COL id VAL 405141	0
+COL article_pagination VAL 1068-1074	0
+COL article_jvolumn VAL 506	0
+COL article_jvolumn VAL 24	0
+COL article_language VAL pt	0
+COL id VAL 140274	0
+COL article_pagination VAL 999-1004	0
+COL journal_title VAL Chest	0
+COL id VAL 684476	0
+COL article_title VAL Preliminary validity and reliability of a Thai Berlin questionnaire in stroke patients	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/00	0
+COL journal_issn VAL 1473-5725	0
+COL article_jissue VAL 0	0
+COL article_pagination VAL 53-62	0
+COL article_title VAL Impact of education and provision of complementary feeding on growth and morbidity in children less than 2 years of age in developing countries: a systematic review.	0
+COL article_language VAL English	0
+COL article_title VAL Retrograde nailing of humeral shaft fractures	0
+COL journal_title VAL Physiotherapy	0
+COL id VAL 217725	0
+"COL author_list VAL {""Thompson NC"",""Calverley PMA"",""Olsson H""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 	0
+COL article_title VAL Type I and II endometrial cancers: have they different risk factors?	0
+COL id VAL 838034	0
+COL journal_title VAL Supply Chain Management	0
+COL article_title VAL Epidemiology of sporting injuries among elite soccer players: A longitudinal study	0
+COL article_title VAL Cardiac MRI in ischemic heart disease	0
+COL article_language VAL 	0
+"COL author_list VAL {""B. E. Perron"",""Q. Fu"",""L. T. Wu"",""M. G. Vaughn""}"	0
+COL id VAL 187769	0
+COL article_title VAL A comprehensive assessment of maternal deaths in Argentina: translating multicentre collaborative research into action.	0
+COL jounral_abbreviation VAL Journal of alternative and complementary medicine (New York, N.Y.)	0
+COL article_title VAL Postamputation pain: epidemiology, mechanisms, and treatment	0
+COL article_jvolumn VAL 16	0
+COL article_jissue VAL 2	0
+"COL author_list VAL {""O. Thuemer"",""S. G. Sakka"",""E. Huttemann""}"	0
+COL article_pagination VAL 1255-1272	0
+"COL author_list VAL {""V Hesselbrock"",""A W Deckel""}"	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 163839	0
+COL journal_title VAL Oral surgery, oral medicine, and oral pathology	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 23	0
+COL id VAL 213794	0
+"COL author_list VAL {""V. Hirsh"",""J.Y. Han"",""F. Blackhall"",""S. Iyer"",""D.W. Kim"",""A. Shaw"",""A. Reisman"",""K. Wilner"",""H. Nokihara"",""B. Besse""}"	0
+COL article_jissue VAL 9	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 3	0
+COL article_pagination VAL 	0
+"COL author_list VAL {""Mark H Wilson"",""Liza Chacko"",""Susan Hendrickson""}"	0
+COL jounral_abbreviation VAL Circulation	0
+COL id VAL 274083	0
+COL article_title VAL Weighting improves the information provided by joint counts on the severity of arthritis and its impact on patients' well-being in juvenile idiopathic arthritis	0
+COL article_title VAL Effect of a cooling hood on physiological responses to work in a hot environment	0
+COL id VAL 105981	0
+COL id VAL 867207	0
+COL journal_title VAL Endocrinology	0
+"COL author_list VAL {""Lucy Bowes"",""Barbara Maughan"",""Avshalom Caspi"",""Louise Arseneault"",""Alan Taylor"",""Terrie E Moffitt""}"	0
+COL article_jcreated_at VAL 1/1/00	0
+COL article_pagination VAL 925-31	0

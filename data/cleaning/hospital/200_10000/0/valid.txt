@@ -1,0 +1,200 @@
+COL MeasureCode VAL measure_code	1
+COL HospitalType VAL acuxe care hospixals	1
+COL State VAL xl	1
+COL Sample VAL 6xpatients	1
+COL Sample VAL 21 pxtients	1
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL HospitalName VAL cullmxn regionxl medicxl center	1
+COL HospitalName VAL xniv of soxth alabama medical center	1
+COL ZipCode VAL 3563x	1
+COL EmergencyService VAL yxs	1
+COL ZipCode VAL x5007	1
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL Address1 VAL 1912xalabamaxhighwayx157	1
+COL City VAL geoxgiana	1
+COL Condition VAL pnexmonia	1
+COL Stateavg VAL al_axi-1	1
+COL EmergencyService VAL xes	1
+COL MeasureName VAL heart attack patxents gxven aspxrxn at arrxval	1
+COL MeasureCode VAL scix-inf-2	1
+COL Score VAL score	1
+COL HospitalName VAL name	1
+COL HospitalName VAL riverview rexional medical center	1
+COL CountyName VAL elxore	1
+COL State VAL xl	1
+COL ProviderNumber VAL 1xx16	1
+COL MeasureCode VAL amix1	1
+COL Score VAL 80x	1
+COL State VAL xl	1
+COL ZipCode VAL x6x05	1
+COL ZipCode VAL 3595x	1
+COL HospitalName VAL marshall medical cenxer norxh	1
+COL Address3 VAL address_3	1
+COL MeasureName VAL all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx	1
+COL CountyName VAL crxnshaw	1
+COL HospitalOwner VAL prxprietary	1
+COL EmergencyService VAL yxs	1
+COL MeasureName VAL hearx failure paxienxs given smoking cessaxion advice/counseling	1
+COL City VAL florxncx	1
+COL Sample VAL 121 patiexts	1
+COL PhoneNumber VAL 334774x601	1
+COL Address1 VAL 124 s mxmorial dr	1
+COL HospitalName VAL medixal xenter enterprise	1
+COL ZipCode VAL x5960	1
+COL ZipCode VAL x590x	1
+COL Sample VAL 87 paxienxs	1
+COL PhoneNumber VAL 334x561400	1
+COL ZipCode VAL 3x0x7	1
+COL PhoneNumber VAL 33x2938000	1
+COL PhoneNumber VAL 334x836541	1
+COL ProviderNumber VAL 1xx29	1
+COL MeasureName VAL heart failure patients given ace inhibitor or arb for left xentricular systolic dysfunction (lxsd)	1
+COL HospitalOwner VAL owner	1
+COL Condition VAL xneumonia	1
+COL City VAL birminghxm	1
+COL PhoneNumber VAL 20593xx011	1
+COL Condition VAL surgical xnfection prevention	1
+COL Sample VAL 618 xatients	1
+COL CountyName VAL fayexxe	1
+COL MeasureName VAL heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival	1
+COL State VAL ax	1
+COL Condition VAL heart attaxk	1
+COL Condition VAL pxeumoxia	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL State VAL ax	1
+COL Stateavg VAL al_sxip-inf-2	1
+COL MeasureCode VAL sxip-vte-1	1
+COL Stateavg VAL al_amix8a	1
+COL Condition VAL pnxumonia	1
+COL PhoneNumber VAL 33x28365x1	1
+COL HospitalType VAL acute caxe hospitals	1
+COL MeasureCode VAL amix2	1
+COL Address1 VAL 515 miranda sx	1
+COL Stateavg VAL al_sxip-inf-2	1
+COL Stateavg VAL al_scipxvtex1	1
+COL ProviderNumber VAL provider_number	1
+COL MeasureName VAL pnxumonia patixnts whosx initial emxrgxncy room blood culturx was pxrformxd prior to thx administration of thx first hospital dosx of antibiotics	1
+COL Sample VAL 62 patientx	1
+COL HospitalOwner VAL volxntary non-profit - chxrch	1
+COL Condition VAL hexrt attxck	1
+COL ProviderNumber VAL 1000x	1
+COL CountyName VAL cxffee	1
+COL HospitalOwner VAL proxrietary	1
+COL HospitalName VAL wedowee hosxital	1
+COL ProviderNumber VAL x00xx	1
+COL PhoneNumber VAL 33422284xx	1
+COL ZipCode VAL 3xx94	1
+COL Address2 VAL address_2	1
+COL MeasureCode VAL axi-4	1
+COL HospitalType VAL axute care hospitals	1
+COL MeasureName VAL allxheartxsurgeryxpatientsxwhosexbloodxsugarx(bloodxglucose)xisxkeptxunderxgoodxcontrolxinxthexdaysxrightxafterxsurgery	1
+COL CountyName VAL housxon	1
+COL Stateavg VAL alxpn-3b	1
+COL ZipCode VAL 3x10x	1
+COL State VAL ax	1
+COL Address1 VAL 810 st vxncents drxve	1
+COL PhoneNumber VAL 256235x900	1
+COL Score VAL x3%	1
+COL Condition VAL xneumonia	1
+COL HospitalName VAL crenshaw cxmmunity hxspital	1
+COL State VAL ax	1
+COL City VAL sheffield	0
+COL ProviderNumber VAL 10049	0
+COL State VAL al	0
+COL MeasureName VAL heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL Stateavg VAL al_ami-7a	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalType VAL acute care hospitals	0
+COL PhoneNumber VAL 2059344011	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 3347561400	0
+COL MeasureCode VAL hf-2	0
+COL MeasureName VAL heart attack patients given aspirin at arrival	0
+COL Score VAL 60%	0
+COL ProviderNumber VAL 10008	0
+COL Address1 VAL 1007 goodyear avenue	0
+COL Sample VAL 76 patients	0
+COL Address1 VAL 101 hospital circle	0
+COL Score VAL 98%	0
+COL Condition VAL surgical infection prevention	0
+COL PhoneNumber VAL 2562495000	0
+COL PhoneNumber VAL 3344933541	0
+COL MeasureCode VAL scip-inf-2	0
+COL Address2 VAL empty	0
+COL State VAL al	0
+COL MeasureCode VAL hf-1	0
+COL Condition VAL heart attack	0
+COL State VAL al	0
+COL index VAL 109	0
+COL MeasureCode VAL hf-1	0
+COL Sample VAL 527 patients	0
+COL Sample VAL 10 patients	0
+COL City VAL opelika	0
+COL EmergencyService VAL yes	0
+COL PhoneNumber VAL 3347742601	0
+COL HospitalOwner VAL proprietary	0
+COL State VAL al	0
+COL HospitalName VAL eliza coffee memorial hospital	0
+COL ZipCode VAL 35233	0
+COL Condition VAL heart attack	0
+COL PhoneNumber VAL 2562651000	0
+COL ZipCode VAL 36278	0
+COL Address2 VAL empty	0
+COL Address2 VAL empty	0
+COL State VAL al	0
+COL City VAL alabaster	0
+COL City VAL sheffield	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL ZipCode VAL 35903	0
+COL MeasureCode VAL hf-2	0
+COL Address2 VAL empty	0
+COL HospitalName VAL gadsden regional medical center	0
+COL HospitalName VAL prattville baptist hospital	0
+COL ProviderNumber VAL 10007	0
+COL Score VAL empty	0
+COL Address1 VAL 4800 48th st	0
+COL Condition VAL surgical infection prevention	0
+COL Address3 VAL empty	0
+COL Sample VAL 13 patients	0
+COL PhoneNumber VAL 2058383122	0
+COL Stateavg VAL al_scip-inf-1	0
+COL index VAL 920	0
+COL ZipCode VAL 36067	0
+COL PhoneNumber VAL 2562651000	0
+COL City VAL luverne	0
+COL Sample VAL 196 patients	0
+COL City VAL tallassee	0
+COL Address3 VAL empty	0
+COL Address1 VAL 1653 temple avenue north	0
+COL index VAL 869	0
+COL HospitalOwner VAL government - local	0
+COL Stateavg VAL al_pn-4	0
+COL Condition VAL pneumonia	0
+COL Condition VAL surgical infection prevention	0
+COL PhoneNumber VAL 2569275531	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 35968	0
+COL Address1 VAL 8000 alabama highway 69	0
+COL MeasureCode VAL scip-card-2	0
+COL Stateavg VAL al_pn-2	0
+COL EmergencyService VAL yes	0
+COL Score VAL 100%	0
+COL Condition VAL pneumonia	0
+COL ZipCode VAL 35631	0
+COL State VAL al	0
+COL index VAL 903	0
+COL Sample VAL 101 patients	0
+COL EmergencyService VAL yes	0
+COL HospitalType VAL acute care hospitals	0
+COL Address2 VAL empty	0
+COL index VAL 816	0
+COL ZipCode VAL 36330	0
+COL PhoneNumber VAL 3343353374	0
+COL Address3 VAL empty	0
+COL Score VAL 100%	0
+COL Stateavg VAL al_hf-1	0
+COL Score VAL 98%	0
+COL Sample VAL 0 patients	0
+COL HospitalName VAL stringfellow memorial hospital	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 3347493411	0

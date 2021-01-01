@@ -1,0 +1,100 @@
+COL beer-name VAL Lee Hill Series Vol. 5 - Belgian Style Quadrupel Ale	0
+COL city VAL Boise	0
+COL style VAL American Pale Wheat Ale	0
+COL beer-name VAL Mango Ginger	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL index VAL 1619	0
+COL ibu VAL N/A	1
+COL index VAL 640	0
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL 35	0
+COL state VAL CA	0
+COL abv VAL 0.067%	1
+COL brewery-name VAL Spiteful Brewing Company	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055999999999999994%	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 OZ.	1
+COL abv VAL 0.056	0
+COL abv VAL 0.065%	1
+COL state VAL NY	0
+COL ibu VAL 40	0
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL 70	0
+COL brewery-name VAL Lonerider Brewing Company	0
+COL id VAL 516	0
+COL abv VAL 0.04%	1
+COL beer-name VAL Scarecrow	0
+COL ounces VAL 12.0 ounce	1
+COL id VAL 610	0
+COL ounces VAL 12.0 OZ.	1
+COL beer-name VAL Nonstop Hef Hop	0
+COL style VAL Altbier	0
+COL index VAL 2159	0
+COL state VAL CA	0
+COL id VAL 643	0
+COL index VAL 718	0
+COL brewery_id VAL 253	0
+COL abv VAL 0.058	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL beer-name VAL Dead Eye Dunkel	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL brewery_id VAL 300	0
+COL brewery_id VAL 206	0
+COL style VAL American IPA	0
+COL style VAL Tripel	0
+COL state VAL FL	0
+COL ibu VAL N/A	1
+COL city VAL Paonia	0
+COL abv VAL 0.047	0
+COL abv VAL 0.065%	1
+COL abv VAL 0.076%	1
+COL id VAL 468	0
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.048%	1
+COL brewery-name VAL Twisted X Brewing Company	0
+COL brewery_id VAL 373	0
+COL ounces VAL 12.0 oz	1
+COL brewery_id VAL 159	0
+COL state VAL WA	0
+COL ounces VAL 12.0 ounce	1
+COL style VAL American IPA	0
+COL index VAL 1852	0
+COL ounces VAL 12.0 oz	1
+COL style VAL American Brown Ale	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL index VAL 1434	0
+COL ounces VAL 12.0 ounce	1
+COL brewery-name VAL Caldera Brewing Company	0
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL beer-name VAL Slow Hand Stout	0
+COL brewery-name VAL Devil's Canyon Brewery	0
+COL ibu VAL 18	0
+COL ibu VAL N/A	1
+COL id VAL 1766	0
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL PA	0
+COL city VAL Manhattan	0
+COL ounces VAL 12.0 ounce	1
+COL state VAL 	1
+COL brewery-name VAL Indeed Brewing Company	0
+COL ounces VAL 12.0 ounce	1

@@ -1,0 +1,50 @@
+COL state VAL 	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.05%	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.057999999999999996%	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.065%	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL brewery_id VAL 13	0
+COL id VAL 730	0
+COL style VAL American Blonde Ale	0
+COL brewery-name VAL Brewery Vivant	0
+COL brewery-name VAL Minhas Craft Brewery	0
+COL style VAL Tripel	0
+COL state VAL CO	0
+COL style VAL American Pale Ale (APA)	0
+COL state VAL CT	0
+COL brewery_id VAL 118	0
+COL style VAL American IPA	0
+COL style VAL American Pale Wheat Ale	0
+COL ibu VAL 40	0
+COL abv VAL 0.05	0
+COL brewery_id VAL 182	0
+COL style VAL American IPA	0
+COL id VAL 968	0
+COL city VAL Chandler	0
+COL brewery-name VAL White Birch Brewing	0
+COL index VAL 2276	0
+COL city VAL Bronx	0
+COL style VAL American Pale Ale (APA)	0
+COL beer-name VAL Farm Hand	0
+COL beer-name VAL UFO White	0
+COL brewery_id VAL 93	0

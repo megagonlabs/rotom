@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 1/1/06	1
+COL article_pagination VAL 93-6	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jcreated_at VAL 10/1/03	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jissue VAL 	1
+COL article_pagination VAL 91-3	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Diana Duro"",""Augusto Gouḷo"",""Gon̤alo Santos"",""Nuno Mendon̤a"",""Isabel Santana"",""Eg�_dio Machado""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 9/1/04	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""Michiel A J Kompier"",""Etty G A Wielenga-Meijer"",""Dani��l H J Wigboldus"",""Toon W Taris""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 12/1/14	1
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+COL journal_issn VAL Feb-14	1
+COL article_jcreated_at VAL 7/7/14	1
+COL article_jcreated_at VAL 1/1/08	1
+COL journal_issn VAL 	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 14	0
+COL journal_issn VAL 	0
+COL author_list VAL {NULL}	0
+COL article_jissue VAL 1	0
+"COL author_list VAL {""D N Levine""}"	0
+COL journal_issn VAL 1399-3038	0
+COL article_language VAL English	0
+COL jounral_abbreviation VAL J Chem Phys	0
+COL article_jvolumn VAL 126	0
+COL journal_issn VAL 	0
+COL journal_issn VAL 1079-0713	0
+"COL author_list VAL {""David Binns"",""Robert E Ware"",""Damian E Myers"",""Marie-Claude Gregoire"",""Eddie W Lau"",""Lucy Vivash"",""Terence J O'Brien"",""Viviane Bouilleret"",""Mark J Cook"",""Rodney J Hicks"",""Peter Roselt""}"	0
+COL id VAL 541739	0
+COL article_jissue VAL 5	0
+COL journal_title VAL 	0
+COL article_language VAL English	0
+COL id VAL 931944	0
+COL article_language VAL tur	0
+COL article_language VAL 	0
+COL article_pagination VAL 	0
+COL journal_title VAL Geriatr Gerontol Int	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 28	0

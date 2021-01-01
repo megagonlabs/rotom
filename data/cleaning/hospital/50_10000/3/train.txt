@@ -1,0 +1,50 @@
+COL Sample VAL 62 patientx	1
+COL HospitalType VAL axute care hospitals	1
+COL Sample VAL 21 pxtients	1
+COL Condition VAL hexrt attxck	1
+COL Address1 VAL 8000 alabama xigxway 69	1
+COL HospitalName VAL andaluxia regional hoxpital	1
+COL HospitalType VAL acute care hospitaxs	1
+COL Address1 VAL 1530xuxsxhighwayx43	1
+COL HospitalOwner VAL prxprietary	1
+COL EmergencyService VAL yex	1
+COL Condition VAL hearx axxack	1
+COL State VAL xl	1
+COL Sample VAL 0 patixnts	1
+COL Sample VAL sample	1
+COL State VAL ax	1
+COL Stateavg VAL al_pn-xb	1
+COL ZipCode VAL x6x60	1
+COL MeasureCode VAL amx-3	1
+COL CountyName VAL cxllman	1
+COL MeasureName VAL hxart attack patixnts givxn ace inhibitor or arb for lxft vxntricular systolic dysfunction (lvsd)	1
+COL Address1 VAL poxboxx287	1
+COL CountyName VAL fayexxe	1
+COL State VAL xl	1
+COL Score VAL 9x%	1
+COL State VAL xl	1
+COL Sample VAL 5 patients	0
+COL EmergencyService VAL yes	0
+COL Address2 VAL empty	0
+COL Address2 VAL empty	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL Address1 VAL 400 northwood dr	0
+COL Sample VAL 1 patients	0
+COL MeasureCode VAL pn-2	0
+COL MeasureName VAL heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL PhoneNumber VAL 3347938701	0
+COL Condition VAL heart failure	0
+COL HospitalOwner VAL voluntary non-profit - church	0
+COL EmergencyService VAL yes	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL ProviderNumber VAL 10005	0
+COL EmergencyService VAL yes	0
+COL EmergencyService VAL yes	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 35555	0
+COL Stateavg VAL al_scip-inf-6	0
+COL State VAL al	0
+COL Condition VAL pneumonia	0
+COL Stateavg VAL al_hf-3	0
+COL index VAL 395	0
+COL EmergencyService VAL yes	0

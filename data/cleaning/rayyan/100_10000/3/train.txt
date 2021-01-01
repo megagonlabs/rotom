@@ -1,0 +1,100 @@
+COL journal_issn VAL 1555-7162	0
+COL article_jvolumn VAL 44	0
+COL article_jcreated_at VAL 10/1/04	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 58	0
+"COL author_list VAL {""Komla Tsey"",""Melissa R Haswell"",""Lyndon Reilly"",""David Kavanagh"",""Chris Doran"",""Arlene Laliberte"",""Andrew Wilson"",""Yvonne Cadet-James""}"	0
+COL article_jvolumn VAL 110	0
+"COL author_list VAL {""Miquel S����nchez-Marr���"",""Geoff Holmes"",""Joaqu���_n Izquierdo"",""Joaquim Comas"",""Ioannis Athanasiadis"",""Karina Gibert""}"	1
+COL id VAL 417373	0
+COL article_jcreated_at VAL 3/1/13	1
+COL id VAL 198650	0
+COL journal_issn VAL 1523-536X	0
+COL article_jcreated_at VAL 12/1/09	1
+"COL author_list VAL {""Costin M."",""Dumbrav�_ E.L."",""Postolache P."",""Cojocaru D.C.""}"	1
+COL jounral_abbreviation VAL Addict.Behav.	0
+COL article_jcreated_at VAL 2/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 422-424	0
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/06	1
+"COL author_list VAL {""Przemys��aw P Szyber"",""Artur Pupka"",""Piotr Szyber"",""Jerzy Garcarek""}"	1
+COL article_jcreated_at VAL 1/1/04	1
+COL id VAL 184417	0
+COL article_pagination VAL 3111-9	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+COL id VAL 635082	0
+COL article_jissue VAL 	1
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""E.-B. Malmgren-Olsson"",""K. Armelius"",""B.-��. Armelius""}"	1
+COL article_jissue VAL 10	0
+COL article_jcreated_at VAL 	0
+COL article_title VAL Lung function efficacy of olodaterol qd delivered via respimat� vs placebo and formoterol bid in patients with COPD: two 48-week studies [Abstract]	1
+COL article_jvolumn VAL 155	0
+COL article_jcreated_at VAL 3/1/10	1
+COL article_jvolumn VAL 6	0
+COL article_jcreated_at VAL 1/1/07	1
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""Margarita Admetlla Falgueras"",""Josep Fust��� Sugra���es""}"	1
+COL id VAL 267879	0
+COL article_jcreated_at VAL 1/1/14	1
+COL journal_title VAL Actas espa̱olas de psiquiatr�_a	1
+COL jounral_abbreviation VAL Br J Sports Med	0
+COL article_title VAL One-pot semisynthesis of exon 1 of the Huntingtin protein: new tools for elucidating the role of posttranslational modifications in the pathogenesis of Huntington's disease.	0
+COL article_jissue VAL 3	0
+COL article_jcreated_at VAL 1/1/75	0
+COL article_language VAL 	0
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 3/1/09	1
+COL journal_title VAL Neuroprotective Agents	0
+COL article_jcreated_at VAL 12/1/08	1
+"COL author_list VAL {""M Raderer"",""C Gedlicka"",""A Lenauer"",""D Depisch"",""W Scheithauer"",""B Schneeweiss"",""W Fiebiger"",""F Lang"",""G V Kornek"",""B Sch���_ll""}"	1
+COL article_jvolumn VAL 65	0
+COL id VAL 490584	0
+COL id VAL 129552	0
+COL article_jcreated_at VAL 5/1/01	1
+COL journal_title VAL Curr. Vasc. Pharmacol.	0
+"COL author_list VAL {""Ana Maria Baptista Menezes"",""David Alejandro Gonz��lez"",""Elaine Cardozo Macedo"",""Pedro Curi Hallal"",""Maria de F��tima Maia"",""Marli Knorst"",""Samuel Carvalho Dumith"",""Jeovany Mart�_nez-Mesa"",""Ricardo Bica Noal"",""Fernando C̩sar Wehrmeister"",""Jos̩ Roberto Jardim""}"	1
+COL article_jcreated_at VAL 9/1/08	1
+"COL author_list VAL {""J Arana"",""E Rezola"",""A Villanueva"",""M I Intxaurrondo"",""M Su̱ol"",""I Eizaguirre"",""J Garay""}"	1
+COL article_jcreated_at VAL 7/1/14	1
+"COL author_list VAL {""Lowery M.""}"	0
+COL article_jcreated_at VAL 7/1/08	1
+COL article_jcreated_at VAL 9/1/02	1
+COL article_title VAL Efficacy of Class 1 elastic compression stockings in the early stages of chronic venous disease. A comparative study.	0
+COL article_jcreated_at VAL 1/1/09	1
+COL journal_title VAL Canadian family physician Medecin de famille canadien	0
+COL article_title VAL [Pharmacotherapy for conduct disorder in children and adolescents]	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 5/1/99	0
+COL article_language VAL eng	0
+COL article_language VAL eng	0
+COL journal_title VAL Value in Health	0
+COL id VAL 786108	0
+COL id VAL 891722	0
+COL id VAL 605643	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 1972-4	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_title VAL Internet-delivered exposure and mindfulness based therapy for irritable bowel syndrome--a randomized controlled trial	0
+COL article_jvolumn VAL 86	0
+COL article_jcreated_at VAL 6/1/12	1
+COL journal_title VAL Online Submission	0
+COL article_jvolumn VAL 22	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jissue VAL 2	0
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 10/28/13	0
+COL article_jvolumn VAL 38	0
+COL article_jcreated_at VAL 6/1/15	1

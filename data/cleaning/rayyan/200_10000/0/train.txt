@@ -1,0 +1,200 @@
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 3/1/15	1
+COL article_jcreated_at VAL 3/1/08	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 9/1/02	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""S��ren Brostr��m"",""Gunnar Lose""}"	1
+"COL author_list VAL {""P G̩rard"",""J Montesanti"",""P Lepage"",""M M Massin""}"	1
+COL article_jcreated_at VAL 3/1/13	1
+COL article_jcreated_at VAL 5/1/01	1
+COL article_jcreated_at VAL 9/1/07	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 5/1/13	1
+COL article_jcreated_at VAL 4/1/14	1
+COL journal_issn VAL Mar-22	1
+"COL author_list VAL {""R Carraro"",""M F Rasmussen"",""L Niskanen"",""A Harper"",""N Finer"",""S R̦ssner"",""M Kunesova"",""L Van Gaal"",""M E J Lean"",""A Astrup"",""A Rissanen"",""M J Savolainen"",""[Collective Name] NN8022-1807 Investigators""}"	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_pagination VAL 71-7	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/05	1
+COL journal_title VAL Stomatologii��a	1
+"COL author_list VAL {""G Vaksmann"",""A Vincentelli"",""C Francart"",""M A Cajot"",""G M Brevi̬re"",""F Godart"",""J M Coullet"",""P Devos"",""C Rey""}"	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 10/1/10	1
+COL journal_issn VAL Sep-22	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 6/1/05	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 8/1/13	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""M Raderer"",""C Gedlicka"",""A Lenauer"",""D Depisch"",""W Scheithauer"",""B Schneeweiss"",""W Fiebiger"",""F Lang"",""G V Kornek"",""B Sch���_ll""}"	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jissue VAL 	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/11	1
+"COL author_list VAL {""N. Jakubik"",""L. Trzpil"",""F. Raciborski"",""U. Samolinska-Zawisza"",""L. Samoli̱ski"",""D. Paczesny"",""Z. Halat"",""J. Marszalkowska"",""B. Samolinski"",""P. Samel-Kowalik"",""A. Lusawa"",""J. Gutowska"",""A. Tomaszewska"",""A. Walkiewicz""}"	1
+COL article_jcreated_at VAL 5/1/11	1
+"COL author_list VAL {""K. Tamaki"",""A. G. C��lar"",""S. Beyrer"",""H. Aoki""}"	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 3/1/02	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 8/1/12	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Venancio Mart�_nez Su��rez""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 9/1/13	1
+COL article_pagination VAL 91-3	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/07	1
+"COL author_list VAL {""D Chochol���"",""R Chaloupka"",""B Kala"",""J Gallo"",""M Netval""}"	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 6/1/15	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 5/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 10/9/15	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/12	1
+COL journal_issn VAL 1060-0280	0
+COL article_jvolumn VAL 9	0
+COL article_jvolumn VAL 26	0
+COL id VAL 67292	0
+COL id VAL 735083	0
+COL article_pagination VAL 930-936	0
+"COL author_list VAL {""S. G. DB  - c8h DO  - 10.1097/01.NURSE.0000343454.35505.5a DP  - EBSCOhost Camden""}"	0
+COL article_jissue VAL 1	0
+COL article_jvolumn VAL 0	0
+COL journal_title VAL Ann N Y Acad Sci	0
+COL article_jissue VAL 1	0
+COL article_jvolumn VAL 29	0
+"COL author_list VAL {""M.M.P. Yang"",""S.H. Kok"",""G.T.C. Lee""}"	0
+COL article_language VAL eng	0
+COL journal_issn VAL 0021-8987 (Print)     0021-8987	0
+COL journal_title VAL Expert opinion on emerging drugs	0
+COL article_jvolumn VAL 56	0
+COL article_jissue VAL 5	0
+COL id VAL 44484	0
+COL article_pagination VAL 159-166	0
+COL journal_title VAL 	0
+COL article_title VAL On the role of pre and post-processing in environmental data mining	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 31	0
+COL article_language VAL eng	0
+COL article_pagination VAL 1337-45	0
+COL article_jcreated_at VAL 1/1/00	0
+COL article_jissue VAL 4	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL Health education & behavior : the official publication of the Society for Public Health Education	0
+COL id VAL 944558	0
+COL id VAL 248064	0
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 0363-5023	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""Reva Kasman""}"	0
+COL article_jcreated_at VAL 1/1/96	0
+"COL author_list VAL {""Daiki Uchida"",""Yukihiro Saito"",""Hisashi Uchida"",""Atsuhiro Koya"",""Nobuyoshi Azuma""}"	0
+COL jounral_abbreviation VAL Pharmacogenomics	0
+COL author_list VAL {NULL}	0
+COL article_jvolumn VAL 94	0
+COL journal_issn VAL 1757-1626	0
+COL jounral_abbreviation VAL Journal of applied physiology	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Isolated cerebellar involvement in a case of posterior reversible leukoencephalopathy.	0
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 0019-9567	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 9	0
+COL journal_issn VAL 0363-6771	0
+COL article_language VAL eng	0
+COL article_language VAL 	0
+COL article_pagination VAL 495-503	0
+COL article_title VAL Early thoracic sympathetic block improves the treatment effect for upper extremity neuropathic pain	0
+COL journal_title VAL Proceedings of the 23rd ACM international conference on Multimedia	0
+COL article_title VAL [Changes in plasma concentrations of human hepatocyte growth factor before and after major intra-abdominal surgery under nitrous oxide-sevoflurane anesthesia].	0
+COL article_title VAL Stereotactic radiosurgery for spinal metastases: a literature review. [Review]	0
+COL article_jvolumn VAL 44	0
+COL article_pagination VAL 	0
+COL article_jissue VAL 11	0
+COL article_language VAL 	0
+COL article_title VAL Review of Handbook for Working with Children and Youth: Pathways to Resilience across Cultures and Contexts	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 2	0
+COL id VAL 474288	0
+COL journal_issn VAL 1096-4673	0
+COL article_jvolumn VAL 23	0
+COL article_language VAL 	0
+COL article_language VAL eng	0
+COL journal_title VAL Annals Of Surgery	0
+COL jounral_abbreviation VAL Oncol Nurs Forum	0
+COL journal_issn VAL 	0
+COL journal_title VAL Swiss Medical Weekly	0
+COL article_jissue VAL 3	0
+COL article_language VAL eng	0
+"COL author_list VAL {""Somjot S Brar"",""William A Gray""}"	0
+COL journal_title VAL International Journal of Oral and Maxillofacial Surgery	0
+COL article_jcreated_at VAL 1/1/87	0
+COL article_pagination VAL 	0
+COL article_pagination VAL 673-692	0
+COL article_jvolumn VAL 43	0
+"COL author_list VAL {""P Michel"",""V Papavasileiou"",""G Ntaios"",""A Bargiota"",""K Makaritsis""}"	0
+COL article_pagination VAL 	0
+COL article_language VAL English	0
+COL article_pagination VAL 408-427	0
+COL id VAL 360693	0
+COL article_language VAL 	0
+COL article_pagination VAL 714-9	0
+COL article_jcreated_at VAL 1/1/71	0
+COL journal_issn VAL 	0
+COL article_jissue VAL 4	0
+COL article_language VAL eng	0
+COL journal_title VAL Molecular Biology Reports	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Fractional flow reserve for guiding PCI.	0
+COL article_language VAL eng	0
+COL article_pagination VAL 945-52	0
+COL jounral_abbreviation VAL Archives of internal medicine	0
+COL article_pagination VAL 149-156	0
+COL article_pagination VAL 63-71 ST  - Polycystic ovary syndrome (PCOS) and other androgen excess-related conditions: can changes in dietary intake make a difference?-	0

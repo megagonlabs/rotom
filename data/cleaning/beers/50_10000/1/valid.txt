@@ -1,0 +1,50 @@
+COL abv VAL 0.068%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL city VAL Longmont CO	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 19.2 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz. Silo Can	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL ounces VAL 16.0 oz	1
+COL state VAL 	1
+COL abv VAL 0.045%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.048	0
+COL beer-name VAL 483 Pale Ale (2010)	0
+COL brewery_id VAL 134	0
+COL id VAL 1079	0
+COL index VAL 395	0
+COL brewery-name VAL Ruhstaller Beer Company	0
+COL beer-name VAL Pinata Protest	0
+COL ibu VAL 20	0
+COL beer-name VAL Norm's Gateway IPA	0
+COL index VAL 455	0
+COL index VAL 827	0
+COL style VAL Chile Beer	0
+COL brewery-name VAL Cigar City Brewing Company	0
+COL style VAL American IPA	0
+COL id VAL 2425	0
+COL brewery_id VAL 133	0
+COL index VAL 534	0
+COL index VAL 2010	0
+COL abv VAL 0.057	0
+COL state VAL UT	0
+COL brewery-name VAL High Noon Saloon And Brewery	0
+COL index VAL 875	0
+COL city VAL Ashland	0
+COL brewery_id VAL 489	0
+COL brewery_id VAL 4	0

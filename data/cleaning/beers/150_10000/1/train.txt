@@ -1,0 +1,150 @@
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 32.0 oz.	1
+COL abv VAL 0.062%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.054000000000000006%	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL abv VAL 0.08%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.07200000000000001%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL city VAL Marietta GA	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.085%	1
+COL ounces VAL 12.0 OZ.	1
+COL state VAL 	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL city VAL Longmont CO	1
+COL abv VAL 0.087%	1
+COL state VAL 	1
+COL brewery_id VAL 134	0
+COL brewery-name VAL Fort Point Beer Company	0
+COL beer-name VAL Special Edition: Allies Win The War!	0
+COL brewery_id VAL 299	0
+COL state VAL FL	0
+COL brewery-name VAL Mammoth Brewing Company	0
+COL id VAL 2614	0
+COL city VAL Eugene	0
+COL beer-name VAL Honey Kolsch	0
+COL brewery-name VAL COAST Brewing Company	0
+COL index VAL 103	0
+COL brewery_id VAL 25	0
+COL city VAL Spearfish	0
+COL city VAL San Antonio	0
+COL index VAL 1189	0
+COL beer-name VAL Bombshell Blonde	0
+COL state VAL OR	0
+COL style VAL English Pale Ale	0
+COL index VAL 1540	0
+COL style VAL Doppelbock	0
+COL index VAL 235	0
+COL style VAL American Stout	0
+COL brewery_id VAL 389	0
+COL index VAL 2065	0
+COL ibu VAL 85	0
+COL style VAL American Pale Wheat Ale	0
+COL style VAL American Pale Ale (APA)	0
+COL brewery_id VAL 164	0
+COL city VAL Fort Worth	0
+COL style VAL Mead	0
+COL city VAL Atlantic Highlands	0
+COL state VAL TX	0
+COL state VAL CO	0
+COL brewery_id VAL 0	0
+COL brewery-name VAL Four Fathers Brewing	0
+COL brewery_id VAL 345	0
+COL brewery_id VAL 425	0
+COL ibu VAL 18	0
+COL index VAL 2283	0
+COL id VAL 891	0
+COL brewery_id VAL 464	0
+COL brewery-name VAL Minhas Craft Brewery	0
+COL state VAL MI	0
+COL abv VAL 0.058	0
+COL style VAL Scotch Ale / Wee Heavy	0
+COL id VAL 1456	0
+COL brewery-name VAL Kirkwood Station Brewing Company	0
+COL abv VAL 0.045	0
+COL city VAL Athens	0
+COL brewery-name VAL Saint Archer Brewery	0
+COL style VAL American Porter	0
+COL id VAL 965	0
+COL city VAL Evansville	0
+COL index VAL 2081	0
+COL ibu VAL 17	0
+COL beer-name VAL Oakshire Amber Ale	0
+COL abv VAL 0.082	0
+COL state VAL CT	0
+COL id VAL 1442	0
+COL id VAL 931	0
+COL style VAL American Blonde Ale	0
+COL beer-name VAL Special Amber	0
+COL ibu VAL 65	0
+COL id VAL 1768	0
+COL ibu VAL 50	0
+COL style VAL American Blonde Ale	0
+COL id VAL 2102	0
+COL brewery-name VAL Black Shirt Brewing Company	0
+COL city VAL Greeley	0
+COL style VAL American IPA	0
+COL state VAL IL	0
+COL state VAL CA	0
+COL brewery_id VAL 48	0
+COL brewery-name VAL Modern Times Beer	0
+COL abv VAL 0.055	0

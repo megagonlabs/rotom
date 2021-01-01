@@ -1,0 +1,500 @@
+COL RatingCount VAL 52,185	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 3.0	1
+COL Id VAL tt0045125	0
+COL RatingCount VAL 5,581	1
+COL Genre VAL Comedy	1
+COL Id VAL tt0402057	0
+COL Release Date VAL Apr 26, 2013 Limited	1
+COL Genre VAL Action & Adventure,Mystery & Suspense,Science Fiction & Fantasy	1
+COL Release Date VAL 20 June 2013 (Netherlands)	0
+COL RatingCount VAL 94,966	1
+COL Actors VAL Henry Thomas,Drew Barrymore,Peter Coyote	0
+COL Filming Locations VAL Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA	0
+COL RatingCount VAL 105,245	1
+COL RatingCount VAL 4,074	1
+COL ReviewCount VAL 23 user,8 critic	0
+COL Duration VAL 121 min	0
+COL Release Date VAL Jan 14, 2011 Wide	1
+COL Country VAL USA	0
+COL Duration VAL 90 min	0
+COL Language VAL English	0
+COL Year VAL 1963	0
+COL RatingCount VAL 2,372	1
+COL RatingCount VAL 1,773	1
+COL Name VAL A Most Violent Year	0
+COL Name VAL God Is My Co-Pilot	0
+COL RatingCount VAL 45,637	1
+COL RatingCount VAL 151,733	1
+COL Description VAL A toon hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.	0
+COL Release Date VAL 8 June 2010 (USA)	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 35,443	1
+COL Id VAL misery	1
+COL Release Date VAL 6 November 1996 (USA)	0
+COL Genre VAL Crime,Thriller	0
+COL RatingValue VAL 6.0	1
+COL Duration VAL 	0
+COL Id VAL tt0120888	0
+COL RatingCount VAL 8,743	1
+COL RatingCount VAL 1,218	1
+COL RatingCount VAL 27,472	1
+COL RatingCount VAL 126,556	1
+COL Duration VAL 134 min	0
+COL Year VAL 2013	0
+COL ReviewCount VAL 9 user,3 critic	0
+COL RatingCount VAL 98,235	1
+COL RatingValue VAL 5.0	1
+COL Language VAL English	0
+COL Name VAL The Fault In Our Stars	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 162,043	1
+COL Genre VAL Horror	0
+COL RatingCount VAL 2,945	1
+COL Name VAL Dinner for Schmucks	0
+COL RatingValue VAL 	1
+COL Genre VAL Horror	0
+COL ReviewCount VAL 285 user,109 critic	0
+COL RatingCount VAL 2,613	1
+COL RatingValue VAL 7.9	0
+COL RatingCount VAL 31,137	1
+COL RatingCount VAL 66,535	1
+COL RatingCount VAL 33,828	1
+COL RatingCount VAL 201,850	1
+COL RatingCount VAL 64,661	1
+COL Duration VAL 87 min	0
+COL Year VAL 1987 1988 1989	1
+COL RatingCount VAL 147,391	1
+COL RatingValue VAL 8.1	0
+COL RatingCount VAL 40,379	1
+COL RatingCount VAL 56,102	1
+COL Filming Locations VAL Burbank, California, USA	0
+COL Language VAL English	0
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 364,613	1
+COL RatingCount VAL 4,062	1
+COL RatingCount VAL 130,670	1
+COL RatingCount VAL 78,125	1
+COL Language VAL English	0
+COL Release Date VAL 18 September 1998 (USA)	0
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 1,204	1
+COL Release Date VAL 28 July 1995 (USA)	0
+COL RatingCount VAL 222,049	1
+COL Creator VAL Anne Rice,Scott Abbott	0
+COL Year VAL 1946	0
+COL Director VAL Adam Bhala Lough	0
+COL Year VAL 2013	0
+COL Language VAL English	0
+COL RatingCount VAL 1,717	1
+COL Year VAL 2000	0
+COL RatingCount VAL 2,290	1
+COL Creator VAL Gregory Nava,Anna Thomas	0
+COL RatingCount VAL 40,358	1
+COL RatingCount VAL 16,047	1
+COL Genre VAL Drama,Action & Adventure,Kids & Family,Science Fiction & Fantasy,Comedy	1
+COL Creator VAL Jason Pagan,Andrew Deutschman	0
+COL Actors VAL Chris Elliott,Marielle Heller,Bridey Elliott	0
+COL RatingCount VAL 37,591	1
+COL Year VAL 1988	0
+COL Creator VAL Tom McCarthy,Josh Singer	0
+COL Country VAL USA	0
+COL RatingValue VAL 7.2/10,7.3/10	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 14,077	1
+COL RatingCount VAL 9,255	1
+COL Creator VAL Mark James (XXXVIII),James Jurdi,Mark James	1
+COL Description VAL To keep the loyalty of a village during the Vietnam war, a U.S. Army officer and his unit struggle to deliver it a live elephant.	0
+COL Actors VAL Alice Englert,Viola Davis,Emma Thompson	0
+COL Creator VAL Erin Cressida Wilson,Anne Fontaine	0
+COL Creator VAL Sonya Levien,William Ludwig	0
+COL Description VAL This is story of a love triangle involving an American soldier, a congresswoman from Iowa and a German singer who meet in postwar Berlin.	1
+COL Id VAL tt0325805	0
+COL Release Date VAL March 2008 (France)	0
+COL RatingCount VAL 5,185	1
+COL Language VAL English	0
+COL RatingCount VAL 3,088	1
+COL Id VAL fort_apache	1
+COL Name VAL Seed of Chucky	0
+COL Cast VAL Adam Sandler,Andy Samberg,Leighton Meester,Vanilla Ice,James Caan,Milo Ventimiglia,Blake Clark,Meagen Fay,Tony Orlando,Will Forte,Rachel Dratch,Nick Swardson,Peggy Stewart,Luenell,Ciara	0
+COL Actors VAL Al Pacino,Kitty Winn,Alan Vint	0
+COL Director VAL Angela Christlieb,Stephen Kijak	0
+COL RatingCount VAL 2,507	1
+COL RatingCount VAL 3,454	1
+COL Release Date VAL 9 October 1987 (USA)	0
+COL Id VAL tt1596343	0
+COL Id VAL tt0475394	0
+COL Release Date VAL 30 April 1993 (USA)	0
+COL Year VAL 1938	0
+COL RatingCount VAL 22,592	1
+COL Year VAL 2013	0
+COL Creator VAL Blake Edwards,Evelyn Anthony	0
+COL Id VAL tt2287695	0
+COL Director VAL E. Max Frye	0
+COL RatingCount VAL 12,474	1
+COL Year VAL 2012	0
+COL RatingCount VAL 55,650	1
+COL Id VAL 1153987-nanny_mcphee	1
+COL Cast VAL Jon Voight,Burt Reynolds,Ned Beatty,Ronny Cox,Ed Ramey,Billy Redden,Seamon Glass,Randall Deal,Bill McKinney,Herbert 'Cowboy' Coward,Lewis Crone,Ken Keener,Johnny Popwell,John Fowler,Kathy Rickman	0
+COL RatingCount VAL 9,142	1
+COL Name VAL Romeo and Juliet	0
+COL RatingCount VAL 204,128	1
+COL Year VAL 2004 2005 2006	1
+COL Country VAL USA	0
+COL Genre VAL Drama,Horror,Mystery & Suspense	1
+COL Description VAL When illicit chemicals are dumped into the Los Angeles sewers, a former pet alligator is transformed into an enormous monster. It's up to a dedicated police officer and a beautiful scientist to stop the beast's rampage in this affectionate tribute to the giant monster movie genre.	1
+COL RatingCount VAL 266,531	1
+COL RatingValue VAL 7.2	0
+COL Id VAL tt2463288	0
+COL Duration VAL 	0
+COL RatingValue VAL 6.3	0
+COL RatingCount VAL 159,364	1
+COL Country VAL USA,Germany,Canada,UK	0
+COL RatingCount VAL 9,528	1
+COL RatingCount VAL 2,612	1
+COL Duration VAL 1 hr. 33 min.	1
+COL RatingValue VAL 4.0	1
+COL RatingCount VAL 4,176	1
+COL Filming Locations VAL Willow Creek, California, USA	0
+COL Actors VAL Bobby Driscoll,Robert Newton,Basil Sydney	0
+COL Release Date VAL 22 April 1983 (USA)	0
+COL ReviewCount VAL 691 user,136 critic	0
+COL RatingCount VAL 99,527	1
+COL Actors VAL Sara Paxton,Dustin Milligan,Chris Carmack	0
+COL RatingCount VAL 84,420	1
+COL Release Date VAL 3 November 1995 (USA)	0
+COL Actors VAL David Arquette,Kari Wuhrer,Scott Terra	0
+COL Id VAL babel	1
+COL RatingCount VAL 14,834	1
+COL Id VAL tt0046534	0
+COL RatingCount VAL 8,956	1
+COL Duration VAL 84 min	0
+COL RatingValue VAL 6.2	0
+COL Cast VAL Naomi Watts,Jack Black,Adrien Brody,Thomas Kretschmann,Colin Hanks,Andy Serkis,Evan Parke,Jamie Bell,Lobo Chan,John Sumner,Craig Hall,Kyle Chandler,William Johnson,Mark Hadlow,Geraldine Brophy	0
+COL Genre VAL Horror,Mystery,Thriller	0
+COL Year VAL 2010	0
+COL Year VAL 2001 2002 2003	1
+COL Duration VAL 1 hr. 34 min.	1
+COL Cast VAL Casper Van Dien,Dina Meyer,Denise Richards,Jake Busey,Neil Patrick Harris,Clancy Brown,Seth Gilliam,Patrick Muldoon,Michael Ironside,Rue McClanahan,Marshall Bell,Eric Bruskotter,Matt Levin,Blake Lindsley,Anthony Ruivivar	0
+COL ReviewCount VAL 443 user,151 critic	0
+COL RatingCount VAL 510,007	1
+COL Genre VAL Drama	0
+COL RatingCount VAL 1,533	1
+COL Duration VAL 90 min	0
+COL Name VAL Odd Thomas	0
+COL Genre VAL Adventure,Drama,Western	0
+COL Description VAL In the future, an alien race uses androids as bombs to attack Earth. A government weapons specialist is accused of being one such android and sets out to prove his innocence.	0
+COL RatingCount VAL 190,911	1
+COL RatingCount VAL 17,829	1
+COL Duration VAL 109 min	0
+COL RatingCount VAL 6,067	1
+COL RatingCount VAL 21,992	1
+COL Description VAL This New York-made independent film, the auspicious debut of talented filmmaker Abel Ferrara, who also starred in the film and wrote most of its songs under the moniker 'Jimmy Laine,' offers many genuinely disturbing, graphic shocks as it tells the story of a Big Apple artist living on the edge of the city's fringe. Motivated by his abiding terror of ending up a homeless, drunken vagrant like his father, and suffering from terrifying hallucinations, he is driven to begin murdering homeless,hoboes with a power drill. Eventually his compulsion takes a paranoid twist and he begins murdering anyone who wronged him in the past.	1
+COL Filming Locations VAL 	0
+COL Year VAL 1999	0
+COL RatingCount VAL 40,757	1
+COL Director VAL Brad Anderson	0
+COL Description VAL When a dead body turns up in the home of a famous actress, two reporters (who also happen to be in love with one another) compete to get the real scoop.	0
+COL Genre VAL Comedy,Music,Romance	0
+COL RatingCount VAL 73,283	1
+COL RatingCount VAL 65,266	1
+COL RatingValue VAL 7.0	1
+COL Duration VAL 90 min	0
+COL RatingCount VAL 71,071	1
+COL Creator VAL Paul Hernandez,Bob Schooley,Mark McCorkle,Robert Schooley	1
+COL Cast VAL Mel Gibson,Danny Glover,Joe Pesci,Joss Ackland,Derrick O'Connor,Patsy Kensit,Darlene Love,Traci Wolfe,Steve Kahan,Mark Rolston,Jenette Goldstein,Dean Norris,Juney Smith,Nestor Serrano,Philip Suriano	0
+COL RatingCount VAL 13,200	1
+COL Duration VAL 100 min	0
+COL RatingCount VAL 23,938	1
+COL RatingValue VAL 6.6	0
+COL RatingValue VAL 7.4	0
+COL Release Date VAL 19 June 1968 (USA)	0
+COL Description VAL Old friends Kit Marlowe and Millie Drake adopt contrasting lifestyles: Kit is a single, critically acclaimed author while married Millie writes popular pulp novels.	0
+COL Description VAL Where the Red Fern Grows is the heartwarming and adventurous tale for all ages about a young boy and his quest for his own red-bone hound hunting dogs.	0
+COL RatingCount VAL 26,011	1
+COL RatingCount VAL 57,984	1
+COL Name VAL Candleshoe	0
+COL ReviewCount VAL 25 user,24 critic	0
+COL RatingValue VAL 7.0	1
+COL Year VAL 1998 1999 2000	1
+COL Genre VAL Comedy,Crime,Thriller	0
+COL Creator VAL Harry Kleiner	1
+COL RatingCount VAL 40,511	1
+COL Director VAL Jan de Bont	0
+COL ReviewCount VAL 291 user,140 critic	0
+COL RatingCount VAL 8,739	1
+COL RatingCount VAL 3,149	1
+COL RatingCount VAL 4,692	1
+COL RatingCount VAL 1,126	1
+COL Actors VAL Bette Davis,Barbara Carrera,Colleen Camp	0
+COL Language VAL English	0
+COL RatingCount VAL 3,205	1
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Filming Locations VAL Latrobe, Pennsylvania, USA	0
+COL Cast VAL Vincent Gallo,Chloë Sevigny,Cheryl Tiegs,Elizabeth Blake,Anna Vareschi,Mary Morasky,Jeffrey Wood,Eric Wood,Michael Martire,Rick Doucette,Jim Lester,Michael Niksa	0
+COL Id VAL it_follows	1
+COL RatingCount VAL 1,108	1
+COL Id VAL tt0039896	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL RatingCount VAL 16,575	1
+COL RatingValue VAL 6.0	1
+COL Id VAL tt0342275	0
+COL Year VAL 2011	0
+COL Creator VAL Steve Granat,Cydne Clark	0
+COL RatingCount VAL 3,664	1
+COL Genre VAL Drama,Kids & Family,Romance	1
+COL Director VAL Lisa Ades,Lesli Klainberg	0
+COL ReviewCount VAL 22 user,15 critic	0
+COL ReviewCount VAL 137 user,56 critic	0
+COL RatingCount VAL 1,033	1
+COL Release Date VAL 	0
+COL Director VAL Alfonso Gomez-Rejon	0
+COL Actors VAL Jack Nicholson,Helen Hunt,Greg Kinnear	0
+COL Director VAL Dick Powell	0
+COL Description VAL A suburban family moves to a new neighborhood with their large yet lovable Great Dane, who has a tendency to wreak havoc in his own oblivious way.	0
+COL Director VAL Florent Emilio Siri	1
+COL RatingCount VAL 3,804	1
+COL Cast VAL Jack Lemmon,Ted Danson,Olympia Dukakis,Kathy Baker,Kevin Spacey,Ethan Hawke,Zakes Mokae,J.T. Walsh,Peter Michael Goetz,John Apicella,Richard McGonagle,Bill Morey,Mary Fogarty,Art Frankel,Ray Girardin	0
+COL Duration VAL 75 min	0
+COL Country VAL USA	0
+COL Year VAL 1996	0
+COL Id VAL guardians_of_the_galaxy_2	1
+COL Description VAL Billionaire industrialist and genius inventor Tony Stark is kidnapped and forced to build a devastating weapon. Instead, using his intelligence and ingenuity, Tony builds a high-tech suit of armor and escapes captivity. When he uncovers a nefarious plot with global implications, he dons his powerful armor and vows to protect the world as Iron Man.	1
+COL Genre VAL Mystery & Suspense,Horror	1
+COL RatingCount VAL 54,646	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 10,854	1
+COL Language VAL English	0
+COL RatingCount VAL 17,726	1
+COL Id VAL continental_divide	1
+COL RatingCount VAL 18,540	1
+COL Filming Locations VAL Prague, Czech Republic	0
+COL RatingCount VAL 7,704	1
+COL Year VAL 2014	0
+COL RatingCount VAL 457,317	1
+COL Filming Locations VAL British Columbia, Canada	0
+COL RatingCount VAL 24,346	1
+COL Release Date VAL Jul 31, 1992 Wide	1
+COL RatingCount VAL 103,608	1
+COL Cast VAL Nicholas Ryan Gibbs,Wayne E. Brown,Austin Farnsworth,Katelyn Grace Farnsworth,Allison Marie Farnsworth,Dawn Storey,Kristina Kaylen,Ryan-Iver Klann,Jared Withrow,Heather Fairbanks,Michael Brennan,Haley Klann,Gwen Gornicki,Tim Kaiser,Joseph Cloutier Jr.	0
+COL RatingCount VAL 2,277	1
+COL Creator VAL George P. Saunders	1
+COL Director VAL Karyn Kusama	0
+COL Filming Locations VAL 	0
+COL RatingCount VAL 3,045	1
+COL RatingValue VAL 6.0	1
+COL RatingValue VAL 7.0	1
+COL Language VAL English	0
+COL ReviewCount VAL 60 user,1 critic	0
+COL RatingCount VAL 119,968	1
+COL Description VAL George Marshall directed this breezy romantic comedy starring Tony Randall and Debbie Reynolds. Randall plays Lorenzo Charlton, a stuffy tax investigator sent to the farm of Pop Larkin (Paul Douglas) and Ma Larkin (Una Merkel) to find out why they haven't been paying taxes. He discovers that the Larkins, instead of money, use a homegrown barter system. Their complex economic network causes Lorenzo to drink one home brew too many. Awakening from a hangover, he sees a vision of loveliness before,him -- the Larkin's spunky daughter Mariette (Debbie Reynolds). Enraptured by Mariette, he decides to stick around and help the family out of their onerous tax burden. Further research reveals an ancestral claim dating to the Civil War -- in reality, the government owes the Larkins $14 million.	1
+COL Director VAL Henry Hathaway	0
+COL RatingCount VAL 5,010	1
+COL Genre VAL Action,Comedy,Crime	0
+COL Duration VAL 91 min	0
+COL RatingValue VAL 8.1	0
+COL Actors VAL Sylvester Stallone,Donald Sutherland,John Amos	0
+COL Year VAL 1923	0
+COL Year VAL 1970	0
+COL Genre VAL Drama,Horror,Mystery & Suspense	1
+COL Name VAL Massacre at Central High	0
+COL RatingCount VAL 436,600	1
+COL Release Date VAL Mar 16, 2012 Limited	1
+COL Release Date VAL Sep 18, 1981 Wide	1
+COL RatingCount VAL 15,293	1
+COL Filming Locations VAL Blackstone Bay, Alaska, USA	0
+COL RatingCount VAL 13,388	1
+COL Filming Locations VAL 	0
+COL Id VAL tt4392454	0
+COL RatingCount VAL 32,885	1
+COL RatingCount VAL 68,036	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 4,303	1
+COL RatingCount VAL 1,464	1
+COL Language VAL English	0
+COL RatingCount VAL 320,053	1
+COL Cast VAL Kevin Kline,Kenneth Branagh,Rosie Perez,Armand Assante,Edward James Olmos,Jim Cummings,Frank Welker,Tobin Bell,Duncan Marjoribanks,Elijah Chiang,Cyrus Shaki-Khan,Elton John	0
+COL RatingCount VAL 62,591	1
+COL RatingCount VAL 1,265	1
+COL RatingValue VAL 7.3	0
+COL RatingCount VAL 8,038	1
+COL Year VAL 1999	0
+COL RatingCount VAL 59,668	1
+COL RatingCount VAL 41,742	1
+COL RatingCount VAL 32,903	1
+COL Filming Locations VAL New Jersey, USA	0
+COL RatingCount VAL 1,171	1
+COL Duration VAL 109 min	0
+COL Country VAL USA	0
+COL RatingCount VAL 20,257	1
+COL RatingCount VAL 82,240	1
+COL Description VAL With a job traveling around the country firing people, Ryan Bingham enjoys his life living out of a suitcase, but finds that lifestyle threatened by the presence of a new hire and a potential love interest.	0
+COL RatingCount VAL 11,699	1
+COL RatingCount VAL 23,855	1
+COL RatingCount VAL 36,970	1
+COL Language VAL Spanish,English	0
+COL RatingCount VAL 117,980	1
+COL Year VAL 2013	0
+COL Language VAL English	0
+COL RatingCount VAL 769	0
+COL Duration VAL 103 min	0
+COL RatingCount VAL 5,820	1
+COL RatingCount VAL 75,214	1
+COL Description VAL When he finds out that his work superiors host a dinner celebrating the idiocy of their guests, a rising executive questions it when he's invited, just as he befriends a man who would be the perfect guest.	0
+COL Filming Locations VAL 4411 Noeline Avenue, Encino, Los Angeles, California, USA	0
+COL RatingCount VAL 75,609	1
+COL Filming Locations VAL 	0
+COL Creator VAL Jake Wade Wall	0
+COL RatingCount VAL 734,822	1
+COL RatingCount VAL 262,168	1
+COL Name VAL Three Days of the Condor	0
+COL Creator VAL John Kamps,Gavin Scott,John Camps	1
+COL RatingValue VAL 6/10	1
+COL Actors VAL Clint Eastwood,Kyle Eastwood,John McIntire	0
+COL Duration VAL 	0
+COL ReviewCount VAL 195 user,35 critic	0
+COL Description VAL Cecil B. DeMille's The Greatest Show on Earth is a lavish tribute to circuses, featuring three intertwining plotlines concerning romance and rivalry beneath the big top. DeMille's film includes spectacular action sequences, including a show-stopping train wreck. The Greatest Show on Earth won Academy Awards for Best Picture and Best Story. ~ Stephen Thomas Erlewine, Rovi	1
+COL RatingCount VAL 6,159	1
+COL RatingCount VAL 5,761	1
+COL Genre VAL Drama	0
+COL Genre VAL Drama,Art House & International,Comedy	1
+COL Id VAL tt0101590	0
+COL RatingValue VAL 8.0	1
+COL Genre VAL Drama	1
+COL Cast VAL Mona Marshall,Wasabi Mizuta,Johnny Yong Bosch,Megumi Oohara,Cassandra Morris,Satoshi Tsumabuki,Brian Beacock,Yumi Kakazu,Subaru Kimura,Kaiji Tang,Tomokazu Seki,Alaska,Minae Noji,Mario Vaquerizo	0
+COL RatingCount VAL 14,342	1
+COL RatingCount VAL 3,763	1
+COL RatingCount VAL 35,825	1
+COL RatingCount VAL 6,684	1
+COL Filming Locations VAL Backlot, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA	0
+COL Creator VAL Jorge R. Gutierrez,Douglas Langdale	1
+COL Filming Locations VAL Utah, USA	0
+COL RatingCount VAL 2,158	1
+COL RatingCount VAL 20,971	1
+COL Description VAL On his way to becoming an immortal demon, gangleader Luc Crash (Boreanaz) orchestrates the murder of Jimmy Cuervo (Furlong) and his girlfriend, Lily (Chriqui).	0
+COL RatingCount VAL 19,842	1
+COL RatingCount VAL 210,045	1
+COL Filming Locations VAL 77 Pottery Lane, Notting Hill, London, England, UK	0
+COL RatingCount VAL 42,484	1
+COL RatingCount VAL 44,596	1
+COL Language VAL English,Swedish	0
+COL Cast VAL John Krasinski,Pablo Schreiber,James Badge Dale,Max Martini,Toby Stephens,David Giuntoli,David Denman,David Costabile,Wrenn Schmidt,Dominic Fumusa,Demetrius Grosse,Elektra Anastasi,Kevin Kent,Liisa Evastina,Alexia Barlier	0
+COL Description VAL At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.	0
+COL RatingCount VAL 165,924	1
+COL RatingCount VAL 3,094	1
+COL Description VAL An exploration of technologically developing nations and the effect the transition to Western-style modernization has had on them.	0
+COL Year VAL 2002	0
+COL Name VAL Machete	0
+COL Duration VAL 128 min	0
+COL RatingCount VAL 76,830	1
+COL ReviewCount VAL 17 critic	0
+COL Director VAL George Tillman Jr.	0
+COL Creator VAL George Bricker,Dwight V. Babcock	0
+COL Year VAL 2005 2006 2007	1
+COL Year VAL 2014	0
+COL RatingValue VAL 7.6	0
+COL Duration VAL 124 min	0
+COL Language VAL English,Cantonese	0
+COL Language VAL English,Danish,German	0
+COL Creator VAL Tad Friend	0
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 25,150	1
+COL RatingValue VAL 6.7	0
+COL Genre VAL Drama,Comedy	1
+COL RatingCount VAL 41,457	1
+COL Country VAL USA,UK,France	0
+COL Duration VAL 1 hr. 38 min.	1
+COL Duration VAL 65 min	0
+COL Duration VAL 108 min	0
+COL Description VAL A stripper and single mother gets dragged into a dangerous situation after a congressman takes a fancy to her.	0
+COL RatingCount VAL 3,134	1
+COL Director VAL Andrew Niccol	0
+COL RatingCount VAL 1,949	1
+COL Duration VAL 104 min	0
+COL RatingValue VAL 6.3	0
+COL Creator VAL Barré Lyndon,Jonathan Latimer	0
+COL Actors VAL Josh Bonzie,Elizabeth Brambilla,Lulu Burnette	0
+COL Director VAL Dustin Rikert	0
+COL RatingCount VAL 26,175	1
+COL Name VAL Asylum	0
+COL RatingCount VAL 4,400	1
+COL Language VAL English	0
+COL Filming Locations VAL Botswana	0
+COL Release Date VAL 28 October 2014 (USA)	0
+COL Name VAL Day of the Dead	0
+COL Filming Locations VAL Atascadero, California, USA	0
+COL RatingCount VAL 24,569	1
+COL RatingCount VAL 157,833	1
+COL Genre VAL Action & Adventure,Comedy	1
+COL Id VAL tt0104797	0
+COL RatingCount VAL 39,475	1
+COL Genre VAL Drama	1
+COL RatingCount VAL 85,855	1
+COL Release Date VAL Aug 3, 2001 Wide	1
+COL RatingCount VAL 193,154	1
+COL RatingCount VAL 4,853	1
+COL Genre VAL Action,Adventure,Sci-Fi	0
+COL RatingValue VAL 	0
+COL Genre VAL Drama,Romance	1
+COL Year VAL 1989	0
+COL Release Date VAL Oct 27, 2006 Wide	1
+COL Country VAL USA,United Arab Emirates	0
+COL RatingValue VAL 8.7	0
+COL Country VAL USA	0
+COL RatingCount VAL 16,389	1
+COL Country VAL France,USA,Mexico	0
+COL RatingCount VAL 9,523	1
+COL Director VAL Inon Shampanier	0
+COL Year VAL 2009	0
+COL RatingCount VAL 4,189	1
+COL Director VAL Roy William Neill	0
+COL RatingValue VAL 7.4	0
+COL RatingCount VAL 181,758	1
+COL Name VAL God Bless The Child	1
+COL RatingCount VAL 82,783	1
+COL Creator VAL James Fritzell,Everett Greenbaum	0
+COL RatingCount VAL 26,521	1
+COL RatingCount VAL 2,383	1
+COL Duration VAL 78 min	0
+COL Genre VAL Comedy	0
+COL RatingCount VAL 217,257	1
+COL Creator VAL Fredric M. Frank,Barré Lyndon,Theodore St. John,Barré Lyndon,Theodore St. John	1
+COL RatingCount VAL 8,816	1
+COL Genre VAL Crime,Drama	0
+COL Director VAL Mark Levinson	0
+COL Duration VAL 	1
+COL Release Date VAL 24 February 2006 (USA)	0
+COL Description VAL Ernest (Jim Varney) gets into deep trouble when he decides to build a treehouse for the neighborhood kid and accidentally digs up an ugly, evil-tempered troll who hates all children and shows it by promptly turning the five kids helping Ernest into wooden sculptures. This is the fourth entry in the Ernest series and is filled with the goofy humor that has made the films popular with preadolescent kids.	1
+COL Country VAL Germany,France,UK,Canada,USA	0
+COL RatingValue VAL 8.0	1
+COL Country VAL USA	0
+COL RatingCount VAL 1,116	1
+COL RatingCount VAL 6,169	1
+COL Creator VAL Tom Coyne,Tom Coyne	0
+COL Cast VAL Tom Hanks,Tim Allen,Don Rickles,Jim Varney,Wallace Shawn,John Ratzenberger,Annie Potts,John Morris,Erik von Detten,Laurie Metcalf,R. Lee Ermey,Sarah Freeman,Penn Jillette,Jack Angel,Spencer Aste	0
+COL Duration VAL 97 min	0
+COL Genre VAL Romance,Western	0
+COL RatingCount VAL 12,692	1
+COL RatingCount VAL 134,478	1
+COL Country VAL UK,Spain,Germany,USA	0
+COL ReviewCount VAL 11 user,16 critic	0
+COL RatingCount VAL 59,678	1
+COL Filming Locations VAL 	0
+COL RatingCount VAL 13,099	1
+COL RatingCount VAL 635,813	1
+COL Id VAL spiderman_3	1
+COL Id VAL tt0037642	0
+COL RatingCount VAL 7,488	1
+COL RatingCount VAL 88,770	1
+COL RatingCount VAL 195,442	1
+COL RatingCount VAL 327,360	1
+COL RatingCount VAL 26,307	1
+COL RatingCount VAL 2,085	1
+COL RatingCount VAL 1,181	1
+COL RatingCount VAL 19,754	1
+COL Director VAL William A. Wellman,John Wayne	0
+COL Duration VAL 106 min	0
+COL RatingCount VAL 14,042	1
+COL RatingCount VAL 1,828	1
+COL Id VAL tt1080016	0
+COL ReviewCount VAL 137 user,38 critic	0

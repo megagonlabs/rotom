@@ -1,0 +1,150 @@
+COL article_jcreated_at VAL 6/1/10	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/10	1
+"COL author_list VAL {""E A M Janssen"",""C Brodin"",""P Ogreid"",""K Kjellevold"",""L G G��ransson"",""L Vatten"",""P R Romundstad"",""R Omdal"",""K Wildhagen""}"	1
+COL article_jcreated_at VAL 7/1/06	1
+COL journal_issn VAL Feb-14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/05	1
+COL journal_title VAL Nowoczesne biomateria��y jako opatrunki hemostatyczne w chirurgii oszczedzajacej miazsz nerki--model zwierzecy. Doniesienie wstepne.	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/06	1
+COL journal_title VAL Schlafsțrungen bei kritisch kranken patienten	1
+"COL author_list VAL {""Ge H.-Y."",""Fern��ndez-de-las-Pe̱as C."",""Yue S.-W.""}"	1
+COL article_jcreated_at VAL 7/1/09	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_title VAL Bruxismo em crian̤as Bruxism in children	1
+COL article_jcreated_at VAL 5/1/02	1
+COL journal_title VAL Actas espa̱olas de psiquiatr�_a	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Felipe Serṛo de Souza"",""Ney Pecegueiro do Amaral"",""Carlos Henrique Mendes"",""Hilton Augusto Koch"",""Vincenzo Giordano"",""Andr̩ Bergamin""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""Francitorra ME"",""Sanchez GS"",""Manrique CA"",""Velasco TT"",""Castany A R"",""Escriche XF"",""Fern����ndez CS"",""Fornell LL"",""���lvarez S���"",""Fern����ndez EA"",""Rodriguez MVF"",""Sim���_ MR"",""Mayo EP""}"	1
+COL article_jcreated_at VAL 7/1/02	1
+"COL author_list VAL {""Gerard H Koppelman"",""Johan C de Jongste"",""Liset E M Elstgeest"",""Henri��tte A Smit"",""Ulrike Gehring"",""Annemien Haveman-Nies"",""Marjan Kerkhof"",""Marga B M Bekkers"",""Alet H Wijga"",""Salome Scholtens""}"	1
+COL article_jcreated_at VAL 7/1/06	1
+COL article_jcreated_at VAL 9/1/02	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 12/1/06	1
+"COL author_list VAL {""Stuart Calver"",""Julia Nichols"",""Rachel C1  - Fr̴n systematiska ̦versikter -șkningen CN  - Cinahl DB  - c8h DO  - 10.1179/1743288X12Y.0000000021 DP  - EBSCOhost Chester""}"	1
+COL article_jcreated_at VAL 8/1/12	1
+COL article_jcreated_at VAL 10/1/10	1
+COL article_jcreated_at VAL 2/6/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 51-5	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Kerstin Landin-Wilhelmsen"",""G̦ran Oler̦d"",""Oskar Ragnarsson"",""Penelope Trimpou""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 12/1/01	1
+"COL author_list VAL {""V Cus�_"",""H Galvez"",""M Iriondo"",""J Campistol"",""I M��laga"",""A Garc�_a Cazorla""}"	1
+"COL author_list VAL {""A Philotheou"",""S R Heller"",""J Jendle"",""M-A Gall"",""K K��lendorf"",""G P Ross"",""G Perriello"",""I Pavlic-Renar""}"	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/7/15	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 10/1/07	1
+COL article_jcreated_at VAL 6/1/03	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Ronaldo Fazzi"",""Ana Estela Haddad"",""Maria Salete Nah��s Pires Corr̻a""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Chu Chen"",""Brian L Strom"",""Susan E McCann"",""Harvey A Risch"",""Lingeng Lu"",""Fulvio Ricceri"",""Immaculata De Vivo"",""Amanda B Spurdle"",""Susan E Hankinson"",""Pamela J Thompson"",""Catherine Schairer"",""Herbert Yu"",""Radhai Rastogi"",""Jennifer Doherty"",""Carlotta Sacerdote"",""Laurence N Kolonel"",""Mia M Gaudet"",""Kim Robien"",""Marc T Goodman"",""Piet A van den Brandt"",""Robert A Soslow"",""Jolanta Lissowska"",""Anthony B Miller"",""Kirsten B Moysich"",""Montserrat Garcia-Closas"",""Silvia Polidoro"",""Linda S Cook"",""Kristin E Anderson"",""Rayna K Matsuno"",""Xiao-ou Shu"",""Penelope M Webb"",""Kerry S Courneya"",""Christine M Friedenreich"",""Jo L Freudenheim"",""Yong-Bing Xiang"",""Brian E Henderson"",""Galina Lurie"",""Leo J Schouten"",""Timothy R Rebbeck"",""Anthony M Magliocco"",""Malcolm C Pike"",""Leslie Bernstein"",""Hannah P Yang"",""[Collective Name] Australian National Endometrial Cancer Study Group"",""Sara H Olson"",""Pamela L Horn-Ross"",""Marjorie L McCullough"",""Hoda Anton-Culver"",""Noel S Weiss"",""James R Cerhan"",""Louise A Brinton"",""Alicja Wolk"",""Jennifer Prescott"",""Xiaolin Liang"",""Thomas E Rohan"",""Yikyung Park"",""Niclas H̴kansson"",""Veronica Wendy Setiawan"",""James V Lacey"",""Hui Cai"",""Nicolas Wentzensen"",""Koen van de Vijver""}"	1
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jcreated_at VAL 3/1/08	1
+"COL author_list VAL {""R Schwarz"",""J Ernst"",""M Zenger"",""E Br�_hler"",""R Schmidt""}"	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""E Huguet"",""O Porta"",""E Mart�_nez"",""I Mora"",""M Sim�_"",""J Pubill"",""J A Ortega"",""M T Castillo""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 	0
+COL id VAL 185291	0
+COL article_pagination VAL 551-561 ST  - Scar Management Practice and Science: A Comprehensive Approach to Controlling Scar Tissue and Avoiding Hypertrophic Scarring.... Reprinted and adapted with permission from Wound Healing South Africa and Medpharm. Widgerow AD. Scar management	0
+"COL author_list VAL {""B. J. Caan"",""E. M. John"",""T. H. M. Keegan"",""A. H. Wu"",""L. Bernstein"",""S. Shariff-Marco"",""R. Sposto"",""C. C. Tseng"",""J. Sullivan-Halley"",""Y. Lu"",""C. Vigen"",""M. L. Kwan"",""S. L. Gomez"",""A. W. Kurian"",""I. Cheng"",""V. S. Lee""}"	0
+COL article_jvolumn VAL 18	0
+COL article_pagination VAL 144-147	0
+COL article_pagination VAL 287-291	0
+COL journal_issn VAL Jan-68	0
+COL article_jissue VAL 7	0
+COL id VAL 179093	0
+COL journal_title VAL Archives Of Physical Medicine And Rehabilitation	0
+COL article_pagination VAL 1158-78	0
+COL article_jissue VAL 2	0
+COL article_title VAL Telemedicine in the management of chronic pain: a cost analysis study	0
+"COL author_list VAL {""R. Voss""}"	0
+COL article_title VAL Bile acid metabolism by fresh human colonic contents: a comparison of caecal versus faecal samples.	0
+COL article_jcreated_at VAL 1/1/77	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""S. Gosavi"",""S. Gosavi""}"	0
+COL id VAL 740811	0
+COL article_pagination VAL 10213-10224	0
+COL article_title VAL Clinical course of patients with aspirin-exacerbated     respiratory disease: can we predict the prognosis?	0
+COL article_title VAL Optimal Starting Age for School Attendance: FY76 Issue Analysis	0
+COL article_jcreated_at VAL 5/1/99	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 147	0
+COL journal_issn VAL 	0
+COL article_jissue VAL 12	0
+COL journal_issn VAL 1592-7830	0
+COL article_pagination VAL 364-71	0
+COL article_jcreated_at VAL 9/23/14	0
+COL article_jvolumn VAL 15	0
+COL journal_title VAL Nepal Medical College journal : NMCJ	0
+COL article_title VAL [Methicillin-resistant Staphylococcus aureus forming the fried egg appearance colonies isolated from a patient with septicemia]	0
+COL article_pagination VAL 6-Jan	0
+COL jounral_abbreviation VAL Oral Oncol.	0
+COL article_jcreated_at VAL 1/1/86	0
+COL id VAL 431348	0
+COL article_jcreated_at VAL 9/1/94	0
+COL article_language VAL 	0
+COL article_pagination VAL 25-26	0
+COL journal_title VAL Neuroprotective Agents	0
+COL id VAL 88262	0
+COL journal_issn VAL 1662-5161	0
+COL article_title VAL The role of viral infection in pulmonary exacerbations of     bronchiectasis in adults: a prospective study	0
+COL article_language VAL eng	0
+COL article_jissue VAL 1	0
+COL article_title VAL A re-appraisal of screening for colour vision impairments	0
+COL article_jissue VAL 7	0
+COL article_language VAL eng	0
+COL journal_title VAL J Pediatr (Rio J)	0
+COL id VAL 891722	0
+COL article_jissue VAL 12	0
+COL article_jissue VAL 1	0
+COL journal_issn VAL 	0
+COL journal_issn VAL 0022-0345	0
+COL journal_title VAL Academic Medicine: Journal Of The Association Of American Medical Colleges	0
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 1879-4076	0
+COL article_title VAL Effects of a three-month combined training program on the cardiopulmonary and muscle strength capacities of type 2 diabetic subjects.	0
+COL article_pagination VAL 269-77	0
+COL article_jissue VAL 12	0
+COL id VAL 893664	0
+COL article_jvolumn VAL 379	0
+COL article_jissue VAL 3	0
+COL author_list VAL {NULL}	0
+COL journal_title VAL Radiologic Clinics of North America	0
+COL id VAL 826471	0
+COL article_pagination VAL 722-7	0
+COL journal_title VAL Physical therapy	0
+COL id VAL 945021	0
+COL id VAL 749844	0
+COL article_jvolumn VAL 23	0
+COL jounral_abbreviation VAL Nature	0
+COL journal_title VAL The Cochrane Database Of Systematic Reviews	0

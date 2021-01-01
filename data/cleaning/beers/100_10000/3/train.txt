@@ -1,0 +1,100 @@
+COL index VAL 1321	0
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.05	0
+COL ibu VAL 25	0
+COL city VAL Petoskey MI	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 ounce	1
+COL brewery_id VAL 159	0
+COL state VAL 	1
+COL beer-name VAL Trolley Stop Stout	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.07%	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.042%	1
+COL id VAL 1174	0
+COL brewery-name VAL Orlison Brewing Company	0
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL 7	0
+COL brewery-name VAL Wild Onion Brewing Company	0
+COL ounces VAL 12.0 oz	1
+COL city VAL Tampa	0
+COL brewery-name VAL High Hops Brewery	0
+COL ounces VAL 16.0 oz	1
+COL brewery-name VAL TailGate Beer	0
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL brewery-name VAL Bold City Brewery	0
+COL city VAL Stevens Point	0
+COL brewery_id VAL 83	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL brewery-name VAL Oskar Blues Brewery (North Carol...	0
+COL brewery-name VAL Catawba Valley Brewing Company	0
+COL brewery_id VAL 238	0
+COL abv VAL 0.055%	1
+COL id VAL 1435	0
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.048%	1
+COL ibu VAL N/A	1
+COL style VAL Pumpkin Ale	0
+COL ibu VAL N/A	1
+COL ibu VAL 21	0
+COL city VAL Boise ID	1
+COL brewery_id VAL 309	0
+COL abv VAL 0.065	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL index VAL 1162	0
+COL state VAL KY	0
+COL state VAL NM	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL brewery-name VAL Cans Bar and Canteen	0
+COL city VAL Fort Worth TX	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL state VAL AZ	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL index VAL 1764	0
+COL id VAL 346	0
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL 46	0
+COL ounces VAL 16.0 oz.	1
+COL id VAL 1787	0
+COL brewery-name VAL Orpheus Brewing	0
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.055999999999999994%	1
+COL ibu VAL N/A	1
+COL brewery_id VAL 375	0
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL 40	0
+COL state VAL GA	0
+COL ounces VAL 16.0 OZ.	1
+COL index VAL 1705	0
+COL city VAL Shelburne	0
+COL index VAL 650	0
+COL ounces VAL 12.0 oz.	1
+COL brewery_id VAL 12	0
+COL ibu VAL 55	0
+COL ibu VAL N/A	1
+COL index VAL 723	0
+COL abv VAL 0.099%	1
+COL style VAL American IPA	0
+COL style VAL Light Lager	0
+COL style VAL American Pale Ale (APA)	0
+COL index VAL 1003	0
+COL ounces VAL 16.0 oz.	1
+COL brewery_id VAL 329	0
+COL city VAL Mill Valley CA	1
+COL brewery-name VAL TailGate Beer	0
+COL ibu VAL N/A	1
+COL brewery_id VAL 198	0
+COL beer-name VAL The Deuce	0

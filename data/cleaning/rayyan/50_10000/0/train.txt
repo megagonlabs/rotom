@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 7/2/08	1
+"COL author_list VAL {""M Caliskan"",""M Karab̦c�_oglu"",""A Citak"",""N Uzel"",""K Aydin"",""A Nayir"",""D D Soysal""}"	1
+COL article_jcreated_at VAL 3/1/02	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 11/1/14	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_pagination VAL 91-3	1
+COL article_jcreated_at VAL 12/1/12	1
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_jcreated_at VAL 3/1/08	1
+COL article_jcreated_at VAL 9/1/09	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Michela Miani"",""Decio L Eizirik"",""Laurence Ladri̬re"",""Maikel L Colli"",""Miriam Cnop""}"	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 4/3/15	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_pagination VAL 3541-4	1
+COL article_jcreated_at VAL 1/1/15	1
+COL jounral_abbreviation VAL Occup Environ Med	0
+COL article_jissue VAL 9	0
+COL article_title VAL Are stretches effective in the prevention and treatment of glenohumeral internal rotation deficit?	0
+COL article_pagination VAL 495-503	0
+COL article_language VAL 	0
+COL article_language VAL eng	0
+COL article_jissue VAL 8	0
+"COL author_list VAL {""K. Iijima"",""A. Tanimoto"",""Y. Kitagaki"",""M. Hiura"",""H. Fujiwara"",""S. Ikawa""}"	0
+COL journal_title VAL 	0
+COL article_pagination VAL 373-6	0
+COL article_jissue VAL 2	0
+COL jounral_abbreviation VAL Archives of internal medicine	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL Oncol Nurs Forum	0
+COL article_jissue VAL 2	0
+COL article_pagination VAL 1337-45	0
+COL article_jcreated_at VAL 1/1/87	0
+COL article_jvolumn VAL 27	0
+COL article_pagination VAL 	0
+COL article_jcreated_at VAL 1/1/00	0
+COL jounral_abbreviation VAL 	0
+COL article_language VAL eng	0
+COL article_language VAL 	0
+COL journal_title VAL Cancer	0
+COL article_jissue VAL 11	0

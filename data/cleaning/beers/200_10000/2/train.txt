@@ -1,0 +1,200 @@
+COL ibu VAL N/A	1
+COL abv VAL 0.06%	1
+COL city VAL Conroe TX	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.05%	1
+COL abv VAL 0.049%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL abv VAL 0.046%	1
+COL ounces VAL 12.0 oz	1
+COL city VAL Durango CO	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 OZ.	1
+COL abv VAL 0.042%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 24.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055%	1
+COL abv VAL 0.062%	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.05%	1
+COL city VAL Silverton OR	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.051%	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.065%	1
+COL ounces VAL 16.0 OZ.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.099%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.055%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL abv VAL 0.08199999999999999%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL city VAL Boston MA	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.065%	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL beer-name VAL Hula Hoppie Session IPA	0
+COL city VAL Edwards	0
+COL abv VAL 0.057	0
+COL style VAL Fruit / Vegetable Beer	0
+COL id VAL 742	0
+COL city VAL Hilo	0
+COL city VAL Croydon	0
+COL brewery-name VAL Airways Brewing Company	0
+COL id VAL 5	0
+COL city VAL Albuquerque	0
+COL brewery_id VAL 379	0
+COL city VAL Lyons	0
+COL brewery_id VAL 10	0
+COL brewery-name VAL Dry Dock Brewing Company	0
+COL city VAL San Antonio	0
+COL state VAL IN	0
+COL ibu VAL 12	0
+COL state VAL CO	0
+COL abv VAL 0.09	0
+COL beer-name VAL Autumn Winds Fest Beer	0
+COL brewery-name VAL Great Divide Brewing Company	0
+COL abv VAL 0.065	0
+COL brewery-name VAL Witch's Hat Brewing Company	0
+COL city VAL Boston	0
+COL brewery_id VAL 489	0
+COL style VAL American Pale Ale (APA)	0
+COL brewery_id VAL 165	0
+COL index VAL 83	0
+COL beer-name VAL Saranac Summer Ale (2011)	0
+COL index VAL 1701	0
+COL city VAL Albuquerque	0
+COL state VAL GA	0
+COL beer-name VAL Miner's Gold	0
+COL id VAL 1181	0
+COL city VAL Frankenmuth	0
+COL index VAL 1251	0
+COL city VAL Covington	0
+COL id VAL 2612	0
+COL beer-name VAL Rumspringa Golden Bock	0
+COL city VAL Los Angeles	0
+COL city VAL Dallas	0
+COL beer-name VAL Sun King Oktoberfest	0
+COL city VAL Austin	0
+COL abv VAL 0.056	0
+COL state VAL MI	0
+COL ibu VAL 50	0
+COL brewery_id VAL 119	0
+COL state VAL PA	0
+COL style VAL Saison / Farmhouse Ale	0
+COL brewery-name VAL Finch's Beer Company	0
+COL style VAL American Brown Ale	0
+COL brewery-name VAL Modern Times Beer	0
+COL index VAL 1820	0
+COL state VAL MI	0
+COL city VAL Seattle	0
+COL abv VAL 0.057	0
+COL index VAL 1272	0
+COL beer-name VAL Point Nude Beach Summer Wheat (2010)	0
+COL state VAL MI	0
+COL abv VAL 0.051	0
+COL brewery-name VAL Four Fathers Brewing	0
+COL style VAL American Amber / Red Ale	0
+COL beer-name VAL Overrated! West Coast Style IPA	0
+COL city VAL Framingham	0
+COL brewery-name VAL Southern Star Brewing Company	0
+COL id VAL 794	0
+COL abv VAL 	0
+COL ibu VAL 40	0
+COL beer-name VAL Hopitoulas IPA	0
+COL index VAL 1706	0
+COL city VAL Lincoln	0
+COL id VAL 2586	0
+COL beer-name VAL JP's Ould Sod Irish Red IPA	0
+COL brewery_id VAL 200	0
+COL ibu VAL 100	0
+COL style VAL American Stout	0
+COL abv VAL 0.075	0
+COL id VAL 416	0
+COL state VAL CO	0
+COL brewery-name VAL Crow Peak Brewing Company	0
+COL id VAL 798	0
+COL ibu VAL 86	0
+COL id VAL 998	0
+COL beer-name VAL Bender	0
+COL ibu VAL 34	0
+COL index VAL 378	0
+COL ibu VAL 25	0
+COL state VAL AZ	0
+COL index VAL 616	0
+COL index VAL 1289	0
+COL beer-name VAL True Blonde Ale	0
+COL brewery-name VAL Burn 'Em Brewing	0
+COL index VAL 2294	0
+COL style VAL American Pale Wheat Ale	0
+COL beer-name VAL Deadicated Amber	0
+COL brewery-name VAL Sun King Brewing Company	0
+COL abv VAL 0.05	0
+COL brewery-name VAL Cans Bar and Canteen	0
+COL brewery_id VAL 134	0
+COL abv VAL 0.065	0

@@ -1,0 +1,100 @@
+COL Duration VAL 1 hr. 40 min.	1
+COL Duration VAL 1 hr. 25 min.	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 50,317	1
+COL Filming Locations VAL Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA	0
+COL Id VAL unknown_white_male	1
+COL Release Date VAL 10 September 1971 (USA)	0
+COL Country VAL USA	0
+COL ReviewCount VAL 30 user,34 critic	0
+COL Cast VAL Tanya Dempsey,Ivy Joeva,Jason Burks,Raymond Gaston,Robert Reins,Trisha Hershberger,Matt Lewis,Eric Spudic,Jed Rowen,Michael Haverty,Rob Simpson,Zander Villayne	0
+COL Name VAL Dumb and Dumber To	0
+COL RatingCount VAL 36,770	1
+COL Creator VAL Antonio Macia,Antonio Macia	0
+COL Actors VAL Robin Williams,Roberto Aguire,Kathy Baker	0
+COL Description VAL When an accident miraculously gives a boy an incredibly powerful pitching arm, he becomes a major league pitcher for the Chicago Cubs.	0
+COL Year VAL 2006 2007 2008	1
+COL Genre VAL Comedy	0
+COL RatingCount VAL 29,837	1
+COL Cast VAL Christopher Lambert,Kurtwood Smith,Loryn Locklin,Clifton Collins Jr.,Lincoln Kilpatrick,Jeffrey Combs,Tom Towles,Vernon Wells,Carolyn Purdy-Gordon,Alan Zitner,Deni Gordon,Eric Briant Wells,Dragicia Debert,Heidi Stein,Harry Nurmi	0
+COL Id VAL tt0041178	0
+COL RatingCount VAL 3,227	1
+COL RatingValue VAL 4.0	1
+COL RatingCount VAL 12,877	1
+COL RatingCount VAL 9,626	1
+COL Id VAL tt0022958	0
+COL Director VAL Daniel Barnz	0
+COL Creator VAL Donald G. Jackson,Matt X. Lawrence	0
+COL RatingCount VAL 1,708	1
+COL Release Date VAL 2 April 2004 (USA)	0
+COL RatingValue VAL 7.6/10,7.8/10	1
+COL Release Date VAL 3 July 2002 (USA)	0
+COL RatingCount VAL 17,749	1
+COL Description VAL Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival.	0
+COL Director VAL Will Finn,John Sanford	0
+COL RatingCount VAL 18,641	1
+COL Release Date VAL 1 September 2006 (USA)	0
+COL RatingCount VAL 47,305	1
+COL Id VAL 1005339-dawn_of_the_dead	1
+COL Genre VAL Comedy,Musical,Romance	0
+COL RatingCount VAL 3,225	1
+COL RatingValue VAL 6.3	0
+COL Actors VAL Otis Redding,Jimi Hendrix,Ravi Shankar	0
+COL Language VAL English	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 6,233	1
+COL RatingCount VAL 15,716	1
+COL RatingCount VAL 592,737	1
+COL RatingCount VAL 7,170	1
+COL RatingCount VAL 51,284	1
+COL Cast VAL Beth Broderick,James Landry Hébert,Skyy Moore,Jason Douglas,Ashley Spillers,Barry Tubb,Brady Coleman,Jesse Dayton,Dale Watson,Laurie Gallardo,Kathy Rose Center,Libby Villari,Johnny Snyder,Elle LaMont,June Griffin Garcia	0
+COL RatingCount VAL 38,736	1
+COL Actors VAL Michael Douglas,Robert Duvall,Barbara Hershey	0
+COL RatingCount VAL 265	0
+COL RatingValue VAL 8.0	1
+COL Filming Locations VAL New York, USA	0
+COL Language VAL English	0
+COL Filming Locations VAL Warner Brothers Studio Plaza - 3400 W. Riverside Dr. Burbank, California, USA	0
+COL RatingCount VAL 14,712	1
+COL RatingCount VAL 14,219	1
+COL RatingCount VAL 83,965	1
+COL RatingCount VAL 1,049	1
+COL RatingCount VAL 1,387	1
+COL RatingCount VAL 19,120	1
+COL Director VAL Fisher Stevens	0
+COL RatingValue VAL 7.0	1
+COL ReviewCount VAL 88 user,70 critic	0
+COL Director VAL D.W. Griffith	0
+COL Release Date VAL 25 February 1994 (Brazil)	0
+COL Genre VAL Short,Drama	0
+COL Cast VAL Ben Bonenfant,Nick Frangione,Artem Mishin,Michael Carlisi,Paul Gerrior,Carlo D'Amore,Katherine Celio,Michael Klinger,Raphael Barker,Sharon Camhi,John Kiernan,Mia Paschal,Don Seaver,Michael Vega	0
+COL Id VAL its_a_mad_mad_mad_mad_world	1
+COL Actors VAL Pauly Shore,Stephen Baldwin,William Atherton	0
+COL RatingValue VAL 5.8/10,6/10	1
+COL ReviewCount VAL 184 user,208 critic	0
+COL RatingCount VAL 30,821	1
+COL Director VAL Peter Hewitt (I),Peter Hewitt	1
+COL RatingCount VAL 31,342	1
+COL RatingValue VAL 7.6	0
+COL Actors VAL Peter Tork,Davy Jones,Micky Dolenz	0
+COL RatingCount VAL 2,404	1
+COL RatingCount VAL 17,580	1
+COL RatingValue VAL 	0
+COL Country VAL USA	0
+COL Creator VAL Hans Christian Andersen,Don Bluth	0
+COL RatingCount VAL 408,812	1
+COL Genre VAL Horror,Sci-Fi	0
+COL RatingCount VAL 3,112	1
+COL RatingCount VAL 58,882	1
+COL RatingValue VAL 6.3	0
+COL RatingValue VAL 6.9	0
+COL RatingCount VAL 433,148	1
+COL Id VAL contracted	1
+COL RatingCount VAL 1,895	1
+COL RatingValue VAL 7.0	1
+COL Release Date VAL 6 May 2005 (USA)	0
+COL Filming Locations VAL Backlot, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA	0
+COL RatingCount VAL 1,277	1
+COL Release Date VAL May 24, 1961 Wide	1
+COL Year VAL 2013	0
+COL Name VAL The Perfect Guy	0

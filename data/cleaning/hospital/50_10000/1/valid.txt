@@ -1,0 +1,50 @@
+COL HospitalType VAL acute caxe hospitals	1
+COL Stateavg VAL al_scipxvtex1	1
+COL MeasureCode VAL amix1	1
+COL Condition VAL surgical infxction prxvxntion	1
+COL EmergencyService VAL xo	1
+COL HospitalOwner VAL voluntary nonxprofit x private	1
+COL EmergencyService VAL yex	1
+COL Condition VAL pneumonix	1
+COL ZipCode VAL zip	1
+COL MeasureName VAL heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival	1
+COL ZipCode VAL 3x0x7	1
+COL Sample VAL 121 patiexts	1
+COL State VAL xl	1
+COL Stateavg VAL al_axi-1	1
+COL Condition VAL xeart failure	1
+COL PhoneNumber VAL 334793870x	1
+COL Address1 VAL 702xnxmainxst	1
+COL Condition VAL condition	1
+COL State VAL ax	1
+COL Condition VAL heart attaxk	1
+COL MeasureCode VAL amix1	1
+COL EmergencyService VAL yex	1
+COL MeasureName VAL heart faxlure patxents gxven smokxng cessatxon advxce/counselxng	1
+COL Address1 VAL poxboxx287	1
+COL CountyName VAL dx kalb	1
+COL Sample VAL 61 patients	0
+COL MeasureCode VAL pn-3b	0
+COL ZipCode VAL 35901	0
+COL ProviderNumber VAL 10015	0
+COL HospitalType VAL acute care hospitals	0
+COL index VAL 270	0
+COL MeasureName VAL all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery	0
+COL Address3 VAL empty	0
+COL Address3 VAL empty	0
+COL HospitalName VAL fayette medical center	0
+COL PhoneNumber VAL 3342882100	0
+COL Address1 VAL 1300 south montgomery avenue	0
+COL Address1 VAL 50 medical park east drive	0
+COL ProviderNumber VAL 10164	0
+COL MeasureName VAL heart attack patients given beta blocker at discharge	0
+COL Address1 VAL 1000 first street north	0
+COL HospitalName VAL hartselle medical center	0
+COL Sample VAL 107 patients	0
+COL Score VAL 87%	0
+COL Condition VAL heart attack	0
+COL State VAL al	0
+COL Address2 VAL empty	0
+COL ZipCode VAL 35968	0
+COL ProviderNumber VAL 10045	0
+COL City VAL fayette	0

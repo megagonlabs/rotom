@@ -1,0 +1,150 @@
+COL RatingValue VAL 5.0	1
+COL Duration VAL 	1
+COL RatingCount VAL 8,910	1
+COL RatingCount VAL 54,342	1
+COL RatingCount VAL 5,434	1
+COL RatingCount VAL 36,542	1
+COL Release Date VAL Aug 21, 2015 Limited	1
+COL RatingCount VAL 3,585	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 1,222	1
+COL RatingCount VAL 5,843	1
+COL RatingCount VAL 5,724	1
+COL Creator VAL Jeffrey M. Howard	1
+COL Creator VAL Kurt Sutter,Richard Wenk	1
+COL Creator VAL James Toback	1
+COL RatingCount VAL 4,585	1
+COL RatingCount VAL 5,057	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 137,156	1
+COL RatingCount VAL 5,901	1
+COL RatingCount VAL 10,882	1
+COL RatingCount VAL 4,936	1
+COL RatingCount VAL 11,520	1
+COL Description VAL Mary Norton's children's books about a family of four-inch-tall people who share accommodations with giant 'beans' (as in 'human bein's') are brought to the screen in beautifully scaled detail, but neither the story nor the characters come alive.	1
+COL RatingCount VAL 42,105	1
+COL RatingCount VAL 3,482	1
+COL RatingCount VAL 343,566	1
+COL RatingCount VAL 2,556	1
+COL RatingCount VAL 14,294	1
+COL RatingCount VAL 1,140	1
+COL RatingCount VAL 50,178	1
+COL RatingCount VAL 34,079	1
+COL RatingCount VAL 1,514	1
+COL RatingCount VAL 46,838	1
+COL Release Date VAL Dec 14, 2007 Wide	1
+COL RatingCount VAL 40,629	1
+COL Year VAL 1958 1959 1960	1
+COL RatingCount VAL 41,730	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 51,182	1
+COL Description VAL Caroline and Lloyd (Judy Davis and Kevin Spacey) are a married couple constantly at each other's throats, masters at crafting acid-tongued barbs at the other's expense. Indeed, they are so obsessed with belittling each other that they never stop -- not even at gunpoint. Such is the premise of the acerbic comedy The Ref, which shows what happens when this quarrelsome duo is taken hostage. The gunman is Gus (Denis Leary), a thief on the run from the police, who kidnaps the couple as an insurance,policy, planning to use their home as a hideout. But their incessant bickering proves more than Gus bargained for, forcing him -- for the sake of his own sanity -- into the unenviable role of peacemaker. To make things even worse for Gus, he discovers that he has taken the couple hostage the night of their big Christmas party, and the guests are already on the way. Not wanting to leave Lloyd and Caroline unattended, Gus opts to attend the party, pretending to be the couple's marriage counselor. This naturally leads to a series of comic confusions, as the hostage crisis and marital tensions head towards their inevitable conclusion. ~ Judd Blaise, Rovi	1
+COL RatingCount VAL 2,328	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 3,052	1
+COL RatingCount VAL 18,600	1
+COL RatingValue VAL 5.4/10,5.4/10	1
+COL RatingCount VAL 4,201	1
+COL RatingCount VAL 230,056	1
+COL RatingCount VAL 4,527	1
+COL RatingCount VAL 1,108	1
+COL Year VAL 1989 1990 1991	1
+COL RatingCount VAL 55,339	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 3,548	1
+COL RatingCount VAL 267,878	1
+COL Duration VAL 	1
+COL RatingCount VAL 4,083	1
+COL Duration VAL 1 hr. 22 min.	1
+COL Genre VAL Drama,Kids & Family	1
+COL Year VAL 2003 2004 2005	1
+COL RatingCount VAL 5,748	1
+COL RatingCount VAL 15,758	1
+COL RatingCount VAL 11,048	1
+COL RatingValue VAL 4.0	1
+COL RatingCount VAL 32,296	1
+COL RatingCount VAL 3,005	1
+COL Release Date VAL Sep 16, 2011 Limited	1
+COL RatingValue VAL 6.5/10,3.1/10	1
+COL RatingCount VAL 12,873	1
+COL RatingCount VAL 39,324	1
+COL RatingValue VAL 5.9/10,6/10	1
+COL RatingCount VAL 2,945	1
+COL RatingCount VAL 2,436	1
+COL RatingCount VAL 4,510	1
+COL Release Date VAL 18 May 2015 (USA)	0
+COL Country VAL USA	0
+COL Filming Locations VAL 	0
+COL Cast VAL Steve Carell,Jason Segel,Russell Brand,Julie Andrews,Will Arnett,Kristen Wiig,Miranda Cosgrove,Dana Gaier,Elsie Fisher,Pierre Coffin,Chris Renaud,Jemaine Clement,Jack McBrayer,Danny McBride,Mindy Kaling	0
+COL Creator VAL Christopher Trumbo,Christopher Trumbo	0
+COL Id VAL tt3112556	0
+COL Release Date VAL February 1982 (USA)	0
+COL Name VAL How to Deal	0
+COL RatingValue VAL 4.4	0
+COL Filming Locations VAL Chicago, Illinois, USA	0
+COL Release Date VAL 4 February 1994 (USA)	0
+COL RatingCount VAL 513	0
+COL Description VAL Peter Brackett and Sabrina Peterson are two competing Chicago newspaper reporters who join forces to unravel the mystery behind a train derailment.	0
+COL RatingValue VAL 5.9	0
+COL Release Date VAL 25 December 2006 (USA)	0
+COL Genre VAL Biography,Crime,Drama	0
+COL Director VAL Oz Scott	0
+COL Id VAL tt1127877	0
+COL Cast VAL Bill Hader,Anna Faris,James Caan,Andy Samberg,Bruce Campbell,Mr. T,Bobb'e J. Thompson,Benjamin Bratt,Neil Patrick Harris,Al Roker,Lauren Graham,Will Forte,Max Neuwirth,Peter Siragusa,Angela Shelton	0
+COL ReviewCount VAL 8 user,33 critic	0
+COL Actors VAL John Carradine,Paula Raymond,Alexander D'Arcy	0
+COL Filming Locations VAL Dinan, Côtes-d'Armor, France	0
+COL Language VAL English	0
+COL Name VAL Spare Parts	0
+COL Cast VAL Katherine Heigl,Emily Alyn Lind,Ben Barnes,Clea DuVall,Sheryl Lee,Nathan Stevens,Chelsea Goodwin,Ryan Bingham,Helene Lam,Jacque Gray,Allan Groves,Jeffrey Hanson,Karlee Broschinsky,Ben Hopkin,Adam Dietlein	0
+COL Actors VAL Sylvester Stallone,Julie Benz,Matthew Marsden	0
+COL Genre VAL Crime,Drama,Thriller	0
+COL Country VAL USA	0
+COL Filming Locations VAL ThiaMedia Studios, Glendale, California, USA	0
+COL ReviewCount VAL 478 user,442 critic	0
+COL Creator VAL Neva Friedenn,Robert Easter	0
+COL Year VAL 1996	0
+COL Language VAL English,French,Arabic,German	0
+COL Actors VAL Elvis Presley,Ann-Margret,Cesare Danova	0
+COL Description VAL Dave Buznik is a businessman who is wrongly sentenced to an anger-management program, where he meets an aggressive instructor.	0
+COL Id VAL tt2042568	0
+COL Genre VAL Drama,Romance	0
+COL Year VAL 2014	0
+COL Director VAL Usama Alshaibi	0
+COL Creator VAL Karin Kearns	0
+COL Description VAL A drama about a Cambridge poetry professor who begins to re-evaluate his life of Byronic excess.	0
+COL Duration VAL 114 min	0
+COL Id VAL tt1201607	0
+COL Name VAL Stand Up and Cheer!	0
+COL Country VAL USA	0
+COL Creator VAL George Wells,Sy Gomberg	0
+COL Director VAL Joseph Losey	0
+COL RatingValue VAL 6.4	0
+COL RatingValue VAL 5.7	0
+COL RatingValue VAL 7.1	0
+COL Filming Locations VAL Belfast, Maine, USA	0
+COL Genre VAL Action,Adventure,Fantasy	0
+COL Name VAL Thief	0
+COL Name VAL Cheap Thrills	0
+COL Filming Locations VAL Bangkok, Thailand	0
+COL Language VAL English	0
+COL Genre VAL Family,Drama	0
+COL Language VAL English	0
+COL Cast VAL Brian Blessed,Glenn Close,Minnie Driver,Tony Goldwyn,Nigel Hawthorne,Lance Henriksen,Wayne Knight,Alex D. Linz,Rosie O'Donnell,Beth Anderson,Jack Angel,Joseph Ashton,Bob Bergen,Billy Bodine,Rodger Bumpass	0
+COL Description VAL A single mother struggling with drug addiction is taken hostage in her own apartment by a man on the run who has broken out of jail and murdered the judge assigned to his case.	0
+COL Name VAL Ace in the Hole	0
+COL Release Date VAL 29 July 1994 (USA)	0
+COL Name VAL Wonder Boys	0
+COL Id VAL tt0120338	0
+COL Genre VAL Action,Thriller	0
+COL Director VAL Ralph E. Portillo	0
+COL Actors VAL Brittany Allen,Freddie Stroma,Jesse Moss	0
+COL Creator VAL Wes Craven,Wes Craven	0
+COL Actors VAL Haley Joel Osment,Michelle Trachtenberg,Camilla Luddington	0
+COL Year VAL 1990	0
+COL Cast VAL Al Pacino,Channing Tatum,James Ransone,Ray Liotta,Katie Holmes,Ursula Parker,Brian Gilbert,Tracy Morgan,Jake Cherry,Simone Joy Jones,Juliette Binoche,Lemon Andersen,Roger Guenveur Smith,Michael Rivera,Sean Cregan	0
+COL Director VAL Roger Kumble	0
+COL Id VAL tt0103855	0
+COL Director VAL Will Gluck	0
+COL Director VAL Hal Sutherland	0

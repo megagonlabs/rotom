@@ -1,0 +1,200 @@
+COL CountyName VAL tallaxega	1
+COL Score VAL score	1
+COL Address1 VAL 1912xalabamaxhighwayx157	1
+COL EmergencyService VAL xes	1
+COL CountyName VAL cxllman	1
+COL EmergencyService VAL yex	1
+COL ProviderNumber VAL 1xx36	1
+COL HospitalType VAL acuxe care hospixals	1
+COL MeasureCode VAL axi-2	1
+COL State VAL xl	1
+COL Score VAL x5%	1
+COL ZipCode VAL x52xx	1
+COL HospitalOwner VAL proxrietary	1
+COL City VAL bxrmxngham	1
+COL MeasureName VAL heart faxlure patxents gxven ace inhxbxtor or arb for left ventrxcular systolxc dysfunctxon (lvsd)	1
+COL HospitalName VAL huntsvxlle hospxtal	1
+COL PhoneNumber VAL 334774x601	1
+COL PhoneNumber VAL 334x3xx221	1
+COL HospitalType VAL acute care hosxitals	1
+COL EmergencyService VAL yxs	1
+COL HospitalOwner VAL governxent - federal	1
+COL ZipCode VAL 3x23x	1
+COL Score VAL 89x	1
+COL MeasureCode VAL amix2	1
+COL Sample VAL 121 patiexts	1
+COL HospitalOwner VAL voluntaryxnon-profitx-xchurch	1
+COL EmergencyService VAL xes	1
+COL EmergencyService VAL yex	1
+COL Score VAL 9x%	1
+COL Stateavg VAL xl_xmi-2	1
+COL Sample VAL 619 paxienxs	1
+COL Address1 VAL 600 souxh xhird sxreex	1
+COL Score VAL x7%	1
+COL HospitalName VAL jaxkson hospital & xlinix inx	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL HospitalName VAL communitx hospital inc	1
+COL State VAL state	1
+COL Condition VAL hexrt fxilure	1
+COL HospitalOwner VAL volxntary non-profit - chxrch	1
+COL Sample VAL 1 patiexts	1
+COL State VAL xl	1
+COL Condition VAL suxgical infection pxevention	1
+COL Stateavg VAL al_scipxvtex2	1
+COL HospitalType VAL acuxe care hospixals	1
+COL HospitalType VAL acute care hospitaxs	1
+COL CountyName VAL xee	1
+COL State VAL xl	1
+COL Stateavg VAL state_average	1
+COL Stateavg VAL al_sxip-inf-2	1
+COL Stateavg VAL xl_scip-inf-2	1
+COL ProviderNumber VAL 1xx39	1
+COL MeasureCode VAL hx-1	1
+COL State VAL ax	1
+COL Address1 VAL 209 xorth maix street	1
+COL CountyName VAL coffxx	1
+COL Sample VAL 125 patixnts	1
+COL Condition VAL xneumonia	1
+COL Condition VAL hearx axxack	1
+COL MeasureCode VAL pnx5c	1
+COL Condition VAL heaxt attack	1
+COL Condition VAL heart attaxk	1
+COL CountyName VAL elxore	1
+COL CountyName VAL mxrshxll	1
+COL MeasureName VAL heart attaxk patients given aspirin at disxharge	1
+COL Condition VAL heartxattack	1
+COL MeasureCode VAL amix1	1
+COL EmergencyService VAL yxs	1
+COL MeasureName VAL pneumonix pxtients assessed xnd given influenzx vxccinxtion	1
+COL PhoneNumber VAL 2x6x938310	1
+COL Sample VAL 1x patients	1
+COL City VAL geoxgiana	1
+COL Sample VAL 87 patientx	1
+COL HospitalOwner VAL government - hospital xistrict or authority	1
+COL ProviderNumber VAL x00xx	1
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL ZipCode VAL 3xx94	1
+COL ZipCode VAL x6x05	1
+COL PhoneNumber VAL 2568453x50	1
+COL HospitalOwner VAL prxprietary	1
+COL PhoneNumber VAL 334x836541	1
+COL City VAL florxncx	1
+COL MeasureCode VAL pn-x	1
+COL ZipCode VAL 3563x	1
+COL Stateavg VAL alxami-7a	1
+COL HospitalName VAL xivexview xegional medical centex	1
+COL ZipCode VAL 36x01	1
+COL HospitalName VAL cullmxn regionxl medicxl center	1
+COL MeasureCode VAL ami-x	1
+COL City VAL guntxrsvillx	1
+COL MeasureCode VAL px-4	1
+COL State VAL xl	1
+COL Stateavg VAL al_axi-1	1
+COL MeasureCode VAL px-5c	1
+COL ZipCode VAL 3590x	1
+COL ZipCode VAL 3xx94	1
+COL ZipCode VAL 3x640	1
+COL State VAL xl	1
+COL City VAL exba	1
+COL MeasureCode VAL scip-vtx-1	1
+COL Sample VAL 15 patiexts	1
+COL Stateavg VAL al_pn-5c	0
+COL Condition VAL pneumonia	0
+COL ZipCode VAL 35960	0
+COL City VAL wedowee	0
+COL ZipCode VAL 36201	0
+COL HospitalName VAL marshall medical center north	0
+COL CountyName VAL jefferson	0
+COL HospitalName VAL prattville baptist hospital	0
+COL PhoneNumber VAL 2054877736	0
+COL ProviderNumber VAL 10022	0
+COL MeasureName VAL all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery	0
+COL MeasureName VAL pneumonia patients given initial antibiotic(s) within 6 hours after arrival	0
+COL Score VAL 79%	0
+COL PhoneNumber VAL 2562495000	0
+COL CountyName VAL shelby	0
+COL MeasureName VAL pneumonia patients given the most appropriate initial antibiotic(s)	0
+COL Address1 VAL 1256 military street south	0
+COL City VAL anniston	0
+COL Address2 VAL empty	0
+COL HospitalType VAL acute care hospitals	0
+COL ZipCode VAL 35058	0
+COL City VAL gadsden	0
+COL ZipCode VAL 35901	0
+COL State VAL al	0
+COL Sample VAL 8 patients	0
+COL index VAL 322	0
+COL City VAL anchorage	0
+COL City VAL birmingham	0
+COL Stateavg VAL al_scip-inf-4	0
+COL PhoneNumber VAL 3348972257	0
+COL ZipCode VAL 99508	0
+COL State VAL al	0
+COL MeasureCode VAL pn-6	0
+COL MeasureName VAL pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics	0
+COL Sample VAL 7 patients	0
+COL City VAL clanton	0
+COL HospitalOwner VAL voluntary non-profit - other	0
+COL City VAL montgomery	0
+COL Score VAL 82%	0
+COL EmergencyService VAL yes	0
+COL City VAL birmingham	0
+COL Condition VAL surgical infection prevention	0
+COL index VAL 594	0
+COL Address3 VAL empty	0
+COL ZipCode VAL 36067	0
+COL Address2 VAL empty	0
+COL Address1 VAL 1010 lay dam road	0
+COL Score VAL 100%	0
+COL City VAL prattville	0
+COL EmergencyService VAL yes	0
+COL Sample VAL 130 patients	0
+COL HospitalName VAL marshall medical center north	0
+COL State VAL al	0
+COL Sample VAL 2 patients	0
+COL MeasureName VAL heart attack patients given pci within 90 minutes of arrival	0
+COL Stateavg VAL al_scip-inf-1	0
+COL MeasureCode VAL scip-vte-1	0
+COL ProviderNumber VAL 10035	0
+COL EmergencyService VAL yes	0
+COL Sample VAL 0 patients	0
+COL CountyName VAL de kalb	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL Address3 VAL empty	0
+COL State VAL al	0
+COL Address1 VAL 315 w hickory st	0
+COL HospitalType VAL acute care hospitals	0
+COL MeasureName VAL pneumonia patients given initial antibiotic(s) within 6 hours after arrival	0
+COL index VAL 104	0
+COL Condition VAL heart failure	0
+COL Address2 VAL empty	0
+COL Sample VAL 28 patients	0
+COL MeasureCode VAL pn-6	0
+COL City VAL huntsville	0
+COL index VAL 495	0
+COL Sample VAL empty	0
+COL Address3 VAL empty	0
+COL Stateavg VAL al_scip-inf-3	0
+COL Address2 VAL empty	0
+COL CountyName VAL etowah	0
+COL Stateavg VAL al_pn-7	0
+COL Condition VAL heart attack	0
+COL MeasureCode VAL scip-inf-2	0
+COL State VAL al	0
+COL MeasureName VAL heart attack patients given beta blocker at discharge	0
+COL City VAL luverne	0
+COL ProviderNumber VAL 10034	0
+COL EmergencyService VAL yes	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL Condition VAL pneumonia	0
+COL index VAL 1	0
+COL ProviderNumber VAL 10015	0
+COL MeasureCode VAL ami-3	0
+COL PhoneNumber VAL 2563572111	0
+COL State VAL al	0
+COL MeasureCode VAL pn-6	0
+COL EmergencyService VAL yes	0
+COL City VAL elba	0
+COL HospitalName VAL cherokee medical center	0

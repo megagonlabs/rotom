@@ -1,0 +1,150 @@
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL abv VAL 0.062%	1
+COL abv VAL 0.08900000000000001%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.065%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.045%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL abv VAL 0.065%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.075%	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 OZ.	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.057%	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.062%	1
+COL ounces VAL 12.0 oz	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.065%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.05%	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 OZ.	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL beer-name VAL Bad Axe Imperial IPA	0
+COL state VAL MT	0
+COL style VAL American Pale Ale (APA)	0
+COL abv VAL 0.06	0
+COL style VAL American Pale Ale (APA)	0
+COL state VAL AZ	0
+COL index VAL 909	0
+COL id VAL 1271	0
+COL style VAL American Brown Ale	0
+COL brewery_id VAL 181	0
+COL brewery_id VAL 80	0
+COL style VAL American Double / Imperial IPA	0
+COL ibu VAL 47	0
+COL brewery-name VAL Big Bend Brewing Company	0
+COL brewery-name VAL Modern Times Beer	0
+COL brewery-name VAL Karbach Brewing Company	0
+COL index VAL 1590	0
+COL brewery-name VAL Hess Brewing Company	0
+COL beer-name VAL Summer Solstice	0
+COL brewery_id VAL 133	0
+COL beer-name VAL Desert Magic IPA	0
+COL index VAL 940	0
+COL style VAL American Pale Ale (APA)	0
+COL state VAL HI	0
+COL beer-name VAL Gone A-Rye	0
+COL ibu VAL 7	0
+COL style VAL American Double / Imperial IPA	0
+COL index VAL 140	0
+COL abv VAL 0.047	0
+COL city VAL Greeley	0
+COL brewery_id VAL 59	0
+COL state VAL WA	0
+COL brewery_id VAL 297	0
+COL ibu VAL 45	0
+COL abv VAL 0.062	0
+COL city VAL Seattle	0
+COL city VAL Lowell	0
+COL id VAL 1482	0
+COL style VAL Witbier	0
+COL id VAL 2051	0
+COL state VAL SC	0
+COL brewery_id VAL 413	0
+COL index VAL 1649	0
+COL beer-name VAL Cut Throat Pale Ale (2011)	0
+COL brewery-name VAL 21st Amendment Brewery	0
+COL brewery-name VAL Schlafly Brewing Company	0
+COL brewery_id VAL 2	0
+COL style VAL Saison / Farmhouse Ale	0
+COL state VAL OR	0
+COL brewery-name VAL Avery Brewing Company	0
+COL city VAL Gary	0
+COL city VAL Seven Points	0
+COL beer-name VAL Evolutionary IPA (2012)	0
+COL ibu VAL 18	0
+COL abv VAL 0.06	0
+COL brewery_id VAL 91	0
+COL ibu VAL 13	0
+COL style VAL Foreign / Export Stout	0
+COL ibu VAL 19	0
+COL brewery_id VAL 32	0
+COL style VAL American IPA	0
+COL brewery-name VAL Sixpoint Craft Ales	0
+COL index VAL 1742	0
+COL beer-name VAL Verdun	0
+COL state VAL WI	0
+COL index VAL 1377	0
+COL state VAL MT	0
+COL city VAL Lake Barrington	0
+COL beer-name VAL Jucundus	0
+COL index VAL 1419	0
+COL beer-name VAL Lemongrass Saison	0
+COL style VAL American Pale Ale (APA)	0
+COL ibu VAL 75	0
+COL city VAL Flagstaff	0
+COL brewery-name VAL Fat Head's Brewery	0

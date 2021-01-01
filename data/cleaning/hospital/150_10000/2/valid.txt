@@ -1,0 +1,150 @@
+COL CountyName VAL xe kalb	1
+COL State VAL ax	1
+COL Address1 VAL 301xeastx18thxst	1
+COL City VAL vallex	1
+COL MeasureCode VAL xf-1	1
+COL HospitalName VAL andaxusia regionax hospitax	1
+COL EmergencyService VAL yxs	1
+COL Stateavg VAL al_pnx6	1
+COL Score VAL x6%	1
+COL HospitalType VAL acute care hosxitals	1
+COL State VAL xl	1
+COL HospitalOwner VAL voluntary non-profit - otxer	1
+COL CountyName VAL montgomexy	1
+COL Condition VAL surgical ixfectiox prevextiox	1
+COL Address1 VAL 201 pine sxreex norxhwesx	1
+COL MeasureName VAL pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s)	1
+COL MeasureCode VAL scix-inf-2	1
+COL MeasureName VAL pneumonia patients assessed and given influenza vaxxination	1
+COL CountyName VAL butxer	1
+COL MeasureName VAL surgery pxtients whose doctors ordered trextments to prevent blood clots xfter certxin types of surgeries	1
+COL HospitalName VAL floxers hospital	1
+COL City VAL annxston	1
+COL Sample VAL 126 patxents	1
+COL HospitalOwner VAL gxvernment - hxspital district xr authxrity	1
+COL Address1 VAL 515 mirxndx st	1
+COL Address1 VAL 515 miranxa st	1
+COL Stateavg VAL al_sxip-inf-2	1
+COL HospitalType VAL acute care hosxitals	1
+COL Sample VAL 521 patiexts	1
+COL State VAL xl	1
+COL HospitalOwner VAL goverxmext - hospital district or authority	1
+COL ProviderNumber VAL x0027	1
+COL MeasureCode VAL hfx4	1
+COL Condition VAL pxeumoxia	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL MeasureName VAL all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx	1
+COL ZipCode VAL 3x0x7	1
+COL Score VAL x5%	1
+COL HospitalType VAL acuxe care hospixals	1
+COL MeasureName VAL pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival	1
+COL PhoneNumber VAL 3344x33541	1
+COL HospitalName VAL marshall medical cenxer norxh	1
+COL ProviderNumber VAL 1xx44	1
+COL MeasureName VAL heart xailure patients given smoking cessation advice/counseling	1
+COL Address1 VAL 810 st vxncents drxve	1
+COL Stateavg VAL al_scix-vte-1	1
+COL Stateavg VAL al_scipxinfx2	1
+COL PhoneNumber VAL 33x2938000	1
+COL CountyName VAL elmoxe	1
+COL HospitalName VAL xniv of soxth alabama medical center	1
+COL EmergencyService VAL yex	1
+COL Score VAL 1xx%	1
+COL EmergencyService VAL yxs	1
+COL HospitalType VAL acute care hospitaxs	1
+COL HospitalOwner VAL volunxary non-profix - privaxe	1
+COL MeasureName VAL hearx failure paxienxs given smoking cessaxion advice/counseling	1
+COL MeasureName VAL heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival	1
+COL Stateavg VAL al_pn-xb	1
+COL Sample VAL x patients	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL CountyName VAL xhambers	1
+COL ProviderNumber VAL 1xx32	1
+COL PhoneNumber VAL 334793870x	1
+COL Stateavg VAL alxpn-7	1
+COL ProviderNumber VAL 1xx15	1
+COL PhoneNumber VAL 3342xx2100	1
+COL MeasureName VAL heart faxlure patxents gxven smokxng cessatxon advxce/counselxng	1
+COL PhoneNumber VAL 3342938xxx	1
+COL City VAL gxdsden	1
+COL PhoneNumber VAL 33x28365x1	1
+COL MeasureName VAL surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor)	1
+COL MeasureCode VAL hfx1	1
+COL Score VAL x7%	1
+COL ZipCode VAL 3642x	1
+COL CountyName VAL cxffee	1
+COL ProviderNumber VAL 10027	0
+COL Sample VAL 100 patients	0
+COL ZipCode VAL 36467	0
+COL Score VAL 98%	0
+COL ZipCode VAL 35235	0
+COL State VAL al	0
+COL State VAL al	0
+COL City VAL birmingham	0
+COL ZipCode VAL 36330	0
+COL MeasureName VAL heart failure patients given discharge instructions	0
+COL State VAL al	0
+COL HospitalType VAL acute care hospitals	0
+COL State VAL al	0
+COL EmergencyService VAL yes	0
+COL Condition VAL heart attack	0
+COL HospitalType VAL acute care hospitals	0
+COL Address3 VAL empty	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL ZipCode VAL 35903	0
+COL State VAL al	0
+COL Stateavg VAL al_ami-8a	0
+COL City VAL thomasville	0
+COL HospitalType VAL acute care hospitals	0
+COL EmergencyService VAL yes	0
+COL Address2 VAL empty	0
+COL MeasureName VAL surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL ProviderNumber VAL 10034	0
+COL ProviderNumber VAL 10021	0
+COL HospitalName VAL marshall medical center north	0
+COL State VAL al	0
+COL index VAL 249	0
+COL PhoneNumber VAL 3343353374	0
+COL MeasureName VAL heart attack patients given aspirin at discharge	0
+COL Score VAL 95%	0
+COL Address3 VAL empty	0
+COL ProviderNumber VAL 10055	0
+COL ProviderNumber VAL 10025	0
+COL City VAL birmingham	0
+COL State VAL al	0
+COL index VAL 874	0
+COL Address2 VAL empty	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL ZipCode VAL 36420	0
+COL City VAL alabaster	0
+COL Address2 VAL empty	0
+COL MeasureName VAL heart attack patients given fibrinolytic medication within 30 minutes of arrival	0
+COL MeasureName VAL heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL Score VAL 99%	0
+COL Sample VAL 125 patients	0
+COL Address3 VAL empty	0
+COL Address2 VAL empty	0
+COL CountyName VAL marion	0
+COL Address2 VAL empty	0
+COL ProviderNumber VAL 10055	0
+COL MeasureCode VAL scip-vte-2	0
+COL Stateavg VAL al_pn-2	0
+COL Score VAL empty	0
+COL CountyName VAL chambers	0
+COL Stateavg VAL al_pn-3b	0
+COL MeasureCode VAL ami-1	0
+COL HospitalType VAL acute care hospitals	0
+COL City VAL huntsville	0
+COL Address1 VAL 1530 u s highway 43	0
+COL State VAL ak	0
+COL EmergencyService VAL yes	0
+COL State VAL al	0
+COL EmergencyService VAL yes	0
+COL City VAL birmingham	0
+COL City VAL prattville	0
+COL MeasureCode VAL scip-inf-1	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0

@@ -1,0 +1,50 @@
+COL RatingValue VAL 6.0	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 1,600	1
+COL RatingValue VAL 8.0	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 1,104	1
+COL RatingCount VAL 54,555	1
+COL Description VAL Regarded by many critics as the ultimate film noir , and by many more as the finest movie adaptation of a book by Mickey Spillane, Kiss Me Deadly stars Ralph Meeker as Spillane's anti-social private eye Mike Hammer. While driving down a lonely road late one evening, Hammer picks up a beautiful blonde hitchhiker (Cloris Leachman), dressed in nothing but a raincoat. At first, Hammer assumes that the incoherent girl is an escaped lunatic; his mind is changed for him when he and the girl are,abducted by two thugs. The men torture the girl to death as the semiconscious Hammer watches helplessly. He himself escapes extermination when the murderers' car topples off a cliff and he is thrown clear. Seeking vengeance, Hammer tries to discover the secret behind the girl's murder. Among those who cross his path in the film's tense, tingling 105 minutes are a slimy gangster (Paul Stewart), a turncoat scientist (Albert Dekker), and the dead woman's sexy roommate (Gaby Rodgers). All clues lead to a mysterious box -- the 'Great Whatsit,' as Hammer's secretary Velda (Maxine Cooper) describes it. Both the box and Velda are stolen by the villains, at which point Hammer discovers that the 'Whatsit' contains radioactive material of awesome powers. The apocalyptic climax is doubly devastating because we're never quite certain if Hammer survives (he doesn't narrate the story, as was the case in most Mike Hammer films and TV shows). Director Robert Aldrich and scriptwriter Jack Moffit transcend Kiss Me Deadly's basic genre trappings to produce a one-of-a-kind melodrama for the nuclear age.	1
+COL RatingCount VAL 5,319	1
+COL RatingCount VAL 3,422	1
+COL RatingCount VAL 1,374	1
+COL Duration VAL 1 hr. 21 min.	1
+COL RatingCount VAL 10,840	1
+COL RatingCount VAL 5,504	1
+COL RatingCount VAL 301,036	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 10,143	1
+COL RatingCount VAL 1,176	1
+COL RatingCount VAL 4,510	1
+COL Description VAL Lake Bell ('Children's Hospital') stars in In a World..., a hilarious romantic comedy about a struggling vocal coach who strikes it big in the cutthroat world of movie-trailer voiceovers, only to find herself in direct competition with the industry's reigning king-her father. Written and directed by Bell, who won the Sundance 2013 Waldo Salt Screenwriting Award for the script, In a World... also stars Fred Melamed (A Serious Man), Rob Corddry (Hot Tub Time Machine), Demetri Martin ('Important,Things with Demetri Martin'), Michaela Watkins ('Enlightened'), Ken Marino ('Burning Love'), Nick Offerman ('Parks and Recreation'), Alexandra Holden (The Hot Chick) and Tig Notaro ('The Sarah Silverman Program'). (c) Roadside Attractions	1
+COL RatingCount VAL 29,015	1
+COL RatingCount VAL 2,480	1
+COL RatingCount VAL 89,173	1
+COL RatingCount VAL 75,163	1
+COL RatingCount VAL 55,664	1
+COL Duration VAL 104 min	0
+COL Release Date VAL 9 April 2010 (USA)	0
+COL Release Date VAL 20 May 1994 (USA)	0
+COL Actors VAL John Agar,Mara Corday,Leo G. Carroll	0
+COL Actors VAL Arnold Schwarzenegger,Lou Ferrigno,Matty Ferrigno	0
+COL Name VAL Star Trek Secret Voyage: Whose Birth These Triumphs Are	0
+COL ReviewCount VAL 137 user,242 critic	0
+COL Language VAL English	0
+COL Name VAL I Spit on Your Grave	0
+COL Description VAL Benjamin Gates must follow a clue left in John Wilkes Booth's diary to prove his ancestor's innocence in the assassination of Abraham Lincoln.	0
+COL Filming Locations VAL Santa Monica, California, USA	0
+COL Actors VAL Brian Presley,Kurt Russell,Melanie Lynskey	0
+COL Name VAL Lift Me Up	0
+COL Duration VAL 136 min	0
+COL Name VAL A Better Place	0
+COL Id VAL tt2676710	0
+COL Release Date VAL 19 July 2013 (USA)	0
+COL ReviewCount VAL 29 user,29 critic	0
+COL ReviewCount VAL 	0
+COL Creator VAL James Bolton,Jim Grimsley	0
+COL Filming Locations VAL Belfast Methodist College, Belfast, County Antrim, Northern Ireland, UK	0
+COL Actors VAL Elijah Wood,Courtney B. Vance,Robbie Coltrane	0
+COL Filming Locations VAL 	0
+COL Director VAL Doug Liman	0
+COL Release Date VAL 5 September 1941 (USA)	0

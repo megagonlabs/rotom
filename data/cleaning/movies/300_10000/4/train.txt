@@ -1,0 +1,300 @@
+COL RatingCount VAL 72,046	1
+COL RatingCount VAL 50,894	1
+COL Description VAL As a young couple embarks upon their wedding plans, gruesome secrets from their past collide with sinister forces of the present to ensure these newlyweds do not live 'happily-ever-after.'	0
+COL Year VAL 1997	0
+COL RatingCount VAL 9,713	1
+COL RatingCount VAL 8,946	1
+COL Release Date VAL Feb 18, 2000 Wide	1
+COL RatingCount VAL 	0
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 7,571	1
+COL Language VAL English,Cantonese	0
+COL Id VAL 1061809-malicious	1
+COL Name VAL We're Back! A Dinosaur's Story	0
+COL RatingCount VAL 125,983	1
+COL Filming Locations VAL 15 E Michigan Ave, Ypsilanti, Michigan, USA	0
+COL Filming Locations VAL Church of the Angels - 1100 Avenue 64, Pasadena, California, USA	0
+COL RatingCount VAL 230,495	1
+COL Release Date VAL Sep 18, 1981 Wide	1
+COL Language VAL English	0
+COL Language VAL English	0
+COL RatingCount VAL 3,134	1
+COL RatingCount VAL 107,169	1
+COL RatingCount VAL 2,412	1
+COL RatingCount VAL 103,090	1
+COL Filming Locations VAL Savannah State College, Savannah, Georgia, USA	0
+COL RatingCount VAL 2,590	1
+COL RatingCount VAL 90,294	1
+COL Release Date VAL January 1976 (USA)	0
+COL Genre VAL Adventure,Drama,Romance	0
+COL RatingCount VAL 122,756	1
+COL Cast VAL Ken Centers,Nolan Chard,Peter Lorre,Melik Malkasian,Marty Ryan,Nicholas Scalici,Holly Spencer,James Storey	0
+COL RatingCount VAL 69,599	1
+COL Genre VAL Comedy,Romance	0
+COL Country VAL USA	0
+COL RatingCount VAL 13,661	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 13,279	1
+COL RatingCount VAL 1,578	1
+COL RatingCount VAL 479,521	1
+COL Year VAL 1998 1999 2000	1
+COL RatingCount VAL 97,856	1
+COL RatingCount VAL 28,959	1
+COL RatingValue VAL 5.0	1
+COL Release Date VAL Nov 23, 2005 Wide	1
+COL Country VAL USA	0
+COL Director VAL David Duchovny	0
+COL RatingCount VAL 38,126	1
+COL RatingCount VAL 33,113	1
+COL Language VAL English	0
+COL RatingCount VAL 100,280	1
+COL RatingCount VAL 1,416	1
+COL RatingCount VAL 248,655	1
+COL RatingCount VAL 27	0
+COL RatingCount VAL 33,850	1
+COL ReviewCount VAL 153 user,174 critic	0
+COL Duration VAL 63 min	0
+COL Name VAL Epic Movie	0
+COL Duration VAL 1 hr. 36 min.	1
+COL Director VAL Lizzie Borden	0
+COL RatingCount VAL 22,165	1
+COL RatingCount VAL 20,558	1
+COL RatingCount VAL 12,925	1
+COL RatingCount VAL 7,277	1
+COL Year VAL 2005 2006 2007	1
+COL ReviewCount VAL 1 critic	0
+COL RatingValue VAL 7.1	0
+COL Release Date VAL Sep 8, 2007 Wide	1
+COL Release Date VAL May 1, 1958 Wide	1
+COL Actors VAL Johnny Depp,Orlando Bloom,Keira Knightley	0
+COL RatingValue VAL 7.6	0
+COL RatingCount VAL 373,819	1
+COL RatingCount VAL 37,478	1
+COL RatingCount VAL 150,239	1
+COL Country VAL USA	0
+COL RatingCount VAL 34,316	1
+COL RatingCount VAL 73,777	1
+COL RatingCount VAL 2,197	1
+COL Year VAL 1965	0
+COL RatingCount VAL 67,800	1
+COL Description VAL A young punk drifter heading to Vegas to pay off his gambling debt before the Russian mafia kills him, is forced to stop in a Arizona town where everything that can go wrong, does go wrong for him.	0
+COL Release Date VAL 1957 (UK)	0
+COL RatingCount VAL 91,777	1
+COL Name VAL Days of Heaven	0
+COL Year VAL 2012 2013 2014	1
+COL RatingCount VAL 11,770	1
+COL ReviewCount VAL 119 user,140 critic	0
+COL RatingCount VAL 133,788	1
+COL RatingValue VAL 8.0	1
+COL RatingValue VAL 8.2/10,8/10	1
+COL Year VAL 1977	0
+COL RatingCount VAL 20,988	1
+COL RatingCount VAL 14,322	1
+COL Filming Locations VAL Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA	0
+COL RatingValue VAL 7.9	0
+COL Year VAL 2002	0
+COL Director VAL Shawn Levy	0
+COL RatingCount VAL 52,278	1
+COL Creator VAL Jeff Pollack,Benny Medina	0
+COL RatingCount VAL 89,622	1
+COL RatingCount VAL 57,980	1
+COL RatingValue VAL 6.1/10,6/10	1
+COL Genre VAL Adventure,Family,Fantasy	0
+COL Id VAL tt0364343	0
+COL RatingCount VAL 1,228	1
+COL RatingCount VAL 5,373	1
+COL Description VAL A meddling mother tries to set her daughter up with the right man so her kid won't follow in her footsteps.	0
+COL Genre VAL Television,Comedy	1
+COL Id VAL tt0086465	0
+COL Filming Locations VAL Columbia Street, New Westminster, British Columbia, Canada	0
+COL Actors VAL Angels & Airwaves,Critter,Thomas DeLonge	0
+COL RatingValue VAL 7.7	0
+COL Language VAL English,German,French	0
+COL RatingCount VAL 21,203	1
+COL RatingCount VAL 45,363	1
+COL Release Date VAL 26 May 2011 (USA)	0
+COL Description VAL Robinson Crusoe is shipwrecked and he finds himself all alone on a tropical island. With a few tools he manages to rescue from the wreck he has to learn to support himself until help arrives.	0
+COL RatingCount VAL 764	0
+COL Year VAL 1948	0
+COL Release Date VAL 8 April 1932 (USA)	0
+COL RatingCount VAL 21,909	1
+COL Name VAL West Side Story	0
+COL RatingCount VAL 140,842	1
+COL RatingCount VAL 3,489	1
+COL ReviewCount VAL 16 user,6 critic	0
+COL RatingCount VAL 4,903	1
+COL RatingCount VAL 447,256	1
+COL Country VAL USA	0
+COL Filming Locations VAL Japanese Garden, Donald C. Tillman Water Reclamation Plant - 6100 Woodley Avenue, Van Nuys, Los Angeles, California, USA	0
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 32,885	1
+COL RatingCount VAL 83,542	1
+COL Filming Locations VAL Long Beach, California, USA	0
+COL Cast VAL Steve Guttenberg,Bubba Smith,David Graf,Michael Winslow,Bruce Mahler,Marion Ramsey,Colleen Camp,Howard Hesseman,Art Metrano,George Gaynes,Bobcat Goldthwait,Julie Brown,Peter Van Norden,Tim Kazurinsky,Ed Herlihy	0
+COL Language VAL English	0
+COL ReviewCount VAL 12 user,8 critic	0
+COL RatingCount VAL 6,027	1
+COL Director VAL Andrew Niccol	0
+COL RatingCount VAL 49,267	1
+COL Year VAL 2013	0
+COL Name VAL Cujo	0
+COL Language VAL English	0
+COL ReviewCount VAL 233 user,110 critic	0
+COL Cast VAL William Atherton,Denise Dowse,Dara Tomanovich,Kevin West,Kylie Minogue,Pauly Shore,Stephen Baldwin,Joey Lauren Adams,Teresa Hill,Patricia Hearst,Robbie Thibaut Jr.,Adam Weisman,Henry Gibson,Brian Hayes Currie,Courtney Mizel	0
+COL Creator VAL Kevin Carraway,Lawrence Sara	0
+COL Duration VAL 117 min	0
+COL RatingCount VAL 976	0
+COL RatingCount VAL 21,532	1
+COL RatingCount VAL 2,458	1
+COL Id VAL love_is_all_there_is	1
+COL Creator VAL Adam Egypt Mortimer,Brian DeLeeuw	1
+COL RatingCount VAL 192,074	1
+COL Name VAL The Swan Princess: Escape from Castle Mountain	0
+COL RatingValue VAL 8.0	1
+COL Director VAL Marc Lawrence	0
+COL RatingCount VAL 155,319	1
+COL RatingCount VAL 8,739	1
+COL RatingCount VAL 13,134	1
+COL Language VAL English,Japanese	0
+COL RatingCount VAL 10,313	1
+COL Description VAL Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker.	0
+COL Release Date VAL 12 February 2013 (USA)	0
+COL RatingValue VAL 5.2/10,4.9/10	1
+COL Director VAL Francis Ford Coppola	0
+COL RatingValue VAL 7.8	0
+COL RatingCount VAL 70,434	1
+COL Actors VAL Daniel Day-Lewis,Winona Ryder,Paul Scofield	0
+COL RatingCount VAL 1,581	1
+COL RatingCount VAL 3,315	1
+COL Filming Locations VAL 	0
+COL RatingValue VAL 7.3	0
+COL Id VAL tt1951266	0
+COL Release Date VAL Sep 11, 2015 Wide	1
+COL RatingCount VAL 63,367	1
+COL RatingCount VAL 1,885	1
+COL Creator VAL Roger Kumble	1
+COL Duration VAL 1 hr. 24 min.	1
+COL RatingCount VAL 2,291	1
+COL Genre VAL Family	0
+COL Actors VAL Seann William Scott,Randy Quaid,Brando Eaton	0
+COL RatingCount VAL 40,363	1
+COL RatingCount VAL 20,675	1
+COL Filming Locations VAL Associated British Elstree Studios, Shenley Road, Borehamwood, Hertfordshire, England, UK	0
+COL Creator VAL David Benioff	0
+COL Description VAL Snow White, pursued by a jealous queen, hides with the Dwarfs, but the queen learns of this and prepares to feed her a poison apple.	0
+COL ReviewCount VAL 6 user,15 critic	0
+COL Actors VAL Jean-Claude Van Damme,Donald Gibb,Leah Ayres	0
+COL Year VAL 1972	0
+COL RatingValue VAL 6.5/10,6.7/10	1
+COL Id VAL tt0082245	0
+COL Filming Locations VAL Festung Hohenwerfen, Salzburg, Austria	0
+COL Id VAL tt0029695	0
+COL RatingCount VAL 79,906	1
+COL Description VAL A decade after the first Halloween film, the killer Michael Myers returns just in time for the series' fourth outing. This time, he's returning to his home town to murder his niece (Danielle Harris).	1
+COL Genre VAL Horror	0
+COL Duration VAL 	1
+COL Year VAL 1988	0
+COL Cast VAL Michelle Williams,Meat Loaf,Tim Guinee,Louis Zorich,Bill Raymond,Wendell Pierce,Merritt Wever,Jonathan Watton,Ileen Getz,John Paul Tremblay,Robb Wells,Heidi von Palleske,Jeremy Akerman,Gerry Mendicino,John Dunsworth	0
+COL Language VAL English	0
+COL Year VAL 2004	0
+COL Filming Locations VAL Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA	0
+COL Language VAL English	0
+COL Release Date VAL 25 November 2015 (USA)	0
+COL Creator VAL Mickey Spillane,Jack Moffitt,A.I. Bezzerides	1
+COL RatingCount VAL 12,197	1
+COL Id VAL tt0082969	0
+COL RatingCount VAL 5,175	1
+COL Country VAL USA	0
+COL Duration VAL 148 min	0
+COL RatingValue VAL 7.0	1
+COL Cast VAL Ronny Graham,Estelle Reiner,Zale Kessler,Jack Riley,Lewis J. Stadlen,George Gaynes,George Wyner,James 'Gypsy' Haake,Scamp,Christopher Lloyd,José Ferrer,Charles Durning,Tim Matheson,Mel Brooks,Anne Bancroft	0
+COL Year VAL 1994	0
+COL Description VAL Finding Forrester star Rob Brown steps into the cleats of Heisman Trophy-winning gridiron giant Ernie Davis in director Gary Fleder's inspirational sports docudrama. As a young boy reared not far from the northern Pennsylvania state line, Davis dreamed of blasting through the end zone and scoring a triumphant touchdown while fans rose to their feet and cheered. When Davis later became a star running back for the Syracuse Orangemen, his dreams were finally on the way to becoming a reality. Under,the wing of coach Ben Schwartzwalder (Dennis Quaid), it seemed as if there is nothing that could stop Davis from entering into the annals of sports history; even during an era in which the civil rights movement was just gaining momentum, this fledgling gridiron giant never once doubted his ability to rise to the top. When Davis was diagnosed with leukemia shortly after being drafted into the NFL, however, his will to survive soon eclipsed his dreams of success. ~ Jason Buchanan, Rovi	1
+COL Year VAL 1965	0
+COL ReviewCount VAL 221 user,225 critic	0
+COL Actors VAL Juliette Binoche,Judi Dench,Alfred Molina	0
+COL Id VAL tt0144528	0
+COL Filming Locations VAL Ashland-Belle Helene Plantation - State Highway 75, Geismer, Louisiana, USA	0
+COL Release Date VAL Nov 11, 2011 Wide	1
+COL RatingCount VAL 3,101	1
+COL Actors VAL Andrew McCarthy,Alex Zonn,Matthew Laurance	0
+COL Genre VAL Drama	0
+COL Actors VAL Jason Biggs,Alyson Hannigan,Seann William Scott	0
+COL Description VAL Behind the scenes chronicle of how clash of vision, bad creative decisions, lack of interest and really bad weather plagued the disastrous production of the infamous 1996 remake of The Island of Dr. Moreau.	0
+COL Country VAL USA	0
+COL RatingCount VAL 1,574	1
+COL RatingCount VAL 1,003	1
+COL Creator VAL Roger Swaybill,Alan Ormsby	0
+COL RatingCount VAL 4,523	1
+COL ReviewCount VAL 861 user,307 critic	0
+COL RatingCount VAL 301,036	1
+COL RatingCount VAL 16,188	1
+COL Language VAL English,Spanish,French	0
+COL RatingCount VAL 20,852	1
+COL Duration VAL 105 min	0
+COL Year VAL 2014 2015 2016	1
+COL Release Date VAL 8 March 2014 (USA)	0
+COL Actors VAL Will Ferrell,Jonah Hill,Brad Pitt	0
+COL RatingCount VAL 598,080	1
+COL RatingCount VAL 54,738	1
+COL Id VAL 1037161-frankie_and_johnny	1
+COL Country VAL USA	0
+COL RatingCount VAL 140	0
+COL RatingCount VAL 1,953	1
+COL Genre VAL Comedy	0
+COL RatingCount VAL 68,048	1
+COL RatingCount VAL 1,244	1
+COL RatingValue VAL 6.9	0
+COL RatingCount VAL 66,678	1
+COL RatingCount VAL 71,633	1
+COL RatingCount VAL 3,419	1
+COL RatingCount VAL 2,146	1
+COL RatingCount VAL 6,657	1
+COL RatingCount VAL 14,114	1
+COL RatingCount VAL 72,523	1
+COL Actors VAL Randolph Scott,Jocelyn Brando,Richard Boone	0
+COL RatingCount VAL 9,975	1
+COL RatingCount VAL 27,687	1
+COL RatingCount VAL 13,275	1
+COL RatingCount VAL 5,813	1
+COL Year VAL 2013 2014 2015	1
+COL RatingValue VAL 6.5/10,3.1/10	1
+COL RatingCount VAL 4,197	1
+COL Creator VAL 	0
+COL Name VAL Grizzly	0
+COL Genre VAL Drama,Romance,Comedy	1
+COL Actors VAL Marshall Sylver,Josie Davis,Meshach Taylor	0
+COL Name VAL Désirée	0
+COL Genre VAL Horror,Mystery,Thriller	0
+COL Language VAL English	0
+COL Year VAL 1994	0
+COL RatingCount VAL 3,548	1
+COL RatingValue VAL 5.3	0
+COL Director VAL Jack Conway	0
+COL RatingCount VAL 13,205	1
+COL Cast VAL Mark Patton,Kim Myers,Robert Rusler,Clu Gulager,Hope Lange,Marshall Bell,Melinda O. Fee,Tom McFadden,Sydney Walsh,Robert Englund,Edward Blackoff,Christie Clark,Lyman Ward,Donna Bruce,Hart Sprager	0
+COL Creator VAL Paul Bernbaum	0
+COL Country VAL USA	0
+COL ReviewCount VAL 105 user,155 critic	0
+COL Creator VAL Curt Siodmak,Joe May	0
+COL Director VAL Wolfgang Petersen	0
+COL Actors VAL George Clooney,Britt Robertson,Hugh Laurie	0
+COL Duration VAL 132 min	0
+COL Genre VAL Drama	0
+COL RatingCount VAL 48,066	1
+COL Country VAL USA	0
+COL Id VAL tt3603808	0
+COL RatingCount VAL 2,396	1
+COL Genre VAL Comedy	1
+COL RatingCount VAL 33,936	1
+COL RatingCount VAL 244,527	1
+COL RatingValue VAL 3.1/10,3.6/10	1
+COL Description VAL 'The 11th Hour' is the last moment when change is possible. The film explores how we've arrived at this moment -- how we live, how we impact the earth's ecosystems, and what we can do to change our course. Featuring ongoing dialogues of experts from all over the world, including former Soviet Prime Minister Mikhail Gorbachev, renowned scientist Stephen Hawking, former head of the CIA R. James Woolsey and sustainable design experts William McDonough and Bruce Mau in addition to over 50 leading,scientists, thinkers and leaders who discuss the most important issues that face our planet and people.	1
+COL ReviewCount VAL 	0
+COL RatingCount VAL 223,182	1
+COL Director VAL Douglas Sirk	0
+COL Actors VAL Arnold Schwarzenegger,Linda Hamilton,Michael Biehn	0
+COL RatingCount VAL 1,297	1
+COL RatingCount VAL 211,323	1
+COL Filming Locations VAL Chicago, Illinois, USA	0
+COL Language VAL English	0

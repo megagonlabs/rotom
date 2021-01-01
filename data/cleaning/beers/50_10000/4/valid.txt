@@ -1,0 +1,50 @@
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 OZ.	1
+COL state VAL 	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL abv VAL 0.045%	1
+COL state VAL 	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 24.0 ounce	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL index VAL 984	0
+COL ibu VAL 40	0
+COL style VAL American White IPA	0
+COL city VAL Hilo	0
+COL id VAL 2131	0
+COL id VAL 2036	0
+COL beer-name VAL 8-Bit Pale Ale	0
+COL style VAL American Pale Ale (APA)	0
+COL ibu VAL 44	0
+COL brewery_id VAL 321	0
+COL state VAL CO	0
+COL id VAL 2069	0
+COL brewery-name VAL Burn 'Em Brewing	0
+COL index VAL 362	0
+COL brewery-name VAL Indeed Brewing Company	0
+COL style VAL Vienna Lager	0
+COL beer-name VAL SoDo Brown Ale	0
+COL id VAL 1570	0
+COL city VAL Redlands	0
+COL id VAL 1712	0
+COL brewery_id VAL 143	0
+COL brewery-name VAL Angry Minnow	0
+COL id VAL 2327	0
+COL id VAL 1828	0
+COL abv VAL 0.064	0

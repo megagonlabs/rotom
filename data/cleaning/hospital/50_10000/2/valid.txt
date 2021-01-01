@@ -1,0 +1,50 @@
+COL ProviderNumber VAL 100x9	1
+COL Score VAL xx%	1
+COL HospitalOwner VAL voxuntary non-profit - church	1
+COL ProviderNumber VAL 1xx19	1
+COL ProviderNumber VAL x0029	1
+COL CountyName VAL jexxerson	1
+COL ZipCode VAL 3x640	1
+COL MeasureName VAL pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s)	1
+COL HospitalType VAL acute care hospitaxs	1
+COL ZipCode VAL 3595x	1
+COL EmergencyService VAL yxs	1
+COL Address1 VAL 810 st vxncents drxve	1
+COL Sample VAL 82 patientx	1
+COL Address1 VAL 126xhospitalxave	1
+COL Stateavg VAL al_pnx6	1
+COL PhoneNumber VAL 33x2938000	1
+COL Address1 VAL 400xnxedwardsxstreet	1
+COL State VAL xl	1
+COL ZipCode VAL 3x233	1
+COL Sample VAL 521 patiexts	1
+COL MeasureName VAL pneumonia patients assessed and given influenza vaxxination	1
+COL HospitalName VAL southeast alabama medxcal center	1
+COL Stateavg VAL al_hf-x	1
+COL MeasureName VAL heaxt attack patients given aspixin at dischaxge	1
+COL EmergencyService VAL yxs	1
+COL HospitalName VAL hartselle medical center	0
+COL ProviderNumber VAL 10027	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 36330	0
+COL ProviderNumber VAL 10055	0
+COL Sample VAL 14 patients	0
+COL HospitalName VAL hartselle medical center	0
+COL HospitalName VAL medical center enterprise	0
+COL HospitalOwner VAL voluntary non-profit - church	0
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 36049	0
+COL EmergencyService VAL yes	0
+COL CountyName VAL de kalb	0
+COL HospitalType VAL acute care hospitals	0
+COL index VAL 20	0
+COL State VAL al	0
+COL Address3 VAL empty	0
+COL Address3 VAL empty	0
+COL EmergencyService VAL yes	0
+COL Address2 VAL empty	0
+COL Stateavg VAL al_scip-inf-4	0
+COL Address3 VAL empty	0
+COL Stateavg VAL al_ami-8a	0
+COL Score VAL 99%	0
+COL Address2 VAL empty	0

@@ -1,0 +1,100 @@
+COL Score VAL 1xx%	1
+COL HospitalName VAL dekalb regional medical center	0
+COL Score VAL 98%	0
+COL Address1 VAL 1912 alabama highway 157	0
+COL Address2 VAL empty	0
+COL Score VAL 1xx%	1
+COL HospitalOwner VAL proprietary	0
+COL Condition VAL heart attaxk	1
+COL Condition VAL hexrt fxilure	1
+COL EmergencyService VAL xes	1
+COL EmergencyService VAL yes	0
+COL ZipCode VAL 35058	0
+COL Condition VAL heart failure	0
+COL ZipCode VAL 35045	0
+COL CountyName VAL shelby	0
+COL CountyName VAL calhoxn	1
+COL City VAL birmixgham	1
+COL ZipCode VAL 36801	0
+COL EmergencyService VAL yes	0
+COL index VAL 944	0
+COL Address2 VAL empty	0
+COL State VAL xl	1
+COL Score VAL 100%	0
+COL CountyName VAL tallaxega	1
+COL HospitalOwner VAL prxprietary	1
+COL HospitalType VAL acuxe care hospixals	1
+COL State VAL al	0
+COL MeasureName VAL pneumoniaxpatientsxassessedxandxgivenxinfluenzaxvaccination	1
+COL ProviderNumber VAL 100x9	1
+COL CountyName VAL marshall	0
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL ZipCode VAL 36116	0
+COL HospitalType VAL acute care hospitals	0
+COL Score VAL empty	0
+COL MeasureCode VAL ami-1	0
+COL HospitalOwner VAL voxuntary non-profit - church	1
+COL Condition VAL hxart failurx	1
+COL Address3 VAL empty	0
+COL EmergencyService VAL yex	1
+COL ZipCode VAL 3563x	1
+COL ZipCode VAL 35205	0
+COL HospitalType VAL acuxe care hospixals	1
+COL HospitalType VAL acute care hospitals	0
+COL ZipCode VAL 359x8	1
+COL HospitalType VAL acuxe care hospixals	1
+COL ZipCode VAL 35653	0
+COL Sample VAL 126 patxents	1
+COL HospitalName VAL southeast alabama medxcal center	1
+COL CountyName VAL chaxbers	1
+COL Sample VAL 0 patixnts	1
+COL ProviderNumber VAL 10006	0
+COL CountyName VAL talladega	0
+COL State VAL xl	1
+COL PhoneNumber VAL 2057552500	0
+COL ZipCode VAL 36x78	1
+COL MeasureName VAL heaxt attack patients given aspixin at dischaxge	1
+COL ZipCode VAL 36033	0
+COL Stateavg VAL al_axi-1	1
+COL MeasureName VAL measure_name	1
+COL PhoneNumber VAL x0593x5966	1
+COL Address2 VAL empty	0
+COL HospitalName VAL st vincents east	0
+COL Condition VAL hexrt attxck	1
+COL Sample VAL 87 paxienxs	1
+COL MeasureName VAL heart xailure patients given smoking cessation advice/counseling	1
+COL ZipCode VAL 35058	0
+COL MeasureName VAL surgery patiexts who were takixg heart drugs called beta blockers before comixg to the hospital who were kept ox the beta blockers durixg the period just before axd after their surgery	1
+COL HospitalType VAL acute xare hospitals	1
+COL HospitalType VAL acute care hospitals	0
+COL Sample VAL empty	0
+COL Condition VAL surgical ixfectiox prevextiox	1
+COL Condition VAL heart attack	0
+COL CountyName VAL jexxerson	1
+COL Address1 VAL 1300 south montgomery avenue	0
+COL ZipCode VAL 36617	0
+COL CountyName VAL montgomery	0
+COL MeasureName VAL heaxt attack patients given beta blockex at dischaxge	1
+COL Stateavg VAL al_scix-vte-1	1
+COL ProviderNumber VAL 10108	0
+COL Sample VAL 87 patientx	1
+COL State VAL al	0
+COL PhoneNumber VAL 33422284xx	1
+COL MeasureCode VAL pn-4	0
+COL Sample VAL 24 patients	0
+COL CountyName VAL county	1
+COL HospitalType VAL acute caxe hospitals	1
+COL Score VAL x00%	1
+COL HospitalType VAL acute care hospitals	0
+COL Address2 VAL empty	0
+COL State VAL al	0
+COL MeasureCode VAL px-4	1
+COL City VAL boxz	1
+COL Address1 VAL 849 south three notch street	0
+COL MeasureCode VAL ami-3	0
+COL PhoneNumber VAL 25x47x7xx0	1
+COL MeasureName VAL heartxattackxpatientsxgivenxaspirinxatxarrival	1
+COL index VAL 53	0
+COL EmergencyService VAL yxs	1
+COL City VAL andalusia	0
+COL MeasureCode VAL ami-4	0

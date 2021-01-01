@@ -1,0 +1,50 @@
+COL article_jcreated_at VAL 9/1/04	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_pagination VAL 94-9	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 3/1/06	1
+COL article_jvolumn VAL 	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/02	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 2/10/14	1
+COL article_jcreated_at VAL 12/1/13	1
+"COL author_list VAL {""Ge H.-Y."",""Fern��ndez-de-las-Pe̱as C."",""Yue S.-W.""}"	1
+COL article_title VAL Duane retraction syndrome associated with oculocutaneous albinism: an ocular miswiring.	0
+COL journal_title VAL PLoS One	0
+COL article_title VAL Localized deficiencies of folic acid in aerodigestive tissues	0
+COL journal_issn VAL 1460-2105	0
+COL journal_title VAL Headache	0
+COL article_language VAL eng	0
+COL article_pagination VAL 32	0
+COL article_jvolumn VAL 49	0
+COL id VAL 146560	0
+COL article_pagination VAL 56-60	0
+COL journal_issn VAL 1753-4666	0
+COL article_title VAL Helicobacter pylori antibiotic resistance patterns and genotypes in adult dyspeptic patients from a regional population in North Wales	0
+COL journal_title VAL 	0
+COL article_language VAL 	0
+COL id VAL 417373	0
+COL article_title VAL Phase III randomized sequential open-label study to evaluate the efficacy and safety of sorafenib followed by pazopanib vs pazopanib followed by sorafenib in the treatment of advanced / metastatic renal cell carcinoma-design of the SWITCH-2 Study (NCT01613846)	0
+COL article_language VAL 	0
+COL journal_title VAL Pain Medicine	0
+COL article_jcreated_at VAL 	0
+"COL author_list VAL {""Lucy Bowes"",""Barbara Maughan"",""Avshalom Caspi"",""Louise Arseneault"",""Alan Taylor"",""Terrie E Moffitt""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 8-16 ST  - Cardiac atrophy in women following bed rest-	0
+COL article_jvolumn VAL 65	0
+COL journal_issn VAL 2044-6055	0
+COL article_jvolumn VAL 42	0

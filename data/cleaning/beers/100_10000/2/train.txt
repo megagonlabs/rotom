@@ -1,0 +1,100 @@
+COL abv VAL 0.06%	1
+COL city VAL Spearfish	0
+COL id VAL 1113	0
+COL brewery-name VAL Cisco Brewers	0
+COL brewery_id VAL 175	0
+COL id VAL 1600	0
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL beer-name VAL Swami's India Pale Ale	0
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.048	0
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz.	1
+COL brewery_id VAL 473	0
+COL style VAL Milk / Sweet Stout	0
+COL ounces VAL 12.0 oz.	1
+COL index VAL 1290	0
+COL abv VAL 0.062%	1
+COL style VAL American IPA	0
+COL city VAL Paso Robles CA	1
+COL city VAL Export	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL state VAL MN	0
+COL abv VAL 0.075%	1
+COL ounces VAL 12.0 oz	1
+COL brewery-name VAL Evil Czech Brewery	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL style VAL Saison / Farmhouse Ale	0
+COL style VAL American IPA	0
+COL id VAL 130	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL state VAL 	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL city VAL Rochester	0
+COL brewery-name VAL Cisco Brewers	0
+COL ounces VAL 12.0 oz.	1
+COL brewery_id VAL 25	0
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL id VAL 1750	0
+COL index VAL 287	0
+COL city VAL Lyons CO	1
+COL city VAL Kona	0
+COL id VAL 1918	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 24.0 oz.	1
+COL abv VAL 0.054000000000000006%	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 OZ.	1
+COL beer-name VAL Rye Knot	0
+COL brewery-name VAL Southern Star Brewing Company	0
+COL brewery_id VAL 53	0
+COL beer-name VAL Sea Hag IPA	0
+COL state VAL 	1
+COL ounces VAL 16.0 oz.	1
+COL city VAL Portland	0
+COL id VAL 472	0
+COL state VAL CA	0
+COL index VAL 2201	0
+COL city VAL Durango	0
+COL state VAL WA	0
+COL ounces VAL 12.0 ounce	1
+COL style VAL American Double / Imperial IPA	0
+COL city VAL Brooklyn Center MN	1
+COL city VAL Houghton	0
+COL ounces VAL 12.0 ounce	1
+COL beer-name VAL Sea Dog Wild Blueberry Wheat Ale	0
+COL index VAL 2004	0
+COL city VAL Indianapolis IN	1
+COL state VAL MI	0
+COL city VAL Carlsbad	0
+COL beer-name VAL Lee Hill Series Vol. 1 - Barrel Aged Brown Ale	0
+COL city VAL Idaho Springs	0
+COL brewery_id VAL 522	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL 24	0
+COL abv VAL 0.099%	1
+COL brewery_id VAL 31	0
+COL beer-name VAL Healani	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL style VAL Hefeweizen	0
+COL brewery_id VAL 336	0
+COL id VAL 904	0
+COL style VAL Rye Beer	0

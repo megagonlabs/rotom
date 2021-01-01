@@ -1,0 +1,150 @@
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.068%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.057999999999999996%	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.048%	1
+COL abv VAL 0.049%	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.052000000000000005%	1
+COL city VAL Detroit MI	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.065%	1
+COL abv VAL 0.052000000000000005%	1
+COL city VAL Portland OR	1
+COL ounces VAL 16.0 ounce	1
+COL state VAL 	1
+COL abv VAL 0.048%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL abv VAL 0.065%	1
+COL ounces VAL 12.0 OZ.	1
+COL abv VAL 0.052000000000000005%	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.06%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.057999999999999996%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.065%	1
+COL abv VAL 0.07%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL city VAL Springdale AR	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL 48	0
+COL beer-name VAL Double D Blonde (2013)	0
+COL city VAL St Petersburg	0
+COL index VAL 822	0
+COL brewery-name VAL Forgotten Boardwalk	0
+COL index VAL 1850	0
+COL city VAL Woodbridge	0
+COL abv VAL 0.068	0
+COL brewery_id VAL 234	0
+COL brewery_id VAL 51	0
+COL beer-name VAL Kiss Off IPA	0
+COL ibu VAL 45	0
+COL brewery_id VAL 426	0
+COL beer-name VAL Lucky Day IPA	0
+COL index VAL 2000	0
+COL id VAL 2110	0
+COL brewery_id VAL 365	0
+COL index VAL 2122	0
+COL brewery-name VAL Bell's Brewery	0
+COL brewery-name VAL Crabtree Brewing Company	0
+COL ibu VAL 40	0
+COL state VAL OR	0
+COL abv VAL 0.056	0
+COL city VAL Stevens Point	0
+COL index VAL 808	0
+COL brewery_id VAL 165	0
+COL beer-name VAL Evolutionary IPA (2011)	0
+COL index VAL 2038	0
+COL style VAL American Brown Ale	0
+COL beer-name VAL Very Noddy Lager (Current)	0
+COL index VAL 2256	0
+COL abv VAL 0.059	0
+COL city VAL Chicago	0
+COL beer-name VAL Ace IPA	0
+COL abv VAL 0.05	0
+COL beer-name VAL Mind Games	0
+COL abv VAL 0.06	0
+COL id VAL 2291	0
+COL brewery_id VAL 192	0
+COL style VAL American Amber / Red Lager	0
+COL ibu VAL 11	0
+COL state VAL MI	0
+COL index VAL 2350	0
+COL index VAL 652	0
+COL brewery_id VAL 369	0
+COL city VAL Saint Louis	0
+COL beer-name VAL River House	0
+COL abv VAL 0.06	0
+COL state VAL MI	0
+COL abv VAL 0.046	0
+COL brewery_id VAL 380	0
+COL city VAL Anchorage	0
+COL style VAL Witbier	0
+COL brewery_id VAL 350	0
+COL state VAL OR	0
+COL abv VAL 0.044	0
+COL brewery_id VAL 10	0
+COL beer-name VAL Lake Street Express	0
+COL brewery-name VAL Eddyline Brewery & Restaurant	0
+COL id VAL 801	0
+COL brewery_id VAL 370	0
+COL brewery_id VAL 554	0
+COL state VAL CO	0
+COL city VAL San Francisco	0
+COL index VAL 1755	0
+COL brewery_id VAL 380	0
+COL state VAL WI	0
+COL city VAL Davenport	0
+COL id VAL 765	0
+COL beer-name VAL The Optimist	0
+COL beer-name VAL Brontide	0
+COL id VAL 2333	0
+COL city VAL Spirit Lake	0
+COL id VAL 2241	0
+COL abv VAL 0.054	0

@@ -1,0 +1,50 @@
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL city VAL Afton VA	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.042%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL index VAL 1155	0
+COL abv VAL 0.088	0
+COL index VAL 1747	0
+COL beer-name VAL Session '33 (2011)	0
+COL index VAL 460	0
+COL brewery-name VAL Upslope Brewing Company	0
+COL state VAL CT	0
+COL brewery-name VAL Brewery Vivant	0
+COL state VAL AZ	0
+COL abv VAL 0.05	0
+COL state VAL IN	0
+COL beer-name VAL Hopkick Dropkick	0
+COL beer-name VAL Cavatica Stout	0
+COL id VAL 1897	0
+COL style VAL Fruit / Vegetable Beer	0
+COL id VAL 2645	0
+COL state VAL PA	0
+COL beer-name VAL Na Zdraví Pilsner	0
+COL id VAL 1373	0
+COL index VAL 764	0
+COL state VAL FL	0
+COL id VAL 1192	0
+COL city VAL Lenoir	0
+COL brewery_id VAL 198	0
+COL ibu VAL 30	0

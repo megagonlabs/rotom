@@ -1,0 +1,100 @@
+COL abv VAL 0.048%	1
+COL style VAL American Pale Wheat Ale	0
+COL style VAL Schwarzbier	0
+COL beer-name VAL BLAKKR	0
+COL ibu VAL N/A	1
+COL state VAL UT	0
+COL ibu VAL N/A	1
+COL brewery-name VAL Moab Brewery	0
+COL brewery_id VAL 172	0
+COL id VAL 748	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 OZ.	1
+COL beer-name VAL Core ESB	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL city VAL Buena Vista	0
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL abv VAL 0.043%	1
+COL ibu VAL 52	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL brewery_id VAL 93	0
+COL abv VAL 0.08%	1
+COL brewery_id VAL 10	0
+COL ounces VAL 16.0 oz.	1
+COL brewery-name VAL DC Brau Brewing Company	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL state VAL WA	0
+COL ibu VAL N/A	1
+COL index VAL 709	0
+COL ibu VAL N/A	1
+COL beer-name VAL Oatmeal PSA	0
+COL brewery-name VAL High Noon Saloon And Brewery	0
+COL ibu VAL 31	0
+COL ounces VAL 16.0 oz.	1
+COL state VAL 	1
+COL city VAL Juneau	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL index VAL 1843	0
+COL ibu VAL 70	0
+COL abv VAL 0.056	0
+COL ounces VAL 12.0 OZ.	1
+COL brewery-name VAL Four Corners Brewing Company	0
+COL abv VAL 0.062%	1
+COL index VAL 396	0
+COL ounces VAL 24.0 oz.	1
+COL ounces VAL 16.0 ounce	1
+COL brewery-name VAL Moat Mountain Smoke House & Brew...	0
+COL ounces VAL 16.0 oz.	1
+COL city VAL Phoenix	0
+COL beer-name VAL Socktoberfest	0
+COL id VAL 1989	0
+COL id VAL 1614	0
+COL index VAL 2231	0
+COL brewery-name VAL Crow Peak Brewing Company	0
+COL index VAL 123	0
+COL abv VAL 	0
+COL brewery-name VAL Hopworks Urban Brewery	0
+COL beer-name VAL Kolschtal Eddy	0
+COL index VAL 1442	0
+COL abv VAL 0.055999999999999994%	1
+COL style VAL American Porter	0
+COL ibu VAL N/A	1
+COL brewery_id VAL 29	0
+COL ibu VAL N/A	1
+COL abv VAL 0.048	0
+COL state VAL CA	0
+COL id VAL 2563	0
+COL index VAL 1934	0
+COL beer-name VAL Psycho Penguin Vanilla Porter	0
+COL ounces VAL 24.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL state VAL AK	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL brewery_id VAL 552	0
+COL id VAL 1696	0
+COL style VAL American Blonde Ale	0
+COL index VAL 143	0
+COL abv VAL 0.079	0
+COL state VAL CO	0

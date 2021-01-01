@@ -1,0 +1,200 @@
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 9/1/15	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 7/1/09	1
+"COL author_list VAL {""Jesper I Reimers"",""Sabrina G Elles��e"",""Henrik �� Andersen""}"	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_title VAL Effects on prolongation of Bazett�۪s corrected QT interval of seven second-generation antipsychotics in the treatment of schizophrenia: A meta-analysis	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 7/7/14	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/6/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/08	1
+COL journal_title VAL Pr̩vention de l'insuffisance r̩nale induite par les produits de contrnste iodes	1
+COL article_jcreated_at VAL 10/9/15	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 4/1/05	1
+COL article_jcreated_at VAL 2/1/15	1
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""Luiz Rog̩rio de Carvalho Oliveira"",""Nilza Aparecida Almeida de Carvalho"",""Fl��vio C L Cavalcanti Ara̼jo"",""Izabela Menezes Pagotto"",""Paulo Chiavone""}"	1
+COL article_pagination VAL 3541-4	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 5/1/02	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""A Philotheou"",""S R Heller"",""J Jendle"",""M-A Gall"",""K K��lendorf"",""G P Ross"",""G Perriello"",""I Pavlic-Renar""}"	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 2/1/06	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 3582-9	1
+COL article_jcreated_at VAL 3/1/02	1
+COL article_pagination VAL 83-7	1
+COL journal_title VAL Cirug�_a Pedi��trica: Organo Oficial De La Sociedad Espa̱ola De Cirug�_a Pedi��trica	1
+COL article_jcreated_at VAL 10/1/03	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 10/1/12	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 11/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 5/1/10	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""R Schwarz"",""J Ernst"",""M Zenger"",""E Br�_hler"",""R Schmidt""}"	1
+COL article_pagination VAL 74-6	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 9/1/14	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 3/1/12	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/05	1
+"COL author_list VAL {""Felipe Serṛo de Souza"",""Ney Pecegueiro do Amaral"",""Carlos Henrique Mendes"",""Hilton Augusto Koch"",""Vincenzo Giordano"",""Andr̩ Bergamin""}"	1
+COL article_jcreated_at VAL 10/1/08	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 3/1/07	1
+COL article_jcreated_at VAL 6/1/01	1
+COL article_jcreated_at VAL 1/1/06	1
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""T. H. Michel"",""W. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Jul 1 DP  - NLM ET  - 2000/06/28 Rogers"",""A. Wagner"",""H. Wittink"",""R. Kulich"",""A. Sukiennik"",""R. Maciewicz""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 5/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+"COL author_list VAL {""M. Pujol"",""P. Barrag��n"",""J.M. Tiraboschi"",""A. Imaz"",""M.́. Dom�_nguez"",""D. Podzamczer""}"	1
+COL article_title VAL Lycopene metabolite, apo-10'-lycopenoic acid, inhibits diethylnitrosamine-initiated, high fat diet-promoted hepatic inflammation and tumorigenesis in mice.	0
+COL article_jissue VAL 6	0
+COL article_pagination VAL 984-98	0
+COL article_title VAL Intraoperative stability testing of lateral-entry pin fixation of pediatric supracondylar humeral fractures	0
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 	0
+COL journal_issn VAL 1063-8652	0
+COL article_title VAL Intimate Partner Violence Survivors' Unmet Social Service Needs	0
+COL article_pagination VAL 798-805	0
+COL jounral_abbreviation VAL Biomed Res Int	0
+COL article_jcreated_at VAL 1/1/99	0
+COL id VAL 169524	0
+COL journal_title VAL 	0
+COL id VAL 540850	0
+COL journal_title VAL Journal of medicinal chemistry	0
+COL id VAL 77389	0
+COL article_title VAL White matter diffusivity predicts memory in patients with subjective and mild cognitive impairment and normal CSF total tau levels.	0
+COL article_jcreated_at VAL 10/24/14	0
+COL article_pagination VAL 	0
+COL journal_title VAL Respiration; international review of thoracic diseases	0
+COL article_pagination VAL 288-94	0
+COL article_title VAL Association between genetic polymorphism of tumor necrosis factor-alpha and risk of oral submucous fibrosis, a pre-cancerous condition of oral cancer.	0
+"COL author_list VAL {""Andrea Tendas"",""Paolo de Fabritiis"",""Marco Giovannini"",""Daniela Piccioni"",""Roberto Palumbo"",""Alessio Pio Perrotti"",""Luca Cupelli"",""Teresa Dentamaro"",""Laura Scaramucci"",""Pasquale Niscola""}"	0
+COL article_language VAL English	0
+COL article_jvolumn VAL 18	0
+COL article_jvolumn VAL 61	0
+COL article_language VAL English	0
+COL journal_title VAL Proceedings of the Asme Pressure Vessels and Piping Conference 2010, Vol 7	0
+COL journal_issn VAL 1753-4666	0
+COL journal_title VAL Pathologie non allergique et exposition aux moisissures domestiques.	0
+COL article_pagination VAL 603-11	0
+COL article_jvolumn VAL 56	0
+COL article_language VAL 	0
+COL article_jissue VAL 1	0
+COL article_jissue VAL 40	0
+COL article_jvolumn VAL 20	0
+COL id VAL 734077	0
+COL article_jvolumn VAL 108	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 327-32	0
+COL article_jvolumn VAL 79	0
+COL journal_title VAL 	0
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 1537-7385	0
+COL article_jissue VAL 12	0
+COL jounral_abbreviation VAL 	0
+COL author_list VAL {NULL}	0
+COL article_language VAL eng	0
+COL article_jissue VAL 1	0
+COL article_jvolumn VAL 9	0
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL 	0
+"COL author_list VAL {""M. A. Shah"",""S. F. Viegas"",""R. P. Morris"",""R. M. Patterson"",""D. Osada""}"	0
+COL journal_title VAL Diabetes forecast	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL Auton.Neurosc.Basic Clin.	0
+COL article_pagination VAL 362-9	0
+COL journal_title VAL Psychosomatic medicine	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 514759	0
+COL article_pagination VAL 	0
+COL journal_title VAL 	0
+COL article_title VAL Prefrontal hypoactivation and recovery in insomnia.	0
+COL article_language VAL 	0
+COL id VAL 827921	0
+COL journal_issn VAL 	0
+COL id VAL 503354	0
+"COL author_list VAL {""Eunice Fabiani Hilleshein"",""Liana Lautert"",""Karine Kummer Gemelli""}"	0
+COL journal_issn VAL 0041-5782 (Print) 0041-5782	0
+COL author_list VAL {NULL}	0
+COL article_title VAL Inhibition of dxpression of VEGF in tumor cells by RNAi. [Chinese]	0
+COL article_title VAL The cost of depression-complicated alcoholism: health-care utilization and treatment effectiveness	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 0	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL S46-S61	0
+COL journal_title VAL 	0
+COL article_jissue VAL 0	0
+COL journal_issn VAL 1460-2091	0
+COL id VAL 641251	0
+COL article_language VAL eng	0
+COL article_jvolumn VAL 21	0
+COL article_pagination VAL 	0
+"COL author_list VAL {""W Odero""}"	0
+"COL author_list VAL {""Isabella Soreca"",""Andrea Fagiolini"",""David J Kupfer"",""Bret H Goodpaster"",""Sara B Fleet-Michaliszyn"",""Amy D Otto"",""John M Jakicic""}"	0
+COL jounral_abbreviation VAL J. Clin. Oncol.	0
+COL article_jissue VAL 0	0
+COL journal_issn VAL 1096-0023	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 294439	0
+COL id VAL 448010	0
+COL jounral_abbreviation VAL Cancer Chemother. Pharmacol.	0
+COL journal_issn VAL 1347-4820	0
+COL journal_issn VAL 	0
+COL article_jissue VAL 1	0
+COL journal_title VAL Journal of Psychiatric Research	0
+COL article_language VAL 	0
+COL article_pagination VAL 413-27	0
+COL journal_title VAL JAMA	0
+COL article_jvolumn VAL 6	0

@@ -1,0 +1,200 @@
+COL article_pagination VAL 91-8	1
+COL article_jcreated_at VAL 7/1/01	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 11/4/15	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_title VAL 18F-flumazenil: a �_-aminobutyric acid A-specific PET radiotracer for the localization of drug-resistant temporal lobe epilepsy.	1
+COL article_jcreated_at VAL 6/1/12	1
+COL article_jcreated_at VAL 9/1/07	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""Margarita Admetlla Falgueras"",""Josep Fust��� Sugra���es""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 74-6	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 12/1/03	1
+COL journal_title VAL Nowoczesne biomateria��y jako opatrunki hemostatyczne w chirurgii oszczedzajacej miazsz nerki--model zwierzecy. Doniesienie wstepne.	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_pagination VAL 64-7	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 2/1/09	1
+"COL author_list VAL {""Gerlane ��ngela da Costa Moreira"",""Denyse Dutra Alencar Vasconcelos"",""Amanda Costa de Freitas"",""Carla Cristina Braga Maranh���o"",""Danielle Figueiredo Patricio""}"	1
+COL article_jcreated_at VAL 2/1/15	1
+COL journal_title VAL Actas espa̱olas de psiquiatr�_a	1
+COL article_pagination VAL 2063-8	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 5/1/02	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_pagination VAL 94-9	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""J�_rgen Rehm"",""Gerhard Gmel"",""Maurizio Trevisan"",""Christopher T Sempos""}"	1
+"COL author_list VAL {""Chu Chen"",""Brian L Strom"",""Susan E McCann"",""Harvey A Risch"",""Lingeng Lu"",""Fulvio Ricceri"",""Immaculata De Vivo"",""Amanda B Spurdle"",""Susan E Hankinson"",""Pamela J Thompson"",""Catherine Schairer"",""Herbert Yu"",""Radhai Rastogi"",""Jennifer Doherty"",""Carlotta Sacerdote"",""Laurence N Kolonel"",""Mia M Gaudet"",""Kim Robien"",""Marc T Goodman"",""Piet A van den Brandt"",""Robert A Soslow"",""Jolanta Lissowska"",""Anthony B Miller"",""Kirsten B Moysich"",""Montserrat Garcia-Closas"",""Silvia Polidoro"",""Linda S Cook"",""Kristin E Anderson"",""Rayna K Matsuno"",""Xiao-ou Shu"",""Penelope M Webb"",""Kerry S Courneya"",""Christine M Friedenreich"",""Jo L Freudenheim"",""Yong-Bing Xiang"",""Brian E Henderson"",""Galina Lurie"",""Leo J Schouten"",""Timothy R Rebbeck"",""Anthony M Magliocco"",""Malcolm C Pike"",""Leslie Bernstein"",""Hannah P Yang"",""[Collective Name] Australian National Endometrial Cancer Study Group"",""Sara H Olson"",""Pamela L Horn-Ross"",""Marjorie L McCullough"",""Hoda Anton-Culver"",""Noel S Weiss"",""James R Cerhan"",""Louise A Brinton"",""Alicja Wolk"",""Jennifer Prescott"",""Xiaolin Liang"",""Thomas E Rohan"",""Yikyung Park"",""Niclas H̴kansson"",""Veronica Wendy Setiawan"",""James V Lacey"",""Hui Cai"",""Nicolas Wentzensen"",""Koen van de Vijver""}"	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Sergio Raposeiras-Roub�_n"",""Jos̩ Maria Garc�_a-Acu̱a"",""Jos̩ Ram�_n Gonz��lez-Juanatey""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 6/10/02	1
+"COL author_list VAL {""L Lenhardt"",""S Mozes"",""A Martinkov��""}"	1
+COL article_jcreated_at VAL 10/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 3/1/11	1
+COL article_jcreated_at VAL 7/1/04	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 5/1/01	1
+COL article_jcreated_at VAL 7/1/05	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 6/1/12	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 12/1/09	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 6/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 9/2/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 6/1/09	1
+COL article_title VAL Mild endoplasmic reticulum stress augments the proinflammatory effect of IL-1�_ in pancreatic rat �_-cells via the IRE1�/XBP1s pathway.	1
+"COL author_list VAL {""O. H. Simonsen"",""S. T. Skou"",""H. Thomsen""}"	0
+COL article_pagination VAL 1652-6	0
+COL article_jcreated_at VAL 1/1/00	0
+COL journal_title VAL Ann Rheum Dis	0
+COL id VAL 424254	0
+COL article_language VAL 	0
+COL article_language VAL eng	0
+COL article_title VAL Transport of infants with congenital heart disease.	0
+COL article_language VAL 	0
+COL journal_title VAL Nepal Medical College journal : NMCJ	0
+COL article_jvolumn VAL 29	0
+COL article_language VAL eng	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL Int J Stroke	0
+COL article_jissue VAL 1	0
+COL article_pagination VAL 323-330	0
+COL article_title VAL Incidence of multi-resistance in gram-negative aerobes from intensive care units of 10 German hospitals.	0
+COL article_jissue VAL 0	0
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL 	0
+COL article_jissue VAL 0	0
+COL article_pagination VAL 	0
+COL journal_title VAL Radiologic Clinics of North America	0
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""P. Azevedo"",""A. Vaz-Carneiro"",""J. Costa""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 119	0
+COL article_jvolumn VAL 85	0
+COL article_title VAL Compartmentalization of Fas and Fas ligand may prevent auto- or paracrine apoptosis in epithelial cells	0
+"COL author_list VAL {""Romero M"",""Mercer R"",""Ramos S"",""Karolinski A""}"	0
+COL article_pagination VAL 502-8	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL NeuroRehabilitation	0
+COL article_pagination VAL 290-296	0
+COL article_jcreated_at VAL 1/1/95	0
+COL journal_issn VAL 	0
+COL jounral_abbreviation VAL Pharm Pract (Granada)	0
+COL article_jissue VAL 0	0
+COL article_jissue VAL 3	0
+COL article_jissue VAL 3	0
+COL article_language VAL 	0
+COL id VAL 318542	0
+COL journal_issn VAL 0895-2841	0
+"COL author_list VAL {""David L Simel"",""Kathryn A Myers"",""Marko Mrkobrada""}"	0
+COL journal_issn VAL 1935-2735	0
+COL journal_title VAL Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association	0
+COL id VAL 102180	0
+COL article_title VAL Teaching medical student geriatrics competencies in 1 week: an efficient model to teach and document selected competencies using clinical and community resources	0
+COL journal_title VAL 	0
+COL article_jissue VAL 0	0
+COL article_jvolumn VAL 18	0
+COL article_jissue VAL 4	0
+COL article_title VAL Educating Emergent Bilinguals: Policies, Programs, and Practices for English Language Learners. Language & Literacy Series	0
+COL article_title VAL Prehospital hypertonic saline resuscitation attenuates the activation and promotes apoptosis of neutrophils in patients with severe traumatic brain injury.	0
+COL jounral_abbreviation VAL J Am Acad Child Adolesc Psychiatry	0
+"COL article_title VAL Employing a youth-led adult-guided framework: ""why drive high?"" social marketing campaign."	0
+COL journal_issn VAL 2049-9434	0
+COL journal_title VAL 	0
+COL article_jissue VAL 3	0
+COL id VAL 433667	0
+COL article_language VAL 	0
+COL journal_title VAL Vaccine	0
+COL jounral_abbreviation VAL Eur. J. Pediatr.	0
+COL article_title VAL Review of epidemiology and management of atrial fibrillation in developing countries.	0
+COL id VAL 868618	0
+COL author_list VAL {NULL}	0
+COL id VAL 823730	0
+"COL author_list VAL {""L N Meurer""}"	0
+COL journal_issn VAL 	0
+COL article_jissue VAL 0	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 0	0
+COL article_pagination VAL 1005-7	0
+COL journal_title VAL Protein science : a publication of the Protein Society	0
+COL article_jissue VAL 3	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 	0
+COL article_language VAL eng	0
+COL article_language VAL 	0
+COL article_jissue VAL 4	0
+COL id VAL 24026	0
+COL id VAL 169524	0
+COL journal_issn VAL 1433-0350	0
+COL article_jvolumn VAL 41	0
+COL article_language VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 5	0
+COL article_jvolumn VAL 6	0
+COL article_title VAL FACTORS ASSOCIATED WITH SELF-WORTH IN YOUNG PEOPLE WITH PHYSICAL DISABILITIES	0
+COL journal_title VAL The American journal of medicine	0
+"COL author_list VAL {""T. Topp"",""C. Kuhne"",""S. Ruchholtz"",""U. Lewan"",""A. Kruger"",""T. Muller"",""R. Zettl""}"	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 949775	0
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 16	0
+COL article_language VAL English	0

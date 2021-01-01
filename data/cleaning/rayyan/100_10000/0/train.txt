@@ -1,0 +1,100 @@
+"COL author_list VAL {""M. Niewada"",""J. Pawe��ska"",""A. Budaj"",""T. Macioch"",""P. Perkowski""}"	1
+COL article_jcreated_at VAL 4/1/15	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 5/1/99	0
+COL article_jcreated_at VAL 5/1/01	1
+COL article_jcreated_at VAL 1/1/02	1
+COL jounral_abbreviation VAL 	0
+"COL author_list VAL {""Jesper I Reimers"",""Sabrina G Elles��e"",""Henrik �� Andersen""}"	1
+COL article_jcreated_at VAL 8/1/65	0
+"COL author_list VAL {""G. Jakiel"",""K. Gorzelnik"",""J. G. Zimowski"",""T. CN  - PubMed DA  - Aug DP  - NLM ET  - 2013/11/07 Roszkowski"",""J. Bijok""}"	0
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jvolumn VAL 103	0
+COL article_jcreated_at VAL 1/1/86	0
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 4/1/11	1
+COL article_title VAL Simple steps to fitness. Secrets of strength. Strength training is as important to weight loss and fitness as aerobic exercise is, but many people ignore it. Here's how to get started.	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jvolumn VAL 61	0
+"COL author_list VAL {""A D Nageswari"",""S Vani"",""P Muthuveeralakshmi"",""S Shanmugalakshmi"",""V Dheenadhayalan"",""G Arivarignan"",""R M Pitchappan""}"	0
+COL journal_issn VAL 0028-2162	0
+COL article_pagination VAL 2700-7	1
+COL article_jcreated_at VAL 5/1/06	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jvolumn VAL 41	0
+COL article_title VAL Latex allergy in atopic children.	0
+COL article_title VAL Review of prasugrel for the secondary prevention of atherothrombosis.	0
+"COL author_list VAL {""Emile E Voest"",""Saskia C C M Teunissen"",""Alexander de Graeff"",""Marija Trajkovic-Vidakovic""}"	0
+COL journal_title VAL Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA	0
+COL article_jissue VAL 3	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 3/1/08	1
+COL article_jvolumn VAL 39	0
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 10/1/15	1
+COL article_jcreated_at VAL 7/10/13	1
+COL article_jcreated_at VAL 6/1/14	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jvolumn VAL 3	0
+COL article_language VAL eng	0
+COL id VAL 77389	0
+"COL author_list VAL {""Gerlane ��ngela da Costa Moreira"",""Denyse Dutra Alencar Vasconcelos"",""Amanda Costa de Freitas"",""Carla Cristina Braga Maranh���o"",""Danielle Figueiredo Patricio""}"	1
+COL article_pagination VAL 2761-2769 9p	0
+"COL author_list VAL {""Sabe Sabesan"",""Peter Aiken"",""Lynden J Roberts"",""Sarah Larkins"",""Abhishek Joshi""}"	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 5	0
+COL jounral_abbreviation VAL Annals of the New York Academy of Sciences	0
+COL journal_issn VAL 1558-3597	0
+COL article_jissue VAL 7	0
+COL article_jvolumn VAL 140	0
+COL id VAL 348006	0
+"COL author_list VAL {""H. Oshima"",""K. Kobayashi"",""T. Yamamoto"",""M. Kasai"",""C. Fukaya"",""Y. Katayama""}"	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""R Carraro"",""M F Rasmussen"",""L Niskanen"",""A Harper"",""N Finer"",""S R̦ssner"",""M Kunesova"",""L Van Gaal"",""M E J Lean"",""A Astrup"",""A Rissanen"",""M J Savolainen"",""[Collective Name] NN8022-1807 Investigators""}"	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jissue VAL 0	0
+COL article_title VAL Mediterranean diet and metabolic syndrome: an updated systematic review.	0
+COL article_title VAL Bound for success: a systematic review of constraint-induced movement therapy in children with cerebral palsy supports improved arm and hand use (Structured abstract)	0
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jvolumn VAL 	1
+COL article_jissue VAL 4	0
+COL article_jcreated_at VAL 10/1/10	1
+COL article_jcreated_at VAL 8/1/05	1
+COL journal_title VAL Allergy: European Journal of Allergy and Clinical Immunology	0
+COL journal_title VAL Scandinavian cardiovascular journal : SCJ	0
+COL id VAL 787529	0
+COL article_jcreated_at VAL 9/1/15	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 9/1/09	1
+COL id VAL 737167	0
+COL article_jcreated_at VAL 1/1/04	1
+COL id VAL 910604	0
+COL id VAL 623358	0
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 10/9/15	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/07	1
+COL journal_title VAL The Journal of heart valve disease	0
+COL id VAL 66579	0
+COL id VAL 30272	0
+COL article_jcreated_at VAL 1/1/07	1
+COL jounral_abbreviation VAL Archives of surgery (Chicago, Ill. : 1960)	0
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 1/1/05	1
+COL id VAL 676042	0
+COL article_pagination VAL 25-29	0
+COL id VAL 682676	0

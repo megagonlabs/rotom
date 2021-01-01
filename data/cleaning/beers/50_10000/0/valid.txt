@@ -1,0 +1,50 @@
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.045%	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 OZ.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.065%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.065%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL city VAL Belmont CA	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.063	0
+COL brewery_id VAL 181	0
+COL state VAL CA	0
+COL id VAL 2263	0
+COL ibu VAL 7	0
+COL style VAL American Double / Imperial IPA	0
+COL ibu VAL 30	0
+COL state VAL FL	0
+COL style VAL English Brown Ale	0
+COL index VAL 1829	0
+COL city VAL Boonville	0
+COL index VAL 940	0
+COL brewery-name VAL Sixpoint Craft Ales	0
+COL abv VAL 0.079	0
+COL style VAL American Brown Ale	0
+COL abv VAL 0.055	0
+COL brewery_id VAL 206	0
+COL beer-name VAL Self Starter	0
+COL abv VAL 0.062	0
+COL state VAL PA	0
+COL brewery-name VAL Real Ale Brewing Company	0
+COL beer-name VAL Black Exodus	0
+COL style VAL American Pale Ale (APA)	0
+COL ibu VAL 40	0
+COL beer-name VAL Righteous Ale	0

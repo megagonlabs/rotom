@@ -1,0 +1,100 @@
+COL Name VAL Spellbound	0
+COL RatingCount VAL 88,732	1
+COL Cast VAL Dustin Hoffman,Faye Dunaway,Chief Dan George,Martin Balsam,Richard Mulligan,Jeff Corey,Aimée Eccles,Kelly Jean Peters,Carole Androsky,Robert Little Star,Cal Bellini,Ruben Moreno,Steve Shemayne,William Hickey,James Anderson	0
+COL RatingCount VAL 3,463	1
+COL Year VAL 2014 2015 2016	1
+COL Year VAL 2009	0
+COL Country VAL USA	0
+COL Director VAL Charles Reisner,Buster Keaton	0
+COL RatingCount VAL 65,493	1
+COL RatingCount VAL 34,758	1
+COL Id VAL tt0092752	0
+COL Creator VAL Sherman Edwards,Peter Stone	0
+COL Id VAL innocent_blood	1
+COL Filming Locations VAL 	0
+COL Creator VAL Scott Yagemann	0
+COL Creator VAL Wes Craven	0
+COL Name VAL Enemies Closer	0
+COL RatingCount VAL 68,536	1
+COL RatingCount VAL 165,610	1
+COL Id VAL 1015000-night_and_day	1
+COL RatingCount VAL 2,014	1
+COL Genre VAL Comedy,Drama	0
+COL RatingCount VAL 16,389	1
+COL ReviewCount VAL 1,467 user,731 critic	0
+COL RatingCount VAL 2,331	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 56,424	1
+COL Language VAL English	0
+COL Description VAL Finding Forrester star Rob Brown steps into the cleats of Heisman Trophy-winning gridiron giant Ernie Davis in director Gary Fleder's inspirational sports docudrama. As a young boy reared not far from the northern Pennsylvania state line, Davis dreamed of blasting through the end zone and scoring a triumphant touchdown while fans rose to their feet and cheered. When Davis later became a star running back for the Syracuse Orangemen, his dreams were finally on the way to becoming a reality. Under,the wing of coach Ben Schwartzwalder (Dennis Quaid), it seemed as if there is nothing that could stop Davis from entering into the annals of sports history; even during an era in which the civil rights movement was just gaining momentum, this fledgling gridiron giant never once doubted his ability to rise to the top. When Davis was diagnosed with leukemia shortly after being drafted into the NFL, however, his will to survive soon eclipsed his dreams of success. ~ Jason Buchanan, Rovi	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 7,522	1
+COL RatingCount VAL 22,181	1
+COL Duration VAL 	1
+COL RatingCount VAL 4,858	1
+COL RatingCount VAL 2,013	1
+COL Actors VAL Clint Eastwood,Portia de Rossi,Paul Newman	0
+COL RatingCount VAL 57,531	1
+COL ReviewCount VAL 304 user,194 critic	0
+COL RatingCount VAL 	0
+COL Description VAL A documentary on Paul Watson, who takes the law into his own hands on the open seas, confronting, by any nonviolent means necessary, the hunters who indiscriminately slaughter whales, seals...	0
+COL RatingCount VAL 1,438	1
+COL Id VAL amy_2015	1
+COL Filming Locations VAL 	0
+COL Description VAL A world's new kung-fu hero (Joe Lewis) is out to stop drug dealers, gangs and help save the world from an evil con (Christopher Lee).	0
+COL RatingCount VAL 366,748	1
+COL RatingCount VAL 250,223	1
+COL RatingCount VAL 50,370	1
+COL Id VAL tt0105128	0
+COL RatingCount VAL 16,072	1
+COL Duration VAL 97 min	0
+COL RatingCount VAL 18,991	1
+COL RatingCount VAL 8,200	1
+COL Country VAL USA	0
+COL Id VAL magnolia	1
+COL RatingCount VAL 32,400	1
+COL Year VAL 1946	0
+COL Id VAL tt0462284	0
+COL Name VAL The DUFF	0
+COL Year VAL 2012	0
+COL Name VAL Ticks	0
+COL Year VAL 2005	0
+COL ReviewCount VAL 112 user,50 critic	0
+COL Genre VAL Drama	0
+COL RatingCount VAL 15,496	1
+COL RatingCount VAL 1,039	1
+COL Director VAL Thomas Mignone	0
+COL Duration VAL 1 hr. 38 min.	1
+COL ReviewCount VAL 46 user,61 critic	0
+COL RatingValue VAL 	1
+COL RatingCount VAL 7,891	1
+COL Name VAL Beyond Vanilla	0
+COL Genre VAL Drama,Kids & Family,Comedy	1
+COL Id VAL tt0239395	0
+COL Release Date VAL 20 August 1982 (USA)	0
+COL ReviewCount VAL 12 user,30 critic	0
+COL Creator VAL Charles Beaumont,Charles Beaumont	0
+COL RatingCount VAL 202,329	1
+COL RatingCount VAL 9,997	1
+COL RatingCount VAL 90,993	1
+COL ReviewCount VAL 149 user,205 critic	0
+COL RatingCount VAL 21,537	1
+COL RatingCount VAL 21,417	1
+COL RatingCount VAL 273,898	1
+COL RatingCount VAL 30,112	1
+COL Director VAL Dwight H. Little,Mark Cullingham	1
+COL Filming Locations VAL Astoria, Queens, New York City, New York, USA	0
+COL Actors VAL Dean Jones,Nancy Olson,Harry Morgan	0
+COL Filming Locations VAL Stage 20, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA	0
+COL Country VAL USA	0
+COL RatingValue VAL 	0
+COL Id VAL tt2381335	0
+COL Cast VAL Jack Cummings,Jackie Cummings,Allen Grafton,Ed Jagels,Brenda Kniffen,Scott Kniffen,Carla Modahl,Jeffrey Modahl,Victor Monge,Sean Penn,Marcella Pitts,Rick Pitts,Kathleen Ridolfi,Ed Sampley,Linda Starr	0
+COL Language VAL English	0
+COL RatingCount VAL 1,522	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 75,736	1
+COL Year VAL 1980	0
+COL ReviewCount VAL 543 user,160 critic	0
+COL Duration VAL 2 hr. 14 min.	1
+COL Year VAL 2012	0

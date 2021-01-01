@@ -1,0 +1,50 @@
+COL RatingCount VAL 18,864	1
+COL RatingCount VAL 5,017	1
+COL RatingCount VAL 96,901	1
+COL RatingCount VAL 1,966	1
+COL RatingCount VAL 12,176	1
+COL RatingCount VAL 111,727	1
+COL RatingCount VAL 162,081	1
+COL RatingCount VAL 146,178	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 9,921	1
+COL Description VAL One of several 1978 films dealing with the Vietnam War (including Hal Ashby's Oscar-winning Coming Home), Michael Cimino's epic second feature The Deer Hunter was both renowned for its tough portrayal of the war's effect on American working class steel workers and notorious for its ahistorical use of Russian roulette in the Vietnam sequences. Structured in five sections contrasting home and war, the film opens in Clairton, PA, as Mike (Robert De Niro), Nick (Christopher Walken), and Stan (John,Cazale, in his last film) celebrate the wedding of their friend Steve (John Savage) and go on a final deer hunt before the men leave for Vietnam. Mike treats hunting as a test of skill, lecturing Stan about the value of 'one shot' deer slaying and brushing off Nick's urgings to appreciate nature's beauty. As Mike ruminates post-hunt, the film cuts to the horror of Vietnam, where the men are captured by Vietcong soldiers who force Mike and Nick to play Russian roulette for the V.C.'s amusement. Mike turns the game to his advantage so they can escape captivity, but the men are permanently scarred by the episode. Steve loses his legs; Nick vanishes in the Saigon Russian roulette parlors. Mike returns alone to Clairton a changed man, as he rejects the killing of the deer hunt and finds solace with Nick's old girlfriend Linda (Meryl Streep). Disgusted by the antics of his male cohorts at home, Mike decides to bring Steve back from a veterans' hospital, and he returns to Saigon to find Nick. As Saigon falls, Mike discovers how far gone Nick is; the survivors gather in Clairton for a funeral breakfast, singing an impromptu rendition of 'God Bless America.'	1
+COL RatingValue VAL 4.0	1
+COL Name VAL Walking With Dinosaurs	1
+COL RatingCount VAL 8,179	1
+COL Creator VAL Rob Schneider,Tom Brady	1
+COL Release Date VAL Dec 14, 1979 Wide	1
+COL RatingCount VAL 349,489	1
+COL RatingCount VAL 29,367	1
+COL RatingCount VAL 1,049	1
+COL RatingCount VAL 2,908	1
+COL Duration VAL 1 hr. 59 min.	1
+COL Id VAL end_of_innocence	1
+COL RatingCount VAL 177,448	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 4,434	1
+COL Name VAL Road to Rio	0
+COL Language VAL English	0
+COL RatingValue VAL 5.8	0
+COL Creator VAL Robert E. Howard,Roy Thomas	0
+COL Duration VAL 131 min	0
+COL Year VAL 1997	0
+COL Id VAL tt0112760	0
+COL Language VAL English	0
+COL Language VAL English	0
+COL Description VAL Add a Plot	0
+COL ReviewCount VAL 28 user,12 critic	0
+COL Creator VAL Michael Elliot,Michael Elliot	0
+COL Filming Locations VAL 17110 Bodega Lane, Bodega, California, USA	0
+COL Id VAL tt0180734	0
+COL Actors VAL Ryan Phillippe,Abbie Cornish,Joseph Gordon-Levitt	0
+COL Creator VAL Sergey Kaluzhanov,Gor Kirakosian	0
+COL Year VAL 1986	0
+COL Id VAL tt4158624	0
+COL Year VAL 1994	0
+COL Year VAL 2011	0
+COL Filming Locations VAL Van Nuys, Los Angeles, California, USA	0
+COL Director VAL Jason Hull	0
+COL Director VAL David O. Russell	0
+COL Description VAL Two individuals, Jeff and Kelly, claim to be in love with the 80's pop singer Tiffany.	0
+COL Actors VAL Bud Abbott,Lou Costello,Richard Carlson	0

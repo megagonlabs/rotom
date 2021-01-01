@@ -1,0 +1,200 @@
+COL abv VAL 0.076%	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055999999999999994%	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL city VAL Angola IN	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 OZ.	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 OZ.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.062%	1
+COL abv VAL 0.05%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL city VAL Denver CO	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.07%	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL abv VAL 0.057999999999999996%	1
+COL abv VAL 0.045%	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.057%	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.001%	1
+COL abv VAL 0.09%	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.07%	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL city VAL Hershey PA	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.07%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL abv VAL 0.08%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL index VAL 789	0
+COL style VAL American Brown Ale	0
+COL ibu VAL 20	0
+COL beer-name VAL Miner's Gold	0
+COL style VAL Märzen / Oktoberfest	0
+COL ibu VAL 49	0
+COL city VAL Birmingham	0
+COL state VAL AZ	0
+COL brewery_id VAL 134	0
+COL ibu VAL 13	0
+COL brewery_id VAL 456	0
+COL city VAL Chicago	0
+COL beer-name VAL Working for the Weekend	0
+COL style VAL Winter Warmer	0
+COL city VAL Lowell	0
+COL state VAL NY	0
+COL brewery-name VAL Brooklyn Brewery	0
+COL id VAL 1277	0
+COL brewery_id VAL 143	0
+COL brewery-name VAL Butternuts Beer and Ale	0
+COL index VAL 877	0
+COL brewery_id VAL 161	0
+COL index VAL 1455	0
+COL city VAL Indianapolis	0
+COL id VAL 328	0
+COL brewery-name VAL Golden Road Brewing	0
+COL index VAL 2362	0
+COL ibu VAL 75	0
+COL index VAL 1183	0
+COL city VAL Stevens Point	0
+COL abv VAL 0.068	0
+COL beer-name VAL Charlie in the Rye	0
+COL id VAL 2581	0
+COL state VAL OH	0
+COL beer-name VAL Liquid Breadfruit	0
+COL brewery-name VAL Big Sky Brewing Company	0
+COL state VAL ME	0
+COL brewery_id VAL 531	0
+COL city VAL Grand Rapids	0
+COL style VAL American IPA	0
+COL index VAL 849	0
+COL style VAL American IPA	0
+COL state VAL FL	0
+COL id VAL 1059	0
+COL index VAL 1602	0
+COL abv VAL 0.037	0
+COL brewery_id VAL 126	0
+COL beer-name VAL 1327 Pod's ESB	0
+COL brewery_id VAL 141	0
+COL brewery-name VAL Oskar Blues Brewery	0
+COL index VAL 988	0
+COL brewery-name VAL Harpoon Brewery	0
+COL abv VAL 0.099	0
+COL id VAL 2529	0
+COL style VAL English India Pale Ale (IPA)	0
+COL index VAL 782	0
+COL state VAL TX	0
+COL index VAL 1893	0
+COL state VAL IL	0
+COL city VAL Weston	0
+COL id VAL 1828	0
+COL brewery_id VAL 300	0
+COL beer-name VAL Mosaic Single Hop IPA	0
+COL city VAL Birmingham	0
+COL brewery_id VAL 80	0
+COL index VAL 96	0
+COL city VAL Jacksonville	0
+COL brewery-name VAL Revolution Brewing	0
+COL ibu VAL 20	0
+COL city VAL Birmingham	0
+COL abv VAL 0.063	0
+COL brewery_id VAL 223	0
+COL state VAL MI	0
+COL brewery_id VAL 37	0
+COL index VAL 330	0
+COL state VAL NY	0
+COL ibu VAL 24	0
+COL ibu VAL 45	0
+COL abv VAL 0.064	0
+COL city VAL Windsor	0
+COL state VAL MA	0
+COL ibu VAL 55	0
+COL state VAL CA	0
+COL state VAL OR	0
+COL beer-name VAL Whitecap Wit	0
+COL ibu VAL 94	0
+COL abv VAL 0.07	0
+COL brewery_id VAL 57	0
+COL index VAL 1858	0
+COL city VAL Astoria	0
+COL id VAL 1763	0
+COL beer-name VAL Resurrection	0
+COL style VAL Belgian Strong Pale Ale	0
+COL state VAL OR	0
+COL id VAL 1949	0
+COL brewery-name VAL Anderson Valley Brewing Company	0
+COL ibu VAL 25	0
+COL index VAL 422	0
+COL brewery_id VAL 10	0
+COL brewery_id VAL 503	0

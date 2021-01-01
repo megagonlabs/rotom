@@ -1,0 +1,50 @@
+COL RatingValue VAL 6.0	1
+COL RatingValue VAL 4.0	1
+COL RatingCount VAL 16,575	1
+COL RatingCount VAL 19,842	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 195,442	1
+COL RatingCount VAL 40,358	1
+COL Director VAL Florent Emilio Siri	1
+COL RatingCount VAL 1,116	1
+COL RatingCount VAL 134,478	1
+COL Genre VAL Drama,Action & Adventure,Kids & Family,Science Fiction & Fantasy,Comedy	1
+COL RatingCount VAL 2,085	1
+COL RatingCount VAL 56,102	1
+COL RatingCount VAL 55,650	1
+COL Id VAL fort_apache	1
+COL RatingCount VAL 41,457	1
+COL RatingCount VAL 14,077	1
+COL RatingCount VAL 9,255	1
+COL RatingCount VAL 24,569	1
+COL RatingCount VAL 9,528	1
+COL Name VAL God Bless The Child	1
+COL RatingCount VAL 35,825	1
+COL Id VAL babel	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 33,828	1
+COL Duration VAL 	0
+COL Genre VAL Action,Adventure,Sci-Fi	0
+COL Creator VAL Blake Edwards,Evelyn Anthony	0
+COL Director VAL Andrew Niccol	0
+COL ReviewCount VAL 17 critic	0
+COL Language VAL English	0
+COL Language VAL English,Cantonese	0
+COL Year VAL 2013	0
+COL Id VAL tt4392454	0
+COL Filming Locations VAL British Columbia, Canada	0
+COL Genre VAL Crime,Drama	0
+COL Actors VAL Clint Eastwood,Kyle Eastwood,John McIntire	0
+COL RatingValue VAL 6.3	0
+COL Release Date VAL 9 October 1987 (USA)	0
+COL Name VAL God Is My Co-Pilot	0
+COL Country VAL USA	0
+COL RatingValue VAL 6.6	0
+COL Release Date VAL 24 February 2006 (USA)	0
+COL Country VAL France,USA,Mexico	0
+COL Duration VAL 124 min	0
+COL Filming Locations VAL Backlot, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA	0
+COL Filming Locations VAL 	0
+COL Director VAL Karyn Kusama	0
+COL RatingValue VAL 7.9	0
+COL Name VAL Massacre at Central High	0

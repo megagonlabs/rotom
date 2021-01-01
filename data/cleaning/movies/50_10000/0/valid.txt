@@ -1,0 +1,50 @@
+COL RatingValue VAL 5.7/10,6.6/10	1
+COL RatingCount VAL 80,340	1
+COL RatingCount VAL 33,429	1
+COL RatingCount VAL 182,931	1
+COL Release Date VAL May 1, 1988 Wide	1
+COL RatingCount VAL 83,659	1
+COL Description VAL See Girl Run is what happens when a 30-something woman allows life's 'what ifs' to overwhelm her appreciation for what life actually is. Disregarding her current obligations, she digs into her romantic past in hopes of invigorating her present.	1
+COL Duration VAL 1 hr. 48 min.	1
+COL RatingCount VAL 3,976	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 214,071	1
+COL RatingCount VAL 1,614	1
+COL RatingCount VAL 1,207,524	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 3,142	1
+COL RatingCount VAL 1,045	1
+COL Creator VAL Christopher Crosby,Mel Friedman,Sheldon Lettich	1
+COL RatingCount VAL 40,608	1
+COL RatingCount VAL 91,273	1
+COL Duration VAL 	1
+COL RatingCount VAL 199,880	1
+COL RatingCount VAL 16,389	1
+COL Year VAL 2006 2007 2008	1
+COL RatingCount VAL 37,556	1
+COL RatingCount VAL 4,872	1
+COL Country VAL USA	0
+COL Language VAL English	0
+COL Cast VAL Univ. Miami Indian Students Assoc.,Karl Bakke,John Barrett,Jon Bon Jovi,Brent Briscoe,Andreas Carlsson,Elena Casals,Desmond Child,Nyro Shaw Child,Roman Shaw Child,Deepak Chopra,Mrs. Nevan Fisher,Diana Grasselli,Stefanie M. Hall,Amy Hunt Mayer	0
+COL Actors VAL Ben Kingsley,Jared Harris,Nick Frost	0
+COL Id VAL tt1971325	0
+COL Name VAL Zootopia	0
+COL RatingCount VAL 937	0
+COL Release Date VAL 18 October 1941 (USA)	0
+COL Filming Locations VAL Atlanta, Georgia, USA	0
+COL Director VAL Josh Stolberg	0
+COL Actors VAL Barbara Hershey,David Carradine,Barry Primus	0
+COL Country VAL Japan,USA	0
+COL Name VAL To the Wonder	0
+COL Language VAL English	0
+COL Language VAL French,English	0
+COL RatingValue VAL 5.8	0
+COL ReviewCount VAL 37 user,19 critic	0
+COL Country VAL USA	0
+COL Actors VAL Shane Brolly,Vincent D'Onofrio,Gary Sinise	0
+COL Cast VAL George Clooney,Shailene Woodley,Amara Miller,Nick Krause,Patricia Hastie,Grace A. Cruz,Kim Gennaula,Karen Kuioka Hironaga,Carmen Kaichi,Kaui Hart Hemmings,Beau Bridges,Matt Corboy,Matt Esecson,Michael Ontkean,Stanton Johnston	0
+COL Filming Locations VAL 	0
+COL Country VAL UK,USA	0
+COL ReviewCount VAL 268 user,123 critic	0
+COL Release Date VAL 15 October 2004 (USA)	0
+COL Country VAL USA	0

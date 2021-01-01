@@ -1,0 +1,500 @@
+COL beer-name VAL Hop Box Imperial IPA	0
+COL abv VAL 0.064	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL brewery_id VAL 10	0
+COL abv VAL 0.063	0
+COL ibu VAL 49	0
+COL ounces VAL 12.0 oz.	1
+COL city VAL Birmingham	0
+COL ibu VAL N/A	1
+COL brewery-name VAL Blue Mountain Brewery	0
+COL index VAL 1858	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL style VAL American IPA	0
+COL brewery-name VAL 3 Daughters Brewing	0
+COL brewery_id VAL 49	0
+COL ibu VAL 21	0
+COL index VAL 631	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL style VAL American IPA	0
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL 20	0
+COL state VAL CA	0
+COL beer-name VAL Mana Wheat	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL brewery-name VAL Harpoon Brewery	0
+COL style VAL American White IPA	0
+COL ounces VAL 12.0 oz	1
+COL city VAL Angola IN	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.099%	1
+COL ounces VAL 12.0 OZ.	1
+COL city VAL Athens	0
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL brewery_id VAL 531	0
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.076%	1
+COL city VAL Portland ME	1
+COL index VAL 789	0
+COL state VAL MO	0
+COL brewery_id VAL 192	0
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL brewery-name VAL Fort George Brewery	0
+COL city VAL Santee	0
+COL ibu VAL 75	0
+COL abv VAL 0.055999999999999994%	1
+COL abv VAL 0.07%	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL city VAL Grand Rapids	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL id VAL 515	0
+COL ounces VAL 16.0 ounce	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.052000000000000005%	1
+COL ibu VAL N/A	1
+COL beer-name VAL Hibernation Ale	0
+COL ounces VAL 16.0 oz.	1
+COL brewery_id VAL 24	0
+COL abv VAL 0.057%	1
+COL ibu VAL 70	0
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 0.049%	1
+COL index VAL 685	0
+COL brewery-name VAL Caldera Brewing Company	0
+COL city VAL Waterbury	0
+COL city VAL Brooklyn Center MN	1
+COL abv VAL 0.045%	1
+COL ibu VAL N/A	1
+COL city VAL Grand Rapids	0
+COL ounces VAL 12.0 oz.	1
+COL style VAL 	0
+COL brewery-name VAL Tampa Bay Brewing Company	0
+COL city VAL Hershey PA	1
+COL index VAL 2362	0
+COL ounces VAL 12.0 OZ.	1
+COL ibu VAL N/A	1
+COL state VAL CO	0
+COL state VAL NY	0
+COL ibu VAL N/A	1
+COL beer-name VAL 35 K	0
+COL id VAL 670	0
+COL style VAL Fruit / Vegetable Beer	0
+COL abv VAL 0.057999999999999996%	1
+COL ounces VAL 16.0 oz.	1
+COL id VAL 328	0
+COL style VAL American Double / Imperial Stout	0
+COL id VAL 932	0
+COL ounces VAL 12.0 ounce	1
+COL state VAL MA	0
+COL beer-name VAL Long Trail IPA	0
+COL index VAL 794	0
+COL state VAL 	1
+COL beer-name VAL Long Hammer IPA	0
+COL style VAL American Porter	0
+COL city VAL Indianapolis	0
+COL ounces VAL 16.0 oz.	1
+COL brewery_id VAL 503	0
+COL index VAL 877	0
+COL brewery_id VAL 240	0
+COL id VAL 1763	0
+COL brewery_id VAL 161	0
+COL city VAL York	0
+COL city VAL city	0
+COL city VAL Newport	0
+COL ibu VAL N/A	1
+COL id VAL 2529	0
+COL ounces VAL 16.0 oz	1
+COL brewery_id VAL brewery_id	0
+COL ounces VAL 12.0 oz.	1
+COL index VAL 1914	0
+COL brewery_id VAL 234	0
+COL state VAL WI	0
+COL beer-name VAL Working for the Weekend	0
+COL ounces VAL 16.0 oz.	1
+COL state VAL MI	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL brewery-name VAL Sun King Brewing Company	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL style VAL Fruit / Vegetable Beer	0
+COL beer-name VAL Hopnoxious Imperial IPA	0
+COL ounces VAL 12.0 OZ.	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL index VAL 96	0
+COL state VAL TX	0
+COL ibu VAL 82	0
+COL style VAL Milk / Sweet Stout	0
+COL brewery_id VAL 240	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ibu VAL 25	0
+COL abv VAL 0.099	0
+COL style VAL Kölsch	0
+COL ounces VAL 12.0 oz.	1
+COL style VAL Märzen / Oktoberfest	0
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL abv VAL 0.052	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL brewery-name VAL Pug Ryan's Brewery	0
+COL ibu VAL N/A	1
+COL beer-name VAL Notch Session Pils	0
+COL abv VAL 0.07%	1
+COL abv VAL 0.07%	1
+COL ounces VAL 16.0 oz. Silo Can	1
+COL index VAL 1602	0
+COL abv VAL 0.055	0
+COL beer-name VAL Charlie in the Rye	0
+COL ibu VAL N/A	1
+COL state VAL FL	0
+COL index VAL 1347	0
+COL id VAL 1595	0
+COL id VAL 2581	0
+COL beer-name VAL Bleeding Buckeye Red Ale	0
+COL ibu VAL N/A	1
+COL city VAL Silverton	0
+COL ounces VAL 16.0 oz.	1
+COL city VAL Windsor	0
+COL abv VAL 0.063	0
+COL ibu VAL N/A	1
+COL abv VAL 0.07	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL style VAL American IPA	0
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 oz	1
+COL city VAL Lowell	0
+COL abv VAL 0.001%	1
+COL brewery_id VAL 134	0
+COL index VAL 782	0
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL ibu VAL 45	0
+COL state VAL CO	0
+COL brewery-name VAL Big Sky Brewing Company	0
+COL style VAL Scottish Ale	0
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 16.0 ounce	1
+COL state VAL 	1
+COL ounces VAL 12.0 oz	1
+COL beer-name VAL 1327 Pod's ESB	0
+COL brewery-name VAL Utah Brewers Cooperative	0
+COL ounces VAL 12.0 ounce	1
+COL abv VAL 0.049%	1
+COL style VAL Belgian IPA	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL index VAL 574	0
+COL brewery-name VAL Baxter Brewing Company	0
+COL ounces VAL 12.0 oz	1
+COL city VAL Westerly	0
+COL index VAL 306	0
+COL brewery-name VAL Narragansett Brewing Company	0
+COL ibu VAL 94	0
+COL ounces VAL 16.0 oz.	1
+COL id VAL 2329	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 16.0 ounce	1
+COL city VAL Astoria	0
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL brewery-name VAL Uncommon Brewers	0
+COL id VAL 671	0
+COL city VAL Houston	0
+COL abv VAL 0.058	0
+COL abv VAL 0.10400000000000001%	1
+COL brewery_id VAL 251	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 OZ.	1
+COL index VAL 988	0
+COL beer-name VAL Liquid Breadfruit	0
+COL abv VAL 0.055%	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.055	0
+COL ounces VAL 12.0 ounce	1
+COL index VAL 330	0
+COL style VAL Winter Warmer	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL 20	0
+COL ibu VAL N/A	1
+COL id VAL 2255	0
+COL brewery-name VAL Butternuts Beer and Ale	0
+COL style VAL American Double / Imperial IPA	0
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL state VAL MS	0
+COL style VAL Foreign / Export Stout	0
+COL abv VAL 0.058	0
+COL id VAL 627	0
+COL id VAL 2050	0
+COL ounces VAL 16.0 ounce	1
+COL id VAL 1538	0
+COL ounces VAL 12.0 oz	1
+COL brewery_id VAL 381	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL 43	0
+COL ounces VAL 12.0 OZ.	1
+COL style VAL American Brown Ale	0
+COL ounces VAL 16.0 oz.	1
+COL ibu VAL N/A	1
+COL beer-name VAL Wild Trail Pale Ale	0
+COL ibu VAL N/A	1
+COL brewery-name VAL Half Full Brewery	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL beer-name VAL Molotov Lite	0
+COL ibu VAL 55	0
+COL city VAL Weston	0
+COL abv VAL 0.08%	1
+COL brewery_id VAL 57	0
+COL ibu VAL N/A	1
+COL abv VAL 0.05%	1
+COL index VAL 1893	0
+COL ounces VAL 16.0 oz.	1
+COL brewery_id VAL 456	0
+COL index VAL 1136	0
+COL style VAL American Amber / Red Ale	0
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL 13	0
+COL abv VAL 0.099%	1
+COL style VAL American IPA	0
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL 40	0
+COL state VAL IL	0
+COL ibu VAL N/A	1
+COL state VAL IN	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL style VAL Kölsch	0
+COL city VAL Evanston	0
+COL ounces VAL 12.0 oz	1
+COL style VAL Fruit / Vegetable Beer	0
+COL ounces VAL 12.0 oz.	1
+COL city VAL Stevens Point	0
+COL abv VAL 0.055999999999999994%	1
+COL brewery-name VAL Revolution Brewing	0
+COL style VAL Belgian Strong Pale Ale	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL state VAL 	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL state VAL OH	0
+COL ibu VAL 45	0
+COL index VAL 1610	0
+COL brewery_id VAL 143	0
+COL city VAL Chicago IL	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.061%	1
+COL ounces VAL 16.0 oz	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL id VAL 2260	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz	1
+COL state VAL ME	0
+COL city VAL Boston	0
+COL id VAL 1440	0
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL ibu VAL 20	0
+COL abv VAL 0.065%	1
+COL ibu VAL N/A	1
+COL ibu VAL 85	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 16.0 oz. Alumi-Tek	1
+COL brewery-name VAL Evil Czech Brewery	0
+COL ibu VAL N/A	1
+COL index VAL 848	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ibu VAL N/A	1
+COL city VAL Woodbridge	0
+COL brewery-name VAL Brooklyn Brewery	0
+COL state VAL NC	0
+COL id VAL 1059	0
+COL ounces VAL 16.0 ounce	1
+COL ibu VAL 24	0
+COL ibu VAL 26	0
+COL state VAL OR	0
+COL ounces VAL 12.0 oz	1
+COL index VAL 1897	0
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL brewery_id VAL 387	0
+COL ounces VAL 12.0 ounce	1
+COL brewery_id VAL 72	0
+COL abv VAL 0.068	0
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL ounces VAL 16.0 oz	1
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL 75	0
+COL abv VAL 0.062%	1
+COL index VAL 864	0
+COL ounces VAL 12.0 oz	1
+COL index VAL 1455	0
+COL abv VAL 0.05	0
+COL ounces VAL 16.0 OZ.	1
+COL ibu VAL N/A	1
+COL city VAL Chicago	0
+COL brewery-name VAL Anderson Valley Brewing Company	0
+COL city VAL Birmingham	0
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.055%	1
+COL ounces VAL 12.0 oz.	1
+COL abv VAL 0.061%	1
+COL brewery_id VAL 29	0
+COL beer-name VAL Whitecap Wit	0
+COL style VAL Saison / Farmhouse Ale	0
+COL state VAL AZ	0
+COL id VAL 1277	0
+COL ounces VAL 16.0 oz.	1
+COL index VAL 2167	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 12.0 oz	1
+COL ounces VAL 12.0 ounce	1
+COL index VAL 1447	0
+COL ounces VAL 12.0 oz.	1
+COL ibu VAL N/A	1
+COL abv VAL 	0
+COL style VAL Märzen / Oktoberfest	0
+COL ibu VAL N/A	1
+COL index VAL 1268	0
+COL ounces VAL 12.0 oz.	1
+COL ounces VAL 12.0 oz. Alumi-Tek	1
+COL brewery_id VAL 407	0
+COL abv VAL 0.045%	1
+COL ibu VAL N/A	1
+COL beer-name VAL Hyzer Flip	0
+COL ibu VAL N/A	1
+COL abv VAL 0.04%	1
+COL ibu VAL N/A	1
+COL style VAL American IPA	0
+COL ibu VAL N/A	1
+COL state VAL OR	0
+COL abv VAL 0.08%	1
+COL brewery_id VAL 80	0
+COL ounces VAL 12.0 ounce	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz	1
+COL abv VAL 0.048%	1
+COL state VAL CO	0
+COL city VAL Jacksonville	0
+COL beer-name VAL Resurrection	0
+COL ounces VAL 12.0 oz	1
+COL id VAL 1828	0
+COL style VAL American Porter	0
+COL state VAL OH	0
+COL ounces VAL 12.0 oz.	1
+COL style VAL American IPA	0
+COL ounces VAL 12.0 ounce	1
+COL style VAL American Pale Wheat Ale	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL N/A	1
+COL beer-name VAL Lazy Monk Bohemian Pilsner	0
+COL state VAL AZ	0
+COL ounces VAL 12.0 oz	1
+COL ibu VAL 17	0
+COL abv VAL 0.05%	1
+COL ibu VAL N/A	1
+COL abv VAL 0.037	0
+COL index VAL 2014	0
+COL abv VAL 0.09%	1
+COL ounces VAL 12.0 ounce	1
+COL ibu VAL N/A	1
+COL beer-name VAL Old Chub	0
+COL abv VAL 0.042	0
+COL style VAL Witbier	0
+COL brewery-name VAL Crystal Springs Brewing Company	0
+COL ounces VAL 12.0 oz.	1
+COL beer-name VAL Miner's Gold	0
+COL ounces VAL 16.0 OZ.	1
+COL brewery_id VAL 300	0
+COL brewery_id VAL 183	0
+COL id VAL 1390	0
+COL index VAL 1183	0
+COL brewery_id VAL 141	0
+COL id VAL 1949	0
+COL brewery-name VAL Oskar Blues Brewery	0
+COL index VAL 422	0
+COL ounces VAL 12.0 ounce	1
+COL style VAL American IPA	0
+COL ounces VAL 16.0 oz.	1
+COL abv VAL 0.066%	1
+COL ounces VAL 16.0 ounce	1
+COL state VAL 	1
+COL city VAL Birmingham	0
+COL brewery_id VAL 37	0
+COL style VAL Belgian Strong Dark Ale	0
+COL abv VAL 0.05%	1
+COL index VAL 849	0
+COL beer-name VAL Cane and Ebel	0
+COL brewery_id VAL 126	0
+COL style VAL English India Pale Ale (IPA)	0
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 16.0 oz.	1
+COL ounces VAL 12.0 oz.	1
+COL state VAL NY	0
+COL ibu VAL N/A	1
+COL abv VAL 0.08	0
+COL index VAL 2051	0
+COL ibu VAL N/A	1
+COL state VAL 	1
+COL brewery_id VAL 223	0
+COL id VAL 1541	0
+COL brewery-name VAL Telluride Brewing Company	0
+COL abv VAL 0.07%	1
+COL city VAL Denver CO	1
+COL ounces VAL 12.0 ounce	1
+COL brewery-name VAL Golden Road Brewing	0
+COL beer-name VAL #001 Golden Amber Lager	0
+COL brewery_id VAL 0	0
+COL abv VAL 	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1
+COL beer-name VAL Mosaic Single Hop IPA	0
+COL city VAL Idaho Springs CO	1
+COL brewery-name VAL Baxter Brewing Company	0
+COL beer-name VAL Black Star Double Hopped Golden Lager (24 oz.)	0
+COL ibu VAL N/A	1
+COL ounces VAL 12.0 ounce	1

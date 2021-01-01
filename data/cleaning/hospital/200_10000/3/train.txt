@@ -1,0 +1,200 @@
+COL EmergencyService VAL yxs	1
+COL State VAL xl	1
+COL Stateavg VAL al_scix-vte-2	1
+COL EmergencyService VAL yxs	1
+COL City VAL axxistox	1
+COL MeasureName VAL all heaxt suxgexy patients whose blood sugax (blood glucose) is kept undex good contxol in the days xight aftex suxgexy	1
+COL MeasureName VAL heart xailure patients given smoking cessation advice/counseling	1
+COL Sample VAL 25x patients	1
+COL Condition VAL heaxt attack	1
+COL PhoneNumber VAL 25x47x7xx0	1
+COL HospitalName VAL medxcal center enterprxse	1
+COL CountyName VAL elmoxe	1
+COL CountyName VAL laudexdale	1
+COL Score VAL 9x%	1
+COL EmergencyService VAL yxs	1
+COL ProviderNumber VAL 1xx29	1
+COL Address1 VAL 8000 alabama xigxway 69	1
+COL CountyName VAL coxington	1
+COL EmergencyService VAL yxs	1
+COL Condition VAL hexrt attxck	1
+COL EmergencyService VAL yxs	1
+COL Sample VAL 121 patiexts	1
+COL MeasureName VAL all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx	1
+COL ProviderNumber VAL x0x08	1
+COL Address1 VAL 400xnxedwardsxstreet	1
+COL ProviderNumber VAL 1xx24	1
+COL PhoneNumber VAL phone	1
+COL City VAL ozarx	1
+COL Stateavg VAL al_pn-5x	1
+COL State VAL xl	1
+COL Sample VAL 29 xatients	1
+COL Sample VAL 62 patientx	1
+COL City VAL vxlley	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL MeasureName VAL heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function	1
+COL Stateavg VAL al_pn-xb	1
+COL State VAL xl	1
+COL CountyName VAL jxffxrson	1
+COL ProviderNumber VAL 1xx44	1
+COL MeasureCode VAL hx-2	1
+COL HospitalType VAL acute care hoxpitalx	1
+COL Condition VAL hexrt fxilure	1
+COL HospitalOwner VAL voluntaryxnon-profitx-xchurch	1
+COL HospitalType VAL axute care hospitals	1
+COL Condition VAL heart attaxk	1
+COL City VAL annxston	1
+COL HospitalType VAL acuxe care hospixals	1
+COL Sample VAL 6xpatients	1
+COL Sample VAL 0 patixnts	1
+COL HospitalName VAL communixy hospixal inc	1
+COL Score VAL x6%	1
+COL Address1 VAL 1912xalabamaxhighwayx157	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL PhoneNumber VAL 334x836541	1
+COL Score VAL x00%	1
+COL PhoneNumber VAL 33x361x267	1
+COL CountyName VAL dx kalb	1
+COL Address1 VAL poxboxx287	1
+COL MeasureName VAL heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival	1
+COL HospitalType VAL acute care hosxitals	1
+COL EmergencyService VAL yex	1
+COL Address1 VAL 1256 military street sxuth	1
+COL CountyName VAL butxer	1
+COL CountyName VAL chxrokxx	1
+COL MeasureCode VAL hx-1	1
+COL MeasureCode VAL axi-4	1
+COL MeasureCode VAL amix1	1
+COL HospitalOwner VAL owner	1
+COL MeasureName VAL pxeumoxia patiexts assessed axd givex ixfluexza vaccixatiox	1
+COL ZipCode VAL 3xx94	1
+COL HospitalOwner VAL volunxary non-profix - privaxe	1
+COL CountyName VAL montgomexy	1
+COL HospitalOwner VAL pxopxietaxy	1
+COL Address1 VAL 515 mirxndx st	1
+COL CountyName VAL jeffersxn	1
+COL HospitalOwner VAL prxprietary	1
+COL ZipCode VAL 3642x	1
+COL City VAL birmingxam	1
+COL PhoneNumber VAL x0593x5966	1
+COL HospitalOwner VAL voxuntary non-profit - church	1
+COL State VAL xl	1
+COL Score VAL 1xx%	1
+COL MeasureCode VAL amx-3	1
+COL HospitalType VAL acute care hospitaxs	1
+COL Sample VAL 4 xatients	1
+COL PhoneNumber VAL 2x6x938310	1
+COL HospitalName VAL xivexview xegional medical centex	1
+COL HospitalType VAL acuxe care hospixals	1
+COL Score VAL x4%	1
+COL HospitalOwner VAL volxntary non-profit - chxrch	1
+COL City VAL xzark	1
+COL MeasureName VAL childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma	1
+COL CountyName VAL monxgomery	1
+COL HospitalType VAL acuxe care hospixals	1
+COL ZipCode VAL 3x10x	1
+COL Address1 VAL 4370xwestxmainxstreet	1
+COL State VAL xl	1
+COL MeasureName VAL heart attack patxents gxven aspxrxn at arrxval	1
+COL ZipCode VAL 3x233	1
+COL State VAL xl	1
+COL EmergencyService VAL yes	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 2059216200	0
+COL Address2 VAL empty	0
+COL State VAL al	0
+COL Score VAL 50%	0
+COL HospitalOwner VAL proprietary	0
+COL MeasureCode VAL hf-3	0
+COL MeasureCode VAL hf-1	0
+COL Sample VAL 1 patients	0
+COL State VAL al	0
+COL PhoneNumber VAL 3344933541	0
+COL CountyName VAL etowah	0
+COL EmergencyService VAL yes	0
+COL Sample VAL 129 patients	0
+COL CountyName VAL jefferson	0
+COL Address3 VAL empty	0
+COL Score VAL 97%	0
+COL MeasureName VAL heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)	0
+COL State VAL al	0
+COL Sample VAL 174 patients	0
+COL Address3 VAL empty	0
+COL Condition VAL surgical infection prevention	0
+COL EmergencyService VAL yes	0
+COL HospitalType VAL acute care hospitals	0
+COL Stateavg VAL al_ami-8a	0
+COL Address2 VAL empty	0
+COL State VAL ak	0
+COL CountyName VAL coffee	0
+COL Stateavg VAL al_scip-inf-4	0
+COL HospitalName VAL medical center enterprise	0
+COL Address1 VAL 50 medical park east drive	0
+COL Stateavg VAL al_hf-3	0
+COL HospitalName VAL st vincents east	0
+COL State VAL al	0
+COL index VAL 293	0
+COL Score VAL 53%	0
+COL index VAL 709	0
+COL Condition VAL surgical infection prevention	0
+COL ZipCode VAL 36278	0
+COL State VAL al	0
+COL HospitalOwner VAL proprietary	0
+COL MeasureCode VAL hf-1	0
+COL Stateavg VAL ak_scip-inf-6	0
+COL Condition VAL pneumonia	0
+COL Address1 VAL 101 sivley rd	0
+COL index VAL 579	0
+COL ZipCode VAL 35555	0
+COL MeasureCode VAL scip-inf-4	0
+COL EmergencyService VAL yes	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL City VAL anniston	0
+COL Address3 VAL empty	0
+COL MeasureName VAL pneumonia patients given initial antibiotic(s) within 6 hours after arrival	0
+COL index VAL 874	0
+COL City VAL tallassee	0
+COL ProviderNumber VAL 10019	0
+COL Stateavg VAL al_hf-1	0
+COL ZipCode VAL 35570	0
+COL Address1 VAL 987 drayton street	0
+COL EmergencyService VAL yes	0
+COL City VAL valley	0
+COL ProviderNumber VAL 10025	0
+COL CountyName VAL madison	0
+COL MeasureCode VAL pn-5c	0
+COL Address1 VAL 2105 east south boulevard	0
+COL ProviderNumber VAL 10033	0
+COL Address1 VAL 400 n edwards street	0
+COL MeasureCode VAL hf-4	0
+COL Address2 VAL empty	0
+COL Address2 VAL empty	0
+COL ZipCode VAL 36330	0
+COL HospitalName VAL coosa valley medical center	0
+COL index VAL 650	0
+COL MeasureCode VAL ami-4	0
+COL MeasureCode VAL scip-vte-1	0
+COL PhoneNumber VAL 2058383122	0
+COL PhoneNumber VAL 2056208100	0
+COL PhoneNumber VAL 2562358900	0
+COL ZipCode VAL 35205	0
+COL Address3 VAL empty	0
+COL MeasureName VAL surgery patients who were given the  right kind  of antibiotic to help prevent infection	0
+COL HospitalName VAL andalusia regional hospital	0
+COL ZipCode VAL 35801	0
+COL City VAL winfield	0
+COL Address2 VAL empty	0
+COL Score VAL 90%	0
+COL Address2 VAL empty	0
+COL ZipCode VAL 36033	0
+COL MeasureCode VAL ami-4	0
+COL City VAL boaz	0
+COL MeasureCode VAL pn-2	0
+COL PhoneNumber VAL 2565435200	0
+COL PhoneNumber VAL 2563864556	0
+COL Sample VAL 169 patients	0
+COL Stateavg VAL al_hf-4	0
+COL MeasureName VAL patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery	0
+COL Sample VAL 146 patients	0
+COL Address2 VAL empty	0
+COL PhoneNumber VAL 2056208100	0

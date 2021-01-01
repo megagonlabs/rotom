@@ -1,0 +1,100 @@
+COL CountyName VAL housxon	1
+COL EmergencyService VAL yes	0
+COL Score VAL x5%	1
+COL CountyName VAL monxgomery	1
+COL Address2 VAL empty	0
+COL City VAL florence	0
+COL CountyName VAL calhoun	0
+COL State VAL al	0
+COL HospitalName VAL alaska regional hospital	0
+COL State VAL al	0
+COL City VAL enterprxse	1
+COL HospitalName VAL marshall medical cenxer norxh	1
+COL Sample VAL 1 patients	0
+COL Stateavg VAL al_scix-vte-2	1
+COL Address2 VAL empty	0
+COL index VAL 118	0
+COL State VAL xl	1
+COL MeasureName VAL pxeumoxia patiexts assessed axd givex ixfluexza vaccixatiox	1
+COL EmergencyService VAL yes	0
+COL HospitalName VAL crenshaw cxmmunity hxspital	1
+COL HospitalType VAL acute care hosxitals	1
+COL index VAL 185	0
+COL CountyName VAL laudexdale	1
+COL ProviderNumber VAL 10029	0
+COL MeasureCode VAL pn-6	0
+COL Condition VAL hexrt attxck	1
+COL Condition VAL heart attack	0
+COL Stateavg VAL ax_pn-2	1
+COL EmergencyService VAL yex	1
+COL PhoneNumber VAL 25x47x7xx0	1
+COL State VAL xl	1
+COL CountyName VAL jefferson	0
+COL ZipCode VAL 36323	0
+COL PhoneNumber VAL 3342938xxx	1
+COL MeasureName VAL heart attack patients given beta blocker at discharge	0
+COL EmergencyService VAL no	0
+COL EmergencyService VAL yxs	1
+COL Stateavg VAL al_ami-2	0
+COL City VAL tallaxxee	1
+COL State VAL al	0
+COL Address3 VAL empty	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL State VAL ax	1
+COL City VAL guntersville	0
+COL MeasureCode VAL hfx1	1
+COL Address3 VAL empty	0
+COL CountyName VAL madisox	1
+COL Stateavg VAL al_pn-3b	0
+COL ProviderNumber VAL 1xx32	1
+COL EmergencyService VAL yex	1
+COL HospitalType VAL acute care hospitals	0
+COL PhoneNumber VAL x0593x5966	1
+COL MeasureCode VAL ami-3	0
+COL CountyName VAL crxnshaw	1
+COL PhoneNumber VAL 2x6x938310	1
+COL ProviderNumber VAL x0045	1
+COL State VAL xl	1
+COL Condition VAL surgical infection prevention	0
+COL MeasureCode VAL ami-2	0
+COL City VAL birminghxm	1
+COL PhoneNumber VAL 3347935000	0
+COL EmergencyService VAL yes	0
+COL MeasureCode VAL hf-3	0
+COL Stateavg VAL alxpn-6	1
+COL ProviderNumber VAL x00xx	1
+COL ZipCode VAL 3595x	1
+COL State VAL al	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalName VAL medxcal center enterprxse	1
+COL EmergencyService VAL yes	0
+COL PhoneNumber VAL 2059344011	0
+COL HospitalOwner VAL proxrietary	1
+COL Address1 VAL 33700 highway 43	0
+COL Sample VAL 25x patients	1
+COL PhoneNumber VAL 3342938xxx	1
+COL Score VAL 98%	0
+COL Sample VAL 6xpatients	1
+COL Address3 VAL address_3	1
+COL City VAL geoxgiana	1
+COL Address1 VAL 4370xwestxmainxstreet	1
+COL ZipCode VAL 3x640	1
+COL Condition VAL heartxattack	1
+COL index VAL 575	0
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL EmergencyService VAL yes	0
+COL Stateavg VAL al_ami-4	0
+COL Address2 VAL empty	0
+COL Address2 VAL empty	0
+COL Stateavg VAL al_hf-1	0
+COL Address1 VAL 124 s mxmorial dr	1
+COL EmergencyService VAL yes	0
+COL City VAL montxomery	1
+COL Condition VAL surgical ixfectiox prevextiox	1
+COL MeasureCode VAL axi-4	1
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL State VAL al	0
+COL Address1 VAL 126xhospitalxave	1
+COL PhoneNumber VAL 3347742601	0
+COL Sample VAL 172 patxents	1
+COL Address3 VAL empty	0

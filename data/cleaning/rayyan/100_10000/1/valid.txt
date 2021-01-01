@@ -1,0 +1,100 @@
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/02	1
+COL journal_title VAL Nederlands Tijdschrift Voor Fysiotherapie	0
+COL article_jcreated_at VAL 5/1/12	1
+COL article_jissue VAL 6	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 7/1/14	1
+COL id VAL 217524	0
+COL journal_title VAL Mount Sinai Journal of Medicine	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 643-50 ST  - Cost-utility analysis of osteopathy in primary care: results from a pragmatic randomized controlled trial-	0
+COL article_title VAL Sleep-related nighttime crying (yonaki) in Japan: a community-based study.	0
+COL id VAL 931323	0
+COL jounral_abbreviation VAL J Geriatr Oncol	0
+COL id VAL 773090	0
+"COL author_list VAL {""Gerard H Koppelman"",""Johan C de Jongste"",""Liset E M Elstgeest"",""Henri��tte A Smit"",""Ulrike Gehring"",""Annemien Haveman-Nies"",""Marjan Kerkhof"",""Marga B M Bekkers"",""Alet H Wijga"",""Salome Scholtens""}"	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 1/1/14	1
+COL jounral_abbreviation VAL 	0
+COL journal_issn VAL Mar-67	0
+COL article_language VAL 	0
+COL article_pagination VAL 71-7	1
+COL article_title VAL Posterior lumbar interbody fusion versus posterolateral fusion with instrumentation in the treatment of low-grade isthmic spondylolisthesis: midterm clinical outcomes	0
+COL article_pagination VAL 431-438	0
+COL article_jcreated_at VAL 2/1/06	1
+COL article_jcreated_at VAL 8/1/14	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/06	1
+COL article_jcreated_at VAL 1/1/11	1
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 24	0
+COL jounral_abbreviation VAL Ann. Intern. Med.	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 1/1/15	1
+COL jounral_abbreviation VAL 	0
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jissue VAL 0	0
+"COL author_list VAL {""T. H. Michel"",""W. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Jul 1 DP  - NLM ET  - 2000/06/28 Rogers"",""A. Wagner"",""H. Wittink"",""R. Kulich"",""A. Sukiennik"",""R. Maciewicz""}"	1
+COL jounral_abbreviation VAL Dentomaxillofac Radiol	0
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jcreated_at VAL 3/1/06	1
+COL jounral_abbreviation VAL 	0
+COL article_jvolumn VAL 35	0
+COL article_jissue VAL 	1
+COL article_jissue VAL 	1
+COL article_title VAL Constructing differences: A qualitative analysis of teachers�۪ perspectives on linguistic and cultural diversity	1
+COL journal_issn VAL Feb-14	1
+"COL author_list VAL {""O E Havik"",""P Carlbring"",""L G ��st"",""T Nordgreen"",""G Andersson"",""T Furmark""}"	1
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+COL id VAL 34962	0
+"COL author_list VAL {""James C Martin"",""Ian Mayhew"",""Lee M Romer"",""Thomas Korff""}"	0
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jissue VAL 1	0
+COL article_jcreated_at VAL 1/1/11	1
+COL journal_title VAL PRIMUS	0
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""Ana Paula de Lima Ferreira"",""Marcelo de Souza Figueiroa"",""B��rbara Bernardo Rinaldo da Silva"",""K��tia Roberta Rap̫so Sales Lacerda""}"	1
+"COL author_list VAL {""Yan-Yan Li"",""Yun Qian"",""Chuan-Wei Zhou""}"	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 11/1/14	1
+COL article_jissue VAL 0	0
+COL article_jcreated_at VAL 1/1/13	1
+"COL author_list VAL {""Ju-Seong Kim"",""Dong-Seok Kim"",""Eun-Kyung Park"",""Kyu-Won Shim""}"	0
+COL article_jvolumn VAL 42	0
+COL article_jissue VAL 	1
+"COL author_list VAL {""N. M. Pinheiro"",""R. Almeida-Reis"",""L. Oliva"",""M. A. Martins"",""M. L. V. Oliva"",""O. A. Theodoro-Junior"",""E. A. Leick"",""I. F. L. C. Tib̩rio"",""C. M. Prado"",""R. F. Righetti"",""B. T. M. Oliveira""}"	1
+COL article_jcreated_at VAL 5/1/04	1
+COL article_jissue VAL 1	0
+COL journal_issn VAL 1476-5497	0
+COL journal_issn VAL 	0
+COL article_jcreated_at VAL 7/1/11	1
+COL article_title VAL Mapping Curriculum to Ed Tech and Industry Standards	0
+COL article_jcreated_at VAL 11/1/10	1
+"COL author_list VAL {""Ana Maria Baptista Menezes"",""David Alejandro Gonz��lez"",""Elaine Cardozo Macedo"",""Pedro Curi Hallal"",""Maria de F��tima Maia"",""Marli Knorst"",""Samuel Carvalho Dumith"",""Jeovany Mart�_nez-Mesa"",""Ricardo Bica Noal"",""Fernando C̩sar Wehrmeister"",""Jos̩ Roberto Jardim""}"	1
+COL article_pagination VAL S25-7	0
+COL journal_title VAL Feminist Legal Studies	0
+COL article_jissue VAL 	1
+COL journal_issn VAL 1057-9249	0
+COL id VAL 86421	0
+COL article_pagination VAL 84-8	1
+COL article_jvolumn VAL 	1
+COL journal_issn VAL 1918-1485	0
+COL article_jvolumn VAL 245	0
+COL article_jcreated_at VAL 1/1/07	1
+COL article_title VAL Unsuspected ethanol ingestion through soft drinks and flavored beverages	0
+COL article_jcreated_at VAL 4/1/14	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/13	1
+COL id VAL 660574	0
+COL journal_title VAL Hepato-gastroenterology	0
+COL article_jcreated_at VAL 1/1/04	1
+COL article_title VAL Interleukin-28B polymorphisms on the SVR in the treatment of naive chronic hepatitis C with pegylated interferon-alpha plus ribavirin: A meta-analysis.	0
+COL journal_title VAL 	0
+COL article_jcreated_at VAL 1/1/09	1
+COL article_title VAL Evidence that serum levels of the soluble receptor for advanced glycation end products are inversely associated with pancreatic cancer risk: a prospective study.	0
+COL article_jvolumn VAL 110	0
+COL article_jcreated_at VAL 1/1/03	1

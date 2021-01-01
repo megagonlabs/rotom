@@ -1,0 +1,150 @@
+COL RatingCount VAL 161,928	1
+COL RatingCount VAL 1,145	1
+COL RatingCount VAL 170,142	1
+COL RatingCount VAL 167,568	1
+COL Release Date VAL Aug 27, 1943 Limited	1
+COL Release Date VAL Aug 18, 1972 Wide	1
+COL RatingCount VAL 18,211	1
+COL RatingCount VAL 28,664	1
+COL RatingCount VAL 83,440	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 61,037	1
+COL Id VAL justice_2011	1
+COL RatingCount VAL 27,515	1
+COL RatingCount VAL 96,852	1
+COL RatingCount VAL 349,182	1
+COL RatingCount VAL 55,339	1
+COL RatingValue VAL 7.0	1
+COL Genre VAL Comedy,Kids & Family	1
+COL RatingCount VAL 15,455	1
+COL RatingCount VAL 396,107	1
+COL RatingCount VAL 37,351	1
+COL RatingCount VAL 21,591	1
+COL RatingCount VAL 1,504	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 84,594	1
+COL RatingCount VAL 93,955	1
+COL Year VAL 2004 2005 2006	1
+COL RatingCount VAL 6,004	1
+COL RatingCount VAL 1,046	1
+COL RatingCount VAL 2,827	1
+COL RatingCount VAL 82,273	1
+COL RatingCount VAL 6,471	1
+COL RatingCount VAL 2,070	1
+COL RatingCount VAL 2,989	1
+COL RatingCount VAL 72,748	1
+COL RatingCount VAL 15,037	1
+COL RatingCount VAL 223,182	1
+COL RatingCount VAL 14,400	1
+COL RatingCount VAL 126,092	1
+COL RatingCount VAL 1,015	1
+COL RatingCount VAL 1,176	1
+COL RatingValue VAL 6.0	1
+COL RatingValue VAL 	1
+COL RatingCount VAL 1,717	1
+COL RatingCount VAL 313,378	1
+COL RatingCount VAL 34,316	1
+COL RatingCount VAL 20,280	1
+COL RatingCount VAL 2,057	1
+COL RatingCount VAL 34,185	1
+COL RatingCount VAL 14,787	1
+COL Description VAL Actress Dyan Cannon, whose 1976 directorial debut Number One was nominated for a 'best short subject' Academy Award, moves on to feature-length projects with The End of Innocence. In addition to directing, Ms. Cannon wrote the screenplay and played a leading role in this story of a young girl spiritually torn apart by forces beyond her control. Rebecca Schaeffer plays Stephanie Lewis, unwanted and ignored by her eternally squabbling parents. Mom and Dad do further damage to Stephanie's battered,psyche by giving her mixed messages concerning sex and religion. The girl's self-esteem dwindles to microscopic proportions thanks to a series of no-good boyfriends. Suffering a nervous breakdown, she is placed in an asylum, where for the first time she treated as a human being rather than a nuisance by compassionate psychiatrist John Heard. Completed in the late 1980s, End of Innocence was released in 1990, one year after the death of star Rebecca Schaeffer.	1
+COL RatingCount VAL 234,929	1
+COL RatingCount VAL 125,794	1
+COL RatingCount VAL 5,272	1
+COL RatingCount VAL 34,865	1
+COL RatingCount VAL 24,510	1
+COL RatingCount VAL 1,557	1
+COL RatingCount VAL 4,092	1
+COL RatingCount VAL 402,103	1
+COL Director VAL Kris Pearn,Cody Cameron	1
+COL Duration VAL 	1
+COL Genre VAL Animation,Kids & Family,Comedy	1
+COL RatingCount VAL 29,301	1
+COL RatingValue VAL 6.0	1
+COL RatingCount VAL 149,497	1
+COL RatingCount VAL 3,482	1
+COL RatingCount VAL 100,538	1
+COL Id VAL ref	1
+COL RatingCount VAL 3,467	1
+COL RatingCount VAL 57,747	1
+COL RatingCount VAL 233,873	1
+COL Duration VAL 1 hr. 39 min.	1
+COL RatingCount VAL 13,902	1
+COL RatingCount VAL 7,704	1
+COL RatingCount VAL 10,461	1
+COL Genre VAL Horror,Thriller	0
+COL Language VAL English,French,Persian	0
+COL Cast VAL Peter Lawford,Donald Crisp,June Lockhart,Nigel Bruce,William Severn,Leon Ames,Donald Curtis,Nils Asther,Robert Lewis,Fay Helm,Peter Helmers,Otto Reichow,Patricia Prest,Terry Moore,Leon Tyler	0
+COL Description VAL Story of an underground newspaper in Boston about to be taken over by big business.	0
+COL Year VAL 1999	0
+COL Genre VAL Action,Crime,Drama	0
+COL Actors VAL Patrick Fabian,Ashley Bell,Iris Bahr	0
+COL Name VAL Paranormal Activity: The Marked Ones	0
+COL Release Date VAL 2015 (USA)	0
+COL RatingCount VAL 	0
+COL Description VAL A teenager has to deal with his girlfriend dumping him among family crises, homicidal paper boys, and a rival skier.	0
+COL Name VAL Biohazard: Patient Zero	0
+COL ReviewCount VAL 69 user,50 critic	0
+COL Release Date VAL 25 December 2009 (USA)	0
+COL Director VAL Edward Burns	0
+COL Description VAL Four fighters with different backgrounds come together to train under an ex-MMA rising star and then ultimately have to fight each other.	0
+COL Actors VAL Alan Cumming,Jennifer Jason Leigh,Phoebe Cates	0
+COL Release Date VAL 15 February 1954 (Sweden)	0
+COL Filming Locations VAL Las Vegas, Nevada, USA	0
+COL Actors VAL Robert Redford,Brad Pitt,Catherine McCormack	0
+COL RatingValue VAL 5.8	0
+COL Director VAL Kyung Ho Lee	0
+COL Filming Locations VAL Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA	0
+COL Country VAL USA	0
+COL Description VAL A practical man returns to his homeland, is attacked by a creature of folklore, and infected with a horrific disease his disciplined mind tells him can not possibly exist.	0
+COL ReviewCount VAL 431 user,140 critic	0
+COL Name VAL Father of the Bride	0
+COL Language VAL English,German,French	0
+COL Release Date VAL 11 January 2008 (USA)	0
+COL Cast VAL Eric Schlosser,Richard Lobb,Vince Edwards,Carole Morison,Michael Pollan,Troy Roush,Larry Johnson,Allen Trenkle,Barbara Kowalcyk,Patricia Buck,Diana DeGette,Phil English,Eldon Roth,Maria Andrea Gonzalez,Rosa Soto	0
+COL Description VAL Clay Spencer is a hard-working man who loves his wife and large family. He is respected by his neighbors and always ready to give them a helping hand. Although not a churchgoer, he even ...	0
+COL Year VAL 1994	0
+COL Filming Locations VAL Paris, France	0
+COL Filming Locations VAL Los Angeles, California, USA	0
+COL Actors VAL Andrew Dice Clay,Eddie Griffin,Sylvia Harman	0
+COL Genre VAL Crime,Drama,Mystery	0
+COL Language VAL English	0
+COL Duration VAL 147 min	0
+COL RatingValue VAL 3.4	0
+COL Actors VAL Tom Hardy,Leonardo DiCaprio,Domhnall Gleeson	0
+COL RatingValue VAL 5.7	0
+COL Duration VAL 90 min	0
+COL Creator VAL Norman Krasna	0
+COL Description VAL Seen through the eyes of activist Peter Jay Brown, Confessions grants the viewer an intimate look at shipboard life amongst these self proclaimed animal saviors and sea rebels who shaped ...	0
+COL Cast VAL Robert Redford,Nick Nolte,Emma Thompson,Mary Steenburgen,Nick Offerman,Kristen Schaal,R. Keith Harris,Randall Newsome,Hayley Lovitt,Linds Edwards,Susan McPhail,Andrew Vogel,Derek Krantz,Gaia Wise,Tucker Meek	0
+COL Country VAL UK,USA,Germany,Czech Republic	0
+COL Director VAL Irene Lusztig	0
+COL ReviewCount VAL 315 user,209 critic	0
+COL Duration VAL 98 min	0
+COL Cast VAL Jonah Hill,Max Records,Ari Graynor,J.B. Smoove,Sam Rockwell,Landry Bender,Kevin Hernandez,Kylie Bunbury,Erin Daniels,D.W. Moffett,Jessica Hecht,Bruce Altman,Method Man,Sean Patrick Doyle,Alex Wolff	0
+COL ReviewCount VAL 216 user,86 critic	0
+COL Duration VAL 86 min	0
+COL Release Date VAL 11 September 1964 (Brazil)	0
+COL Name VAL The Ultimate Gift	0
+COL Country VAL USA	0
+COL Creator VAL Brian De Palma	0
+COL RatingValue VAL 	0
+COL Name VAL Getaway	0
+COL Creator VAL John L. Balderston,Mary Shelley	0
+COL Id VAL tt0113111	0
+COL Cast VAL Levi Stubbs,Rick Moranis,Ellen Greene,Vincent Gardenia,Steve Martin,Tichina Arnold,Michelle Weeks,Tisha Campbell-Martin,James Belushi,John Candy,Christopher Guest,Bill Murray,Stan Jones,Bertice Reading,Ed Wiley	0
+COL Id VAL tt0095705	0
+COL Country VAL USA	0
+COL Filming Locations VAL 	0
+COL Country VAL USA	0
+COL RatingValue VAL 5.8	0
+COL Year VAL 2005	0
+COL Cast VAL Jack Nicholson,Kathleen Turner,Robert Loggia,John Randolph,William Hickey,Lee Richardson,Michael Lombard,Anjelica Huston,George Santopietro,Lawrence Tierney,CCH Pounder,Ann Selepegno,Vic Polizos,Dick O'Neill,Sully Boyar	0
+COL Actors VAL Aaron Carter,Alana Austin,David Cassidy	0
+COL Language VAL English	0
+COL Description VAL After Police Captain Dan McLaren becomes police commissioner former detective Johnny Blake knocks him down convincing rackets boss Al Kruger that Blake is sincere in his effort to join the ...	0
+COL Id VAL tt0293564	0
+COL RatingCount VAL 	0
+COL Filming Locations VAL Novi Sad, Serbia	0
+COL ReviewCount VAL 2 user	0

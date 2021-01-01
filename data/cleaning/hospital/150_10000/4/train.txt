@@ -1,0 +1,150 @@
+COL City VAL vxlley	1
+COL City VAL fxorence	1
+COL Address1 VAL 1720 univxrsity blvd	1
+COL ProviderNumber VAL 1xx32	1
+COL HospitalName VAL marshall medical cenxer norxh	1
+COL Address1 VAL 315 w hickxry st	1
+COL HospitalName VAL name	1
+COL Condition VAL hexrt attxck	1
+COL ProviderNumber VAL 1000x	1
+COL PhoneNumber VAL x0593x5966	1
+COL PhoneNumber VAL 334xxx8466	1
+COL HospitalOwner VAL voluntaxy non-pxofit - pxivate	1
+COL ZipCode VAL 3x305	1
+COL State VAL ax	1
+COL CountyName VAL cxffee	1
+COL HospitalType VAL acutexcarexhospitals	1
+COL CountyName VAL butxer	1
+COL ProviderNumber VAL 1004x	1
+COL MeasureCode VAL hfx4	1
+COL CountyName VAL tallaxega	1
+COL Stateavg VAL al_scipxinfx2	1
+COL CountyName VAL jxffxrson	1
+COL MeasureName VAL surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor)	1
+COL Stateavg VAL al_axi-1	1
+COL MeasureName VAL pneumonia patients assessed and given influenza vaxxination	1
+COL City VAL ozarx	1
+COL Stateavg VAL xl_xmi-5	1
+COL Condition VAL surgical xnfection prevention	1
+COL MeasureName VAL allxheartxsurgeryxpatientsxwhosexbloodxsugarx(bloodxglucose)xisxkeptxunderxgoodxcontrolxinxthexdaysxrightxafterxsurgery	1
+COL EmergencyService VAL yxs	1
+COL City VAL gxdsden	1
+COL PhoneNumber VAL 3342xx2100	1
+COL Sample VAL 15 patiexts	1
+COL MeasureCode VAL pnx5c	1
+COL Sample VAL 87 patientx	1
+COL Address1 VAL 124 s mxmorial dr	1
+COL Condition VAL heart attaxk	1
+COL ProviderNumber VAL x0045	1
+COL HospitalName VAL riverview rexional medical center	1
+COL EmergencyService VAL yex	1
+COL Sample VAL x patients	1
+COL City VAL wxdowxx	1
+COL State VAL ax	1
+COL MeasureName VAL pneumonix pxtients given initixl antibiotic(s) within 6 hours after arrivxl	1
+COL MeasureCode VAL scip-inx-4	1
+COL Condition VAL surgical infection xrevention	1
+COL Address2 VAL address_2	1
+COL Address1 VAL 702xnxmainxst	1
+COL ProviderNumber VAL 100x8	1
+COL CountyName VAL monxgomery	1
+COL ZipCode VAL x590x	1
+COL CountyName VAL xhambers	1
+COL PhoneNumber VAL 334x836541	1
+COL Score VAL 9x%	1
+COL State VAL ax	1
+COL Sample VAL 62 patientx	1
+COL Sample VAL 27 paxienxs	1
+COL Stateavg VAL al_amx-1	1
+COL Address1 VAL 2505xuxsxhighwayx431xnorth	1
+COL ZipCode VAL x5957	1
+COL MeasureCode VAL xax-1	1
+COL Sample VAL sample	1
+COL MeasureCode VAL amix1	1
+COL Stateavg VAL al_amix8a	1
+COL MeasureCode VAL pn-xb	1
+COL City VAL montxomery	1
+COL Condition VAL pneumonix	1
+COL Stateavg VAL alxami-7a	1
+COL CountyName VAL crxnshaw	1
+COL ZipCode VAL 3xx94	1
+COL PhoneNumber VAL 2568453x50	1
+COL Sample VAL 1x patients	1
+COL Address1 VAL 301 east 1xth st	1
+COL State VAL xl	1
+COL ProviderNumber VAL 1xx47	1
+COL Stateavg VAL al_scip-inf-3	0
+COL ProviderNumber VAL 10016	0
+COL Address3 VAL empty	0
+COL MeasureName VAL surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)	0
+COL HospitalType VAL acute care hospitals	0
+COL Stateavg VAL al_pn-5c	0
+COL Stateavg VAL al_pn-7	0
+COL CountyName VAL mobile	0
+COL EmergencyService VAL yes	0
+COL MeasureCode VAL ami-3	0
+COL Condition VAL heart failure	0
+COL Stateavg VAL al_pn-2	0
+COL MeasureCode VAL ami-3	0
+COL HospitalName VAL univ of south alabama medical center	0
+COL Address1 VAL 1256 military street south	0
+COL Address3 VAL empty	0
+COL CountyName VAL fayette	0
+COL State VAL al	0
+COL HospitalName VAL marshall medical center south	0
+COL MeasureCode VAL hf-1	0
+COL Sample VAL 0 patients	0
+COL index VAL 92	0
+COL HospitalName VAL baptist medical center south	0
+COL Score VAL 100%	0
+COL City VAL fort payne	0
+COL Score VAL 90%	0
+COL EmergencyService VAL yes	0
+COL index VAL 849	0
+COL CountyName VAL autauga	0
+COL index VAL 547	0
+COL PhoneNumber VAL 2562651000	0
+COL Condition VAL heart failure	0
+COL Sample VAL 167 patients	0
+COL State VAL al	0
+COL HospitalType VAL acute care hospitals	0
+COL HospitalName VAL dale medical center	0
+COL Score VAL empty	0
+COL Address2 VAL empty	0
+COL HospitalName VAL shelby baptist medical center	0
+COL MeasureName VAL surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)	0
+COL CountyName VAL cherokee	0
+COL City VAL opp	0
+COL Address3 VAL empty	0
+COL EmergencyService VAL yes	0
+COL index VAL 776	0
+COL Address2 VAL empty	0
+COL State VAL al	0
+COL HospitalOwner VAL government - hospital district or authority	0
+COL PhoneNumber VAL 2564944000	0
+COL ZipCode VAL 36078	0
+COL Score VAL 97%	0
+COL Address2 VAL empty	0
+COL Address3 VAL empty	0
+COL EmergencyService VAL no	0
+COL MeasureCode VAL scip-vte-1	0
+COL EmergencyService VAL no	0
+COL Stateavg VAL al_ami-5	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL index VAL 161	0
+COL MeasureCode VAL pn-7	0
+COL Address3 VAL empty	0
+COL HospitalOwner VAL voluntary non-profit - private	0
+COL MeasureName VAL heart failure patients given discharge instructions	0
+COL CountyName VAL etowah	0
+COL HospitalName VAL medical center enterprise	0
+COL Condition VAL heart attack	0
+COL Address1 VAL 101 hospital circle	0
+COL Score VAL 40%	0
+COL ZipCode VAL 35976	0
+COL MeasureName VAL surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)	0
+COL HospitalOwner VAL government - state	0
+COL EmergencyService VAL yes	0
+COL Address2 VAL empty	0
+COL Condition VAL heart attack	0
+COL Address2 VAL empty	0

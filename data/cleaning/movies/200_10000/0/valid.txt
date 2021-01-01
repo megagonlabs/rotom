@@ -1,0 +1,200 @@
+COL RatingCount VAL 22,267	1
+COL RatingCount VAL 47,389	1
+COL Duration VAL 1 hr. 32 min.	1
+COL RatingCount VAL 6,025	1
+COL RatingCount VAL 4,872	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 4,811	1
+COL RatingCount VAL 199,595	1
+COL RatingCount VAL 1,218	1
+COL Id VAL the_fault_in_our_stars	1
+COL RatingCount VAL 102,876	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 8,457	1
+COL Genre VAL Horror,Mystery & Suspense,Classics,Science Fiction & Fantasy	1
+COL Year VAL 1994 1995 1996	1
+COL Duration VAL 	1
+COL RatingCount VAL 4,332	1
+COL RatingCount VAL 30,727	1
+COL RatingCount VAL 9,403	1
+COL RatingCount VAL 82,741	1
+COL RatingCount VAL 21,873	1
+COL RatingCount VAL 326,763	1
+COL RatingCount VAL 2,296	1
+COL RatingCount VAL 1,525	1
+COL Id VAL 1152276-rent	1
+COL RatingCount VAL 1,514	1
+COL RatingValue VAL 8.0	1
+COL RatingCount VAL 1,146	1
+COL RatingCount VAL 251,194	1
+COL RatingCount VAL 24,044	1
+COL RatingCount VAL 3,160	1
+COL Release Date VAL May 1, 1988 Wide	1
+COL RatingCount VAL 1,421	1
+COL RatingCount VAL 1,428	1
+COL RatingCount VAL 230,805	1
+COL RatingCount VAL 13,066	1
+COL RatingCount VAL 31,863	1
+COL RatingCount VAL 214,071	1
+COL RatingCount VAL 1,804	1
+COL RatingCount VAL 59,313	1
+COL RatingCount VAL 2,367	1
+COL RatingCount VAL 33,623	1
+COL RatingCount VAL 9,185	1
+COL RatingCount VAL 12,117	1
+COL RatingCount VAL 5,617	1
+COL RatingCount VAL 73,385	1
+COL RatingCount VAL 3,824	1
+COL RatingCount VAL 1,771	1
+COL RatingValue VAL 5.7/10,6.6/10	1
+COL RatingCount VAL 130,102	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 2,032	1
+COL RatingCount VAL 91,273	1
+COL RatingCount VAL 35,602	1
+COL RatingCount VAL 1,071	1
+COL RatingCount VAL 1,423	1
+COL RatingCount VAL 29,602	1
+COL Release Date VAL Sep 18, 2009 Wide	1
+COL RatingCount VAL 9,243	1
+COL RatingCount VAL 347,852	1
+COL RatingCount VAL 255,807	1
+COL RatingCount VAL 515,940	1
+COL RatingCount VAL 89,173	1
+COL Actors VAL actors	1
+COL RatingCount VAL 5,088	1
+COL RatingValue VAL 5.0	1
+COL RatingCount VAL 5,096	1
+COL RatingValue VAL 7.0	1
+COL RatingValue VAL 7.0	1
+COL RatingCount VAL 177,645	1
+COL Creator VAL Tania Rose,William Rose	1
+COL Duration VAL 1 hr. 48 min.	1
+COL Year VAL 1960 1961 1962	1
+COL RatingCount VAL 6,084	1
+COL RatingCount VAL 196,387	1
+COL RatingCount VAL 20,299	1
+COL RatingCount VAL 68,929	1
+COL RatingCount VAL 101,514	1
+COL RatingCount VAL 2,119	1
+COL RatingCount VAL 16,389	1
+COL RatingCount VAL 2,273	1
+COL RatingCount VAL 5,747	1
+COL Duration VAL 	1
+COL Creator VAL Christopher Crosby,Mel Friedman,Sheldon Lettich	1
+COL Description VAL This New York-made independent film, the auspicious debut of talented filmmaker Abel Ferrara, who also starred in the film and wrote most of its songs under the moniker 'Jimmy Laine,' offers many genuinely disturbing, graphic shocks as it tells the story of a Big Apple artist living on the edge of the city's fringe. Motivated by his abiding terror of ending up a homeless, drunken vagrant like his father, and suffering from terrifying hallucinations, he is driven to begin murdering homeless,hoboes with a power drill. Eventually his compulsion takes a paranoid twist and he begins murdering anyone who wronged him in the past.	1
+COL RatingCount VAL 223,149	1
+COL RatingCount VAL 1,164	1
+COL RatingCount VAL 8,868	1
+COL Year VAL 1999 2000 2001	1
+COL RatingValue VAL 3.0	1
+COL RatingCount VAL 92,798	1
+COL RatingCount VAL 2,465	1
+COL RatingCount VAL 201,892	1
+COL RatingCount VAL 1,833	1
+COL RatingCount VAL 27,057	1
+COL RatingCount VAL 444,293	1
+COL RatingCount VAL 167,512	1
+COL RatingCount VAL 24,443	1
+COL RatingCount VAL 178,054	1
+COL RatingCount VAL 54,062	1
+COL Genre VAL Drama	0
+COL RatingValue VAL 7.4	0
+COL Name VAL Ziegfeld Follies	0
+COL Genre VAL Action,Adventure,Comedy	0
+COL Id VAL tt0071230	0
+COL Year VAL 1976	0
+COL Language VAL English,Hungarian,Spanish,French	0
+COL Director VAL Robert Towne	0
+COL Description VAL An in-depth look at the inner-workings of the Church of Scientology.	0
+COL RatingCount VAL 226	0
+COL Id VAL tt0118887	0
+COL Cast VAL Paul Watson,Robert Hunter,Patrick Moore,Farley Mowat,Ronald Colby,Martin Sheen,Sharyn Van Der Gulik	0
+COL Release Date VAL 22 April 1988 (USA)	0
+COL RatingValue VAL 5.4	0
+COL RatingValue VAL 7.4	0
+COL Country VAL USA	0
+COL Country VAL USA	0
+COL RatingCount VAL 27	0
+COL Year VAL 2014	0
+COL Cast VAL Johnny Depp,Penélope Cruz,Geoffrey Rush,Ian McShane,Kevin McNally,Sam Claflin,Astrid Bergès-Frisbey,Stephen Graham,Keith Richards,Richard Griffiths,Jonny Rees,Damian O'Hare,Óscar Jaenada,Anton Lesser,Roger Allam	0
+COL Director VAL Dan Rush	0
+COL Id VAL tt1210166	0
+COL Cast VAL James Gagnon,Benjamin Leighton	0
+COL Year VAL 2015	0
+COL Id VAL tt0373051	0
+COL Name VAL One Missed Call	0
+COL Duration VAL 84 min	0
+COL Year VAL 1968	0
+COL Country VAL Japan,USA	0
+COL Actors VAL Michael Douglas,Hal Holbrook,Yaphet Kotto	0
+COL Id VAL tt3060492	0
+COL Cast VAL George Clooney,Shailene Woodley,Amara Miller,Nick Krause,Patricia Hastie,Grace A. Cruz,Kim Gennaula,Karen Kuioka Hironaga,Carmen Kaichi,Kaui Hart Hemmings,Beau Bridges,Matt Corboy,Matt Esecson,Michael Ontkean,Stanton Johnston	0
+COL Duration VAL 101 min	0
+COL Id VAL tt3559368	0
+COL Actors VAL Shane Brolly,Vincent D'Onofrio,Gary Sinise	0
+COL Filming Locations VAL Washington Mews, Manhattan, New York City, New York, USA	0
+COL ReviewCount VAL 232 user,136 critic	0
+COL Country VAL UK,USA	0
+COL Duration VAL 175 min	0
+COL Genre VAL Adventure,Comedy	0
+COL Country VAL USA	0
+COL Duration VAL 93 min	0
+COL Actors VAL 	0
+COL Cast VAL Clive Owen,Ioan Gruffudd,Mads Mikkelsen,Joel Edgerton,Hugh Dancy,Ray Winstone,Ray Stevenson,Keira Knightley,Stephen Dillane,Stellan Skarsgård,Til Schweiger,Sean Gilder,Pat Kinevane,Ivano Marescotti,Ken Stott	0
+COL ReviewCount VAL 456 user,428 critic	0
+COL Id VAL tt1971325	0
+COL Director VAL Rodney McDonald	0
+COL Year VAL 2003	0
+COL Duration VAL 78 min	0
+COL Creator VAL Grace Perkins,Oliver H.P. Garrett	0
+COL Country VAL USA	0
+COL Language VAL English	0
+COL Actors VAL Reese Witherspoon,Patrick Dempsey,Josh Lucas	0
+COL Genre VAL Comedy,Romance	0
+COL Release Date VAL 21 December 1979 (USA)	0
+COL Cast VAL Burt Young,Adam Sandler,Scott LaRose,Lisa Collins,Tom Hodges,Adam Rifkin,Peter Berg,Valerie Breiman,Joe Gieb,Ricky Paull Goldin,Warren Selko,Steven Brill,Billy Zane,Terry Moore,Kim Ferrill	0
+COL Country VAL USA	0
+COL RatingCount VAL 228	0
+COL Release Date VAL 18 September 1937 (USA)	0
+COL RatingValue VAL 5.5	0
+COL ReviewCount VAL 83 user,93 critic	0
+COL Language VAL English	0
+COL RatingCount VAL 228	0
+COL Release Date VAL 15 October 2004 (USA)	0
+COL Director VAL Josh Stolberg	0
+COL Country VAL USA	0
+COL Release Date VAL 22 April 1935 (USA)	0
+COL Genre VAL Animation,Adventure,Comedy	0
+COL Name VAL Terminator Genisys	0
+COL Creator VAL Stephen P. Lindsey,Kaneto Shindô	0
+COL Id VAL tt1320253	0
+COL RatingValue VAL 7.7	0
+COL Id VAL tt3172532	0
+COL Language VAL English,Spanish	0
+COL Creator VAL Sam Shepard	0
+COL Actors VAL Peter Sellers,George C. Scott,Sterling Hayden	0
+COL Language VAL English	0
+COL Country VAL USA,UK	0
+COL Cast VAL Chris Evans,Kang-ho Song,Ed Harris,John Hurt,Tilda Swinton,Jamie Bell,Octavia Spencer,Ewen Bremner,Ah-sung Ko,Alison Pill,Luke Pasqualino,Vlad Ivanov,Adnan Haskovic,Emma Levie,Steve Park	0
+COL Filming Locations VAL Altadena, California, USA	0
+COL Duration VAL 104 min	0
+COL Description VAL The adventures of the kidnapped boy David Balfour and his new friend, the former Jacobite rebel Alan Breck Stewart, in Scotland in 1752.	0
+COL Creator VAL Peter Steinfeld,Allan Loeb	0
+COL Release Date VAL 2016 (USA)	0
+COL Country VAL USA	0
+COL Filming Locations VAL Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA	0
+COL ReviewCount VAL 272 user,294 critic	0
+COL RatingValue VAL 5.5	0
+COL Actors VAL 	0
+COL ReviewCount VAL 54 user,58 critic	0
+COL ReviewCount VAL 27 user,8 critic	0
+COL Actors VAL Phillip Rhee,Mirelly Taylor,Max Gail	0
+COL Filming Locations VAL 1700 E. Ocean Blvd, Long Beach, California, USA	0
+COL Creator VAL Chris Sanders,Chris Sanders	0
+COL ReviewCount VAL 30 user,17 critic	0
+COL Duration VAL 90 min	0
+COL RatingValue VAL 7.4	0
+COL Actors VAL Barbara Hershey,David Carradine,Barry Primus	0
+COL Actors VAL Ben Kingsley,Jared Harris,Nick Frost	0
+COL Actors VAL Charlie Bewley,Lielle Tova Blinkoff,Alan Cumming	0

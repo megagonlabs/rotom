@@ -1,0 +1,200 @@
+COL article_jcreated_at VAL 1/1/10	1
+COL article_pagination VAL 43-8	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 8/1/06	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 12/1/13	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_jcreated_at VAL 1/1/14	1
+"COL author_list VAL {""O Ceki̤"",""C Batman""}"	1
+COL article_jcreated_at VAL 5/1/14	1
+COL article_jcreated_at VAL 11/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 5/1/11	1
+COL article_jcreated_at VAL 1/1/15	1
+COL article_pagination VAL 71-7	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 11/1/12	1
+COL article_pagination VAL 81-3	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/12	1
+"COL author_list VAL {""Anders Halling"",""H̴kan Odeberg"",""Henrik Forssell"",""Jacob Odeberg"",""Marie-Louise Persson"",""Lennart R̴stam"",""Ivar Vaara"",""Ulf Lindblad"",""Michael Freitag""}"	1
+COL article_jcreated_at VAL 1/1/15	1
+"COL author_list VAL {""Eunice Molinar-Toribio"",""Benjam�_n Pi̱a"",""Livia G�_mez"",""Jara P̩rez-Jim̩nez"",""Marta Casado"",""Sara Ramos-Romero"",""Pere Clap̩s"",""Josep Llu�_s Torres""}"	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 7/1/07	1
+COL article_jcreated_at VAL 1/1/05	1
+COL journal_issn VAL Feb-14	1
+COL article_jcreated_at VAL 6/1/01	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 5/1/15	1
+COL article_jcreated_at VAL 1/1/08	1
+COL article_jcreated_at VAL 10/1/14	1
+COL article_jissue VAL 	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 1/1/10	1
+COL article_jcreated_at VAL 4/2/15	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 9/1/04	1
+"COL author_list VAL {""D. Russell"",""P. Linck"",""R. Hibbs"",""I. Russell"",""R. Muntz"",""N. H. Williams"",""B. C1  - Fr̴n RCT-șkningen CN  - Pubmed DA  - Dec DO  - 10.1093/fampra/cmh612 DP  - NLM ET  - 2004/11/09 Hounsome"",""R. T. Edwards"",""C. Wilkinson""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 12/1/14	1
+COL article_jcreated_at VAL 3/1/10	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 5/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_pagination VAL 3541-4	1
+COL article_jcreated_at VAL 1/1/13	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 9/1/09	1
+COL article_jcreated_at VAL 3/1/09	1
+COL article_jcreated_at VAL 10/1/13	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 8/1/08	1
+"COL author_list VAL {""S��ren Brostr��m"",""Gunnar Lose""}"	1
+COL article_jissue VAL 	1
+"COL author_list VAL {""Diana Duro"",""Augusto Gouḷo"",""Gon̤alo Santos"",""Nuno Mendon̤a"",""Isabel Santana"",""Eg�_dio Machado""}"	1
+COL article_jcreated_at VAL 9/1/07	1
+"COL author_list VAL {""E.-B. Malmgren-Olsson"",""K. Armelius"",""B.-��. Armelius""}"	1
+COL article_jcreated_at VAL 3/1/14	1
+COL article_jcreated_at VAL 7/1/03	1
+COL article_jcreated_at VAL 12/1/08	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 7/1/12	1
+COL journal_title VAL Nowoczesne biomateria��y jako opatrunki hemostatyczne w chirurgii oszczedzajacej miazsz nerki--model zwierzecy. Doniesienie wstepne.	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/05	1
+COL article_jcreated_at VAL 11/1/10	1
+COL article_jcreated_at VAL 1/1/03	1
+COL article_jissue VAL 	1
+COL article_jcreated_at VAL 8/1/10	1
+COL article_jcreated_at VAL 1/1/07	1
+COL article_jcreated_at VAL 1/1/12	1
+COL article_jcreated_at VAL 7/1/14	1
+COL article_jcreated_at VAL 7/1/01	1
+COL article_jcreated_at VAL 1/1/04	1
+COL article_jvolumn VAL 	1
+COL article_jcreated_at VAL 1/1/09	1
+COL article_jcreated_at VAL 3/1/08	1
+COL article_jcreated_at VAL 1/1/11	1
+COL article_jcreated_at VAL 1/1/14	1
+COL article_jcreated_at VAL 2/1/12	1
+COL article_pagination VAL 43-4	1
+COL article_jissue VAL 	1
+COL article_title VAL The Antiseptic Efficacy and Tolerability of Lavasept� 0.04% on Acute Traumatic Wounds	1
+COL article_jcreated_at VAL 5/1/01	1
+"COL author_list VAL {""Philipp Martius"",""Anna Buchheim"",""Peter Buchheim"",""Susanne H���rz"",""Michael Rentrop"",""Cord Benecke"",""Peter Schuster"",""Melitta Fischer-Kern"",""Stephan Doering""}"	1
+COL article_jcreated_at VAL 1/1/05	1
+COL id VAL 720775	0
+"COL author_list VAL {""Lucy Bowes"",""Barbara Maughan"",""Avshalom Caspi"",""Louise Arseneault"",""Alan Taylor"",""Terrie E Moffitt""}"	0
+COL id VAL 146560	0
+COL article_language VAL eng	0
+COL jounral_abbreviation VAL Arch.Gen.Psychiatry	0
+COL journal_title VAL Ann Rheum Dis	0
+COL journal_title VAL Supply Chain Management	0
+COL jounral_abbreviation VAL Circulation	0
+COL article_title VAL Evaluation of an Internet Support Group for Women with Primary Breast Cancer	0
+COL article_jissue VAL 0	0
+COL article_language VAL eng	0
+COL id VAL 388872	0
+"COL author_list VAL {""J. Le"",""B. Riegel"",""B. J. Bobrow"",""A. L. Blewer"",""B. S. Abella"",""M. Leary"",""D. Buckler""}"	0
+COL journal_issn VAL 1525-1446	0
+COL article_language VAL 	0
+COL article_jcreated_at VAL 1/1/01	0
+COL id VAL 904889	0
+COL journal_issn VAL 	0
+COL journal_issn VAL 2165-8242	0
+COL article_title VAL Use of a Brief Phone Call After ED Discharge	0
+COL article_jissue VAL 4	0
+COL id VAL 187769	0
+COL journal_title VAL Oral surgery, oral medicine, and oral pathology	0
+COL journal_title VAL Endocrinology	0
+COL article_jcreated_at VAL 1/1/99	0
+COL article_jissue VAL 6	0
+COL journal_issn VAL 0042-9686	0
+COL article_jissue VAL 9	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL Cervical occupational hazards in ophthalmic plastic surgery	0
+COL journal_issn VAL 1559-7016	0
+COL jounral_abbreviation VAL 	0
+COL journal_title VAL The British journal of social psychology / the British Psychological Society	0
+COL journal_title VAL Chest	0
+"COL article_title VAL Employing a youth-led adult-guided framework: ""why drive high?"" social marketing campaign."	0
+COL jounral_abbreviation VAL 	0
+COL article_title VAL The concept of neurosis in a cross-cultural perspective	0
+COL id VAL 213794	0
+COL id VAL 399134	0
+"COL author_list VAL {""V. Hirsh"",""J.Y. Han"",""F. Blackhall"",""S. Iyer"",""D.W. Kim"",""A. Shaw"",""A. Reisman"",""K. Wilner"",""H. Nokihara"",""B. Besse""}"	0
+COL jounral_abbreviation VAL 	0
+COL id VAL 838034	0
+COL article_jvolumn VAL 32	0
+"COL author_list VAL {""B. E. Perron"",""Q. Fu"",""L. T. Wu"",""M. G. Vaughn""}"	0
+COL article_jvolumn VAL 28	0
+COL id VAL 910604	0
+COL id VAL 900624	0
+COL jounral_abbreviation VAL 	0
+COL article_jissue VAL 1	0
+COL article_title VAL A comprehensive assessment of maternal deaths in Argentina: translating multicentre collaborative research into action.	0
+COL article_title VAL Lycopene metabolite, apo-10'-lycopenoic acid, inhibits diethylnitrosamine-initiated, high fat diet-promoted hepatic inflammation and tumorigenesis in mice.	0
+COL article_title VAL Say yes? Say no?	0
+"COL author_list VAL {""C. L. Romano"",""G. Mineo"",""C. Bonora"",""D. Romano""}"	0
+COL id VAL 233544	0
+COL id VAL 245200	0
+COL jounral_abbreviation VAL Jama	0
+COL article_jissue VAL 5	0
+COL jounral_abbreviation VAL J Am Med Inform Assoc	0
+COL article_jvolumn VAL 506	0
+COL article_pagination VAL 53-62	0
+COL article_pagination VAL 925-31	0
+COL article_title VAL Type I and II endometrial cancers: have they different risk factors?	0
+COL article_pagination VAL 1068-1074	0
+COL article_title VAL Cardiac MRI in ischemic heart disease	0
+COL article_jvolumn VAL 3	0
+COL journal_title VAL Transplantation	0
+COL article_pagination VAL 249-50	0
+COL id VAL 981412	0
+COL jounral_abbreviation VAL Acta Derm. Venereol.	0
+COL article_title VAL The value of a continuous ambulatory activity monitor to quantify the amount and intensity of daily activity in patients with rheumatoid arthritis.	0
+COL journal_issn VAL 1399-3038	0
+COL jounral_abbreviation VAL Am J Orthod Dentofacial Orthop	0
+COL jounral_abbreviation VAL Scand. J. Rheumatol.	0
+COL article_title VAL Epidemiology of sporting injuries among elite soccer players: A longitudinal study	0
+COL author_list VAL {NULL}	0
+COL article_language VAL 	0
+COL article_language VAL 	0
+COL article_jvolumn VAL 37	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 999-1004	0
+COL article_language VAL 	0
+COL author_list VAL {NULL}	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+COL jounral_abbreviation VAL 	0
+COL article_pagination VAL 221-32	0
+COL article_jissue VAL 3	0
+COL article_title VAL Impact of education and provision of complementary feeding on growth and morbidity in children less than 2 years of age in developing countries: a systematic review.	0
+COL article_jvolumn VAL 20	0
+COL jounral_abbreviation VAL Public Health Genomics	0
+COL article_language VAL jpn	0
+COL article_jissue VAL 6	0
+"COL author_list VAL {""H. Q. Xu"",""M. Snyder"",""S. Fyfitch"",""A. Cheta"",""G. Bezdikian"",""V. N. Shah"",""T. R. Liszkai"",""H. Charkas"",""N. Gupta"",""Y. Shoji"",""C. S. Bajwa"",""C. May"",""M. Sanwarwala"",""M. Brumovsky"",""I. Ezekoye""}"	0
+COL article_title VAL Our Health Counts -- Unmasking Health and Social Disparities among Urban Aboriginal People in Ontario.	0
+COL jounral_abbreviation VAL J. Med. Chem.	0
+COL article_title VAL Hoarse voice in adults: An evidence-based approach to the 12 minute consultation.	0
+"COL author_list VAL {""Stephen A Geraci"",""Mohammed Kazi"",""Christian A Koch""}"	0
+COL article_title VAL Use of Job Design to Reduce Mechanical Stress on the Back	0
+COL article_title VAL The impact of emotional and social support on the quality of life, depression, and disability among us adults with chronic obstructive pulmonary disorder (COPD): A propensity score analysis	0
+COL article_title VAL Follow-up care of patients treated for breast cancer: a structured review	0
