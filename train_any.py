@@ -60,7 +60,6 @@ def get_cls_config(taskname):
         return config,\
                DittoDataset,\
                DittoDataset
-               # partial(DittoDataset, balance=True),\
     elif 'cleaning_' in taskname:
         LL = taskname.split('_')
         prefix, size, idx = LL[0], LL[-2], LL[-1]
@@ -164,6 +163,8 @@ if __name__=="__main__":
     parser.add_argument("--u_lambda", type=float, default=10.0)
     # for no ssl ablation
     parser.add_argument("--no_ssl", dest="no_ssl", action="store_true")
+    # for dataset balancing
+    parser.add_argument("--balance", dest="balance", action="store_true")
 
     hp = parser.parse_args()
 
@@ -185,6 +186,9 @@ if __name__=="__main__":
 
     config, Dataset, TestDataset = get_cls_config(hp.task)
 
+    if hp.balance:
+        Dataset = partial(Dataset, balance=hp.balance)
+
     task = config['name']
     vocab = config['vocab']
     trainset = config['trainset']
@@ -200,7 +204,7 @@ if __name__=="__main__":
     train_dataset = Dataset(trainset, vocab, task,
             lm=hp.lm, max_len=hp.max_len, size=hp.size)
 
-    valid_dataset = Dataset(validset, vocab, task,
+    valid_dataset = TestDataset(validset, vocab, task,
                                     lm=hp.lm, max_len=hp.max_len, size=hp.size)
     test_dataset = TestDataset(testset, vocab, task,
                                    lm=hp.lm, max_len=hp.max_len)

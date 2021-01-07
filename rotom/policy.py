@@ -54,7 +54,7 @@ class AugmentPolicyNetV4(nn.Module):
     def __init__(self, num_classes, device='cuda', lm='distilbert', bert_path=None):
         super().__init__()
         self.device = device
-        self.bert = get_lm(lm=lm, bert_path=bert_path)
+        # self.bert = get_lm(lm=lm, bert_path=bert_path)
         if num_classes == 0:
             num_classes = 1
         self.num_classes = num_classes
@@ -63,12 +63,14 @@ class AugmentPolicyNetV4(nn.Module):
         self.fc = nn.Linear(hidden_size, num_classes)
         self.hardness = nn.Linear(hidden_size, 1)
 
-    def forward(self, x, y, prediction=None):
+    def forward(self, x, y, x_enc=None, prediction=None):
         """Generate the random augment samples"""
         x = x.to(self.device)
         y = y.to(self.device)
-        x_enc = self.bert(x)[0] # (bs, seq_len, hs)
-        x_enc = x_enc[:, 0, :] # (bs, hs)
+
+        if x_enc is None:
+            x_enc = self.bert(x)[0] # (bs, seq_len, hs)
+            x_enc = x_enc[:, 0, :] # (bs, hs)
 
         if prediction is None:
             # return the uncertainty

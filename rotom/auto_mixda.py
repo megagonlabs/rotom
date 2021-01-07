@@ -121,12 +121,9 @@ def auto_mixda(model, batch, policy=None, get_ind=False, no_ssl=False):
         # y = y_onehot
 
         # the policy model generate the weights of each example
-        # debug:
+        ind = policy(x[:bs*4], y, x_enc=x_enc[:bs*4], prediction=logits.softmax(dim=-1))
         if no_ssl:
             ind[-bs:] = torch.zeros(bs,).to(model.device)
-            ind = policy(x[:bs*3], y, prediction=logits.softmax(dim=-1))
-        else:
-            ind = policy(x[:bs*4], y, prediction=logits.softmax(dim=-1))
 
     # consider three types of tasks: tagging, regression, and classification
     if 'sts-b' in taskname.lower():
@@ -263,7 +260,7 @@ def train(model,
                         p.data = v + sign * epsilon * g
                     else:
                         p.data = v
-            loss_pm = auto_mixda(model, batch, policy=policy) # using model's batch
+            loss_pm = auto_mixda(model, batch, policy=policy, no_ssl=no_ssl) # using model's batch
             loss_pm = loss_pm * -sign / 2 / epsilon * lr[0]
             if fp16:
                 with amp.scale_loss(loss_pm, policy_optimizer) as scaled_loss:
@@ -283,7 +280,7 @@ def train(model,
 
         # phase two: update the model parameters
         optimizer.zero_grad()
-        loss, ind = auto_mixda(model, batch, policy=policy, get_ind=True)
+        loss, ind = auto_mixda(model, batch, policy=policy, no_ssl=no_ssl, get_ind=True)
         if fp16:
             with amp.scale_loss(loss, optimizer) as scaled_loss:
                 scaled_loss.backward()
