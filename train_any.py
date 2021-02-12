@@ -51,9 +51,6 @@ def get_cls_config(taskname):
                 'vocab': vocab}
 
         config['unlabeled'] = config['trainset']
-        # use the balanced training set
-        # config['trainset'] += '.balance'
-        # ignore the validation set
         config['validset'] = config['trainset']
         return config,\
                DittoDataset,\
