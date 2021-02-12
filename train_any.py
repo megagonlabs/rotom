@@ -6,8 +6,6 @@ import numpy as np
 import random
 import torch
 
-sys.path.insert(0, "Snippext_public")
-
 from rotom.dataset import TextCLSDataset
 from ditto.dataset import DittoDataset
 from functools import partial
@@ -204,6 +202,7 @@ if __name__=="__main__":
     train_dataset = Dataset(trainset, vocab, task,
             lm=hp.lm, max_len=hp.max_len, size=hp.size)
 
+    # valid_dataset = Dataset(validset, vocab, task,
     valid_dataset = TestDataset(validset, vocab, task,
                                     lm=hp.lm, max_len=hp.max_len, size=hp.size)
     test_dataset = TestDataset(testset, vocab, task,
@@ -221,8 +220,12 @@ if __name__=="__main__":
                              test_dataset,
                              hp,
                              run_tag)
-    elif hp.da == 'auto_ssl':
-        from rotom.auto_mixda import initialize_and_train
+    elif hp.da == 'auto_ssl' or hp.da == 'auto_filter_weight':
+        if 'em_' in task:
+            # a lightweight version for faster EM experiments
+            from rotom.auto_mixda import initialize_and_train
+        else:
+            from rotom.auto_filter_weight import initialize_and_train
 
         # the augmented training set
         w_aug_set = Dataset(trainset, vocab, task,
@@ -250,42 +253,13 @@ if __name__=="__main__":
                              valid_dataset,
                              test_dataset,
                              hp, run_tag)
-    elif hp.da == 'auto_filter_weight':
-        from rotom.auto_filter_weight import initialize_and_train
-
-        # the augmented training set
-        w_aug_set = Dataset(trainset, vocab, task,
-                size=hp.size,
-                lm=hp.lm, max_len=hp.max_len, augment_op=ops[0])
-
-        s_aug_set = Dataset(trainset, vocab, task,
-                size=hp.size,
-                lm=hp.lm, max_len=hp.max_len, augment_op=ops[1])
-
-        # unlabeled dataset and augmented
-        unlabeled = config['unlabeled']
-        u_set = Dataset(unlabeled, vocab, task,
-                                   max_len=hp.max_len,
-                                   lm=hp.lm,
-                                   augment_op=ops[2],
-                                   size=10000)
-
-        # train the model
-        initialize_and_train(config,
-                             train_dataset,
-                             w_aug_set,
-                             s_aug_set,
-                             u_set,
-                             valid_dataset,
-                             test_dataset,
-                             hp, run_tag)
-    else: # normal DA
+    else: # normal DA or InvDA
         augment_dataset = Dataset(trainset, vocab, task,
                 lm=hp.lm, max_len=hp.max_len,
                 augment_op=hp.da, size=hp.size)
 
         if abs(hp.alpha_aug) < 1e-6:
-            # Pure DA or no DA
+            # no DA
             from snippext.baseline import initialize_and_train
             initialize_and_train(config,
                                  augment_dataset,
@@ -294,7 +268,7 @@ if __name__=="__main__":
                                  hp,
                                  run_tag)
         else:
-            # MixDA
+            # MixDA or InvDA
             from snippext.mixda import initialize_and_train
             initialize_and_train(config,
                                  train_dataset,

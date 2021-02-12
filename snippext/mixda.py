@@ -11,10 +11,10 @@ import random
 
 from torch.utils import data
 from .model import MultiTaskNet
-from snippext.train_util import *
-from snippext.dataset import *
+from .train_util import *
+from .dataset import *
 from tensorboardX import SummaryWriter
-from transformers import AdamW, get_linear_schedule_with_warmup
+from transformers import AdamW, get_constant_schedule_with_warmup, get_linear_schedule_with_warmup
 from apex import amp
 
 # criterion for tagging
@@ -26,49 +26,45 @@ classifier_criterion = nn.CrossEntropyLoss()
 # criterion for regression
 regression_criterion = nn.MSELoss()
 
-def mixda(model, batch, alphas=[]):
+def mixda(model, batch, alpha_aug=0.4):
     """Perform one iteration of MixDA
 
     Args:
         model (MultiTaskNet): the model state
         batch (tuple): the input batch
-        alphas (list of float, Optional): the parameters for MixDA
+        alpha_aug (float, Optional): the parameter for MixDA
 
     Returns:
         Tensor: the loss (of 0-d)
     """
     _, x, _, _, mask, y, _, taskname = batch
     taskname = taskname[0]
-
-    # number of operators
-    num_ops = len(alphas) + 1
-
     # two batches
-    batch_size = x.size()[0] // num_ops
+    batch_size = x.size()[0] // 2
 
-    # get the BERT encoding
-    x_enc = model(x=x, task=taskname, get_enc=True)
-    # x_enc = model(x=x, task=taskname, get_emb=True)
+    # augmented
+    aug_x = x[batch_size:]
+    aug_y = y[batch_size:]
+    aug_lam = np.random.beta(alpha_aug, alpha_aug)
 
-    x_enc_now = x_enc[:batch_size]
-    y = y[:batch_size]
+    # labeled
+    x = x[:batch_size]
 
-    for i, alpha in enumerate(alphas):
-        x_enc_next = x_enc[batch_size * (i + 1): batch_size * (i + 2)]
-        # sample alpha
-        aug_lam = np.random.beta(alpha, alpha)
-        # interpolate
-        x_enc_now = x_enc_now * aug_lam + x_enc_next * (1.0 - aug_lam)
-
-    # forward
-    logits, y, _ = model(y=y,
-                         x_enc=x_enc_now,
-                         # x_emb=x_enc_now,
+    # back prop
+    logits, y, _ = model(x, y,
+                         augment_batch=(aug_x, aug_lam),
                          task=taskname)
-    logits = logits.view(-1, logits.shape[-1])
+    if 'sts-b' in taskname:
+        logits = logits.view(-1)
+    else:
+        logits = logits.view(-1, logits.shape[-1])
+
+    aug_y = y[batch_size:]
+    y = y[:batch_size]
+    aug_y = y.view(-1)
     y = y.view(-1)
 
-    # consider three types of tasks: tagging, regression, and classification
+    # cross entropy
     if 'tagging' in taskname:
         criterion = tagging_criterion
     elif 'sts-b' in taskname:
@@ -76,11 +72,14 @@ def mixda(model, batch, alphas=[]):
     else:
         criterion = classifier_criterion
 
-    loss = criterion(logits, y)
+    # mix the labels
+    loss = criterion(logits, y) * aug_lam + \
+           criterion(logits, aug_y) * (1 - aug_lam)
+
     return loss
 
 
-def create_mixda_batches(l_set, policy, batch_size=16):
+def create_mixda_batches(l_set, aug_set, batch_size=16):
     """Create batches for mixda
 
     Each batch is the concatenation of (1) a labeled batch and (2) an augmented
@@ -88,7 +87,7 @@ def create_mixda_batches(l_set, policy, batch_size=16):
 
     Args:
         l_set (SnippextDataset): the train set
-        policy (SnippextDataset): the augmentation policy
+        aug_set (SnippextDataset): the augmented train set
         batch_size (int, optional): batch size (of each component)
 
     Returns:
@@ -97,48 +96,47 @@ def create_mixda_batches(l_set, policy, batch_size=16):
     mixed_batches = []
     num_labeled = len(l_set)
     l_index = np.random.permutation(num_labeled)
-    num_ops = len(policy['ops'])
 
-    sub_batches = [[] for _ in range(num_ops)]
+    l_batch = []
+    l_batch_aug = []
     padder = l_set.pad
 
     for i, idx in enumerate(l_index):
-        for j, op in enumerate(policy['ops']):
-            sub_batches[j].append(l_set.get(idx, op))
+        l_batch.append(l_set[idx])
+        l_batch_aug.append(aug_set[idx])
 
-        if len(sub_batches[0]) == batch_size or i == len(l_index) - 1:
-            batch = []
-            for sb in sub_batches:
-                batch += sb
-            mixed_batches.append(padder(batch))
-            for sb in sub_batches:
-                sb.clear()
+        if len(l_batch) == batch_size or i == len(l_index) - 1:
+            batches = l_batch + l_batch_aug
+            mixed_batches.append(padder(batches))
+            l_batch.clear()
+            l_batch_aug.clear()
 
     random.shuffle(mixed_batches)
     return mixed_batches
 
 
-def train(model, l_set, policy, optimizer,
+def train(model, l_set, aug_set, optimizer,
           scheduler=None,
           fp16=False,
-          batch_size=32):
+          batch_size=32,
+          alpha_aug=0.8):
     """Perform one epoch of MixDA
 
     Args:
         model (MultiTaskModel): the model state
         train_dataset (SnippextDataset): the train set
-        policy (Dict): the augmentation policy
+        augment_dataset (SnippextDataset): the augmented train set
         optimizer (Optimizer): Adam
         fp16 (boolean, Optional): whether to use fp16
         batch_size (int, Optional): batch size
+        alpha_aug (float, Optional): the alpha for MixDA
 
     Returns:
         None
     """
     mixda_batches = create_mixda_batches(l_set,
-                                         policy,
+                                         aug_set,
                                          batch_size=batch_size)
-    alphas = policy['alphas']
 
     model.train()
     for i, batch in enumerate(mixda_batches):
@@ -149,7 +147,7 @@ def train(model, l_set, policy, optimizer,
 
         # perform mixmatch
         optimizer.zero_grad()
-        loss = mixda(model, batch, alphas)
+        loss = mixda(model, batch, alpha_aug)
         if fp16:
             with amp.scale_loss(loss, optimizer) as scaled_loss:
                 scaled_loss.backward()
@@ -184,7 +182,7 @@ def train(model, l_set, policy, optimizer,
 
 def initialize_and_train(task_config,
                          trainset,
-                         policy,
+                         augmentset,
                          validset,
                          testset,
                          hp,
@@ -194,7 +192,7 @@ def initialize_and_train(task_config,
     Args:
         task_config (dictionary): the configuration of the task
         trainset (SnippextDataset): the training set
-        policy (Dict): the data augmentation policy
+        augmentset (SnippextDataset): the augmented training set
         validset (SnippextDataset): the validation set
         testset (SnippextDataset): the testset
         hp (Namespace): the parsed hyperparameters
@@ -207,12 +205,12 @@ def initialize_and_train(task_config,
 
     # iterators for dev/test set
     valid_iter = data.DataLoader(dataset=validset,
-                                 batch_size=hp.batch_size,
+                                 batch_size=hp.batch_size * 4,
                                  shuffle=False,
                                  num_workers=0,
                                  collate_fn=padder)
     test_iter = data.DataLoader(dataset=testset,
-                                 batch_size=hp.batch_size,
+                                 batch_size=hp.batch_size * 4,
                                  shuffle=False,
                                  num_workers=0,
                                  collate_fn=padder)
@@ -222,11 +220,11 @@ def initialize_and_train(task_config,
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     if device == 'cpu':
         model = MultiTaskNet([task_config], device,
-                         lm=hp.lm, bert_path=hp.bert_path)
+                         hp.finetuning, lm=hp.lm, bert_path=hp.bert_path)
         optimizer = AdamW(model.parameters(), lr=hp.lr)
     else:
         model = MultiTaskNet([task_config], device,
-                         lm=hp.lm, bert_path=hp.bert_path).cuda()
+                         hp.finetuning, lm=hp.lm, bert_path=hp.bert_path).cuda()
         optimizer = AdamW(model.parameters(), lr=hp.lr)
         if hp.fp16:
             model, optimizer = amp.initialize(model, optimizer, opt_level='O2')
@@ -234,8 +232,10 @@ def initialize_and_train(task_config,
     # learning rate scheduler
     num_steps = (len(trainset) // hp.batch_size) * hp.n_epochs
     scheduler = get_linear_schedule_with_warmup(optimizer,
-                                                num_warmup_steps=0,
+                                                num_warmup_steps=num_steps / 10,
                                                 num_training_steps=num_steps)
+    # scheduler = get_constant_schedule_with_warmup(optimizer,
+    #                                             num_warmup_steps=num_steps / 10)
     # create logging
     if not os.path.exists(hp.logdir):
         os.makedirs(hp.logdir)
@@ -243,14 +243,16 @@ def initialize_and_train(task_config,
 
     # start training
     best_dev_f1 = best_test_f1 = 0.0
-    for epoch in range(1, hp.n_epochs+1):
+    epoch = 1
+    while epoch <= hp.n_epochs:
         train(model,
               trainset,
-              policy,
+              augmentset,
               optimizer,
               scheduler=scheduler,
               fp16=hp.fp16,
-              batch_size=hp.batch_size)
+              batch_size=hp.batch_size,
+              alpha_aug=hp.alpha_aug)
 
         print(f"=========eval at epoch={epoch}=========")
         dev_f1, test_f1 = eval_on_task(epoch,
@@ -263,12 +265,15 @@ def initialize_and_train(task_config,
                             writer,
                             run_tag)
 
+        # skip the epochs with zero f1
+        # if dev_f1 > 1e-6:
+        epoch += 1
         if hp.save_model:
             if dev_f1 > best_dev_f1:
                 best_dev_f1 = dev_f1
                 torch.save(model.state_dict(), run_tag + '_dev.pt')
             if test_f1 > best_test_f1:
-                best_test_f1 = test_f1
+                best_test_f1 = dev_f1
                 torch.save(model.state_dict(), run_tag + '_test.pt')
 
     writer.close()

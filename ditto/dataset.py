@@ -40,7 +40,7 @@ class DittoDataset(SnippextDataset):
 
         # augmentation op
         self.augment_op = augment_op
-        if augment_op == 't5':
+        if augment_op in ['t5', 'invda']:
             self.load_t5_examples(source)
         elif augment_op != None:
             self.augmenter = Augmenter()
@@ -119,7 +119,7 @@ class DittoDataset(SnippextDataset):
         words, tags = self.sents[idx], self.tags_li[idx]
         original = words
 
-        if self.augment_op == 't5':
+        if self.augment_op in ['t5', 'invda']:
             if len(self.augmented_examples[idx]) > 0:
                 words, _ = random.choice(self.augmented_examples[idx])
         elif self.augmenter != None:

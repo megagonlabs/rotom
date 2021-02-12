@@ -25,24 +25,11 @@ class FilterPolicyNet(nn.Module):
 
     def featurize(self, y, y_pred, y_aug):
         """Featurize an example given its predictions and labels"""
-        # features = (y,
-        #             (y - y_pred).abs(),
-        #             (y_aug - y_pred).abs(),
-        #             (y_aug - y).abs())
-        # features = ( # (y - y_pred).abs().sum(dim=-1).unsqueeze(-1),
-        #              (y_aug - y_pred).abs(), # .sum(dim=-1).unsqueeze(-1),
-        #              (y_aug - y).abs()) #.sum(dim=-1).unsqueeze(-1))
-        # return torch.cat(features, dim=-1)
         KLD = torch.nn.KLDivLoss(reduction='none')
         return torch.cat((y, KLD(y_aug, y_pred)), dim=-1) # .mean(dim=-1).unsqueeze(-1)
 
     def forward(self, x, labeled=True):
         """Get probability of each examples"""
-        # x = x.to(self.device)
-        # hidden = self.fc1(x)
-        # relu = self.relu(hidden)
-        # output = self.fc2(relu)
-        # output = self.sigmoid(output)
         if labeled:
             output = self.fc(x) # .sigmoid(output)
         else:
@@ -54,7 +41,7 @@ class AugmentPolicyNetV4(nn.Module):
     def __init__(self, num_classes, device='cuda', lm='distilbert', bert_path=None):
         super().__init__()
         self.device = device
-        # self.bert = get_lm(lm=lm, bert_path=bert_path)
+        self.bert = get_lm(lm=lm, bert_path=bert_path)
         if num_classes == 0:
             num_classes = 1
         self.num_classes = num_classes
@@ -81,13 +68,9 @@ class AugmentPolicyNetV4(nn.Module):
             hard = self.hardness(x_enc).squeeze(-1).sigmoid()
             prob = prediction
 
-            # mse = torch.sum(-y * prob.log(), -1)
             mse = ((prob - y) ** 2).mean(dim=-1)
             if len(y.size()) == 3: # tagging task
                 mse = mse.mean(dim=-1) # ((prob - y) ** 2).mean(dim=[1,2])
 
-            # ind = 1.0 - (mse - hard).abs()
-            # ind = (mse - hard).abs()
-            # ind = ((mse - hard)).sigmoid()
             ind = mse + hard
             return ind / ind.sum() * x.size()[0]
