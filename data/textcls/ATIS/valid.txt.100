@@ -1,0 +1,100 @@
+how much does it cost to rent a car in tacoma		atis_ground_fare
+what flights are there between washington dc and san francisco leaving washington after 6 pm on wednesday		atis_flight
+show prices for all flights from baltimore to dallas on july twenty ninth		atis_airfare
+sure i'd like to determine what aircraft are use on july seventh leaving from boston and arriving in atlanta on july seventh		atis_aircraft
+us air 269 leaving boston at 428 what is the arrival time in baltimore		atis_flight
+show me the flights from columbus to charlotte		atis_flight
+show me the flights arriving in baltimore from philadelphia at about 4 o'clock		atis_flight
+what flights from st. paul to kansas city on friday with lunch served		atis_flight
+show morning flights from san francisco to pittsburgh		atis_flight
+what are the flights and prices from la to charlotte for monday morning		atis_flight
+flights from phoenix to newark		atis_flight
+show me all prices of economy from baltimore to dallas		atis_airfare
+what is the earliest flight i can get from baltimore to boston		atis_flight
+i'm planning a trip to pittsburgh and i live in denver can you help me		atis_flight
+flights from ontario to florida		atis_flight
+i want to fly from kansas city to chicago next wednesday arriving in the evening and returning the next day		atis_flight
+i would like to fly from boston to philadelphia next thursday		atis_flight
+what is fare code c		atis_abbreviation
+i would like to find a flight that goes from tampa to montreal making a stop in new york and a flight that serves lunch		atis_flight
+what flights leave from atlanta to boston on june twenty ninth in the afternoon		atis_flight
+show me the flights on delta from atlanta in the morning		atis_flight
+show me all the flights between philadelphia and denver		atis_flight
+show flights from denver to oakland arriving between 12 and 1 o'clock		atis_flight
+i'd like flights on american airlines from philadelphia to dallas arriving before 1145 am		atis_flight
+please list the flight times for boston to pittsburgh		atis_flight_time
+i would like to fly from pittsburgh to atlanta on us air at the latest time possible in the evening		atis_flight
+round trip fares from denver to philadelphia less than 1000 dollars		atis_airfare
+and how much does it cost to travel from boston airport to downtown		atis_airfare
+what are the flights from boston to washington on october fifteenth 1991		atis_flight
+does flight ua 270 from denver to philadelphia have a meal		atis_flight
+flights from cincinnati to o'hare departing after 718 am american		atis_flight
+show me the evening flights from atlanta to washington on wednesdays		atis_flight
+show me flights first class from san francisco to pittsburgh leaving on tuesday after 8 o'clock in the morning and before 12 noon		atis_flight
+i would like a flight that leaves on friday from philadelphia to dallas that makes a stop in atlanta		atis_flight
+i'm in miami and i'd like to travel to las vegas on sunday		atis_flight
+what type of aircraft is used flying from atlanta to denver before 12 noon		atis_aircraft
+how far from the airport in the dallas fort worth airport is dallas		atis_distance
+i'd like a flight tomorrow late from nashville to houston with dinner please		atis_flight
+show me flights from milwaukee to orlando on wednesday night or thursday morning		atis_flight
+what airline is hp		atis_airline
+show me the ground transportation schedule in philadelphia in the morning on wednesday		atis_ground_service
+rental cars in washington dc		atis_ground_service
+what are the flights from denver to san francisco		atis_flight
+what is the earliest flight from oakland to washington dc on sunday		atis_flight
+can you list all flights leaving from st. louis and arriving in milwaukee		atis_flight
+how many first class flights does delta airlines have		atis_quantity
+show me the flights from newark to los angeles		atis_flight
+what is the latest flight you have departing dallas to philadelphia		atis_flight
+show me the flights arriving at love field from other airports		atis_flight
+i would like to see the flights from denver to philadelphia		atis_flight
+show me flights from denver to philadelphia		atis_flight
+show me the list of flights between philadelphia and denver that leave in the afternoon		atis_flight
+show flights from philadelphia to san francisco		atis_flight
+show me all united flights from denver to san francisco for september first 1991		atis_flight
+is there a direct flight from denver to pittsburgh in the morning of august thirty first that is nonstop		atis_flight
+show me the flights leaving saturday or sunday from milwaukee to phoenix		atis_flight
+show me all round trip flights between houston and las vegas		atis_flight
+flight from denver to san francisco in the afternoon		atis_flight
+please show me the flights available from san francisco to pittsburgh on tuesday		atis_flight
+what flights from toronto to philadelphia		atis_flight
+i need a flight tonight from charlotte to las vegas with a stop in st. louis and i want dinner		atis_flight
+is there a nonstop flight from denver to san francisco		atis_flight
+what fare codes cover flights from philadelphia to san francisco		atis_abbreviation
+what kind of airplane is flight ua 270 from denver to philadelphia		atis_aircraft
+please give me a flight from boston to atlanta before 10 am in the morning		atis_flight
+flights from la guardia or jfk to cleveland		atis_flight
+what flights are available sunday afternoon from oakland to dallas		atis_flight
+i'd like to find a flight from las vegas to detroit michigan that leaves in the afternoon on monday		atis_flight
+list the first class flights from baltimore to denver		atis_flight
+please list all flights from atlanta to baltimore on wednesday and thursday		atis_flight
+show me all flights from dallas to pittsburgh which leave on monday after 8 o'clock am		atis_flight
+what flights are there on sunday from seattle to minneapolis		atis_flight
+what ground transportation is there in atlanta		atis_ground_service
+what are the prices of the flights from atlanta to dallas in the morning		atis_airfare
+are there any flights from denver to pittsburgh with stops in atlanta		atis_flight
+which airlines have flights between philadelphia and pittsburgh		atis_airline
+what afternoon flights are available from pittsburgh to atlanta on a weekday		atis_flight
+round trip fares from denver to philadelphia less than 1000 dollars		atis_airfare
+i'd like to go from boston to atlanta sometime after 5 pm can you tell me the flights that could do that for me		atis_flight
+show me a list of flights on american airlines from boston to dc on july twenty second		atis_flight
+show me all direct flights from san francisco to boston departing before noon		atis_flight
+what flights from denver to salt lake city		atis_flight
+is there a continental flight leaving from las vegas to new york nonstop		atis_flight
+show me all flights from san diego to new york nonstop		atis_flight
+i want a flight on continental from boston to san francisco		atis_flight
+show me the least expensive flight leaving miami on sunday after 12 o'clock noon and arriving cleveland		atis_flight
+show me the flights from denver to san diego leaving after 5 pm		atis_flight
+give me all the flights from memphis to charlotte		atis_flight
+show me all flights from boston to dallas fort worth both direct and connecting that arrive before noon		atis_flight
+all flights before 10 am boston denver		atis_flight
+i need information on flights leaving dallas arriving in boston leaving dallas early in the morning		atis_flight
+show all airlines with flights between denver and dallas		atis_airline
+which airline serves denver pittsburgh and atlanta		atis_airline
+how many flights does each airline have with booking class k		atis_quantity
+please show me flights from dallas to atlanta on monday		atis_flight
+may i have a list of flights going from boston to denver on the twenty ninth of july		atis_flight
+show me the northwest flights from detroit to st. petersburg		atis_flight
+could you tell me about ground transportation arrangements from the dallas airport to downtown dallas		atis_ground_service
+does midwest express have any flights from montreal to nashville		atis_flight
+give me flights from denver to baltimore		atis_flight
