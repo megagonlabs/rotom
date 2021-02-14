@@ -433,7 +433,7 @@ def initialize_and_train(task_config,
               policy_scheduler=policy_scheduler,
               fp16=hp.fp16,
               batch_size=hp.batch_size,
-              no_ssl=hp.no_ssl)
+              no_ssl=(hp.no_ssl or 'no_ssl' in hp.da))
 
         print(f"=========eval at epoch={epoch}=========")
         dev_f1, test_f1 = eval_on_task(epoch,

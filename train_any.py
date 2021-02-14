@@ -38,7 +38,9 @@ vocabs = {'SNIPS': ['AddToPlaylist', 'BookRestaurant',
           'IMDB': ['pos', 'neg']}
 
 
-def get_cls_config(taskname):
+def get_cls_config(hp):
+    """Get configuration of the task"""
+    taskname = hp.task
     if 'em_' in taskname:
         name = taskname[3:]
         vocab = ['0', '1']
@@ -57,9 +59,14 @@ def get_cls_config(taskname):
                DittoDataset
     elif 'cleaning_' in taskname:
         LL = taskname.split('_')
-        prefix, size, idx = LL[0], LL[-2], LL[-1]
-        name = '_'.join(LL[1:-2])
-        path = 'data/%s/%s/%s_10000/%s/' % (prefix, name, size, idx)
+        if hp.size is not None:
+            size, idx = str(hp.size), str(hp.run_id)
+            name = LL[1]
+        else:
+            prefix, size, idx = LL[0], LL[-2], LL[-1]
+            name = '_'.join(LL[1:-2])
+
+        path = 'data/cleaning/%s/%s_10000/%s/' % (name, size, idx)
         vocab = ['0', '1']
         config = {'name': taskname,
                   'trainset': path + 'train.txt',
@@ -69,31 +76,13 @@ def get_cls_config(taskname):
                   'task_type': 'classification',
                   'vocab': vocab}
         return config, DittoDataset, DittoDataset
-    elif 'compare1_' in taskname:
+    elif 'compare' in taskname:
+        # compare2_SST-2
         LL = taskname.split('_')
-        name = LL[1]
-        path = 'data/textcls/compare1/%s/' % name
+        prefix, name = LL[0], LL[1]
+        path = 'data/textcls/%s/%s/' % (prefix, name)
         vocab = vocabs[name]
-        if 'SST-2' in taskname:
-            suffix = '.'.join(LL[-2:])
-        else:
-            suffix = LL[-1]
-        idx = int(LL[-1])
-        config = {'name': taskname,
-                  'trainset': path + 'train.txt.%s' % suffix,
-                  'validset': path + 'valid.txt.%s'  % idx,
-                  'testset': path + 'test.txt',
-                  'unlabeled': path + 'train.txt.full',
-                  'task_type': 'classification',
-                  'vocab': vocab}
-        return config, TextCLSDataset, TextCLSDataset
-    elif 'compare2_' in taskname:
-        # compare_SST-2_0
-        LL = taskname.split('_')
-        name = LL[1]
-        path = 'data/textcls/compare2/%s/' % name
-        vocab = vocabs[name]
-        idx = int(LL[-1])
+        idx = str(hp.run_id)
         config = {'name': taskname,
                   'trainset': path + 'train.txt.%s' % idx,
                   'validset': path + 'valid.txt.%s'  % idx,
@@ -104,7 +93,11 @@ def get_cls_config(taskname):
         return config, TextCLSDataset, TextCLSDataset
     else:
         # Text CLS datasets
-        path, size = taskname.split('_')
+        if hp.size is None:
+            path, size = taskname.split('_')
+        else:
+            path = taskname
+            size = str(hp.size)
         path = path.upper()
         if path in vocabs:
             vocab = vocabs[path]
@@ -179,7 +172,7 @@ if __name__=="__main__":
     if hp.size is not None:
         run_tag += '_size=%d' % hp.size
 
-    config, Dataset, TestDataset = get_cls_config(hp.task)
+    config, Dataset, TestDataset = get_cls_config(hp)
 
     if hp.balance:
         Dataset = partial(Dataset, balance=hp.balance)
@@ -217,8 +210,8 @@ if __name__=="__main__":
                              test_dataset,
                              hp,
                              run_tag)
-    elif hp.da == 'auto_ssl' or hp.da == 'auto_filter_weight':
-        if 'em_' in task:
+    elif 'auto_ssl' in hp.da or 'auto_filter_weight' in hp.da:
+        if 'em_' in task or 'compare' in task:
             # a lightweight version for faster EM experiments
             from rotom.auto_mixda import initialize_and_train
         else:
