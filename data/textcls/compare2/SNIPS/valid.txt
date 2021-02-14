@@ -1,0 +1,35 @@
+is cowboy canteen playing		SearchScreeningEvent
+rate the mystery of the tolling bell series 4 stars		RateBook
+add a very cellular song to masters of metal playlist		AddToPlaylist
+what are the times for the gingerbread man		SearchScreeningEvent
+show me the movie schedule in the neighbourhood		SearchScreeningEvent
+looking for a creative work called plant ecology		SearchCreativeWork
+check the timings for snowbound at the closest movie theatre		SearchScreeningEvent
+play the top twenty hisham abbas on youtube		PlayMusic
+i would rate theft: a love story four out of 6 stars		RateBook
+i want to hear a seventies sound track		PlayMusic
+give wilco: learning how to die a rating of four points		RateBook
+what times will the young swordsman be showing at my cinema		SearchScreeningEvent
+what films are playing close by		SearchScreeningEvent
+weather in two hours  in uzbekistan		GetWeather
+book spot for 1 at town of ramsgate in merit		BookRestaurant
+give 1 out of 6 rating to the current textbook		RateBook
+i need to know the weather for jan  the 3rd in mexico when i go to port vue		GetWeather
+add the artist mike to the sexy as folk playlist		AddToPlaylist
+rate the 8-week cholesterol cure three out of 6		RateBook
+i want to book a brasserie for 3 people in netherlands antilles		BookRestaurant
+is we are northern lights playing in any movie theatre		SearchScreeningEvent
+give the current book 4 stars		RateBook
+add the album to my club hits playlist		AddToPlaylist
+add the artist to my dishwashing playlist		AddToPlaylist
+i want to play music from iheart		PlayMusic
+add the album to the hot 50 playlist		AddToPlaylist
+add emilie autumn to my nação reggae playlist		AddToPlaylist
+play music from van-pires by dmitry malikov		PlayMusic
+can you put the artist giovanni giacomo gastoldi onto the chill out music playlist		AddToPlaylist
+play something on last fm		PlayMusic
+please help me find the late night heartbroken blues television show		SearchCreativeWork
+i would like to book a restaurant in tanzania that is within walking distance for my mom and i		BookRestaurant
+show me the schedule for rat rod rockers		SearchScreeningEvent
+weather next year in dominica		GetWeather
+add ireland in the junior eurovision song contest 2015 to my jazzy dinner playlist		AddToPlaylist
