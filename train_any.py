@@ -93,6 +93,8 @@ def get_cls_config(hp):
         return config, TextCLSDataset, TextCLSDataset
     else:
         # Text CLS datasets
+        if 'textcls_' in taskname:
+            taskname = taskname.replace('textcls_', '')
         if hp.size is None:
             path, size = taskname.split('_')
         else:

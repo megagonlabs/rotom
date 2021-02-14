@@ -42,6 +42,8 @@ The current version supports 3 tasks: entity matching (EM), error detection (EDT
 | EM      | Abt-Buy, Amazon-Google, DBLP-ACM, DBLP-GoogleScholar, Walmart-Amazon | em_{dataset}, e.g., em_DBLP-ACM          |
 | EDT     | beers, hospital, movies, rayyan, tax                                 | cleaning_{dataset}, e.g., cleaning_beers |
 | TextCLS | AG, AMAZON2, AMAZON5, ATIS, IMDB, SNIPS, SST-2, SST-5, TREC          | textcls_{dataset}, e.g., textcls_AG      |
+| TextCLS, splits from [Hu et al.](https://arxiv.org/pdf/1910.12795.pdf) | IMDB, SST-5, TREC | compare1_{dataset}, e.g., compare1_IMDB |
+| TextCLS, splits from [Kumar et al.](https://arxiv.org/pdf/2003.02245.pdf) | ATIS, SST-2, TREC | compare2_{dataset}, e.g., compare2_ATIS |
 
 Parameters:
 * ``--task``: the taskname pattern specified following the above table
