@@ -66,3 +66,11 @@ Parameters:
 |  Rotom (w. semi-supervised learning) |                                                                             auto_filter_weight                                                                            |
 
 For the invda fine-tuning, see ``invda/README.md``.
+
+
+## Experiment scripts
+
+All experiment scripts are available in ``scripts/``. To run the experiments for a task (em, cleaning, or textcls):
+```
+python scripts/run_all_em.py
+```
