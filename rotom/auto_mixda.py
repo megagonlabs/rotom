@@ -14,6 +14,7 @@ from .model import MultiTaskNet
 from .policy import AugmentPolicyNetV4
 from snippext.train_util import *
 from snippext.dataset import *
+from snippext.baseline import train as train_baseline
 from tensorboardX import SummaryWriter
 from transformers import AdamW, get_linear_schedule_with_warmup
 from copy import deepcopy
@@ -356,9 +357,8 @@ def initialize_and_train(task_config,
     Returns:
         None
     """
-    padder = SnippextDataset.pad
-
     # iterators for dev/test set
+    padder = SnippextDataset.pad
     valid_iter = data.DataLoader(dataset=validset,
                                  batch_size=hp.batch_size,
                                  shuffle=False,
@@ -382,10 +382,6 @@ def initialize_and_train(task_config,
                          lm=hp.lm, bert_path=hp.bert_path)
     policy = AugmentPolicyNetV4(num_classes, device,
                          lm=hp.lm, bert_path=hp.bert_path)
-    # policy_path = task_config['trainset'] + '.policy'
-    # if os.path.exists(policy_path):
-    #     saved_state = torch.load(policy_path, map_location=lambda storage, loc: storage)
-    #     policy.load_state_dict(saved_state)
 
     # move to device
     model = model.to(device)
@@ -400,11 +396,61 @@ def initialize_and_train(task_config,
         policy, policy_optimizer = amp.initialize(policy,
                                           policy_optimizer,
                                           opt_level='O2')
+
+    # create logging
+    if not os.path.exists(hp.logdir):
+        os.makedirs(hp.logdir)
+    writer = SummaryWriter(log_dir=hp.logdir)
+
+    # start training
+    best_dev_f1 = best_test_f1 = 0.0
+    epoch = 1
+
+    # warmup: no DA or SSL for the first half of epochs
+    if hp.warmup:
+        # learning rate scheduler
+        num_steps = (len(l_set) // hp.batch_size) * hp.n_epochs // 2
+        scheduler = get_linear_schedule_with_warmup(model_optimizer,
+                                                    num_warmup_steps=num_steps // 10,
+                                                    num_training_steps=num_steps)
+
+        while epoch <= hp.n_epochs // 2:
+            train_baseline(model,
+                  l_set,
+                  model_optimizer,
+                  scheduler=scheduler,
+                  batch_size=hp.batch_size,
+                  fp16=hp.fp16)
+
+            print(f"=========eval at epoch={epoch}=========")
+            dev_f1, test_f1 = eval_on_task(epoch,
+                                model,
+                                task_config['name'],
+                                valid_iter,
+                                validset,
+                                test_iter,
+                                testset,
+                                writer,
+                                run_tag)
+
+            # if dev_f1 > 1e-6:
+            epoch += 1
+            if hp.save_model:
+                if dev_f1 > best_dev_f1:
+                    best_dev_f1 = dev_f1
+                    torch.save(model.state_dict(), run_tag + '_dev.pt')
+                if test_f1 > best_test_f1:
+                    best_test_f1 = dev_f1
+                    torch.save(model.state_dict(), run_tag + '_test.pt')
     # Testing
     # policy.bert = model.bert
 
     # learning rate scheduler
-    num_steps = (4 * len(l_set) // hp.batch_size) * hp.n_epochs
+    if hp.warmup:
+        num_steps = (4 * len(l_set) // hp.batch_size) * hp.n_epochs // 2
+    else:
+        num_steps = (4 * len(l_set) // hp.batch_size) * hp.n_epochs
+
     model_scheduler = get_linear_schedule_with_warmup(model_optimizer,
                                       num_warmup_steps=0,
                                       num_training_steps=num_steps)
@@ -412,14 +458,10 @@ def initialize_and_train(task_config,
                                       num_warmup_steps=0,
                                       num_training_steps=num_steps)
 
-    # create logging
-    if not os.path.exists(hp.logdir):
-        os.makedirs(hp.logdir)
-    writer = SummaryWriter(log_dir=hp.logdir)
 
-    best_dev_f1 = best_test_f1 = 0.0
+    # best_dev_f1 = best_test_f1 = 0.0
     # train the model and policy
-    for epoch in range(1, hp.n_epochs+1):
+    while epoch <= hp.n_epochs:
         train(model,
               policy,
               l_set,
@@ -453,10 +495,6 @@ def initialize_and_train(task_config,
             if test_f1 > best_test_f1:
                 best_test_f1 = test_f1
                 torch.save(model.state_dict(), run_tag + '_test.pt')
-
-    # save the policy checkpoint
-    # if hp.save_model:
-    #     policy_path = task_config['trainset'] + '.policy'
-    #     torch.save(policy.state_dict(), policy_path)
+        epoch += 1
 
     writer.close()

@@ -155,6 +155,8 @@ if __name__=="__main__":
     parser.add_argument("--no_ssl", dest="no_ssl", action="store_true")
     # for dataset balancing
     parser.add_argument("--balance", dest="balance", action="store_true")
+    # warmup
+    parser.add_argument("--warmup", dest="warmup", action="store_true")
 
     hp = parser.parse_args()
 

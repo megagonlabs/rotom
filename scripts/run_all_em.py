@@ -47,7 +47,22 @@ for da in ['None', 'edbt20', 'del', 'invda', 'auto_ssl_no_ssl', 'auto_ssl']:
                 print(cmd)
                 os.system(cmd)
 
-# CUDA_VISIBLE_DEVICES=2 python train_any.py   --task em_Walmart-Amazon-dirty   --logdir results_em_tmp/   --finetuning   --batch_size 64   --lr 3e-5   --fp16   --lm roberta   --n_epochs 20   --da auto_ssl   --size 750   --max_len 128   --run_id 0
+# Note: use this hyperparameter set (no balancing but with warmup) for Walmart-Amazon and Walmart-Amazon-dirty
+#
+# CUDA_VISIBLE_DEVICES=2 python train_any.py \
+# --task em_Walmart-Amazon-dirty \
+# --logdir results_em_tmp/ \
+# --finetuning \
+# --batch_size 64 \
+# --lr 3e-5 \
+# --fp16 \
+# --lm roberta \
+# --n_epochs 20 \
+# --da auto_filter_weight \
+# --size 750 \
+# --max_len 128 \
+# --warmup \
+# --run_id 0
 
 # DM + RoBERTa
 for dataset in datasets:
