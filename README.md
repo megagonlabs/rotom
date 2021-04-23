@@ -54,6 +54,7 @@ Parameters:
 * ``--fp16``: whether to use half-precision for training
 * ``--lm``: the language model to fine-tune. We currently support bert, distilbert, and roberta
 * ``--balance``: a special option for binary classification (EM and EDT) with skewed labels (#positive labels >> #negative labels). If this flag is on, then the training process will up-sample the positive labels
+* ``--warmup``: (new) if this flag is on with SSL, then first warm up the model by training it on labeled data only before running SSL. Only support EM for now.
 * ``--run_id``: the integer ID of the run e.g., {0, 1, 2, ...}
 * ``--da``: the data augmentation method (See table below)
 
