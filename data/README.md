@@ -14,6 +14,8 @@ The full list of datasets with sources, citations, and licenses:
 | TextCLS                | TREC        | [[Link]](https://cogcomp.seas.upenn.edu/Data/QA/QC/)                                             | [[7]](https://www.aclweb.org/anthology/C02-1150.pdf)                    |                                                                  |
 | TextCLS                | IMDB        | [[Link]](http://ai.stanford.edu/~amaas/data/sentiment/)                                          | [[8]](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)          | https://www.imdb.com/conditions                                  |
 
+By downloading these datasets you agree with the terms and conditions set by the original licenses listed here. The same licenses also apply to the derived datasets provided in this repo for your convenience.
+
 ## Notes
 
 * *Entity Matching:* Each dataset is a directory stored under ``em/``. Each dataset comes with a training, validation, and test sets called ``train.txt``, ``valid.txt`` and ``test.txt`` respectively. Both the clean and dirty versions of datasets are obtained from [DeepMatcher](https://github.com/anhaidgroup/deepmatcher).
