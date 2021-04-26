@@ -16,6 +16,12 @@ git clone https://github.com/NVIDIA/apex.git
 pip install -v --disable-pip-version-check --no-cache-dir ./apex
 ```
 
+Install [Snippext](https://github.com/rit-git/Snippext_public):
+```
+git clone -b v1.0 https://github.com/rit-git/Snippext_public.git
+cp -r Snippext_public/snippext .
+```
+
 ## Model Training
 
 To train a model with Rotom:
